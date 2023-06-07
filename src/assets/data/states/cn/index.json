@@ -1,0 +1,1152 @@
+{
+    "urlVideoStates": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+    "states": [
+        {
+            "id": "Aguascalientes",
+            "urlVideoTop": "https://www.youtube.com/embed/g-nm1J-WXwU?&autoplay=1",
+            "titleTop": "Aguascalientes",
+            "descriptionTop": "阿瓜斯卡连特斯位于墨西哥合众国的中心。它因是“地好、人好、水清、天晴”的州而闻名。",
+            "urlImg": "AGS_aguascalientes_464.webp",
+            "actions": {
+                "button": {
+                    "text" : "想了解更多关于州的信息 AGUASCALIENTES 请点击这里",
+                    "dir": "https://www.vivaaguascalientes.com/"
+                }
+            },
+            "titleBottom": "以下是阿瓜斯卡连特斯州应该被列入你的旅行清单的 5 个原因。",
+            "descriptionBottom": [
+                {
+                    "text": "经典阿瓜斯卡连特斯的四个街区:Guadalupe(瓜达卢佩)、SanMarcos(圣马科斯)、El Encino(埃尔恩西诺)和 La Estación(拉埃斯塔翁)。"
+                },
+                {
+                    "text": "超过 100 年的铁路传统。"
+                },
+                {
+                    "text": "俯瞰 Cerro del Muerto(塞罗墓儿托)的美丽夕阳。"
+                },
+                {
+                    "text": "温泉,也是该州的名称来源。"
+                },
+                {
+                    "text": "其“deshilados”刺绣手工艺。"
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1893491.9893227837!2d-102.354733!3d22.040928!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8429ec143ae4d9fb%3A0x4016978679c5220!2sAguascalientes%2C%20Ags.!5e0!3m2!1ses-419!2smx!4v1683564992457!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/3mUTPSE6VyhKTsxiyHUJ66?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "以下是阿瓜斯卡连特斯州应该被列入你的旅行清单的 5 个原因。",
+            "desciptionHover": "想了解更多关于州的信息 AGUASCALIENTES 请点击这里",
+            "dir": "/estado"
+        },
+        {
+            "id": "BajaCalifornia",
+            "urlVideoTop": "https://www.youtube.com/embed/GLKLZeEgC24?autoplay=1",
+            "titleTop": "Baja California",
+            "descriptionTop": "访问下加利福尼亚州的 5 个理由在科尔特斯海和太平洋的庇护下,下加利福尼亚州意味着一种特殊的体验:岛屿、海滩、沙漠、峡谷、山脉和死火山伴随着旅程。",
+            "urlImg": "BCA_rosarito_playa-952.webp",
+            "actions": {
+                "button": {
+                    "text" : "想了解更多关于州的信息 BAJA CALIFORNIA 请点击这里",
+                    "dir": "https://bajacalifornia.travel/es/"
+                }
+            },
+            "titleBottom": "以下是阿瓜斯卡连特斯州应该被列入你的旅行清单的 5 个原因。",
+            "descriptionBottom": [
+                {
+                    "text": "因为下加利福尼亚州具有神奇的、令人难忘的美丽海滩与惊人夕阳。"
+                },
+                {
+                    "text": "因为它的美食;一直因其海鲜产品的新鲜度而闻名。"
+                },
+                {
+                    "text": "因为蒂华纳;其战略位置和国际质量服务使这座城市成为商务旅游、健康旅游的理想场所。"
+                },
+                {
+                    "text": "因为恩塞纳达,墨西哥最大的市镇。该州被太平洋和科尔特斯海所包围,其广阔的地貌,陆地、海洋的植物和动物,使其成为大自然爱好者的一个颇有吸引力的目的地。"
+                },
+                {
+                    "text": "因为墨西卡利,被称为 “捕获太阳的城市”。它位于科罗拉多河畔、萨拉达湖附近。这里提供全国最有多样性的中餐,以及最好的红肉类。"
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3526284.0084687793!2d-118.17094697813712!3d30.332849226145143!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80d7700ca877ddd3%3A0xfca4fd9f0318de8e!2sBaja%20California!5e0!3m2!1ses-419!2smx!4v1683570123340!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/5hBLmRp1Qd73LjRoHpvcpG?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "以下是阿瓜斯卡连特斯州应该被列入你的旅行清单的 5 个原因。",
+            "desciptionHover": "想了解更多关于州的信息 BAJA CALIFORNIA 请点击这里",
+            "dir": "/estado"
+        },
+        {
+            "id": "BajaCaliforniaSur",
+            "urlVideoTop": "https://www.youtube.com/embed/vO_nZdwKXo0?autoplay=1",
+            "titleTop": "Baja California Sur",
+            "descriptionTop": "访问南下加利福尼亚州的 5 个理由南下加利福尼亚被太平洋和科尔特斯海所包围,是一片充满着对比的土地,这就成为其吸引力的主要特征。 温暖的海滩、河口、红树林、绿洲、神奇小镇、沙漠植物、石洞壁画等等。",
+            "urlImg": "BCS_cabo_san_lucas_113.webp",
+            "actions": {
+                "button": {
+                    "text" : "想了解更多关于州的信息 BAJA CALIFORNIA SUR 请点击这里",
+                    "dir": "https://visitbajasur.travel/es/"
+                }
+            },
+            "titleBottom": "以下是阿瓜斯卡连特斯州应该被列入你的旅行清单的 5 个原因。",
+            "descriptionBottom": [
+                {
+                    "text": "与你的家人、情侣或朋友一起享受独特的风景。你将永远不会忘记的海滩与天空。"
+                },
+                {
+                    "text": "南下加利福尼亚州的美食:龙虾、鳎鱼、牛肚、蛤蜊和虾是你在这里能品尝到的精彩食谱中的一些食品。"
+                },
+                {
+                    "text": "其国际级的酒店与餐厅基础设施是商务旅游的理想选择。"
+                },
+                {
+                    "text": "家庭、探险与商务旅游,你所寻找和需要的一切。"
+                },
+                {
+                    "text": "洛斯卡沃斯,一个好莱坞明星从不缺席的蓝色海洋的天堂,一个超过35 公里的旅游走廊;在这里你可以找到最好的酒店与餐馆,以及适合所有人的多种有趣活动。"
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3690264.392816474!2d-114.9588129607235!3d25.41238054228561!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86afd339b5a21ec9%3A0x71dfb33aa9a75918!2sBaja%20California%20Sur!5e0!3m2!1ses-419!2smx!4v1683570336851!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/5hBLmRp1Qd73LjRoHpvcpG?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "以下是阿瓜斯卡连特斯州应该被列入你的旅行清单的 5 个原因。",
+            "desciptionHover": "想了解更多关于州的信息 BAJA CALIFORNIA SUR 请点击这里",
+            "dir": "/estado"
+        },
+        {
+            "id": "Campeche",
+            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "titleTop": "Campeche",
+            "descriptionTop": "访问坎佩切州的 5 个理由坎佩切位于墨西哥东南部,是一个拥有巨大文化财富的州;古老的历史与建筑构成了其丰富的文化内涵,给墨西哥人提供了人身份认同感。",
+            "urlImg": "CAM_calakmul53.webp",
+            "actions": {
+                "button": {
+                    "text" : "想了解更多关于州的信息 CAMPECHE 请点击这里",
+                    "dir": "https://www.google.com/"
+                }
+            },
+            "titleBottom": "以下是阿瓜斯卡连特斯州应该被列入你的旅行清单的 5 个原因。",
+            "descriptionBottom": [
+                {
+                    "text": "坎佩切州的海滩是独一无二的;你的家人、情侣或朋友永远不会忘记在那里度过的美好时光,以及所看到的日落。"
+                },
+                {
+                    "text": "是墨西哥考古旅游景点最多的地方之一,即玛雅古城和受保护的卡拉克穆尔热带森林,是联合国教科文组织的文化和自然双重遗产。"
+                },
+                {
+                    "text": "其首府圣弗朗西斯科-德-坎佩切是一座被联合国教科文组织确认为世界文化遗产的城堡市。"
+                },
+                {
+                    "text": "它具有各种各样的海鲜产品,全都被用于其菜肴中。Panuchos(注入红豆酱的“巴奴乔”炸玉米饼)、empanadas(大煎饺)、tamales(肉馅玉米粽)、tacos(“塔克”玉米卷饼),以及著名的 pan de cazón(学校鲨鱼馅层状玉米饼)是坎佩切州厨艺的一些瑰宝。"
+                },
+                {
+                    "text": "想找一个结婚的地方?坎佩切为你们提供一场难忘的婚礼。"
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512730.705677566!2d-124.59084255708773!3d37.151646373370205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20EE.%20UU.!5e0!3m2!1ses-419!2smx!4v1682217912140!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/41Id1RtpdXLICwdGCs848s?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "以下是阿瓜斯卡连特斯州应该被列入你的旅行清单的 5 个原因。",
+            "desciptionHover": "想了解更多关于州的信息 CAMPECHE 请点击这里",
+            "dir": "/estado"
+        },
+        {
+            "id": "Chiapas",
+            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "titleTop": "Chiapas",
+            "descriptionTop": "访问恰帕斯州的 5 个理由:恰帕斯州是一片充满感觉的土地,让你闻到浓厚的咖啡气味,尝到阿陶尔福芒果的甜味,在丛林中看到成群的金刚鹦鹉,听到川流不息的水声,感受到传统纺织品的精致。",
+            "urlImg": "CHIS_yaxchilan_95.webp",
+            "actions": {
+                "button": {
+                    "text" : "想了解更多关于州的信息 CHIAPAS 请点击这里",
+                    "dir": "https://www.google.com/"
+                }
+            },
+            "titleBottom": "以下是阿瓜斯卡连特斯州应该被列入你的旅行清单的 5 个原因。",
+            "descriptionBottom": [
+                {
+                    "text": "恰帕斯州是墨西哥文化最多样化的州之一,是 Tzotziles(佐齐)、Zoques (索盖)、 Chamulas ( 查穆拉 ) 、 Tzeltales ( 策 尔 塔)、Lacandones(拉坎顿)等土著民族的摇篮。"
+                },
+                {
+                    "text": "与瓦哈卡州和韦拉克鲁斯州一起,是墨西哥生物多样性最丰富的三个州之一。"
+                },
+                {
+                    "text": "Tuxtla Gutiérrez(图斯特拉·古铁雷斯),其根源在于一个名为Coyatoc(“兔子之地”)的索盖土著民族村庄;这个名称被讲 náhuatl(纳瓦语)的人翻译为 Tochtlan。"
+                },
+                {
+                    "text": "San Cristóbal de las Casas(圣克里斯托瓦尔·德·拉斯卡萨斯)是一座美丽的神奇小镇,也是一座享有着温带气候、充满着文化气息的色彩斑斓的城市。"
+                },
+                {
+                    "text": "Comitán de Domínguez(科米坦·德·多明格斯)神奇小镇,是古代土著人定居点的继承者;在西班牙人到达该地区后不久,由多米尼克天主教徒建立。"
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512730.705677566!2d-124.59084255708773!3d37.151646373370205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20EE.%20UU.!5e0!3m2!1ses-419!2smx!4v1682217912140!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/41Id1RtpdXLICwdGCs848s?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "以下是阿瓜斯卡连特斯州应该被列入你的旅行清单的 5 个原因。",
+            "desciptionHover": "想了解更多关于州的信息 CHIAPAS 请点击这里",
+            "dir": "/estado"
+        },
+        {
+            "id": "Chihuahua",
+            "urlVideoTop": "https://www.youtube.com/embed/2XtTWy50hjc?autoplay=1",
+            "titleTop": "Chihuahua",
+            "descriptionTop": "访问奇瓦瓦州的 5 个理由:奇瓦瓦州位于墨西哥北部,是国家最大的州,与英格兰的面积差不多。这个庞大之州的生态系统、美食与文化的多样性令人印象深刻。",
+            "urlImg": "CHIH_creel47.webp",
+            "actions": {
+                "button": {
+                    "text" : "想了解更多关于州的信息 CHIHUAHUA 请点击这里",
+                    "dir": "https://visitachihuahua.com/"
+                }
+            },
+            "titleBottom": "以下是阿瓜斯卡连特斯州应该被列入你的旅行清单的 5 个原因。",
+            "descriptionBottom": [
+                {
+                    "text": "乘坐 El Chepe,一列穿越隧道以及墨西哥最美丽的山区风景的火车。"
+                },
+                {
+                    "text": "传统菜肴包括带肉干的 chile colorado(红辣酱)、带鸡蛋的 machaca(用石头软化并切成丝的肉干)、chile con asadero(一道醇厚奶油酱里混合辣椒、洋葱、西红柿和奶酪的菜肴)、带肉或奶酪的 chile pasado(将完全脱水并干燥的绿辣椒做成细丝,加洋葱、西红柿、大蒜和吉娃娃奶酪,与米饭和豆子一起食用)、白面饼、传统的炭火烤肉或美式牛红肉切片,以及美味的 discada(混合各种肉类、香肠和蔬菜的一道经典农村菜)。"
+                },
+                {
+                    "text": "在 Bacajípare(巴卡伊帕雷)和 Huetosachi(韦托萨奇)镇,你将有机会和本地人一起准备并分享美食,以及徒步旅行附近的路径。"
+                },
+                {
+                    "text": "神奇小镇 Creel(克雷尔)是一个充满历史和传统的目的地。其富于松树和橡树的周围唤醒旅客们的冒险精神。"
+                },
+                {
+                    "text": "奇瓦瓦州的 Casas Grandes(大卡萨斯)神奇小镇,因靠近 Paquimé(帕魁姆)考古遗址而得名;1535 年,Alvar Núñez Cabeza de Vaca(阿尔瓦·努涅斯·卡韦萨·德·巴卡)在他的回忆录中记载,在北方曾有 “许多人、巨大房子的城镇”。"
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7169267.155057151!2d-111.33806860448709!3d28.671132722547366!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86ea449d5d484033%3A0xb7f1a7a706dd1d7b!2sChihuahua%2C%20Chih.!5e0!3m2!1ses-419!2smx!4v1684020195953!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/4L5pHmiC38UtKVz6Eh3EUe?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "以下是阿瓜斯卡连特斯州应该被列入你的旅行清单的 5 个原因。",
+            "desciptionHover": "想了解更多关于州的信息 CHIHUAHUA 请点击这里",
+            "dir": "/estado"
+        },
+        {
+            "id": "Coahuila",
+            "urlVideoTop": "https://www.youtube.com/embed/B2MN00vAz7A?autoplay=1",
+            "titleTop": "Coahuila",
+            "descriptionTop": "访问科阿韦拉州的 5 个理由科阿韦拉州因其标志性城市、超过 23 个葡萄酒厂、丰富的古生物区、无与伦比的美食及七座神奇小镇而闻名。",
+            "urlImg": "COAH_2_dunas_bilbao_22.webp",
+            "actions": {
+                "button": {
+                    "text" : "想了解更多关于州的信息 COAHUILA 请点击这里",
+                    "dir": "https://hazturismoencoahuila.mx/"
+                }
+            },
+            "titleBottom": "以下是阿瓜斯卡连特斯州应该被列入你的旅行清单的 5 个原因。",
+            "descriptionBottom": [
+                {
+                    "text": "你永远不会忘记其惊人的、如梦如幻的风景,以及那些风景当中的市镇、城市与神奇小镇。"
+                },
+                {
+                    "text": "科阿韦拉州的传统烹饪艺术是献给肉类爱好者的美味佳肴。多汁而精致的红肉类作为其经典产品的一部分,以小山羊肉、牛肉和小牛肉为主,但也不乏美味的 Carnitas(卡尼塔,即猪肉丝)和 Chicharrones(猪肉皮)。"
+                },
+                {
+                    "text": "丰富的文化内涵,其中最突出的是科阿韦拉州的 Mascogos(马斯科戈斯)和 Kikapús(基卡普)土著群体。"
+                },
+                {
+                    "text": "葡萄酒之路,包括科阿韦拉州的两座神奇小镇和一系列自然奇观。 除此之外,你还有品尝到该地区所生产的最佳葡萄酒的机会。"
+                },
+                {
+                    "text": "参观神奇的Arteaga(阿特亚加)镇,是巨大阿特亚加山脉的主要景点之一,该镇如此有了“墨西哥的瑞士”的绰号。"
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3634211.9932014607!2d-104.54166938217044!3d27.186632026650457!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x868872bda68e1e29%3A0x64009ad714cd7a39!2sCoahuila%20de%20Zaragoza!5e0!3m2!1ses-419!2smx!4v1683577952331!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/4s1i0CJ2n3C5LCtuvwmCEg?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "以下是阿瓜斯卡连特斯州应该被列入你的旅行清单的 5 个原因。",
+            "desciptionHover": "想了解更多关于州的信息 COAHUILA 请点击这里",
+            "dir": "/estado"
+        },
+        {
+            "id": "Colima",
+            "urlVideoTop": "https://www.youtube.com/embed/XBor7DZahQA?autoplay=1",
+            "titleTop": "Colima",
+            "descriptionTop": "访问科利马州的 5 个理由科利马州位于墨西哥西部,为游客提供一系列的体验;从海岸到山区,从传统食物到创新菜肴,在这里你一定能体验各种各样的感受。",
+            "urlImg": "COL_manzanillo_57.webp",
+            "actions": {
+                "button": {
+                    "text" : "想了解更多关于州的信息 COLIMA 请点击这里",
+                    "dir": "https://turismo.col.gob.mx/"
+                }
+            },
+            "titleBottom": "以下是阿瓜斯卡连特斯州应该被列入你的旅行清单的 5 个原因。",
+            "descriptionBottom": [
+                {
+                    "text": "无论是在山区还是在海滩,你能享受神奇的日落。"
+                },
+                {
+                    "text": "该州的首府是一座美丽的城市,其文化特征通过不同的建筑风格得以保留。"
+                },
+                {
+                    "text": "本地美食具有海洋的味道,主要用 huachinango(红鲷鱼)做的“pescado a la talla”(开成蝴蝶片,涂上红辣椒酱并在炭火上烤熟的鱼类)。这道菜是用整条鱼,切开成两片,用蔬菜与香蕉叶覆盖。"
+                },
+                {
+                    "text": "因冲浪比赛而赢得国际声誉的 El Real-Pascuales Tecomán 旅游走廊。"
+                },
+                {
+                    "text": "圣加布里埃尔(San Gabriel)石窟;那里有个 50 多米高的深洞,让人欣赏到大自然几千年来的壮丽杰作。"
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d60271.55528058169!2d-103.76980724936448!3d19.24004309147311!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x842545523455a217%3A0xb6b497fc5af555e6!2sColima%2C%20Col.!5e0!3m2!1ses-419!2smx!4v1683578149738!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/4zNvTHKW4UCpARzea4OaTb?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "以下是阿瓜斯卡连特斯州应该被列入你的旅行清单的 5 个原因。",
+            "desciptionHover": "想了解更多关于州的信息 COLIMA 请点击这里",
+            "dir": "/estado"
+        },
+        {
+            "id": "Durango",
+            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "titleTop": "Durango",
+            "descriptionTop": "访问杜兰戈州的 5 个理由杜兰戈州是值得去享受、探索、体验的一个州,被认为是墨西哥最重要的森林保护区。 其独特的殖民时期建筑作为伟大故事、传说与文化的起源,以及悠久电影传统的热点。",
+            "urlImg": "DGO_Cd_Durango_34.webp",
+            "actions": {
+                "button": {
+                    "text" : "想了解更多关于州的信息 DURANGO 请点击这里",
+                    "dir": "http://visitdurango.mx/#!/"
+                }
+            },
+            "titleBottom": "以下是阿瓜斯卡连特斯州应该被列入你的旅行清单的 5 个原因。",
+            "descriptionBottom": [
+                {
+                    "text": "杜兰戈州根深蒂固的传统与习俗包括 2 月和 3 月之间(即圣灰星期三的前几天)庆祝的狂欢节,包括服装、舞蹈和游行。"
+                },
+                {
+                    "text": "精致的菜肴,比如 Caldillo(牛肉西红柿粥)、carnitas de chivo(小山羊肉丝)、barbacoa de olla(锅煮羊肉)、tamales de chile colorado(红辣椒酱玉米粽)、torrejas con miel de maguey(龙舌兰糖浆面包)及许多其他美食。"
+                },
+                {
+                    "text": "Mapimí(马皮米)是杜兰戈州的第一个神奇小镇。自 2010 年以来,它属于联合国教科文组织名录中的“Camino Real de Tierra Adentro”(“皇家内陆大干线”)。"
+                },
+                {
+                    "text": "Nombre de Dios(农布雷·德·迪奥斯)是该州最古老的、早在 1563年被西班牙殖民者建立的村庄(过去此地有一所方济各会的传教院)。"
+                },
+                {
+                    "text": "马皮米沉默区是一个充满神秘和传说的地方。在这片沙漠中,无线电信号消失,指南针也无效。"
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d58307.79812547615!2d-104.68892432215172!3d24.022692792116143!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x869bb7a518bcdf73%3A0xbfdd8ea63a6c4ad4!2sDurango%2C%20Dgo.!5e0!3m2!1ses-419!2smx!4v1683578320871!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/41U1BZKUs84ZFqyQXl70F3?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "以下是阿瓜斯卡连特斯州应该被列入你的旅行清单的 5 个原因。",
+            "desciptionHover": "想了解更多关于州的信息 DURANGO 请点击这里",
+            "dir": "/estado"
+        },
+        {
+            "id": "EstadoDeMexico",
+            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "titleTop": "Estado de México",
+            "descriptionTop": "访问墨西哥州的 5 个理由墨西哥州位于国家的中心地带,提供了广泛的旅游目的地和景点,如其10 座神奇小镇,23 座迷人城镇和四个被联合国教科文组织宣布为世界遗产的地点。",
+            "urlImg": "MEX_hda_flores_t_12.webp",
+            "actions": {
+                "button": {
+                    "text" : "想了解更多关于州的信息 ESTADO DE MÉXICO 请点击这里",
+                    "dir": "https://www.google.com/"
+                }
+            },
+            "titleBottom": "以下是阿瓜斯卡连特斯州应该被列入你的旅行清单的 5 个原因。",
+            "descriptionBottom": [
+                {
+                    "text": "文化丰富,是Mazahua(马扎瓦人)、Otomí(奥托米人)、Matlazinca(马特拉辛卡人)、Tlahuica(特拉维卡人)和 Nahua(纳瓦人)的土地,他们都继承了自己的文化和传统。"
+                },
+                {
+                    "text": "墨西哥州的一些典型菜肴包是 mixiotes(肉丝红酱包)、tlacoyos(豆沙、猪皮、凝乳馅玉米饼)、quesadillas de hongos(蘑菇卷饼)、tamales(肉馅玉米粽)及绿酱或 pipián(瓜子酱)火鸡。"
+                },
+                {
+                    "text": "想去一个充满美丽风景、具有温暖天气、伟大的前西班牙遗产的地方吗?那么你一定会被 Malinalco(马利纳尔科)迷住。"
+                },
+                {
+                    "text": "该州宽阔而美丽的开放空间是“glamping”(魅力与露营的结合)的完美场所。"
+                },
+                {
+                    "text": "现代与传统就在 Metepec(梅特佩克)相融合。 这座城市是“Árbol dela Vida”(“生命之树”),墨西哥最有代表性的手工艺品之一的所在地。"
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512730.705677566!2d-124.59084255708773!3d37.151646373370205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20EE.%20UU.!5e0!3m2!1ses-419!2smx!4v1682217912140!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/41Id1RtpdXLICwdGCs848s?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "以下是阿瓜斯卡连特斯州应该被列入你的旅行清单的 5 个原因。",
+            "desciptionHover": "想了解更多关于州的信息 ESTADO DE MÉXICO 请点击这里",
+            "dir": "/estado"
+        },
+        {
+            "id": "Guanajuato",
+            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "titleTop": "Guanajuato",
+            "descriptionTop": "访问瓜纳华托州的 5 个理由瓜纳华托州是墨西哥最重要的殖民时期旅游目的地,是因为其景点的多样性,包括六座神奇小镇、两个遗产城市和五个考古遗址。",
+            "urlImg": "GTO_guanajuato_338.webp",
+            "actions": {
+                "button": {
+                    "text" : "想了解更多关于州的信息 GUANAJUATO 请点击这里",
+                    "dir": "https://www.google.com/"
+                }
+            },
+            "titleBottom": "以下是阿瓜斯卡连特斯州应该被列入你的旅行清单的 5 个原因。",
+            "descriptionBottom": [
+                {
+                    "text": "该州是艺术与文化的代名词,主办了著名的瓜纳华托国际电影节和Cervantino(塞万提斯国际艺术节)。"
+                },
+                {
+                    "text": "用当地食材制作的美食,为每道菜提供独特的风味。"
+                },
+                {
+                    "text": "Dolores Hidalgo(多洛雷斯·伊达尔戈)是该州第一座神奇小镇,是墨西哥伟大传说的起源,墨西哥独立运动就于此开始了,也是墨西哥最伟大的流行歌手兼作曲家 José Alfredo Jiménez(何塞·阿尔弗雷多·希门尼斯)的出生地。"
+                },
+                {
+                    "text": "该州属于所说的“银色路线”,还能参观古老的矿场。"
+                },
+                {
+                    "text": "当你想把商务和娱乐结合起来,瓜纳华托州是一个理想的目的地,用娱乐和放松的方式来补充工作会议或学术大会。"
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512730.705677566!2d-124.59084255708773!3d37.151646373370205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20EE.%20UU.!5e0!3m2!1ses-419!2smx!4v1682217912140!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/41Id1RtpdXLICwdGCs848s?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "以下是阿瓜斯卡连特斯州应该被列入你的旅行清单的 5 个原因。",
+            "desciptionHover": "想了解更多关于州的信息 GUANAJUATO 请点击这里",
+            "dir": "/estado"
+        },
+        {
+            "id": "Guerrero",
+            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "titleTop": "Guerrero",
+            "descriptionTop": "访问格雷罗州的 5 个理由:格雷罗州是位于墨西哥南部的一个州,其旅游资源非常丰富,包括天堂般的海滩、雄伟的山脉和梦幻般的风景。这是一片富有勇气和美丽、令人惊讶的土地。",
+            "urlImg": "GRO_acapulco_1317.webp",
+            "actions": {
+                "button": {
+                    "text" : "想了解更多关于州的信息 GUERRERO 请点击这里",
+                    "dir": "https://www.google.com/"
+                }
+            },
+            "titleBottom": "以下是阿瓜斯卡连特斯州应该被列入你的旅行清单的 5 个原因。",
+            "descriptionBottom": [
+                {
+                    "text": "Acapulco(阿卡普尔科)是一个典型的海滩旅游目的地,有2万间酒店客房,有大量的娱乐活动与美食,是家庭旅行的理想选择。"
+                },
+                {
+                    "text": "Ixtapa(伊斯塔帕)和 Zihuatanejo(芝华塔尼欧)是两座有美丽的海滩和浓厚墨西哥风味的传统渔村,加上一个拥有大型度假酒店和许多与大自然有关的活动的开发区。"
+                },
+                {
+                    "text": "Taxco de Alarcón(塔斯科·德·阿拉尔孔)是一座辉煌的神奇小镇,因几十年来生产和交易的银器而闻名。"
+                },
+                {
+                    "text": "这里的美食包括前西班牙食谱,一定要尝尝 mole rojo(红魔力酱)、mole verde(绿魔力酱)、clemole(由肉、青豆、玉米和南瓜片煮城的一道菜)、huaxmole(小山羊肉红魔力酱)、tortillas(玉米饼)、memelas(红或绿辣酱凝乳玉米饼)、chalupas(红或绿酱牛肉或鸡肉馅猪油煎玉米饼),以及美妙的白色和绿色 pozoles(加入各种肉类、蔬菜和香料的肉汤)。"
+                },
+                {
+                    "text": "格雷罗州因其大量的、浓厚民族特色、无可比拟美感的手工艺品而获得了国际声誉。"
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512730.705677566!2d-124.59084255708773!3d37.151646373370205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20EE.%20UU.!5e0!3m2!1ses-419!2smx!4v1682217912140!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/41Id1RtpdXLICwdGCs848s?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "以下是阿瓜斯卡连特斯州应该被列入你的旅行清单的 5 个原因。",
+            "desciptionHover": "想了解更多关于州的信息 GUERRERO 请点击这里",
+            "dir": "/estado"
+        },
+        {
+            "id": "Hidalgo",
+            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "titleTop": "Hidalgo",
+            "descriptionTop": "参观伊达尔戈州的 5 个理由修道院、庄园、矿场、探险、文化和传统,这一切构成了伊达尔戈州的旅游遗产;这里的氛围传递着早就于此定居的千年文化的价值。",
+            "urlImg": "Hgo_tula_003.webp",
+            "actions": {
+                "button": {
+                    "text" : "想了解更多关于州的信息 HIDALGO 请点击这里",
+                    "dir": "https://www.google.com/"
+                }
+            },
+            "titleBottom": "以下是阿瓜斯卡连特斯州应该被列入你的旅行清单的 5 个原因。",
+            "descriptionBottom": [
+                {
+                    "text": "你会对其范围很广、颇为丰富的美食感到惊讶,从全国最好的烤肉之一到独一无二的 escamoles(一种古老的、用可食蚂蚁卵制成的菜肴)和chinicuiles(挖出来并油炸龙舌兰根部寄生的一种红色小虫)。"
+                },
+                {
+                    "text": "品尝众神的饮料:Pulque(普逵酒),一种源自前西班牙殖民的酒精饮料,经过发酵马奎的茎秆而制造出的乳白饮品。"
+                },
+                {
+                    "text": "Zempoala(森波阿拉)以其华丽的普逵酒庄园而闻名。该镇还因其出色的典型美食而获得“Pueblo con Sabor”(“美味城镇”)的称号。"
+                },
+                {
+                    "text": "Mineral del Chico(埃尔奇科矿区)是墨西哥的第一个自然保护区,目前被认为是探险旅游的圣地。"
+                },
+                {
+                    "text": "在伊达尔戈州的丰富资源中,有多种多样的历史、文化、建筑与自然景观,被用作电影拍摄的外景地。"
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512730.705677566!2d-124.59084255708773!3d37.151646373370205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20EE.%20UU.!5e0!3m2!1ses-419!2smx!4v1682217912140!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/41Id1RtpdXLICwdGCs848s?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "以下是阿瓜斯卡连特斯州应该被列入你的旅行清单的 5 个原因。",
+            "desciptionHover": "想了解更多关于州的信息 HIDALGO 请点击这里",
+            "dir": "/estado"
+        },
+        {
+            "id": "Jalisco",
+            "urlVideoTop": "https://www.youtube.com/embed/N7MmjzREtig?autoplay=1",
+            "titleTop": "Jalisco",
+            "descriptionTop": "访问哈利斯科州的 5 个理由哈利斯科州位于墨西哥西部,是 mariachi(“玛利亚奇”街头乐队)和龙舌兰酒的故乡,墨西哥最具代表性与国际性的两个使者。 据说,其125 座城市中的每一个都是其奇妙马赛克的宝贵部分。",
+            "urlImg": "JAL_charros_179.webp",
+            "actions": {
+                "button": {
+                    "text" : "想了解更多关于州的信息 JALISCO 请点击这里",
+                    "dir": "https://visitjalisco.mx/"
+                }
+            },
+            "titleBottom": "以下是阿瓜斯卡连特斯州应该被列入你的旅行清单的 5 个原因。",
+            "descriptionBottom": [
+                {
+                    "text": "其首府瓜达拉哈拉是一个传统与现代完美结合的城市。"
+                },
+                {
+                    "text": "其美食会让你心满意足,在其众多美食当中有 carne en su jugo(用肉汁煮熟的肉类)、torta ahogada(“淹没三明治”)、barbacoa(地下烤箱蒸熟的羊、山羊或牛肉)、pozole tapatío(哈利斯科式魔力酱)等等。"
+                },
+                {
+                    "text": "其目的地提供的阳光、沙滩和无数的生态旅游活动,足以让你在墨西哥最美丽的海岸畅游。"
+                },
+                {
+                    "text": "Puerto Vallarta (巴亚尔塔港)拥有被 Sierra Madre(马德雷山脉)拥抱的海滩的自然魅力。"
+                },
+                {
+                    "text": "哈利斯科是龙舌兰酒的发源地;龙舌兰酒是地球上消费最多的酒精饮料之一,也是墨西哥的一个文化象征。"
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1909231.479256641!2d-104.9222329384955!3d20.83300941682906!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x841f40ebd4624e6f%3A0xa0feb0a35a1b4a53!2sJalisco!5e0!3m2!1ses-419!2smx!4v1683578423258!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/5ApmWMTZktBXbvPeD5UdXl?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "以下是阿瓜斯卡连特斯州应该被列入你的旅行清单的 5 个原因。",
+            "desciptionHover": "想了解更多关于州的信息 JALISCO 请点击这里",
+            "dir": "/estado"
+        },
+        {
+            "id": "Michoacan",
+            "urlVideoTop": "https://www.youtube.com/embed/nbfvea4Bt0k?autoplay=1",
+            "titleTop": "Michoacán",
+            "descriptionTop": "访问米却肯州的 5 个理由米却肯州位于墨西哥的中西部。该州最大的城市是其首府 Morelia(莫雷利亚)、Pátzcuaro(帕兹夸罗)和Uruapan(乌鲁阿潘),通过广泛的交通基础设施与服务系统,从世界任何地方都可以轻松到达那里,比如机场、陆路交通和入境旅游运营商。",
+            "urlImg": "MICH_patzcuaro_63.webp",
+            "actions": {
+                "button": {
+                    "text" : "想了解更多关于州的信息 MICHOACÁN 请点击这里",
+                    "dir": "https://michoacan.travel/"
+                }
+            },
+            "titleBottom": "以下是阿瓜斯卡连特斯州应该被列入你的旅行清单的 5 个原因。",
+            "descriptionBottom": [
+                {
+                    "text": "在米却肯州,死亡仪式更加丰富多彩,特别是在 Pátzcuaro(帕茨夸罗)、Tzintzuntzan(钦春栈)、Janitizio(哈尼齐奥)、Jarácuaro(哈拉库阿罗)、Ihuatzio(伊瓦齐奥)和 Tzurumútaro(特苏鲁穆塔罗)地区。"
+                },
+                {
+                    "text": "在湖泊、森林和其他自然美景方面,米却肯是最丰富的州之一,例如,君主斑蝶保护区、Paricutín(帕里库廷)火山、“Eduardo Ruiz”(“爱德华多•鲁伊斯”)国家公园、Camécuaro(卡梅夸罗)湖国家公园等。"
+                },
+                {
+                    "text": "这里的美食既繁荣又美味,其中 korundas(用白玉米面和猪油制作的玉米粽)或 tamal de ceniza(灰烬玉米饼)最为突出。这是一种用茶树、猪油和酵母制作的玉米面团,其中还加入了少量的灰烬。"
+                },
+                {
+                    "text": "六个可以欣赏君主斑蝶的保护区;这个物种提供了自然界最非凡的景象之一。"
+                },
+                {
+                    "text": "参观各种海龟来繁殖的 Costa Sierra,或各种冷水或温泉的度假区。"
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1929744.9946309759!2d-103.21985596445734!3d19.150024291328236!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x842a5f3e1eb35cb7%3A0x3bc7650cf34be0d4!2sMichoac%C3%A1n!5e0!3m2!1ses-419!2smx!4v1683578604854!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/2yaOANtCx9FabUjU7tx998?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "以下是阿瓜斯卡连特斯州应该被列入你的旅行清单的 5 个原因。",
+            "desciptionHover": "想了解更多关于州的信息 MICHOACÁN 请点击这里",
+            "dir": "/estado"
+        },
+        {
+            "id": "Morelos",
+            "urlVideoTop": "https://www.youtube.com/embed/6rqT90hF-HM?autoplay=1",
+            "titleTop": "Morelos",
+            "descriptionTop": "访问莫雷洛斯州的 5 个理由:莫雷洛斯州是一个具有无可比拟的丰富文化之州,位于国家的中南部。其文化涉及到不同的层面与方面,每一个都会以真实的特点吸引你,这一切毫无疑问会让你渴望跟多的享受。",
+            "urlImg": "MOR_axochiapan_t_164.webp",
+            "actions": {
+                "button": {
+                    "text" : "想了解更多关于州的信息 MORELOS 请点击这里",
+                    "dir": "https://visitmorelos.mx/"
+                }
+            },
+            "titleBottom": "以下是阿瓜斯卡连特斯州应该被列入你的旅行清单的 5 个原因。",
+            "descriptionBottom": [
+                {
+                    "text": "莫雷洛斯州是传统,是活生生的历史;请参观其庄园与博物馆,了解该州的过去,了解 Emiliano Zapata (埃米利亚诺·萨帕塔)将军的土地。"
+                },
+                {
+                    "text": "莫雷洛斯州是一个充满美食和神秘传统的世界。在你访问的同时,你还可以发现著名的、只能在该州找到 cecina de Yecapixtla(叶卡皮克斯特拉干牛肉)、象征性的 taco acorazado(在两个玉米饼中陷入米饭、鸡蛋等的塔克)等等。"
+                },
+                {
+                    "text": "访问其首府 Cuernavaca (库埃纳瓦卡),永恒的春天之城。一个充满自然魅力与文化气息的地方。"
+                },
+                {
+                    "text": "参观 Tepoztlán(特波兹特兰),被泰波兹特科山(Cerro del Tepozteco)庇护的神奇小镇。这里充满着神秘主义、手工艺品、无与伦比的气候和放松的气氛,但最重要的是那些帮你恢复精力充沛的良好氛围。"
+                },
+                {
+                    "text": "Tlayacapan(特拉亚卡潘)是另一座神奇小镇,目前只有为数不多的地方像它一样保留着大部分前西班牙殖民时期城市布局。"
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d483646.40127353213!2d-99.39332388044409!3d18.731748998143765!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85cddfae25f6fe47%3A0x975f8225a169dd0f!2sMorelos!5e0!3m2!1ses-419!2smx!4v1683578712156!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/2yaOANtCx9FabUjU7tx998?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "以下是阿瓜斯卡连特斯州应该被列入你的旅行清单的 5 个原因。",
+            "desciptionHover": "想了解更多关于州的信息 MORELOS 请点击这里",
+            "dir": "/estado"
+        },
+        {
+            "id": "Nayarit",
+            "urlVideoTop": "https://www.youtube.com/embed/vSV--a4sQa8?autoplay=1",
+            "titleTop": "Nayarit",
+            "descriptionTop": "访问纳亚里特州的 5 个理由:纳亚里特州位于墨西哥领土的东北部。这个极为神奇的地方拥有巨大的自然多样性,比如泻湖、丛林、海洋,甚至墨西哥最广泛的山脉之一。",
+            "urlImg": "NAY_RinconDeGuayabitos_Playas_0529.webp",
+            "actions": {
+                "button": {
+                    "text" : "想了解更多关于州的信息 NAYARIT 请点击这里",
+                    "dir": "https://descubrevallenayarit.com/"
+                }
+            },
+            "titleBottom": "以下是阿瓜斯卡连特斯州应该被列入你的旅行清单的 5 个原因。",
+            "descriptionBottom": [
+                {
+                    "text": "该州所有的路线好像都特地设计为了保证你能体验到该州最好的多感官体验。"
+                },
+                {
+                    "text": "访问其首府 Tepic(特皮克),是必经之地。其名源于纳瓦特尔语,意思是 “坚固石头的地方”。"
+                },
+                {
+                    "text": "纳亚里特州有一些典型的菜肴,其主要成分来自于海洋,如鲨鱼、学校鲨鱼、鲷鱼、虾和牡蛎,你想试试吗?"
+                },
+                {
+                    "text": "Compostela (孔波斯特拉市)位于该州的南部海岸。它以其用烟叶制作的手工艺品、Santo Domingo de Apóstol(圣多明哥·德·阿波斯托尔)教区教堂和 Punta Custodia (库斯托迪亚角)而闻名。"
+                },
+                {
+                    "text": "Jala (贾拉)神奇小镇位于 Ceboruco(塞波鲁科)休眠火山的山脚上,那边有一个可以练骑自行车、徒步旅行、观察植物群和露营的山谷。"
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1896187.0215287085!2d-106.5235616027901!3d21.838616787901028!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8420a89ce63edb47%3A0xc2c8f5a28694d239!2sNayarit!5e0!3m2!1ses-419!2smx!4v1683578829322!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/4t6rePG9VrNLRrGhHO9ibz?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "以下是阿瓜斯卡连特斯州应该被列入你的旅行清单的 5 个原因。",
+            "desciptionHover": "想了解更多关于州的信息 NAYARIT 请点击这里",
+            "dir": "/estado"
+        },
+        {
+            "id": "NuevoLeon",
+            "urlVideoTop": "https://www.youtube.com/embed/bfU0P-cc9dU?autoplay=1",
+            "titleTop": "Nuevo León",
+            "descriptionTop": "访问新莱昂州的 5 个理由新莱昂州是位于墨西哥东北部的一个独特的目的地。最突出的是其殖民时期的神奇小镇:Santiago(圣地亚哥)、Linares(利纳雷 斯)和Bustamante(布斯塔曼特)。新莱昂州是一个独一无二的、多层面文化的目的地,是冒险、商务和 carnita asada(烤牛肉丝)的圣地。你来了解它吧!",
+            "urlImg": "NL_Villa_Santiago398.webp",
+            "actions": {
+                "button": {
+                    "text" : "想了解更多关于州的信息 NUEVO LEÓN 请点击这里",
+                    "dir": "https://nuevoleon.travel/"
+                }
+            },
+            "titleBottom": "以下是阿瓜斯卡连特斯州应该被列入你的旅行清单的 5 个原因。",
+            "descriptionBottom": [
+                {
+                    "text": "其首付蒙特雷作为一个大都市,是墨西哥的第三大城市,装饰着令人印象深刻的老建筑和创新的购物中心。在这里,传统的高级美食将以其独特的口味让你感到心满意足。"
+                },
+                {
+                    "text": "这里的美食一牛肉为主角,提供最高质量的红肉类与产品,其中最为重要的是小山羊肉。"
+                },
+                {
+                    "text": "Linares (利纳雷斯)神秘小镇的街道上到处都能感到平静,这与其宏伟的建筑形成了鲜明的对比。"
+                },
+                {
+                    "text": "Bustamante(布斯塔曼特)完全被树木覆盖。欢迎你的有一家梅斯卡尔酒厂,然后你进入其街道,观察典型建筑风格的老房子。"
+                },
+                {
+                    "text": "Santiago(圣地亚哥)隐藏在 Sierra Madre Oriental(东马德雷山脉)和Cerro de la Silla(“椅子山”)之间,是一座房屋与街道颇有感染力的神秘小镇。"
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1844172.8377582757!2d-101.13338097076416!3d25.475011940013584!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86629584a2a5b05d%3A0x701df442c36cbbc6!2sNuevo%20Le%C3%B3n!5e0!3m2!1ses-419!2smx!4v1683578947759!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/75BAwr4oD63XJP93w3wq8m?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "以下是阿瓜斯卡连特斯州应该被列入你的旅行清单的 5 个原因。",
+            "desciptionHover": "想了解更多关于州的信息 NUEVO LEÓN 请点击这里",
+            "dir": "/estado"
+        },
+        {
+            "id": "Oaxaca",
+            "urlVideoTop": "https://www.youtube.com/embed/hKeKplolfMs?autoplay=1",
+            "titleTop": "Oaxaca",
+            "descriptionTop": "访问瓦哈卡州的 5 个理由瓦哈卡州位于墨西哥的南部。以多样化、宏伟、多彩为标志,充满文化和大自然气息,该州是一个真正的宝贝。在瓦哈卡,你会走遍富于色彩和传统的街道,在每一个角落会发现本地的历史踪迹,美妙的手工艺品,精致的美食和味道独特的梅斯卡尔酒。",
+            "urlImg": "OAX_Hierve_el_agua3023.webp",
+            "actions": {
+                "button": {
+                    "text" : "想了解更多关于州的信息 OAXACA 请点击这里",
+                    "dir": "http://www.oaxaca.travel/index.php/es/"
+                }
+            },
+            "titleBottom": "以下是阿瓜斯卡连特斯州应该被列入你的旅行清单的 5 个原因。",
+            "descriptionBottom": [
+                {
+                    "text": "其首府瓦哈卡·德·华雷斯是世界文化遗产,以其传统之美成为世界上独一无二的城市。"
+                },
+                {
+                    "text": "瓦哈卡的美食是墨西哥最具代表性的、最多样化的美食之一。一道非常传统的菜是有七个种类的瓦哈卡 mole(魔力酱),你敢全部都品尝吗?"
+                },
+                {
+                    "text": "参加 “梅斯卡尔之路”的神奇之旅,它将带你发现使这种闻名于世的美味饮料的手工制作过程。"
+                },
+                {
+                    "text": "如果你来到 Huatulco(瓦图尔科),你会在其 36 个海滩上放松,走遍其奇妙的风景,在其激流中感觉到肾上腺素飙升,练钓鱼,以及与大自然接触。"
+                },
+                {
+                    "text": "你还可以去 Puerto Escondido(埃斯孔迪多港),是墨西哥太平洋海岸最完美的地方之一,在其海滩上你可以忘记压力;那里有令人难以置信的海浪,也有些看起来像天然水池般平静的海滩。该港还可以享受无尽的夜晚聚会。"
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d603021.2045554055!2d-96.97536878788152!3d16.800457801053078!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85c72249df26d9b1%3A0xac88a77657dffc3b!2sOaxaca%20de%20Ju%C3%A1rez%2C%20Oax.!5e0!3m2!1ses-419!2smx!4v1684020627840!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/06kfpfp3bsE54c0r0GjoJv?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "以下是阿瓜斯卡连特斯州应该被列入你的旅行清单的 5 个原因。",
+            "desciptionHover": "想了解更多关于州的信息 OAXACA 请点击这里",
+            "dir": "/estado"
+        },
+        {
+            "id": "Puebla",
+            "urlVideoTop": "https://www.youtube.com/embed/inxcwKHquVQ?autoplay=1",
+            "titleTop": "Puebla",
+            "descriptionTop": "访问普埃布拉州的 5 个理由普埃布拉州位于墨西哥中东部,由 Popocatépetl(波波卡特佩特尔)和Iztaccíhuatl(伊兹塔克西华特尔)火山守护。其十座神奇小镇、瀑布、泻湖、国家公园、远足小径和伟大的Tehuacán-Cuicatlán(特瓦坎-奎卡特兰)保护区。",
+            "urlImg": "PUE_catedral_42.webp",
+            "actions": {
+                "button": {
+                    "text" : "想了解更多关于州的信息 PUEBLA 请点击这里",
+                    "dir": "https://www.visitpuebla.mx/es/"
+                }
+            },
+            "titleBottom": "以下是阿瓜斯卡连特斯州应该被列入你的旅行清单的 5 个原因。",
+            "descriptionBottom": [
+                {
+                    "text": "普埃布拉首府你可以欣赏到用圆顶、塔楼、钟声、talavera(塔拉维拉)陶器、砖块和白砂浆建设的历史中心,自 1987 年以来被联合国教科文组织宣布为世界文化遗产。"
+                },
+                {
+                    "text": "普埃布拉原住民的神奇之手下出来的手工艺代表着墨西哥民间艺术达到了很高的水平。"
+                },
+                {
+                    "text": "传统和习俗是一种神秘的遗产。Talavera poblana((塔拉维拉陶器)是在世界上代表普埃布拉的工艺之一,这也是联合国教科文组织宣布其为人类非物质文化遗产的原因。"
+                },
+                {
+                    "text": "普埃布拉修道院的修女们拥有着独特的烹饪创造力,使其美食在整个墨西哥得到认可。普埃布拉是墨西哥最具代表性的菜肴之一,是 mole(魔力酱)的发源地。"
+                },
+                {
+                    "text": "欢迎了解 Atlixco(阿特利斯科)的魔力,让自己陶醉于其良好的气候、旺盛的自然环境和多样的商业与旅游活动;这些特点将普埃布拉州列为世界上气候最好的地方。"
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d967742.7146243165!2d-98.88511791946453!3d18.652999658222356!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85cfc0bd5ebc7a3b%3A0x48a6461de494ad95!2sPuebla%2C%20Pue.!5e0!3m2!1ses-419!2smx!4v1684020864980!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/0Ahe1HuCdpwmXe2qFlt7xc?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "以下是阿瓜斯卡连特斯州应该被列入你的旅行清单的 5 个原因。",
+            "desciptionHover": "想了解更多关于州的信息 PUEBLA 请点击这里",
+            "dir": "/estado"
+        },
+        {
+            "id": "Queretaro",
+            "urlVideoTop": "https://www.youtube.com/embed/EhbIkBe3K0I?autoplay=1",
+            "titleTop": "Querétaro",
+            "descriptionTop": "访问克雷塔罗州的 5 个理由克雷塔罗州是墨西哥的一颗地理明珠,拥有最多样化的旅游景点,可以满足所有寻找体验国家中心的口味与兴趣。此地是现代与传统、神秘森林和美味葡萄酒的会合点。",
+            "urlImg": "QRO_sierra_gorda_422.webp",
+            "actions": {
+                "button": {
+                    "text" : "想了解更多关于州的信息 QUERÉTARO 请点击这里",
+                    "dir": "https://queretaro.travel/"
+                }
+            },
+            "titleBottom": "以下是阿瓜斯卡连特斯州应该被列入你的旅行清单的 5 个原因。",
+            "descriptionBottom": [
+                {
+                    "text": "克雷塔罗州是全国拥有最多神奇小镇的州之一。"
+                },
+                {
+                    "text": "其首府令人惊叹,将传统和先锋主义完美地结合在一起,是一个富于文化与活动、适合所有观众的地方。"
+                },
+                {
+                    "text": "其美食属于所说,包括 barbacoa(烤肉)、pollo en huerto(鸡肉蔬菜炖菜)、acamayas(小龙虾)、carnitas(猪肉丝)、gorditas de migajas(炸猪肉屑夹馍)、tapeado(覆盖锅里炖肉块)、asado de cordero(烤羊肉)、guajolotes fritos(炸火鸡)等。"
+                },
+                {
+                    "text": "运动爱好者一定被 Xtrail Mexico 跑步线迷住。来自世界各地的跑步者在此聚集,连续跑过不同的生态系统,享受大自然,创建互助团体并超越自己的目标。"
+                },
+                {
+                    "text": "令人难以置信,在离首府仅几公里的地方有一片梦幻般的风景,克雷塔罗南部有一片树林,这使它成为远离城市日常事务、在百年树荫下休息的理想目的地。"
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d954043.2427950689!2d-100.70136887210424!3d20.923122726456526!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d35b8fdc5b9255%3A0x97b094aa561b832f!2sSantiago%20de%20Quer%C3%A9taro%2C%20Qro.!5e0!3m2!1ses-419!2smx!4v1684021053247!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/5xQPBd7Gs4IIhUgqytSqvQ?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "以下是阿瓜斯卡连特斯州应该被列入你的旅行清单的 5 个原因。",
+            "desciptionHover": "想了解更多关于州的信息 QUERÉTARO 请点击这里",
+            "dir": "/estado"
+        },
+        {
+            "id": "QuintanaRoo",
+            "urlVideoTop": "https://www.youtube.com/embed/jnbG-1MbFWg?autoplay=1",
+            "titleTop": "Quintana Roo",
+            "descriptionTop": "访问金塔纳罗奥州的 5 个理由金塔纳罗奥州位于墨西哥东南部,是盖世无双的地区,具有多种多样的旅游目的地和景点:蓝色的大海、白色的沙滩、热带丛林、考古遗址、仙人洞、地下河、岛屿、泻湖,以及活的玛雅文化与历史。 14 个旅游目的地:Holbox(霍尔布什岛)、Isla Mujeres(穆赫雷斯岛)、Costa Mujeres(科斯塔穆赫雷斯)、Cancún(坎昆)、Riviera Maya(里维埃拉玛雅),其中包括 Puerto Morelos(莫雷洛斯港)、Playa delCarmen(普拉亚·德·卡门)和 Tulum(图卢姆)、Isla Cozumel(科苏梅尔岛)、Maya Ka’an(西恩卡安)以及包括 Mahahual(马哈瓦尔)、Bacalar(巴卡拉尔)和 Chetumal(切图马尔)的大玛雅海岸。",
+            "urlImg": "Qroo_Xcaret282_2.webp",
+            "actions": {
+                "button": {
+                    "text" : "想了解更多关于州的信息 QUINTANA ROO 请点击这里",
+                    "dir": "https://www.caribemexicano.travel/"
+                }
+            },
+            "titleBottom": "以下是阿瓜斯卡连特斯州应该被列入你的旅行清单的 5 个原因。",
+            "descriptionBottom": [
+                {
+                    "text": "墨西哥加勒比海地区是一个充满探险机会的自然天堂,在这里你可以忘记常规,与本地的植物与动物相联系。"
+                },
+                {
+                    "text": "2.大玛雅海岸位于在金塔纳罗奥州的南部,这是一个由切图马尔、巴卡拉尔和马哈瓦尔等目的地组成的美丽地区。其丰富的自然环境、泻湖系统、平静的海滩和温柔的海浪、历史、文化、考古遗址,以及有待发现的独特景点,使其每个角落都成为真正天堂的一小部分。"
+                },
+                {
+                    "text": "欢迎你体验穿过墨西哥加勒比海所有目的地的美食之旅,享受每个地方的气味、美味与独特质地。来自陆地和海洋的最佳产品在等着你!"
+                },
+                {
+                    "text": "Cancún(坎昆)是一个独特的城市,一个将乐趣与文化完美地结合在一起的国际性大都市。考古遗址与豪华酒店,现代与传统,难道坎昆不是一座一切都有的城市吗?"
+                },
+                {
+                    "text": "金塔纳罗奥州 20%的领土是受保护的。这包括自然保护区、生物圈保护区、国家公园、动植物保护区和各种动物的保护区。 在这里,没有任何借口不走到大自然中去!"
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3845592.174182109!2d-90.64439106890148!3d19.735554426711545!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f4ffcf0eac32695%3A0xc4f0c52a484c8d9c!2sQuintana%20Roo!5e0!3m2!1ses-419!2smx!4v1684021214206!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/3jLxQG2AbDNOa3eL5AV4N4?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "以下是阿瓜斯卡连特斯州应该被列入你的旅行清单的 5 个原因。",
+            "desciptionHover": "想了解更多关于州的信息 QUINTANA ROO 请点击这里",
+            "dir": "/estado"
+        },
+        {
+            "id": "SanLuisPotosi",
+            "urlVideoTop": "https://www.youtube.com/embed/1gEAijlXnjc?autoplay=1",
+            "titleTop": "San Luis Potosí",
+            "descriptionTop": "访问圣路易斯波托西州的 5 个理由:圣路易斯波托西州位于墨西哥的中部,是一个由四个面貌极为不同的地区而组成的目的地。从神秘的沙漠到令人难忘的 Huasteca Potosina(华斯塔卡•波托西纳),你会被无数的、正在等着你到来的旅游景点而惊喜。",
+            "urlImg": "SLP_realdecatorce_424.webp",
+            "actions": {
+                "button": {
+                    "text" : "想了解更多关于州的信息 SAN LUIS POTOSÍ 请点击这里",
+                    "dir": "https://visitasanluispotosi.com/"
+                }
+            },
+            "titleBottom": "以下是阿瓜斯卡连特斯州应该被列入你的旅行清单的 5 个原因。",
+            "descriptionBottom": [
+                {
+                    "text": "在美丽的神奇小镇 Xilitla(西利特拉),骑着自行车在 250米的高空飞行。"
+                },
+                {
+                    "text": "2.5 公里长的奥加里奥隧道是一系列难忘经验的入口,通过旅客们到达神奇小镇 Real de Catorce(雷亚尔·卡托尔塞)的鹅卵石路与采矿业辉煌的神秘世界。"
+                },
+                {
+                    "text": "Ciudad Valles(瓦利斯城)茂盛的植被,以及其旅游活动,如跳瀑布、参观 Selva Tének(特内克丛林)、在 Jardín Hidalgo(伊达尔戈花园)漫步或在 Valles River(瓦利斯河)上乘坐精心装饰过的“trajinera”彩船等。"
+                },
+                {
+                    "text": "在 Huasteca Potosina(华斯塔卡·波托西纳)的神奇小镇 Aquismón(阿吉思梦)进行探险运动和户外活动。"
+                },
+                {
+                    "text": "San Luis Potosi(圣路易斯波托西)壮观的多处瀑布,如 Tamasopo(塔马索波)、El Salto(埃尔萨尔托)、Minas Viejas(米纳斯维耶斯)等。"
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1892526.8016636858!2d-102.27444269316865!3d22.112954982526595!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x842aa20005acfb79%3A0xed2ee29afe18257!2sSan%20Luis%2C%20S.L.P.!5e0!3m2!1ses-419!2smx!4v1684021496107!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/0xymn7NdxdlCLnDFL7ffQ1?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "以下是阿瓜斯卡连特斯州应该被列入你的旅行清单的 5 个原因。",
+            "desciptionHover": "想了解更多关于州的信息 SAN LUIS POTOSÍ 请点击这里",
+            "dir": "/estado"
+        },
+        {
+            "id": "Sinaloa",
+            "urlVideoTop": "https://www.youtube.com/embed/MKX2Na-l-a4?autoplay=1",
+            "titleTop": "Sinaloa",
+            "descriptionTop": "访问锡那罗亚州的 5 个理由:锡那罗亚州位于墨西哥的西北部,拥有 650 公里的海岸线,使其能够提供大量的阳光和海滩景象。Culiacán(库利亚坎)具有许多献给感官的东西:商业、文化、艺术、休闲、教育,当然还有聚会和娱乐。",
+            "urlImg": "SIN_mazatlan_playa-750.webp",
+            "actions": {
+                "button": {
+                    "text" : "想了解更多关于州的信息 SINALOA 请点击这里",
+                    "dir": "https://sinaloa.travel/"
+                }
+            },
+            "titleBottom": "以下是阿瓜斯卡连特斯州应该被列入你的旅行清单的 5 个原因。",
+            "descriptionBottom": [
+                {
+                    "text": "主要旅游中心是 Mazatlán(马萨特兰)、Culiacán(库利亚坎)和 LosMochis(洛斯莫奇斯)。"
+                },
+                {
+                    "text": "其精致的美食以海鲜和红肉类为主。"
+                },
+                {
+                    "text": "除了 4 座神奇小镇,El Rosario(埃尔罗萨里奥)、Cosalá(科萨拉)、Mocorito(莫科里托)和 El Fuerte(埃尔福尔特),锡那罗亚州还有墨西哥唯一的旅游列车,即穿过壮观的 Barrancas del Cobre(铜峡谷)风景的 El Chepe Express 路线。"
+                },
+                {
+                    "text": "Mazatlán(马萨特兰)是墨西哥太平洋沿岸历史最悠久的殖民地港口,也是一个受欢迎的美丽旅游目的地。"
+                },
+                {
+                    "text": "其采矿历史、热带气候、古老教堂和幽灵传说使其神奇小镇的鹅卵石街道和天堂般的风景更加丰富。"
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3710686.7360458025!2d-110.06058980487454!3d24.73657650691432!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x869f539428a74959%3A0x9c7bdf760dbe5fef!2sSinaloa!5e0!3m2!1ses-419!2smx!4v1684021652283!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/57qATI59zt97GfYpac1FoS?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "以下是阿瓜斯卡连特斯州应该被列入你的旅行清单的 5 个原因。",
+            "desciptionHover": "想了解更多关于州的信息 SINALOA 请点击这里",
+            "dir": "/estado"
+        },
+        {
+            "id": "Sonora",
+            "urlVideoTop": "https://www.youtube.com/embed/n5xkeVm3bws?autoplay=1",
+            "titleTop": "Sonora",
+            "descriptionTop": "访问索诺拉州的 5 个理由:索诺拉州是墨西哥北部的一个大州,拥有重要的领土延伸,是墨西哥第二大州。这里你可以找到绿色的山脉,广阔的农业谷地,壮观的沙漠,极其美妙的科尔特斯海的超过 1200 公里的海岸线,以及与美国的动态性边界。",
+            "urlImg": "SON_caborca_10.webp",
+            "actions": {
+                "button": {
+                    "text" : "想了解更多关于州的信息 SONORA 请点击这里",
+                    "dir": "https://visitsonora.mx/"
+                }
+            },
+            "titleBottom": "以下是阿瓜斯卡连特斯州应该被列入你的旅行清单的 5 个原因。",
+            "descriptionBottom": [
+                {
+                    "text": "Mirador de San Carlos(圣卡洛斯山瞭望点)拥有世界上最好的海景。"
+                },
+                {
+                    "text": "基诺湾(Bahía de Kino)是墨西哥最美丽的海滩之一,其白色的沙子、温暖平静的海水就在这里等着你。"
+                },
+                {
+                    "text": "位于科尔特斯海的 San Carlos(圣卡洛斯)的独特景观;这个小镇被山脉和海滩所包围,大海与沙漠于此融合无间。"
+                },
+                {
+                    "text": "El Pinacate(皮纳卡特)生物圈保护区是一个由沙漠路面和黑色及红色熔岩流形成的地方;还有 Gran Desierto de Altar(阿尔塔大沙漠),其沙丘高度达到 200 米。"
+                },
+                {
+                    "text": "Caborca(卡沃尔卡)的岩画,在这里你可以看到拉丁美洲最大的前西班牙雕刻的集中地。"
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7125758.782105107!2d-117.02763597053065!3d29.300691176733878!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86982969e74dd20f%3A0xcd56ff1afcbbe374!2sSonora!5e0!3m2!1ses-419!2smx!4v1684021784841!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/4xRB7oBUzyZe7dIiNf6H58?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "以下是阿瓜斯卡连特斯州应该被列入你的旅行清单的 5 个原因。",
+            "desciptionHover": "想了解更多关于州的信息 SONORA 请点击这里",
+            "dir": "/estado"
+        },
+        {
+            "id": "Tabasco",
+            "urlVideoTop": "https://www.youtube.com/embed/noJ6i36csXQ?autoplay=1",
+            "titleTop": "Tabasco",
+            "descriptionTop": "访问塔巴斯科州的 5 个理由:其地理位置使它成为通往墨西哥东南部和玛雅世界的门户。该州是石油工业的中心,以及娱乐、服务和通信的区域中心。它拥有全国 53%的水资源。其可可和牲畜产量排名第一,香蕉产量排名第二。",
+            "urlImg": "TAB_Jalpa_de_Mendez8.webp",
+            "actions": {
+                "button": {
+                    "text" : "想了解更多关于州的信息 TABASCO 请点击这里",
+                    "dir": "https://visitetabasco.com/"
+                }
+            },
+            "titleBottom": "以下是阿瓜斯卡连特斯州应该被列入你的旅行清单的 5 个原因。",
+            "descriptionBottom": [
+                {
+                    "text": "其颇为绿色热带景观,被河流纵横交错,被广阔的泻湖、众多的沼泽地和美丽的海滩所占据。"
+                },
+                {
+                    "text": "其美食的味道很丰富,但最重要的是其历史和传统源于本土和西班牙的根源。"
+                },
+                {
+                    "text": "该州是运动钓鱼、观鸟、生态旅游、探险旅游及其他活动的天堂。"
+                },
+                {
+                    "text": "其河流、泻湖和 Gran Ruta Villahermosa(大维拉赫莫萨路线)上雄伟的植被创造了一片旺盛的自然风景。"
+                },
+                {
+                    "text": "欢乐、民俗、色彩和风味,这是 Gran Ruta Biji Yokot’an(大比吉·约科坦路线)的特点。"
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3886964.1408265596!2d-95.19981354332153!3d17.938523210589693!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85edfb5f8f78cb4f%3A0xd426cb11d9866b44!2sTabasco!5e0!3m2!1ses-419!2smx!4v1684022280766!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/1e0PFxUw2WqvP9Jp3VF2a1?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "以下是阿瓜斯卡连特斯州应该被列入你的旅行清单的 5 个原因。",
+            "desciptionHover": "想了解更多关于州的信息 TABASCO 请点击这里",
+            "dir": "/estado"
+        },
+        {
+            "id": "Tamaulipas",
+            "urlVideoTop": "https://www.youtube.com/embed/DktNae84wVk?autoplay=1",
+            "titleTop": "Tamaulipas",
+            "descriptionTop": "访问塔毛利帕斯州的 5 个理由塔毛利帕斯州位于墨西哥的东北部。该州拥有 400 多公里的海滩和同样多公里的边界。这里生活着无数的物种,如美洲豹、金刚鹦鹉、鳄鱼和鹿,以及成千上万的鸟类,全都可以在这片领土上观察到。",
+            "urlImg": "TMPS_miramar_2_20.webp",
+            "actions": {
+                "button": {
+                    "text" : "想了解更多关于州的信息 TAMAULIPAS 请点击这里",
+                    "dir": "http://www.visittam.com/"
+                }
+            },
+            "titleBottom": "以下是阿瓜斯卡连特斯州应该被列入你的旅行清单的 5 个原因。",
+            "descriptionBottom": [
+                {
+                    "text": "Ciudad Victoria(维多利亚城)是一个美丽的城市,充满了文化现象和活动机会。"
+                },
+                {
+                    "text": "塔毛利帕斯州食物的味道将征服你的味觉,有大虾、螃蟹和 ceviche(墨西哥一种开胃前菜,将鱼、鲍鱼或龙虾等海鲜切成小块,以柠檬汁腌渍调味后再与新鲜蔬菜相混合);还有 enchiladas tultecas(图尔特卡斯的红辣椒玉米饼)及用当地水果做成的美味冰淇淋。"
+                },
+                {
+                    "text": "该州有五个美丽的海滩,为您和您的家人提供了优秀的酒店基础设施:Bagdad(巴格达)、Carbonera(卡博内拉)、Barra del Tordo(巴拉德尔托尔多)、La Pesca(拉佩斯卡)或 Miramar(米拉马尔)海滩。"
+                },
+                {
+                    "text": "Mier(米耶)是一座美丽无比的塔毛利帕斯州神奇小镇,在其街道上你将能欣赏到十八世纪古老的殖民地城镇的气息;当时该地方被称为Nuevo Santander(新桑坦德)。"
+                },
+                {
+                    "text": "位于塔毛利帕斯州西南部的 Sierra Madre Oriental(东马德雷山脉);美丽的 Tula(图拉)是土著民族的摇篮,难怪塔毛利帕斯州的典型服装cuera tulteca(手工皮夹克,手臂、胸部和背部都有皮做的长胡须)就来自此地。"
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3705052.4384775567!2d-101.28520894348287!3d24.924735351966053!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x867953aedb1e2459%3A0x33859f5a35e81925!2sTamaulipas!5e0!3m2!1ses-419!2smx!4v1684022385332!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/42i0q3sQUpBO2ObG2nxySB?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "以下是阿瓜斯卡连特斯州应该被列入你的旅行清单的 5 个原因。",
+            "desciptionHover": "想了解更多关于州的信息 TAMAULIPAS 请点击这里",
+            "dir": "/estado"
+        },
+        {
+            "id": "Tlaxcala",
+            "urlVideoTop": "https://www.youtube.com/embed/NQPGtGnuA9E?autoplay=1",
+            "titleTop": "Tlaxcala",
+            "descriptionTop": "访问塔拉斯卡拉州的 5 个理由:特拉斯卡拉州位于墨西哥的中心,距墨西哥城东部仅 120 公里。是墨西规模最小的州,但却是历史与传统上影响最大的州之一。你自己来目睹特拉斯卡拉有多伟大!",
+            "urlImg": "TLX_teatro_26.webp",
+            "actions": {
+                "button": {
+                    "text" : "想了解更多关于州的信息 TLAXCALA 请点击这里",
+                    "dir": "https://www.tlaxcalasiexiste.com.mx/"
+                }
+            },
+            "titleBottom": "以下是阿瓜斯卡连特斯州应该被列入你的旅行清单的 5 个原因。",
+            "descriptionBottom": [
+                {
+                    "text": "你会爱上那些描述特拉斯卡拉人民历史的壁画。"
+                },
+                {
+                    "text": "该地区的美食保护着与传统特拉斯卡拉美食相联系的食物遗产。"
+                },
+                {
+                    "text": "宪法广场:从墨西哥电影的黄金时代至今,这里一直是电影、纪录片和短片的拍摄地。"
+                },
+                {
+                    "text": "政府宫、印第安人的旧皇家教堂、伊达尔戈与华雷斯之门,以及石屋均是特拉斯卡拉最主要的、隐藏着深刻历史内涵的建筑。"
+                },
+                {
+                    "text": "Huamantlada(华曼特拉达)有着60多年传统的节日,街道上装饰着五颜六色的锯末组成的地毯和鲜花。"
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1926627.340737737!2d-99.4862495595288!3d19.41482434541632!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85cfd93f1c006113%3A0x38bae25ad47cbde0!2sTlaxcala!5e0!3m2!1ses-419!2smx!4v1684022486835!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/2Au5dhEkQ16xsO05chmItl?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "以下是阿瓜斯卡连特斯州应该被列入你的旅行清单的 5 个原因。",
+            "desciptionHover": "想了解更多关于州的信息 TLAXCALA 请点击这里",
+            "dir": "/estado"
+        },
+        {
+            "id": "Veracruz",
+            "urlVideoTop": "https://www.youtube.com/embed/YoNdlAk5N5Q?autoplay=1",
+            "titleTop": "Veracruz",
+            "descriptionTop": "去韦拉克鲁斯州的 5 个理由:韦拉克鲁斯是一个细长的州,毗邻墨西哥湾,有几个海滩,以及墨西哥最高峰,名为 Pico de Orizaba(奥里萨巴山),是一座休眠火山。韦拉克鲁斯是一片文化与自然多样性的土地,也是全国生物多样性最丰富的前三个州之一。",
+            "urlImg": "VER_catemaco104.webp",
+            "actions": {
+                "button": {
+                    "text" : "想了解更多关于州的信息 VERACRUZ 请点击这里",
+                    "dir": "https://www.google.com/"
+                }
+            },
+            "titleBottom": "以下是阿瓜斯卡连特斯州应该被列入你的旅行清单的 5 个原因。",
+            "descriptionBottom": [
+                {
+                    "text": "墨西哥湾最美丽、最温暖的州;你无疑会爱上它。"
+                },
+                {
+                    "text": "这里是墨西哥 35 个世界遗产中的两个:El Tajín(埃尔塔金)的前西班牙城市和 Tlacotalpan(特拉库塔潘)历史古迹区。"
+                },
+                {
+                    "text": "其首府与港口的街道上充满着殖民地建筑,尽管时间的流逝保存了该地的艺术与文化。"
+                },
+                {
+                    "text": "其广泛的文化财富,如陶器、篮子手工和韦拉克鲁斯的纺织品。"
+                },
+                {
+                    "text": "其海滩、河流和温泉的雄伟自然美景。"
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d120587.93128962361!2d-96.25871711943859!3d19.178910555291967!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85c3414245ca78c5%3A0x18a4d642e936019b!2sVeracruz%2C%20Ver.!5e0!3m2!1ses-419!2smx!4v1684022576385!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/1xVFcq3EP54qT1OKuZ6pHa?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "以下是阿瓜斯卡连特斯州应该被列入你的旅行清单的 5 个原因。",
+            "desciptionHover": "想了解更多关于州的信息 VERACRUZ 请点击这里",
+            "dir": "/estado"
+        },
+        {
+            "id": "Yucatan",
+            "urlVideoTop": "https://www.youtube.com/embed/aDjSaYjccbE?autoplay=1",
+            "titleTop": "Yucatán",
+            "descriptionTop": "去尤卡坦州的 5 个理由尤卡坦州以墨西哥湾的海滩和玛雅遗址而闻名。位于墨西哥东南部,在这个州,你有机会同时体验历史、文化、浪漫、美食、海滩以及沉浸在玛雅社区独特传统习俗。",
+            "urlImg": "YUC_Cusaman_Cenotes152.webp",
+            "actions": {
+                "button": {
+                    "text" : "想了解更多关于州的信息 YUCATÁN 请点击这里",
+                    "dir": "https://yucatan.travel/"
+                }
+            },
+            "titleBottom": "以下是阿瓜斯卡连特斯州应该被列入你的旅行清单的 5 个原因。",
+            "descriptionBottom": [
+                {
+                    "text": "首府 Mérida(梅里达)的文化、历史、乐趣和美味佳肴。"
+                },
+                {
+                    "text": "尤卡坦州美食的独特风味,其中最为突出的是世界著名的 cochinitapibil(一整头猪,用香料和苦橙汁腌制,在坑里煮至嫩滑多汁)。"
+                },
+                {
+                    "text": "沉浸在绿色茂盛的丛林中,欣赏那些不可错过的玛雅考古遗址。"
+                },
+                {
+                    "text": "尤卡坦自然就是一个浪漫目的地,在这里你会走到一些不同寻常的地方,比如,柔软白沙的海滩和平静的翡翠绿水。"
+                },
+                {
+                    "text": "尤卡坦海滨地区的热带森林、仙人洞、红树林与海滩。"
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3813412.5324629922!2d-91.72837164601708!3d21.03125846141055!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f540ff8aad604ed%3A0xcccc217531083d0a!2zWXVjYXTDoW4!5e0!3m2!1ses-419!2smx!4v1684022688075!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/3qxRbcVFYfo0IHTiOzof1V?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "以下是阿瓜斯卡连特斯州应该被列入你的旅行清单的 5 个原因。",
+            "desciptionHover": "想了解更多关于州的信息 YUCATÁN 请点击这里",
+            "dir": "/estado"
+        },
+        {
+            "id": "Zacatecas",
+            "urlVideoTop": "https://www.youtube.com/embed/v5bCqfnHHOc?autoplay=1",
+            "titleTop": "Zacatecas",
+            "descriptionTop": "去萨卡特卡斯州的 5 个理由萨卡特卡斯州位于墨西哥中部。从 16 世纪起就以银矿中心而闻名。它具有不同海拔高度的地区,是一个闪亮的州。本地人为自己的采矿历史感到自豪,善于挖出来地球深处隐藏的白银,骄傲于其流行美食的影响。",
+            "urlImg": "ZAC_sierra de organos_2898.webp",
+            "actions": {
+                "button": {
+                    "text" : "想了解更多关于州的信息 ZACATECAS 请点击这里",
+                    "dir": "https://www.zacatecastravel.com/"
+                }
+            },
+            "titleBottom": "以下是阿瓜斯卡连特斯州应该被列入你的旅行清单的 5 个原因。",
+            "descriptionBottom": [
+                {
+                    "text": "萨卡特卡斯州是一个色彩斑斓、对人慷慨而令人眼花缭乱的州,在那里你将过上独特和沉思的经历。"
+                },
+                {
+                    "text": "其天空被认为是全墨西哥最蓝的。"
+                },
+                {
+                    "text": "其美食具有丰富的味道与香气,包括 mole(魔力酱)和 enchiladaszacatecanas(萨卡特卡斯州式奶油酱肉馅玉米饼)。"
+                },
+                {
+                    "text": "古老的旅游矿场与其银器店。"
+                },
+                {
+                    "text": "萨卡特卡斯是全国人均拥有最多博物馆的城市,为你提供许多有趣的参观选择。"
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3758930.7320455452!2d-105.18865987848196!3d23.06666422056259!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8681d1a07ec9fe6f%3A0x1c1f2dfd5e256d98!2sZacatecas!5e0!3m2!1ses-419!2smx!4v1684022913675!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/6XOFXXp91YSgCvCNawIfOw?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "以下是阿瓜斯卡连特斯州应该被列入你的旅行清单的 5 个原因。",
+            "desciptionHover": "想了解更多关于州的信息 ZACATECAS 请点击这里",
+            "dir": "/estado"
+        }
+    ]
+}

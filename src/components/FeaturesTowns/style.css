@@ -1,0 +1,50 @@
+.towns-features-ctn {
+  padding: 60px 20px 0 20px;
+}
+.towns-features-text-title {
+  font-size: 28px;
+  text-align: center;
+}
+.towns-features-videos-ctn {
+  padding: 40px 0;
+}
+.towns-features-video-card {
+  margin-bottom: 60px;
+}
+.towns-features-video {
+  width: 100%;
+  height: 100%;
+  aspect-ratio: 3/2;
+  object-fit: cover;
+}
+.towns-features-video-card-text-title {
+  font-size: 26px;
+  text-align: center;
+  margin-top: 15px;
+}
+.towns-features-video-card-text-desc {
+  font-size: 14px;
+  text-align: center;
+  margin-top: 15px;
+}
+
+@media (min-width: 992px) {
+  .towns-features-text-title {
+    font-size: 36px;
+  }
+  .towns-features-videos-ctn {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .towns-features-video-card {
+    flex: 1 0 30%;
+    margin: 20px;
+    height: 100%;
+  }
+  .towns-features-video-card-text-title {
+    font-size: 28px;
+  }
+  .towns-features-video-card-text-desc {
+    font-size: 16px;
+  }
+}

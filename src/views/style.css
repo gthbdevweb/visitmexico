@@ -1,0 +1,10 @@
+.main-content {
+  padding: 0;
+  margin: 0;
+  position: relative;
+  box-sizing: border-box;
+}
+
+.nav-show + .main-content {
+  display: none;
+}

@@ -1,0 +1,22 @@
+.states-video-ctn {
+  height: 120px;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16 / 9;
+}
+
+@media (min-width: 744px) {
+  .states-video-ctn {
+    margin-top: 80px;
+    height: 100%;
+    width: 100%;
+    height: auto;
+    aspect-ratio: 16 / 4;
+  }
+}
+
+@media (min-width: 992px) {
+  .states-video-ctn {
+    aspect-ratio: 16 / 2;
+  }
+}

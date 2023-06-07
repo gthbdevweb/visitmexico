@@ -1,0 +1,25 @@
+.rss-ctn {
+  position: fixed;
+  left: 7px;
+  top: 85px;
+  z-index: 25;
+  animation-duration: 1.3s;
+  animation-name: rss-in;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.rss-ctn > a {
+  text-decoration: none;
+  color: #fff;
+  margin-left: 3px;
+  background-color: rgba(0, 0, 0, .7);
+  border-radius: 50%;
+  padding: 9px;
+}
+
+@media (min-width: 744px) {
+  .rss-ctn {
+    top: 105px;
+  }
+}

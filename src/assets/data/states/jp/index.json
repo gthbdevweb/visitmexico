@@ -1,0 +1,1152 @@
+{
+    "urlVideoStates": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+    "states": [
+        {
+            "id": "Aguascalientes",
+            "urlVideoTop": "https://www.youtube.com/embed/g-nm1J-WXwU?&autoplay=1",
+            "titleTop": "Aguascalientes",
+            "descriptionTop": "アグアスカリエンテス州はメキシコ共和国の中心部にあります。「良い土地」、「澄んだ水 」、「澄んだ空」、そして「良い人々」の場所として知られています。",
+            "urlImg": "AGS_aguascalientes_464.webp",
+            "actions": {
+                "button": {
+                    "text" : "もっと詳しく知るには AGUASCALIENTES ここを押してください",
+                    "dir": "https://www.vivaaguascalientes.com/"
+                }
+            },
+            "titleBottom": "旅行リストに載せるべき 5 つの理由をご覧ください。",
+            "descriptionBottom": [
+                {
+                    "text": "グアダルぺ、サンマルコス、エル・エンシノとラ・エスタシオンの地区ではアグア スカリエンテス市の昔の面影が残っています。"
+                },
+                {
+                    "text": "100年以上の鉄道の伝統があります。"
+                },
+                {
+                    "text": "セロ・デル・ムエルト丘（死者の丘）を覆う夕日が美しいです。"
+                },
+                {
+                    "text": "直訳した州名（温かい水）の通り、温泉が湧きます。"
+                },
+                {
+                    "text": "デシラード（ほぐし織）の工芸品があります。"
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1893491.9893227837!2d-102.354733!3d22.040928!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8429ec143ae4d9fb%3A0x4016978679c5220!2sAguascalientes%2C%20Ags.!5e0!3m2!1ses-419!2smx!4v1683564992457!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/3mUTPSE6VyhKTsxiyHUJ66?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "旅行リストに載せるべき 5 つの理由をご覧ください。",
+            "desciptionHover": "もっと詳しく知るには AGUASCALIENTES ここを押してください",
+            "dir": "/estado"
+        },
+        {
+            "id": "BajaCalifornia",
+            "urlVideoTop": "https://www.youtube.com/embed/GLKLZeEgC24?autoplay=1",
+            "titleTop": "Baja California",
+            "descriptionTop": "コルテス海と太平洋に守られたバハ・カリフォルニア州は、特別な体験を提供します。その道 沿いには、島々、ビーチ、砂漠、峡谷、山脈、死火山が彩りを添えています。",
+            "urlImg": "BCA_rosarito_playa-952.webp",
+            "actions": {
+                "button": {
+                    "text" : "もっと詳しく知るには BAJA CALIFORNIA ここを押してください",
+                    "dir": "https://bajacalifornia.travel/es/"
+                }
+            },
+            "titleBottom": "旅行リストに載せるべき 5 つの理由をご覧ください。",
+            "descriptionBottom": [
+                {
+                    "text": "美しいビーチと、いつまでも記憶に残る、魔法のような夕日が見えます。"
+                },
+                {
+                    "text": "新鮮な魚介類によって常に際立ってきたガストロのミーがあります。"
+                },
+                {
+                    "text": "ティフアナならではの戦略的な立地と国際的な質の高いサービスにより理想のビジ ネスツーリズムとヘルスツーリズムを楽しめます。"
+                },
+                {
+                    "text": "メキシコ最大の自治体であるエンセナーダは、コルテス海と太平洋に囲まれた港市 です。その壮大な景色、陸上から海洋までの動植物を楽しめる、自然愛好家にとっ て欠かせない経験です。"
+                },
+                {
+                    "text": "「太陽を掴めた街」として知られるメヒカリ市は、コロラド川のほとり、ラグナ・ サラーダ湖の近くにあり、中華料理とステーキで有名です。"
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3526284.0084687793!2d-118.17094697813712!3d30.332849226145143!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80d7700ca877ddd3%3A0xfca4fd9f0318de8e!2sBaja%20California!5e0!3m2!1ses-419!2smx!4v1683570123340!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/5hBLmRp1Qd73LjRoHpvcpG?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "旅行リストに載せるべき 5 つの理由をご覧ください。",
+            "desciptionHover": "もっと詳しく知るには BAJA CALIFORNIA ここを押してください",
+            "dir": "/estado"
+        },
+        {
+            "id": "BajaCaliforniaSur",
+            "urlVideoTop": "https://www.youtube.com/embed/vO_nZdwKXo0?autoplay=1",
+            "titleTop": "Baja California Sur",
+            "descriptionTop": "バハ・カリフォルニア・スル州は、太平洋とコルテス海に囲まれた土地で、対照的な経験がで きるところが主な魅力であり、温かい浜辺、河口、マングローブ、オアシス、プエブロ・マヒ コ（魔法の街）、砂漠の植物、洞窟壁画などが楽しめます。",
+            "urlImg": "BCS_cabo_san_lucas_113.webp",
+            "actions": {
+                "button": {
+                    "text" : "もっと詳しく知るには BAJA CALIFORNIA SUR ここを押してください",
+                    "dir": "https://visitbajasur.travel/es/"
+                }
+            },
+            "titleBottom": "旅行リストに載せるべき 5 つの理由をご覧ください。",
+            "descriptionBottom": [
+                {
+                    "text": "家族、恋人、友人と楽しめるユニークな風景、海と空が忘れられない場所です。"
+                },
+                {
+                    "text": "そのガストロノミーにおいて、ロブスター、シタビラメ、帆立貝、海老などの魚介類の素晴らしい料理を味わえます。"
+                },
+                {
+                    "text": "国際的な質の高いホテルや飲食店などのインフラが整っており、ビジネスツーリズ ムに理想的です。"
+                },
+                {
+                    "text": "家族旅行、アドベンチャーツーリズム、ビジネスツーリズム、探し物、必要なもの は全て揃っています。"
+                },
+                {
+                    "text": "ロスカボス、ハリウッドスターでも訪れ続けている青い海のパラダイスです。高級 ホテル、高級レストラン、みんながワクワクできるあらゆる遊びが揃う35キロ以上 の観光回廊を楽しみましょう。"
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3690264.392816474!2d-114.9588129607235!3d25.41238054228561!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86afd339b5a21ec9%3A0x71dfb33aa9a75918!2sBaja%20California%20Sur!5e0!3m2!1ses-419!2smx!4v1683570336851!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/5hBLmRp1Qd73LjRoHpvcpG?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "旅行リストに載せるべき 5 つの理由をご覧ください。",
+            "desciptionHover": "もっと詳しく知るには BAJA CALIFORNIA SUR ここを押してください",
+            "dir": "/estado"
+        },
+        {
+            "id": "Campeche",
+            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "titleTop": "Campeche",
+            "descriptionTop": "カンペチェ州はメキシコ南東部の貴重な宝物です。建物や歴史にある豊かな文化が、メキシコ らしさを表します。",
+            "urlImg": "CAM_calakmul53.webp",
+            "actions": {
+                "button": {
+                    "text" : "もっと詳しく知るには CAMPECHE ここを押してください",
+                    "dir": "https://www.google.com/"
+                }
+            },
+            "titleBottom": "旅行リストに載せるべき 5 つの理由をご覧ください。",
+            "descriptionBottom": [
+                {
+                    "text": "個性的なビーチで家族と、恋人と、友達と、良い時間を過ごして、忘れられない夕 日が見られます。"
+                },
+                {
+                    "text": "そこには、ユネスコ複合世界遺産であるカラクムルの古代マヤ都市と熱帯保護林、 メキシコの貴重な遺跡があります。"
+                },
+                {
+                    "text": "州都サンフランシスコ・デ・カンペチェは、ユネスコより世界遺産として認められ ている城塞都市です。"
+                },
+                {
+                    "text": "魚介類が豊富で、料理に良く使われます。パヌーチョ、エンパナーダ、タマレス、 タコス、サメの肉を使った町名物のパンデカソンが代表的です。"
+                },
+                {
+                    "text": "結婚式場をお探しの方、カンペチェ市で映画のような思い出に残る結婚式を挙げま せんか？"
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512730.705677566!2d-124.59084255708773!3d37.151646373370205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20EE.%20UU.!5e0!3m2!1ses-419!2smx!4v1682217912140!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/41Id1RtpdXLICwdGCs848s?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "旅行リストに載せるべき 5 つの理由をご覧ください。",
+            "desciptionHover": "もっと詳しく知るには CAMPECHE ここを押してください",
+            "dir": "/estado"
+        },
+        {
+            "id": "Chiapas",
+            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "titleTop": "Chiapas",
+            "descriptionTop": "チアパス州は、感覚が刺激される土地です。コーヒーの深い香り、アタウルフォマンゴーの甘 さ、林の中を飛ぶ派手なグアカマヤ（オウム）の群れの眺め、流れ続ける水の音、伝統的な織 物の繊細さを感じることがチアパスです。",
+            "urlImg": "CHIS_yaxchilan_95.webp",
+            "actions": {
+                "button": {
+                    "text" : "もっと詳しく知るには CHIAPAS ここを押してください",
+                    "dir": "https://www.google.com/"
+                }
+            },
+            "titleBottom": "旅行リストに載せるべき 5 つの理由をご覧ください。",
+            "descriptionBottom": [
+                {
+                    "text": "チアパスはメキシコで最大の文化的多様性を持つ州であり、ツォツィル族、ソケ族 、チャムーラ族、ツェルタル族、ラカンドン族などの先住民族の発祥地です。"
+                },
+                {
+                    "text": "オアハカ州、ベラクルス州と並んで、国内で最も生物多様性が高い州の1つです。"
+                },
+                {
+                    "text": "トゥストラ・グティエレスの語源は、ソケ語で村名だった「コヤトク」（兎の場所 ）にさかのぼります。その名を今度はアステカ族がナワトル語の「トチトラン」に と訳しました。"
+                },
+                {
+                    "text": "サンクリストバル・デ・ラスカサスは美しいプエブロ・マヒコ（魔法の街）であり 、温暖な気候と文化にあふれたカラフルな街です。"
+                },
+                {
+                    "text": "コミタン・デ・ドミンゲスは古代先住民から受け継がれた村であり、プエブロ・マ ヒコとして登録されています。スペイン人の入植時期にドミニコ会員が設立しまし た。"
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512730.705677566!2d-124.59084255708773!3d37.151646373370205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20EE.%20UU.!5e0!3m2!1ses-419!2smx!4v1682217912140!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/41Id1RtpdXLICwdGCs848s?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "旅行リストに載せるべき 5 つの理由をご覧ください。",
+            "desciptionHover": "もっと詳しく知るには CHIAPAS ここを押してください",
+            "dir": "/estado"
+        },
+        {
+            "id": "Chihuahua",
+            "urlVideoTop": "https://www.youtube.com/embed/2XtTWy50hjc?autoplay=1",
+            "titleTop": "Chihuahua",
+            "descriptionTop": "北部にあるチワワ州は、メキシコ共和国最大の州であり、世界の国の面積と比較するとイギリ スが入るくらいです。この巨大な土地に含まれる様々な生態機、ガストロノミーと文化は印象 的です。",
+            "urlImg": "CHIH_creel47.webp",
+            "actions": {
+                "button": {
+                    "text" : "もっと詳しく知るには CHIHUAHUA ここを押してください",
+                    "dir": "https://visitachihuahua.com/"
+                }
+            },
+            "titleBottom": "旅行リストに載せるべき 5 つの理由をご覧ください。",
+            "descriptionBottom": [
+                {
+                    "text": "エル・チェぺ列車に乗って、メキシコのいくつかの最も美しいトンネルと山岳風景 を通過しましょう。"
+                },
+                {
+                    "text": "伝統的な料理には、「チレ・コロラード・コン・カルネ・セッカ」（干し肉の赤唐 辛子添え）、「マチャカ・コン・ウエボ」（干し裂き肉入りの炒り卵）、「チレ・ コン・アサデロ」（ポブラノペッパーとアサデロチーズのフォンデュ）、乾燥した パサード唐辛子の牛肉添え又はチーズ添え、小麦粉のトルティージャ、伝統的な「 カルネ・アサーダ」（炭火焼きステーキ）、アメリカ風のステーキ料理、「ディス カーダ」（肉炒め）があります。"
+                },
+                {
+                    "text": "バカヒパレとウエトサチの町では、タラウマラ族と一緒に現地の料理を作って食べ る体験をしたり、周りの小道を歩いたりできます。"
+                },
+                {
+                    "text": "プエブロ・マヒコ（魔法の街）に登録されているクリールは、歴史と伝統に満ちた 旅行先です。松や樫の木が生い茂る周囲は、冒険心を呼び覚まします。"
+                },
+                {
+                    "text": "チワワ州のプエブロ・マヒコであるカサス・グランデス（大きな家）は、パキメの 遺跡に近いことからその名が付けられました。1535年に、アルバル・ヌニェス・カ ベサ・デ・バカ氏は回想録で、北の方には「多くの人々と大きな家の町」があった と記録しています。"
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7169267.155057151!2d-111.33806860448709!3d28.671132722547366!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86ea449d5d484033%3A0xb7f1a7a706dd1d7b!2sChihuahua%2C%20Chih.!5e0!3m2!1ses-419!2smx!4v1684020195953!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/4L5pHmiC38UtKVz6Eh3EUe?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "旅行リストに載せるべき 5 つの理由をご覧ください。",
+            "desciptionHover": "もっと詳しく知るには CHIHUAHUA ここを押してください",
+            "dir": "/estado"
+        },
+        {
+            "id": "Coahuila",
+            "urlVideoTop": "https://www.youtube.com/embed/B2MN00vAz7A?autoplay=1",
+            "titleTop": "Coahuila",
+            "descriptionTop": "コアウイラ州は、象徴的な都市、23件を超えるワイナリー、豊富な化石や恐竜の足跡、独特な ガストロノミー、そして7つのプエブロ・マヒコ（魔法の街）などで強みを持っています。",
+            "urlImg": "COAH_2_dunas_bilbao_22.webp",
+            "actions": {
+                "button": {
+                    "text" : "もっと詳しく知るには COAHUILA ここを押してください",
+                    "dir": "https://hazturismoencoahuila.mx/"
+                }
+            },
+            "titleBottom": "旅行リストに載せるべき 5 つの理由をご覧ください。",
+            "descriptionBottom": [
+                {
+                    "text": "驚くべき夢のような風景の中には、決して忘れられない自治体、都市、プエブロ・ マヒコなどがあります。"
+                },
+                {
+                    "text": "コアウイラ州の伝統的な料理芸術は、肉愛好家のための珍味です。特に小ヤギ肉、 牛肉、仔牛肉の赤くてジューシーな高級ステーキが人気ですが、豚肉の美味しい「 カルニタス」（角煮を裂いたもの）や「チチャロン」(油で揚げた豚の皮)も負けな いくらいです。"
+                },
+                {
+                    "text": "豊かな文化の中でも、コアウイラの民族であるマスコゴ族とキカプー族が際立って います。"
+                },
+                {
+                    "text": "ワインルートは、2つのプエブロ・マヒコと整列されたような様々な自然の驚異を探 検する貴重な機会です。言うまでもなく、地域で生産された最高のワインを味わう チャンスです。"
+                },
+                {
+                    "text": "アルテアガというプエブロ・マヒコは、巨大なアルテアガ山脈にある主な観光スポ ットの1つです。この山脈の中にある森に囲まれた町は、「メキシコのスイス」と呼 ばれています。"
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3634211.9932014607!2d-104.54166938217044!3d27.186632026650457!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x868872bda68e1e29%3A0x64009ad714cd7a39!2sCoahuila%20de%20Zaragoza!5e0!3m2!1ses-419!2smx!4v1683577952331!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/4s1i0CJ2n3C5LCtuvwmCEg?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "旅行リストに載せるべき 5 つの理由をご覧ください。",
+            "desciptionHover": "もっと詳しく知るには COAHUILA ここを押してください",
+            "dir": "/estado"
+        },
+        {
+            "id": "Colima",
+            "urlVideoTop": "https://www.youtube.com/embed/XBor7DZahQA?autoplay=1",
+            "titleTop": "Colima",
+            "descriptionTop": "国の西部に位置するコリマ州では、海岸から山まで、伝統料理からイノベーティブ料理まで、 様々な体験ができます。何もかもがここで見つかります。",
+            "urlImg": "COL_manzanillo_57.webp",
+            "actions": {
+                "button": {
+                    "text" : "もっと詳しく知るには COLIMA ここを押してください",
+                    "dir": "https://turismo.col.gob.mx/"
+                }
+            },
+            "titleBottom": "旅行リストに載せるべき 5 つの理由をご覧ください。",
+            "descriptionBottom": [
+                {
+                    "text": "山でもビーチでも、魔法のような夕日をお楽しみください。"
+                },
+                {
+                    "text": "首都は、文化的アイデンティティが保護されている様々な建物が特徴的な美しい都 市です。"
+                },
+                {
+                    "text": "主に金目鯛を使った「ペスカド・ア・ラ・タジャ」のような海の風味を生かしたガ ストロノミーが楽しめます。この料理は、魚を丸ごと開いて野菜とバナナの葉で覆 って提供されます。"
+                },
+                {
+                    "text": "エル・レアルからパスクアレス・テコマンまでの観光回廊は、サーフィン大会で国 際的に知られています。"
+                },
+                {
+                    "text": "高さ 50 メートルを超える深い洞窟からなるサン・ガブリエル洞窟では、数千年にわ たって自然が成し遂げた壮大な働きを鑑賞できます。"
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d60271.55528058169!2d-103.76980724936448!3d19.24004309147311!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x842545523455a217%3A0xb6b497fc5af555e6!2sColima%2C%20Col.!5e0!3m2!1ses-419!2smx!4v1683578149738!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/4zNvTHKW4UCpARzea4OaTb?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "旅行リストに載せるべき 5 つの理由をご覧ください。",
+            "desciptionHover": "もっと詳しく知るには COLIMA ここを押してください",
+            "dir": "/estado"
+        },
+        {
+            "id": "Durango",
+            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "titleTop": "Durango",
+            "descriptionTop": "Durango es un estado para disfrutar, explorar, vivir y está considerado la reserva forestal más importante de México. Su arquitectura única y colonial son fuente de grandes historias, leyendas y cultura, además de una larga tradición cinematográfica.",
+            "urlImg": "DGO_Cd_Durango_34.webp",
+            "actions": {
+                "button": {
+                    "text" : "もっと詳しく知るには DURANGO ここを押してください",
+                    "dir": "http://visitdurango.mx/#!/"
+                }
+            },
+            "titleBottom": "旅行リストに載せるべき 5 つの理由をご覧ください。",
+            "descriptionBottom": [
+                {
+                    "text": "Entre las tradiciones y costumbres de Durango más arraigadas están: el Carnaval celebrado entre febrero y marzo, los días previos al miércoles de ceniza. Incluye disfraces, bailes y desfiles."
+                },
+                {
+                    "text": "Su portentosa gastronomía, donde destacan el caldillo, carnitas de chivo, barbacoa de olla, tamales de chile colorado, torrejas con miel de maguey entre muchos otro más."
+                },
+                {
+                    "text": "Mapimí, el primer Pueblo Mágico de Durango. Pertenece al “Camino Real de Tierra Adentro” en la lista de la UNESCO desde el 2010."
+                },
+                {
+                    "text": "Nombre de Dios, el pueblo más antiguo del estado, fundado como villa de españoles en 1563 (sobre lo que antes había sido una misión franciscana)."
+                },
+                {
+                    "text": "La zona del silencio es un lugar lleno de misterio y leyendas. Un desierto donde las señales de radio se pierden y tu brújula deja de funcionar."
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d58307.79812547615!2d-104.68892432215172!3d24.022692792116143!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x869bb7a518bcdf73%3A0xbfdd8ea63a6c4ad4!2sDurango%2C%20Dgo.!5e0!3m2!1ses-419!2smx!4v1683578320871!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/41U1BZKUs84ZFqyQXl70F3?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "旅行リストに載せるべき 5 つの理由をご覧ください。",
+            "desciptionHover": "もっと詳しく知るには DURANGO ここを押してください",
+            "dir": "/estado"
+        },
+        {
+            "id": "EstadoDeMexico",
+            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "titleTop": "Estado de México",
+            "descriptionTop": "Ubicado en el corazón del país, el estado ofrece una amplia oferta de destinos y atractivos como sus 10 Pueblos Mágicos, 23 Pueblos con Encanto y cuatro sitios declarados Patrimonio de la Humanidad por la UNESCO.",
+            "urlImg": "MEX_hda_flores_t_12.webp",
+            "actions": {
+                "button": {
+                    "text" : "もっと詳しく知るには ESTADO DE MÉXICO ここを押してください",
+                    "dir": "https://www.google.com/"
+                }
+            },
+            "titleBottom": "旅行リストに載せるべき 5 つの理由をご覧ください。",
+            "descriptionBottom": [
+                {
+                    "text": "Por su riqueza cultura, es tierra de los pueblos Mazahua, Otomí, Matlazinca, Tlahuica y Nahua, que heredaron su cultura y tradiciones."
+                },
+                {
+                    "text": "Algunos platos típicos del Estado de México son los mixiotes, los tlacoyos, las quesadillas de hongos, los tamales o el guajolote en salsa verde o en pipián."
+                },
+                {
+                    "text": "¿Te gustaría conocer un lugar lleno de hermosos paisajes, clima cálido y con un gran legado prehispánico? Entonces Malinalco te encantará."
+                },
+                {
+                    "text": "Los amplios y bellos espacios abiertos del Estado son lugar perfecto para el glamping, la combinación entre glamour + camping."
+                },
+                {
+                    "text": "En Metepec, convergen la modernidad y la tradición, este municipio alberga una de las piezas artesanales más representativas para todos los mexicanos: el Árbol de la Vida."
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512730.705677566!2d-124.59084255708773!3d37.151646373370205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20EE.%20UU.!5e0!3m2!1ses-419!2smx!4v1682217912140!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/41Id1RtpdXLICwdGCs848s?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "旅行リストに載せるべき 5 つの理由をご覧ください。",
+            "desciptionHover": "もっと詳しく知るには ESTADO DE MÉXICO ここを押してください",
+            "dir": "/estado"
+        },
+        {
+            "id": "Guanajuato",
+            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "titleTop": "Guanajuato",
+            "descriptionTop": "Guanajuato es el destino turístico colonial más importante de México debido a la diversidad de sus atractivos, como sus seis Pueblos Mágicos, dos Ciudades Patrimonio y cinco zonas arqueológicas.",
+            "urlImg": "GTO_guanajuato_338.webp",
+            "actions": {
+                "button": {
+                    "text" : "もっと詳しく知るには GUANAJUATO ここを押してください",
+                    "dir": "https://www.google.com/"
+                }
+            },
+            "titleBottom": "旅行リストに載せるべき 5 つの理由をご覧ください。",
+            "descriptionBottom": [
+                {
+                    "text": "Este estado es sinónimo de arte y cultura, sede del prestigioso Festival Internacional de Cine de Guanajuato y el Cervantino."
+                },
+                {
+                    "text": "Gastronomía preparada con ingredientes endémicos que brindan sabores únicos a cada platillo."
+                },
+                {
+                    "text": "Dolores Hidalgo, el primer pueblo mágico del estado es el origen de grandes historias para México, aquí inicio el movimiento de independencia nacional y es el lugar de nacimiento del más grande compositor de música popular en México: José Alfredo Jiménez."
+                },
+                {
+                    "text": "Es un estado donde encuentras la ruta de la plata y visitar minas antiguas."
+                },
+                {
+                    "text": "El estado de Guanajuato es el destino ideal cuando buscas la combinación entre negocios y placer, complementando una reunión o un congreso con opciones para el entretenimiento y la relajación."
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512730.705677566!2d-124.59084255708773!3d37.151646373370205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20EE.%20UU.!5e0!3m2!1ses-419!2smx!4v1682217912140!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/41Id1RtpdXLICwdGCs848s?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "旅行リストに載せるべき 5 つの理由をご覧ください。",
+            "desciptionHover": "もっと詳しく知るには GUANAJUATO ここを押してください",
+            "dir": "/estado"
+        },
+        {
+            "id": "Guerrero",
+            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "titleTop": "Guerrero",
+            "descriptionTop": "Guerrero es un estado ubicado al sur de México, cuenta con una gran oferta turística que incluye paradisiacas playas, imponentes montañas y paisajes de ensueño. Una tierra brava, bella y sorprendente.",
+            "urlImg": "GRO_acapulco_1317.webp",
+            "actions": {
+                "button": {
+                    "text" : "もっと詳しく知るには GUERRERO ここを押してください",
+                    "dir": "https://www.google.com/"
+                }
+            },
+            "titleBottom": "旅行リストに載せるべき 5 つの理由をご覧ください。",
+            "descriptionBottom": [
+                {
+                    "text": "Acapulco es un clásico destino de playa, con una oferta de 20 mil habitaciones de hotel y una gran variedad gastronómica y de actividades recreativas; ideal para un viaje en familia."
+                },
+                {
+                    "text": "Ixtapa, Zihuatanejo, es un binomio conformado por un tradicional pueblito de pescadores con hermosas playas y mucho sabor mexicano, sumado a una zona de desarrollo con grandes hoteles resort y muchas actividades relacionadas con la naturaleza."
+                },
+                {
+                    "text": "Taxco de Alarcón, es un brillante y hermoso Pueblo Mágico famoso por la plata que se produce y comercializa desde hace varias décadas."
+                },
+                {
+                    "text": "Una gastronomía que comprende recetas prehispánicas, no dejes de probar el mole rojo, verde, clemole, huaxmole, las tortillas, memelas, chalupas, y los portentosos pozoles blanco, verde."
+                },
+                {
+                    "text": "Guerrero ha logrado fama internacional gracias a su gran cantidad de manufacturas artesanales, que son reconocidas por sus particularidades étnicas y su incomparable belleza."
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512730.705677566!2d-124.59084255708773!3d37.151646373370205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20EE.%20UU.!5e0!3m2!1ses-419!2smx!4v1682217912140!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/41Id1RtpdXLICwdGCs848s?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "旅行リストに載せるべき 5 つの理由をご覧ください。",
+            "desciptionHover": "もっと詳しく知るには GUERRERO ここを押してください",
+            "dir": "/estado"
+        },
+        {
+            "id": "Hidalgo",
+            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "titleTop": "Hidalgo",
+            "descriptionTop": "Conventos, haciendas, minas, aventura, cultura y tradición, constituyen el acervo turístico hidalguense, el ambiente que se respira transmite el valor de las culturas milenarias asentadas en sus tierras.",
+            "urlImg": "Hgo_tula_003.webp",
+            "actions": {
+                "button": {
+                    "text" : "もっと詳しく知るには HIDALGO ここを押してください",
+                    "dir": "https://www.google.com/"
+                }
+            },
+            "titleBottom": "旅行リストに載せるべき 5 つの理由をご覧ください。",
+            "descriptionBottom": [
+                {
+                    "text": "Te sorprenderá su gastronomía, es vasta y riquísima, desde una de las mejores barbacoas del país hasta escamoles y chinicuiles."
+                },
+                {
+                    "text": "Probar la bebida de los dioses: el pulque, una bebida alcohólica de origen prehispánico que se obtiene de las pencas del maguey."
+                },
+                {
+                    "text": "Zempoala es conocido por sus hermosas haciendas pulqueras. Este municipio además tiene la distinción de tener el nombramiento de Pueblo con Sabor, ganado por su excelente gastronomía típica."
+                },
+                {
+                    "text": "Mineral del chico, primera área natural protegida de México, considerada actualmente la meca del turismo de aventura."
+                },
+                {
+                    "text": "Entre las riquezas de Hidalgo hay diversidad de escenarios históricos, culturales, arquitectónicos y naturales que han servido de locaciones para producciones fílmicas."
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512730.705677566!2d-124.59084255708773!3d37.151646373370205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20EE.%20UU.!5e0!3m2!1ses-419!2smx!4v1682217912140!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/41Id1RtpdXLICwdGCs848s?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "旅行リストに載せるべき 5 つの理由をご覧ください。",
+            "desciptionHover": "もっと詳しく知るには HIDALGO ここを押してください",
+            "dir": "/estado"
+        },
+        {
+            "id": "Jalisco",
+            "urlVideoTop": "https://www.youtube.com/embed/N7MmjzREtig?autoplay=1",
+            "titleTop": "Jalisco",
+            "descriptionTop": "メキシコ西部に位置するハリスコ州は、マリアッチとテキーラという、世界に向けてメキシコ を代表する二大特産品のある土地です。１２５の各行政区は美しいハリスコというモザイクの 、一つ一つの貴重なピースだと言えます。",
+            "urlImg": "JAL_charros_179.webp",
+            "actions": {
+                "button": {
+                    "text" : "もっと詳しく知るには JALISCO ここを押してください",
+                    "dir": "https://visitjalisco.mx/"
+                }
+            },
+            "titleBottom": "旅行リストに載せるべき 5 つの理由をご覧ください。",
+            "descriptionBottom": [
+                {
+                    "text": "州都グアダラハラは、余すところなく伝統とモダンが調和する街です。"
+                },
+                {
+                    "text": "ハリスコの食べ物にきっと舌鼓を打つでしょう。数あるなかでもカルネ・エン・ス・フゴ、トルタ・アオガダ、バルバコア、グアダラハラ風ポソレが飛び抜けておいしいです。"
+                },
+                {
+                    "text": "太陽と砂に加えてエコツアーが数えきれないほどありますが、その魅力にたまらず、どぶんとメキシコ随一の海へ飛び込んでしまうにちがいありません。"
+                },
+                {
+                    "text": "プエルト・バジャルタには、シエラ・マドレ山脈に囲まれた浜辺があり、自然の魅力に触れることができます。"
+                },
+                {
+                    "text": "ハリスコはテキーラの生まれた土地です。テキーラとはアガベの蒸留酒、地球上でもっともよく飲まれるお酒の一つで、メキシコの文化を象徴する飲み物です。"
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1909231.479256641!2d-104.9222329384955!3d20.83300941682906!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x841f40ebd4624e6f%3A0xa0feb0a35a1b4a53!2sJalisco!5e0!3m2!1ses-419!2smx!4v1683578423258!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/5ApmWMTZktBXbvPeD5UdXl?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "旅行リストに載せるべき 5 つの理由をご覧ください。",
+            "desciptionHover": "もっと詳しく知るには JALISCO ここを押してください",
+            "dir": "/estado"
+        },
+        {
+            "id": "Michoacan",
+            "urlVideoTop": "https://www.youtube.com/embed/nbfvea4Bt0k?autoplay=1",
+            "titleTop": "Michoacán",
+            "descriptionTop": "ミチョアカン州はメキシコ中央西部に位置します。主要都市は、州都モレリアとパツクアロとウルアパンの三都市です。空港や陸上交通などの充実したインフラとツアー業者の気配りのおかげで、これら三都市はいずれも世界と繋がり、どこからでもアクセスが容易です。",
+            "urlImg": "MICH_patzcuaro_63.webp",
+            "actions": {
+                "button": {
+                    "text" : "もっと詳しく知るには MICHOACÁN ここを押してください",
+                    "dir": "https://michoacan.travel/"
+                }
+            },
+            "titleBottom": "旅行リストに載せるべき 5 つの理由をご覧ください。",
+            "descriptionBottom": [
+                {
+                    "text": "ミチョアカンの死者への儀式はあざやかで生き生きとしています。特に、パツクアロ、ツィンツンツァン、ハニツィオ、ハラクアロ、イワツィオとツルムタロの地区の儀式をご覧になってください。"
+                },
+                {
+                    "text": "ミチョアカンは、湖や森林を含めた美しい自然を豊富にもつ州の一つです。例えば、モナルカ蝶自然保護区、パリクティン火山、エドゥアルド・ルイス国立公園、カメクアロ湖国立公園などです。"
+                },
+                {
+                    "text": "ミチョアカンの食べ物は多彩でありつつ味わいがあります。なかでもコルンダやタマル・デ・セニサと呼ばれる食べ物があります。塩水湖の塩と豚のラードと酵母を混ぜたとうもろこしの生地でできていて、さらにそこへ灰が少々加えてあるのです。"
+                },
+                {
+                    "text": "ミチョアカンにはモナルカ蝶を見ることのできる自然保護区が６つあります。この生き物を通して自然の素晴らしさに触れることができます。"
+                },
+                {
+                    "text": "コスタ・シエラ海岸では多種のウミガメの産卵を見ることができますし、温泉・冷泉の保養地も数多くあります。"
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1929744.9946309759!2d-103.21985596445734!3d19.150024291328236!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x842a5f3e1eb35cb7%3A0x3bc7650cf34be0d4!2sMichoac%C3%A1n!5e0!3m2!1ses-419!2smx!4v1683578604854!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/2yaOANtCx9FabUjU7tx998?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "旅行リストに載せるべき 5 つの理由をご覧ください。",
+            "desciptionHover": "もっと詳しく知るには MICHOACÁN ここを押してください",
+            "dir": "/estado"
+        },
+        {
+            "id": "Morelos",
+            "urlVideoTop": "https://www.youtube.com/embed/6rqT90hF-HM?autoplay=1",
+            "titleTop": "Morelos",
+            "descriptionTop": "モレロス州は類をみないほど豊かな文化をもつ州で、メキシコの中央南部に位置します。モレロスの文化はいくつもの枝が連なってできています。その一つ一つに正真なる特色を見出すことができ、間違いなくさらなる好奇心をそそられるでしょう。",
+            "urlImg": "MOR_axochiapan_t_164.webp",
+            "actions": {
+                "button": {
+                    "text" : "もっと詳しく知るには MORELOS ここを押してください",
+                    "dir": "https://visitmorelos.mx/"
+                }
+            },
+            "titleBottom": "旅行リストに載せるべき 5 つの理由をご覧ください。",
+            "descriptionBottom": [
+                {
+                    "text": "モレロスは伝統であり、今を生きる歴史です。ぜひアシエンダや博物館を通してその過去に触れ、エミリアーノ・サパタ将軍の土地を歩いてみてください。"
+                },
+                {
+                    "text": "モレロスは珍しい食べ物と伝統があふれる場所です。きっと滞在中に新しい発見があります。かの有名なジェカピストラのセシーナから代表的なタコス・アコラサドスまで、この州でしか出会えない食べ物ばかりです。"
+                },
+                {
+                    "text": "州都のクエルナバカは永遠なる春の街、自然と文化に満ち溢れた場所です。"
+                },
+                {
+                    "text": "テポストランは、テポステコ山に見守られる村でプエブロ・マヒコ（魔法の街）に登録されています。神秘と手工芸と最良の気候と心休まる雰囲気を備えていますが、それ以上に、活気づいたエネルギーを感じることのできる土地です。"
+                },
+                {
+                    "text": "トラヤカパンはプエブロ・マヒコに登録されていて、先スペイン時代の街の様子を今にとどめている数少ない地域の一つです。"
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d483646.40127353213!2d-99.39332388044409!3d18.731748998143765!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85cddfae25f6fe47%3A0x975f8225a169dd0f!2sMorelos!5e0!3m2!1ses-419!2smx!4v1683578712156!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/2yaOANtCx9FabUjU7tx998?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "旅行リストに載せるべき 5 つの理由をご覧ください。",
+            "desciptionHover": "もっと詳しく知るには MORELOS ここを押してください",
+            "dir": "/estado"
+        },
+        {
+            "id": "Nayarit",
+            "urlVideoTop": "https://www.youtube.com/embed/vSV--a4sQa8?autoplay=1",
+            "titleTop": "Nayarit",
+            "descriptionTop": "ナヤリット州はメキシコ北西部に位置します。この魅惑的な地域は広大な多様性を抱えていて、湖と森林と海と、そして国内指折りの大きな山脈も見ることができます。",
+            "urlImg": "NAY_RinconDeGuayabitos_Playas_0529.webp",
+            "actions": {
+                "button": {
+                    "text" : "もっと詳しく知るには NAYARIT ここを押してください",
+                    "dir": "https://descubrevallenayarit.com/"
+                }
+            },
+            "titleBottom": "旅行リストに載せるべき 5 つの理由をご覧ください。",
+            "descriptionBottom": [
+                {
+                    "text": "州のどこを訪れても五感を刺激する体験ができ、州の素晴らしさを味わえることでしょう。"
+                },
+                {
+                    "text": "州都テピックは必須の目的地です。その名前はナワトル語で「頑丈な岩の場所」を指します。"
+                },
+                {
+                    "text": "ナヤリットの名物は海産物が主役です。サメや小ザメ、マダイ、海老、それから牡蠣が皿に並びます。一口いかがですか？"
+                },
+                {
+                    "text": "コンポステラ村は州の南沿岸にあります。煙草の葉で作られる工芸品とサント・ドミンゴ・デ・アポストル教会で有名な場所です。プンタ・クストディア沿岸にも足を運んでください。"
+                },
+                {
+                    "text": "プエブロ・マヒコ（魔法の街）であるハラ村はエル・セボルコ火山のふもとにあります。付近には谷があり、サイクリング、ハイキング、植物観察、それにキャンプを楽しむことができます。"
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1896187.0215287085!2d-106.5235616027901!3d21.838616787901028!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8420a89ce63edb47%3A0xc2c8f5a28694d239!2sNayarit!5e0!3m2!1ses-419!2smx!4v1683578829322!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/4t6rePG9VrNLRrGhHO9ibz?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "旅行リストに載せるべき 5 つの理由をご覧ください。",
+            "desciptionHover": "もっと詳しく知るには NAYARIT ここを押してください",
+            "dir": "/estado"
+        },
+        {
+            "id": "NuevoLeon",
+            "urlVideoTop": "https://www.youtube.com/embed/bfU0P-cc9dU?autoplay=1",
+            "titleTop": "Nuevo León",
+            "descriptionTop": "メキシコ北東部で出会うとびきりの場所。コロニアル様式の街角は、プエブロ・マヒコ（魔法の街）であるサンティアゴ、リナレス、ブスタマンテが際立っています。ヌエボ・レオン州はたくさんの顔を持つ比類なき場所で、冒険と商売とカルニータ・アサダの本場です。ようこそ！",
+            "urlImg": "NL_Villa_Santiago398.webp",
+            "actions": {
+                "button": {
+                    "text" : "もっと詳しく知るには NUEVO LEÓN ここを押してください",
+                    "dir": "https://nuevoleon.travel/"
+                }
+            },
+            "titleBottom": "旅行リストに載せるべき 5 つの理由をご覧ください。",
+            "descriptionBottom": [
+                {
+                    "text": "州都であるモンテレイはその首都圏がメキシコ第三の都市であり、目を見張る数々の建物と斬新な商業施設が街に彩りを与え、伝統ある食事はその独特の風味が魅力的です。"
+                },
+                {
+                    "text": "肉こそがヌエボ・レオンの食べ物の主役です。良質な部位の肉のなかでも、子ヤギの肉はその首位に立ち、並外れた代表作です。"
+                },
+                {
+                    "text": "リナレスの街並みには平穏さが漂い、同時に堂々とした建築物が軒を連ねます。"
+                },
+                {
+                    "text": "ブスタマンテは樹々に包まれた場所にあり、メスカル工場が村の顔、さらに奥へと進めば独特な建築様式を持つ古い家々を見物することができます。"
+                },
+                {
+                    "text": "サンティアゴはシエラ・マドレ山脈東部とセッロ・デ・ラ・シジャ山の間にひっそりとあるプエブロ・マヒコです。村の家々と通りの数々が大きな見どころです。"
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1844172.8377582757!2d-101.13338097076416!3d25.475011940013584!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86629584a2a5b05d%3A0x701df442c36cbbc6!2sNuevo%20Le%C3%B3n!5e0!3m2!1ses-419!2smx!4v1683578947759!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/75BAwr4oD63XJP93w3wq8m?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "旅行リストに載せるべき 5 つの理由をご覧ください。",
+            "desciptionHover": "もっと詳しく知るには NUEVO LEÓN ここを押してください",
+            "dir": "/estado"
+        },
+        {
+            "id": "Oaxaca",
+            "urlVideoTop": "https://www.youtube.com/embed/hKeKplolfMs?autoplay=1",
+            "titleTop": "Oaxaca",
+            "descriptionTop": "オアハカ州はメキシコの南に位置します。多様性があり、彩り豊かに光り輝き、文化と自然がいっぱいの場所、本物のジュエリーです。オアハカの、色とりどりで伝統に溢れた街並みを歩けば、その行く先々の街角で歴史と工芸と美味しい料理と味わいあるメスカルに出会えることでしょう。",
+            "urlImg": "OAX_Hierve_el_agua3023.webp",
+            "actions": {
+                "button": {
+                    "text" : "もっと詳しく知るには OAXACA ここを押してください",
+                    "dir": "http://www.oaxaca.travel/index.php/es/"
+                }
+            },
+            "titleBottom": "旅行リストに載せるべき 5 つの理由をご覧ください。",
+            "descriptionBottom": [
+                {
+                    "text": "州都オアハカ・デ・フアレスは世界遺産に登録され、その伝統的な輝きによって世界で二つとない場所となっています。"
+                },
+                {
+                    "text": "オアハカの料理はメキシコの中でも指折り数える代表的で、なおかつ品数が豊富です。伝統的な一品は、七種もあるモレ・オアハケーニョです。七種すべて味見してみませんか？"
+                },
+                {
+                    "text": "ルタ・デル・メスカルの魅力あるコースを訪れてください。世界に名の知れたメスカルというかの美味しいお酒が手作りされる過程を知ることができるでしょう。"
+                },
+                {
+                    "text": "ウアトゥルコへと足を運べば、三十六あるビーチで羽を伸ばすことができます。ときには素晴らしい風景を眺め、ときにはその水の流れに勢いある生命力を感じることでしょう。また、自然と戯れつつスポーツフィッシングを楽しむこともできます。"
+                },
+                {
+                    "text": "もう一つの滞在先はプエルト・エスコンディード、太平洋側にあります。とんでもない波がうねる浜辺から自然プールと見紛うほど穏やかな浜辺まで、多様な浜辺はストレス解消にもってこいの場所です。夜明けを知らないパーティを楽しむこともできます。"
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d603021.2045554055!2d-96.97536878788152!3d16.800457801053078!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85c72249df26d9b1%3A0xac88a77657dffc3b!2sOaxaca%20de%20Ju%C3%A1rez%2C%20Oax.!5e0!3m2!1ses-419!2smx!4v1684020627840!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/06kfpfp3bsE54c0r0GjoJv?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "旅行リストに載せるべき 5 つの理由をご覧ください。",
+            "desciptionHover": "もっと詳しく知るには OAXACA ここを押してください",
+            "dir": "/estado"
+        },
+        {
+            "id": "Puebla",
+            "urlVideoTop": "https://www.youtube.com/embed/inxcwKHquVQ?autoplay=1",
+            "titleTop": "Puebla",
+            "descriptionTop": "Ubicada al este central y custodiada por los volcanes Popocatépetl e Iztaccíhuatl se encuentra Puebla. Te maravillarás con sus 10 Pueblos Mágicos, cascadas, lagunas, parques nacionales, senderos y la gran reserva de Tehuacán- Cuicatlán.",
+            "urlImg": "PUE_catedral_42.webp",
+            "actions": {
+                "button": {
+                    "text" : "もっと詳しく知るには PUEBLA ここを押してください",
+                    "dir": "https://www.visitpuebla.mx/es/"
+                }
+            },
+            "titleBottom": "旅行リストに載せるべき 5 つの理由をご覧ください。",
+            "descriptionBottom": [
+                {
+                    "text": "El Centro Histórico de la capital poblana, construido con cúpulas, torres, campanas, talavera, ladrillo y argamasas blancas, ha sido declarado desde 1987 como Patrimonio Cultural de la Humanidad por la UNESCO."
+                },
+                {
+                    "text": "Las artesanías de los poblanos han puesto en alto a México con las manos mágicas de los indígenas."
+                },
+                {
+                    "text": "La tradición y costumbres son un legado místico. La talavera poblana es una de las artesanías que representan a Puebla en el mundo, razón por la que la UNESCO la declaró Patrimonio Cultural Intangible de la Humanidad."
+                },
+                {
+                    "text": "La gastronomía es reconocida en todo México por las manos creadoras de las religiosas de los conventos poblanos. Cuna del mole, uno de los platillos más emblemáticos de México."
+                },
+                {
+                    "text": "Conoce la magia de Atlixco y déjate encantar por su buen clima, exuberante naturaleza y gran actividad comercial y turística; características que lo catalogan como el lugar con el mejor clima del mundo."
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d967742.7146243165!2d-98.88511791946453!3d18.652999658222356!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85cfc0bd5ebc7a3b%3A0x48a6461de494ad95!2sPuebla%2C%20Pue.!5e0!3m2!1ses-419!2smx!4v1684020864980!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/0Ahe1HuCdpwmXe2qFlt7xc?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "旅行リストに載せるべき 5 つの理由をご覧ください。",
+            "desciptionHover": "もっと詳しく知るには PUEBLA ここを押してください",
+            "dir": "/estado"
+        },
+        {
+            "id": "Queretaro",
+            "urlVideoTop": "https://www.youtube.com/embed/EhbIkBe3K0I?autoplay=1",
+            "titleTop": "Querétaro",
+            "descriptionTop": "Querétaro es una joya geográfica de México que posee los más diversos atractivos turísticos para todos los gustos e intereses que buscan una alternativa en el centro del país. Este lugar lo tiene todo: modernidad, tradición, bosques y deliciosos vinos.",
+            "urlImg": "QRO_sierra_gorda_422.webp",
+            "actions": {
+                "button": {
+                    "text" : "もっと詳しく知るには QUERÉTARO ここを押してください",
+                    "dir": "https://queretaro.travel/"
+                }
+            },
+            "titleBottom": "旅行リストに載せるべき 5 つの理由をご覧ください。",
+            "descriptionBottom": [
+                {
+                    "text": "Querétaro es uno de los estados con más Pueblos Mágicos en el país."
+                },
+                {
+                    "text": "Su capital es alucinante, combina tradición y vanguardismo a la perfección, un lugar lleno de cultura y actividades para todos los públicos."
+                },
+                {
+                    "text": "Su gastronomía mestiza, que incluye barbacoa, el pollo en huerto, las acamayas, las carnitas, unas gorditas de migajas, el tapeado, el asado de cordero, los guajolotes fritos, etc."
+                },
+                {
+                    "text": "Para los amantes del deporte, Xtrail México les encantará. Corredores de todas partes se reúnen para recorrer diferentes ecosistemas, disfrutar la naturaleza, hacer comunidad y superarse sus propias metas."
+                },
+                {
+                    "text": "Con paisajes de ensueño, parecería mentira que a unos pocos kilómetros de la capital, se encuentre una zona boscosa al sur de Querétaro, lo que la hace el destino ideal para desprenderse de la cotidianidad citadina y descansar a la sombra de árboles centenarios."
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d954043.2427950689!2d-100.70136887210424!3d20.923122726456526!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d35b8fdc5b9255%3A0x97b094aa561b832f!2sSantiago%20de%20Quer%C3%A9taro%2C%20Qro.!5e0!3m2!1ses-419!2smx!4v1684021053247!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/5xQPBd7Gs4IIhUgqytSqvQ?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "旅行リストに載せるべき 5 つの理由をご覧ください。",
+            "desciptionHover": "もっと詳しく知るには QUERÉTARO ここを押してください",
+            "dir": "/estado"
+        },
+        {
+            "id": "QuintanaRoo",
+            "urlVideoTop": "https://www.youtube.com/embed/jnbG-1MbFWg?autoplay=1",
+            "titleTop": "Quintana Roo",
+            "descriptionTop": "Ubicado al sureste de México, Quintana Roo, es una región única en el mundo, diversa en cuanto a destinos y atractivos turísticos: Mar azul, playas de arena blanca, selva tropical, zonas arqueológicas, cenotes, ríos subterráneos, islas, lagunas, cultura Maya viva e historia. 14 destinos turísticos: Holbox, Isla Mujeres, Costa Mujeres, Cancún, la Riviera Maya, que comprende a Puerto Morelos, Playa del Carmen y Tulum, Isla Cozumel, Maya Ka’an así como la Grand Costa Maya integrada por Mahahual, Bacalar y Chetumal.",
+            "urlImg": "Qroo_Xcaret282_2.webp",
+            "actions": {
+                "button": {
+                    "text" : "もっと詳しく知るには QUINTANA ROO ここを押してください",
+                    "dir": "https://www.caribemexicano.travel/"
+                }
+            },
+            "titleBottom": "旅行リストに載せるべき 5 つの理由をご覧ください。",
+            "descriptionBottom": [
+                {
+                    "text": "El Caribe Mexicano es un paraíso natural repleto de aventuras donde podrás olvidarte de la rutina y conectar con la flora y fauna de la región."
+                },
+                {
+                    "text": "Al sur de Quintana Roo se encuentra la Grand Costa Maya, una bella región conformada por los destinos de Chetumal, Bacalar y Mahahual. Su naturaleza exuberante, sistemas lagunares, playas tranquilas de suave oleaje, historia, cultura, sitios arqueológicos, y singulares atractivos por descubrir lo hacen un auténtico paraíso cada uno de sus rincones."
+                },
+                {
+                    "text": "Experimenta un recorrido culinario de aromas, sabores y texturas únicas a lo largo de todos los destinos en el Caribe Mexicano. Los mejores productos del mar y la tierra te esperan."
+                },
+                {
+                    "text": "Cancún es una ciudad única, una urbe cosmopolita que conjuga diversión y cultura a la perfección. Sitios arqueológicos y hoteles de lujo, modernidad y tradición, ¿hay algo que Cancún no tenga?"
+                },
+                {
+                    "text": "20% del territorio de Quintana Roo está protegido. Esto incluye sitios que son Áreas Naturales Protegidas, Reservas de la Biósfera, Parques Nacionales, Áreas de Protección de Flora y Fauna y Santuarios de diversas especies de animales. ¡Aquí no hay excusas para no salir a la naturaleza!"
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3845592.174182109!2d-90.64439106890148!3d19.735554426711545!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f4ffcf0eac32695%3A0xc4f0c52a484c8d9c!2sQuintana%20Roo!5e0!3m2!1ses-419!2smx!4v1684021214206!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/3jLxQG2AbDNOa3eL5AV4N4?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "旅行リストに載せるべき 5 つの理由をご覧ください。",
+            "desciptionHover": "もっと詳しく知るには QUINTANA ROO ここを押してください",
+            "dir": "/estado"
+        },
+        {
+            "id": "SanLuisPotosi",
+            "urlVideoTop": "https://www.youtube.com/embed/1gEAijlXnjc?autoplay=1",
+            "titleTop": "San Luis Potosí",
+            "descriptionTop": "Ubicado al centro de México, San Luis Potosí es un destino unido por los contrastes de sus cuatro regiones. Incontables atractivos turísticos desde el enigmático desierto hasta la increíble Huasteca Potosina te esperan para sorprenderte.",
+            "urlImg": "SLP_realdecatorce_424.webp",
+            "actions": {
+                "button": {
+                    "text" : "もっと詳しく知るには SAN LUIS POTOSÍ ここを押してください",
+                    "dir": "https://visitasanluispotosi.com/"
+                }
+            },
+            "titleBottom": "旅行リストに載せるべき 5 つの理由をご覧ください。",
+            "descriptionBottom": [
+                {
+                    "text": "Vuela en bicicleta a una altura de 250 metros de altura en el bello pueblo mágico de Xilitla."
+                },
+                {
+                    "text": "El Túnel de Ogarrio de 2.5 km de recorrido, que es la entrada a experiencias inolvidables mediante caminos empedrados y esplendor minero en el Pueblo Mágico de Real de Catorce."
+                },
+                {
+                    "text": "La exuberante vegetación de Ciudad Valles, así como sus actividades turísticas como el salto en cascadas, visitar la Selva Tének, pasear por Jardín Hidalgo o en trajinera por el Río Valles, entre muchos otros."
+                },
+                {
+                    "text": "Realizar deportes de aventura y actividades al aire libre en el Pueblo Mágico de Aquismón, en la Huasteca Potosina."
+                },
+                {
+                    "text": "Las imponentes y múltiples cascadas de San Luis Potosí, como la de Tamasopo, El Salto, Minas Viejas, entre muchas otras."
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1892526.8016636858!2d-102.27444269316865!3d22.112954982526595!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x842aa20005acfb79%3A0xed2ee29afe18257!2sSan%20Luis%2C%20S.L.P.!5e0!3m2!1ses-419!2smx!4v1684021496107!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/0xymn7NdxdlCLnDFL7ffQ1?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "旅行リストに載せるべき 5 つの理由をご覧ください。",
+            "desciptionHover": "もっと詳しく知るには SAN LUIS POTOSÍ ここを押してください",
+            "dir": "/estado"
+        },
+        {
+            "id": "Sinaloa",
+            "urlVideoTop": "https://www.youtube.com/embed/MKX2Na-l-a4?autoplay=1",
+            "titleTop": "Sinaloa",
+            "descriptionTop": "Sinaloa, ubicado en el noroeste de México, es dueño de 650 kilómetros de litoral, lo que permite ofrecer bastas experiencias de sol y playa. Culiacán tiene mucho que ofrecer para todos los sentidos. Negocios, cultura, arte, ocio, educación y por supuesto, fiesta y diversión.",
+            "urlImg": "SIN_mazatlan_playa-750.webp",
+            "actions": {
+                "button": {
+                    "text" : "もっと詳しく知るには SINALOA ここを押してください",
+                    "dir": "https://sinaloa.travel/"
+                }
+            },
+            "titleBottom": "旅行リストに載せるべき 5 つの理由をご覧ください。",
+            "descriptionBottom": [
+                {
+                    "text": "Sus principales centros turísticos son Mazatlán, Culiacán y Los Mochis."
+                },
+                {
+                    "text": "Su deliciosa gastronomía, principalmente basada en productos del mar y los cortes de carne."
+                },
+                {
+                    "text": "Cuenta con 4 Pueblos Mágicos: El Rosario, Cosalá, Mocorito y El Fuerte, además cuenta con salidas del único tren turístico en México, la ruta Chepe Express rumbo a las majestuosas Barrancas del Cobre."
+                },
+                {
+                    "text": "Mazatlán es el puerto colonial con más historia en la costa del Pacífico mexicano, además de un destino turístico popular y hermoso."
+                },
+                {
+                    "text": "Las pequeñas callejuelas empedradas y paisajes paradisiacos de sus pueblos mágicos, enriquecidos por su historia minera, clima tropical, viejas iglesias y leyendas fantasmales."
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3710686.7360458025!2d-110.06058980487454!3d24.73657650691432!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x869f539428a74959%3A0x9c7bdf760dbe5fef!2sSinaloa!5e0!3m2!1ses-419!2smx!4v1684021652283!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/57qATI59zt97GfYpac1FoS?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "旅行リストに載せるべき 5 つの理由をご覧ください。",
+            "desciptionHover": "もっと詳しく知るには SINALOA ここを押してください",
+            "dir": "/estado"
+        },
+        {
+            "id": "Sonora",
+            "urlVideoTop": "https://www.youtube.com/embed/n5xkeVm3bws?autoplay=1",
+            "titleTop": "Sonora",
+            "descriptionTop": "Sonora es un gran estado al norte de México, con una importante extensión territorial, la segunda más grande del país, donde puedes encontrar montañas verdes, extensos valles agrícolas, un espectacular desierto, más de 1,200 km de litoral con el increíble Mar de Cortés, y una activa frontera con Estados Unidos.",
+            "urlImg": "SON_caborca_10.webp",
+            "actions": {
+                "button": {
+                    "text" : "もっと詳しく知るには SONORA ここを押してください",
+                    "dir": "https://visitsonora.mx/"
+                }
+            },
+            "titleBottom": "旅行リストに載せるべき 5 つの理由をご覧ください。",
+            "descriptionBottom": [
+                {
+                    "text": "Tiene la mejor vista oceánica del mundo desde el Mirador de San Carlos."
+                },
+                {
+                    "text": "Aquí te espera una de las playas más bellas de México, con arena blanca, cálidas y tranquilas aguas: Bahía de Kino."
+                },
+                {
+                    "text": "Los paisajes únicos de San Carlos, ubicado en el Mar de Cortés, este pueblo está rodeado de montañas y playas, donde el mar se funde con el desierto."
+                },
+                {
+                    "text": "La Reserva de la Biosfera El Pinacate, un lugar formado por pavimentos desérticos y corrientes de lavas negras y rojas; y el Gran Desierto de Altar, con dunas que llegan a alcanzar una altura de 200 metros."
+                },
+                {
+                    "text": "Los Petroglifos de Caborca, donde podrás ver la mayor concentración de grabados prehispánicos en América Latina."
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7125758.782105107!2d-117.02763597053065!3d29.300691176733878!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86982969e74dd20f%3A0xcd56ff1afcbbe374!2sSonora!5e0!3m2!1ses-419!2smx!4v1684021784841!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/4xRB7oBUzyZe7dIiNf6H58?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "旅行リストに載せるべき 5 つの理由をご覧ください。",
+            "desciptionHover": "もっと詳しく知るには SONORA ここを押してください",
+            "dir": "/estado"
+        },
+        {
+            "id": "Tabasco",
+            "urlVideoTop": "https://www.youtube.com/embed/noJ6i36csXQ?autoplay=1",
+            "titleTop": "Tabasco",
+            "descriptionTop": "メキシコ南東地方及びマヤ文明の世界、石油産業の中核、地方エンターテインメントの中心地、サービスそしてコミュニケーションの入り口となるロケーションです。メキシコ国土全体の53%の水域を保有しています。カカオと家畜の生産は全国一位、バナナの生産は2位を誇っています。",
+            "urlImg": "TAB_Jalpa_de_Mendez8.webp",
+            "actions": {
+                "button": {
+                    "text" : "もっと詳しく知るには TABASCO ここを押してください",
+                    "dir": "https://visitetabasco.com/"
+                }
+            },
+            "titleBottom": "旅行リストに載せるべき 5 つの理由をご覧ください。",
+            "descriptionBottom": [
+                {
+                    "text": "トロピカルで不遜な程に緑豊かな景色を横切る川や占領する広大な湖、多数の湿地帯と美しいビーチを楽しめます。"
+                },
+                {
+                    "text": "味わい深いガストロノミー、そして何よりも先住民とスペインのルーツから由来する歴史と伝統があります。"
+                },
+                {
+                    "text": "スポーツフィッシング、野鳥観察、エコツーリズム、アドベンチャーツーリズムやそのほかの活動のパラダイスです。"
+                },
+                {
+                    "text": "ビジャ・エルモサの大ルートに沿った絶景の植生に川や湖、繁茂した自然界を経験できます。"
+                },
+                {
+                    "text": "Biji Yokot’an(ビヒ・ヨコタン)大ルートの特徴的な陽気さ、民間伝承、カラフルな色、あらゆる風味を味わえます。"
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3886964.1408265596!2d-95.19981354332153!3d17.938523210589693!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85edfb5f8f78cb4f%3A0xd426cb11d9866b44!2sTabasco!5e0!3m2!1ses-419!2smx!4v1684022280766!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/1e0PFxUw2WqvP9Jp3VF2a1?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "旅行リストに載せるべき 5 つの理由をご覧ください。",
+            "desciptionHover": "もっと詳しく知るには TABASCO ここを押してください",
+            "dir": "/estado"
+        },
+        {
+            "id": "Tamaulipas",
+            "urlVideoTop": "https://www.youtube.com/embed/DktNae84wVk?autoplay=1",
+            "titleTop": "Tamaulipas",
+            "descriptionTop": "タマウリパス州はメキシコの北東に位置しており、400㎞以上に及ぶ沿岸部があり、それ以上の国境を有している。この地域ならではの、ジャガー、コンゴウインコ、ワニ、鹿といった自然の中で暮らす無数の野生動物や何千種類にも及ぶ野鳥がいます。",
+            "urlImg": "TMPS_miramar_2_20.webp",
+            "actions": {
+                "button": {
+                    "text" : "もっと詳しく知るには TAMAULIPAS ここを押してください",
+                    "dir": "http://www.visittam.com/"
+                }
+            },
+            "titleBottom": "旅行リストに載せるべき 5 つの理由をご覧ください。",
+            "descriptionBottom": [
+                {
+                    "text": "シウダービクトリアは美しい州都で文化に富み、体験したい活動がたくさんあります。"
+                },
+                {
+                    "text": "クルマエビを始め、カニ、セビチェ、エンチラダ・トゥルテカ、地域のフルーツを使ったシャーベットなどタマウリパスの地域料理の風味に魅了されることでしょう。"
+                },
+                {
+                    "text": "あなたとご家族のために充実したホテルゾーンを誇る5つのビーチスポットがあります。バグダッドビーチ、カルボネラビーチ、トルド岬、ラ・ペスカビーチ、そしてミラマールビーチです。"
+                },
+                {
+                    "text": "18世紀にヌエボ・サンタンデールが創立され、プエブロ・マヒコに指定されているミエール村は、タマウリパス州の美しい村のひとつで、古風なコロニアル様式を残した村々を堪能することができます。"
+                },
+                {
+                    "text": "シエラ・マドレ・オリエンタル山脈に位置するタマウリパス州南東部の町、トゥラ市はこの州の起源であり、トゥルテカの革製品と呼ばれるタマウリパス州の民族衣装発祥の地でもあります。"
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3705052.4384775567!2d-101.28520894348287!3d24.924735351966053!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x867953aedb1e2459%3A0x33859f5a35e81925!2sTamaulipas!5e0!3m2!1ses-419!2smx!4v1684022385332!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/42i0q3sQUpBO2ObG2nxySB?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "旅行リストに載せるべき 5 つの理由をご覧ください。",
+            "desciptionHover": "もっと詳しく知るには TAMAULIPAS ここを押してください",
+            "dir": "/estado"
+        },
+        {
+            "id": "Tlaxcala",
+            "urlVideoTop": "https://www.youtube.com/embed/NQPGtGnuA9E?autoplay=1",
+            "titleTop": "Tlaxcala",
+            "descriptionTop": "メキシコ・シティーからたったの120㎞東部へ行ったところに、メキシコの中央高原の一部であるトラスカラ州が位置しています。メキシコ全土でもっとも面積の小さい州ですが、トラスカラ州の歴史と伝統はメキシコでも屈指の偉大さです。トラスカラ州は確かに存在します。確かめに来てください！",
+            "urlImg": "TLX_teatro_26.webp",
+            "actions": {
+                "button": {
+                    "text" : "もっと詳しく知るには TLAXCALA ここを押してください",
+                    "dir": "https://www.tlaxcalasiexiste.com.mx/"
+                }
+            },
+            "titleBottom": "旅行リストに載せるべき 5 つの理由をご覧ください。",
+            "descriptionBottom": [
+                {
+                    "text": "トラスカラ州の歴史が描かれている壁画の虜になることでしょう。"
+                },
+                {
+                    "text": "この地域のガストロノミーはトラスカラ州特有の伝統料理につながる食料遺産を守っています。"
+                },
+                {
+                    "text": "憲法広場はメキシコで映画の黄金時代と呼ばれていた頃から現代まで、映画、ドキュメンタリー、短編映画などのシーンとなりました。"
+                },
+                {
+                    "text": "内閣宮殿、旧インディオ王立礼拝堂、イダルゴやフアレスのアーチ、石の館などの主な建造物の背景には興味深い歴史があります。"
+                },
+                {
+                    "text": "ウアマントラ祭は60年以上もの伝統があります。道という道が所狭しと敷き詰められた色とりどりのおがくずや花で飾られます。"
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1926627.340737737!2d-99.4862495595288!3d19.41482434541632!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85cfd93f1c006113%3A0x38bae25ad47cbde0!2sTlaxcala!5e0!3m2!1ses-419!2smx!4v1684022486835!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/2Au5dhEkQ16xsO05chmItl?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "旅行リストに載せるべき 5 つの理由をご覧ください。",
+            "desciptionHover": "もっと詳しく知るには TLAXCALA ここを押してください",
+            "dir": "/estado"
+        },
+        {
+            "id": "Veracruz",
+            "urlVideoTop": "https://www.youtube.com/embed/YoNdlAk5N5Q?autoplay=1",
+            "titleTop": "Veracruz",
+            "descriptionTop": "メキシコ湾岸に沿った細長い州、ベラクルスは、多数のビーチはもちろんメキシコの最高峰、且つ死火山であるピコ・デ・オリサバ山を保有しています。国内でトップ3の文化と生物多様性の宝庫です。",
+            "urlImg": "VER_catemaco104.webp",
+            "actions": {
+                "button": {
+                    "text" : "もっと詳しく知るには VERACRUZ ここを押してください",
+                    "dir": "https://www.google.com/"
+                }
+            },
+            "titleBottom": "旅行リストに載せるべき 5 つの理由をご覧ください。",
+            "descriptionBottom": [
+                {
+                    "text": "メキシコ湾岸方面の州の中で最も美しく、温暖な州で心底魅了されることでしょう。"
+                },
+                {
+                    "text": "メキシコの世界遺産に登録されている35箇所の内の2箇所を保有しており、古代遺跡のエル・タヒン、そしてトラコトラルパン市の建造物があります。"
+                },
+                {
+                    "text": "時空を超えたコロニアル風な建造物や街並みは港や州都に色濃く残り、その文化や芸術が窺い知ることができます。"
+                },
+                {
+                    "text": "ベラクルス州は陶器、かご細工品、織物の文化にとても秀でています。"
+                },
+                {
+                    "text": "ビーチ、川、温泉井戸の数々が雄大な自然を織りなします。"
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d120587.93128962361!2d-96.25871711943859!3d19.178910555291967!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85c3414245ca78c5%3A0x18a4d642e936019b!2sVeracruz%2C%20Ver.!5e0!3m2!1ses-419!2smx!4v1684022576385!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/1xVFcq3EP54qT1OKuZ6pHa?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "旅行リストに載せるべき 5 つの理由をご覧ください。",
+            "desciptionHover": "もっと詳しく知るには VERACRUZ ここを押してください",
+            "dir": "/estado"
+        },
+        {
+            "id": "Yucatan",
+            "urlVideoTop": "https://www.youtube.com/embed/aDjSaYjccbE?autoplay=1",
+            "titleTop": "Yucatán",
+            "descriptionTop": "メキシコ湾を臨むビーチの数々、そしてマヤ遺跡がとても有名なメキシコ屈指のユカタン州。国土の南東に位置する半島で、歴史、文化、ロマン、ガストロノミー、ピーチなどを組み合わせることができ、その上、唯一マヤ文化のコミュニティを耽溺できる機会を与えてくれます。",
+            "urlImg": "YUC_Cusaman_Cenotes152.webp",
+            "actions": {
+                "button": {
+                    "text" : "もっと詳しく知るには YUCATÁN ここを押してください",
+                    "dir": "https://yucatan.travel/"
+                }
+            },
+            "titleBottom": "旅行リストに載せるべき 5 つの理由をご覧ください。",
+            "descriptionBottom": [
+                {
+                    "text": "州都のメリダ市は文化、歴史、娯楽、美味なガストロノミーが楽しめます。"
+                },
+                {
+                    "text": "世界的に有名なコチニタ・ピビルなどといったユカタン地域のならではの風味と特徴的なガストロノミーがあります。"
+                },
+                {
+                    "text": "忘れがたいマヤの考古遺跡を守るように広がる新緑のジャングルが壮観です。"
+                },
+                {
+                    "text": "ユカタン州は生来ロマンチックな訪問地であり、白く肌理細やかな砂のビーチとエメラルドグリーンの遠浅が続く海などの特別なスポットを見つけることができます。"
+                },
+                {
+                    "text": "熱帯林、自然の湧水、マングローブ林、ユカタン半島の景勝地のビーチ。"
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3813412.5324629922!2d-91.72837164601708!3d21.03125846141055!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f540ff8aad604ed%3A0xcccc217531083d0a!2zWXVjYXTDoW4!5e0!3m2!1ses-419!2smx!4v1684022688075!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/3qxRbcVFYfo0IHTiOzof1V?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "旅行リストに載せるべき 5 つの理由をご覧ください。",
+            "desciptionHover": "もっと詳しく知るには YUCATÁN ここを押してください",
+            "dir": "/estado"
+        },
+        {
+            "id": "Zacatecas",
+            "urlVideoTop": "https://www.youtube.com/embed/v5bCqfnHHOc?autoplay=1",
+            "titleTop": "Zacatecas",
+            "descriptionTop": "メキシコの中央値に位置しており、16世紀は銀の発掘が盛んだったとして知られています。地形は様々な標高に富んでおり、華やかな州です。鉱山の歴史を誇り、地中深くから評判の良いガストロノミーの影響まで楽しめます。",
+            "urlImg": "ZAC_sierra de organos_2898.webp",
+            "actions": {
+                "button": {
+                    "text" : "もっと詳しく知るには ZACATECAS ここを押してください",
+                    "dir": "https://www.zacatecastravel.com/"
+                }
+            },
+            "titleBottom": "旅行リストに載せるべき 5 つの理由をご覧ください。",
+            "descriptionBottom": [
+                {
+                    "text": "魅力的で、カラフルで、気前の良さで知られている州のため、贅沢な体験から黙想的な体験まで味わえます。"
+                },
+                {
+                    "text": "青空は、メキシコ全土で最も青い空として賞賛されています。"
+                },
+                {
+                    "text": "モーレやサカテカス風エンチラダなどといった伝統料理の風味から香り豊かなガストロノミー。"
+                },
+                {
+                    "text": "観光向けに設えられた旧銀山や銀糸品のショップの数々。"
+                },
+                {
+                    "text": "サカテカス市は、全国でも一人当たりの博物館の数が最も多く、興味深い様々なオプションが見つかることでしょう。"
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3758930.7320455452!2d-105.18865987848196!3d23.06666422056259!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8681d1a07ec9fe6f%3A0x1c1f2dfd5e256d98!2sZacatecas!5e0!3m2!1ses-419!2smx!4v1684022913675!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/6XOFXXp91YSgCvCNawIfOw?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "旅行リストに載せるべき 5 つの理由をご覧ください。",
+            "desciptionHover": "もっと詳しく知るには ZACATECAS ここを押してください",
+            "dir": "/estado"
+        }
+    ]
+}

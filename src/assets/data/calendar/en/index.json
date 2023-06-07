@@ -1,0 +1,40 @@
+{
+    "title": "Calendario",
+    "subtitle": "Subtitle",
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Et, repellat magni at eos sint ut fuga nemo, quaerat maxime id, numquam illo natus tempore corporis hic perspiciatis voluptatibus ipsa similique suscipit dolore sunt non architecto. Nisi cum ducimus ut incidunt ratione iure, in harum ex repellat!",
+    "events": [
+        {
+            "urlImg": "slide1.webp",
+            "title": "Title",
+            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fuga tempore dignissimos autem tempora illum veritatis natus!"
+        },
+        {
+            "urlImg": "slide2.jpg",
+            "title": "Title",
+            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fuga tempore dignissimos autem tempora illum veritatis natus!"
+        },
+        {
+            "urlImg": "slide1.webp",
+            "title": "Title",
+            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fuga tempore dignissimos autem tempora illum veritatis natus!"
+        }
+    ],
+    "videos": [
+        {
+            "id": 1,
+            "urlVideo": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1"
+        },
+        {
+            "id": 2,
+            "urlVideo": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1"
+        },
+        {
+            "id": 3,
+            "urlVideo": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1"
+        },
+        {
+            "id": 4,
+            "urlVideo": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1"
+        }
+    ]
+}

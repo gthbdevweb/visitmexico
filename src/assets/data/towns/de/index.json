@@ -1,0 +1,76 @@
+{
+    "videoTop": "https://www.youtube.com/embed/RXnihWaAL9Q?rel=0;&autoplay=1",
+    "title": "Magische Stätte",
+    "urlImgTop": "slide1.webp",
+    "descriptionTop": "Pueblo Mágico (Magische Stätte) ist die Bezeichnung und Auszeichnung eines wunderschönen Ortes voller Symbolik und Legenden, Tradition und Geschichte, und Schauplatz wichtiger Meilensteine unseres Landes. Sie sind repräsentative Sitze nationaler Identität und mit einer Anmut ausgestattet, die die Besucher*innen in ihren Bann zieht. Entdecke Mexikos Zauber! Die Initiative der Pueblos Mágicos trägt zur Verteidigung und Aufwertung einiger Ortschaften des Landes bei, die Teil des imaginären Kollektivs der Nation sowie attraktive und vielfältige Alternativen für in- und ausländische Besucher*innen darstellen. Derzeit gibt es insgesamt 132 Pueblos Mágicos.",
+    "subtitle": "Subtítulo",
+    "texShowMore": "Ver más",
+    "textShowLess": "Ver menos",
+    "towns": [
+        {
+            "urlVideo": "https://www.youtube.com/embed/z4EPuUpf6Qs",
+            "title": "TEQUILA",
+            "id": 1
+        },
+        {
+            "urlVideo": "https://www.youtube.com/embed/eNn83mXHwg0",
+            "title": "SAN CRISTOBAL DE LAS CASAS - CHIAPAS",
+            "id": 2
+        },
+        {
+            "urlVideo": "https://www.youtube.com/embed/VRFTsB1ASxE",
+            "title": "PARACHO - MICHOACÁN",
+            "id": 3
+        },
+        {
+            "urlVideo": "https://www.youtube.com/embed/bRpeilRty0c",
+            "title": "MÚZQUIZ - COAHUILA",
+            "id": 4
+        },
+        {
+            "urlVideo": "https://www.youtube.com/embed/Orm6xaA2boY",
+            "title": "MINERAL DEL CHICO - HIDALGO",
+            "id": 5
+        },
+        {
+            "urlVideo": "https://www.youtube.com/embed/YctE9pnGFbY",
+            "title": "MEXCALTITÁN - NAYARIT",
+            "id": 6
+        },
+        {
+            "urlVideo": "https://www.youtube.com/embed/d74Cquz4I0A",
+            "title": "IZAMAL - YUCATÁN",
+            "id": 7
+        },
+        {
+            "urlVideo": "https://www.youtube.com/embed/mQTU_qiDFYo",
+            "title": "CREEL - CHIHUAHUA",
+            "id": 8
+        },
+        {
+            "urlVideo": "https://www.youtube.com/embed/b28ltsYTv64",
+            "title": "BACALAR - QUINTANA ROO",
+            "id": 9
+        },
+        {
+            "urlVideo": "https://www.youtube.com/embed/NVcGteckl6g",
+            "title": "CRONISTAS",
+            "id": 10
+        },
+        {
+            "urlVideo": "https://www.youtube.com/embed/5Z2Qy1i-M0M",
+            "title": "AULAS ETNOGRÁFICAS",
+            "id": 11
+        },
+        {
+            "urlVideo": "https://www.youtube.com/embed/wwjBVvMUZKc",
+            "title": "RAÍCES MÁGICAS",
+            "id": 12
+        },
+        {
+            "urlVideo": "https://www.youtube.com/embed/RXnihWaAL9Q",
+            "title": "PUEBLOS MÁGICOS",
+            "id": 13
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+.state-video-top-ctn {
+  min-height: 280px;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+}
+
+@media (min-width: 744px) {
+  .state-video-top-ctn {
+    padding-top: 80px;
+  }
+}

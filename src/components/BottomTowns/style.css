@@ -1,0 +1,44 @@
+.towns-bottom-ctn {
+  background-color: #eee;
+  padding: 60px 20px;
+  background-image: url('../../assets/img/layout/bg.png');
+  background-repeat: repeat-y;
+  background-size: 100% auto;
+  background-position: center;
+}
+.towns-bottom-img-ctn {
+  width: 100%;
+  height: 100%;
+}
+.towns-bottom-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  aspect-ratio: 3/2;
+}
+.towns-bottom-text-title {
+  font-size: 26px;
+  margin-top: 55px;
+}
+.towns-bottom-text-desc {
+  font-size: 14px;
+  margin-top: 20px;
+}
+
+@media (min-width: 992px) {
+  .towns-bottom-ctn {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+  .towns-bottom-text-ctn {
+    padding: 0 40px;
+  }
+  .towns-bottom-text-title {
+    font-size: 32px;
+    margin-top: 0;
+  }
+  .towns-bottom-text-desc {
+    font-size: 18px;
+    margin-top: 40px;
+  }
+}

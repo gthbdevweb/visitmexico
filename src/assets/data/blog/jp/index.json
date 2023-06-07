@@ -1,0 +1,236 @@
+{
+    "title": "BLOG",
+    "blogs": [
+        {
+            "id": 0,
+            "title": "クリスマスボール、メキシコのクリスマスを彩るガラスの芸術",
+            "shortDescription": "世界でもユニークなメキシコのクリスマスは伝統が根付いており、年々吹き込みガラスの技術で熟練の職人の魔法のような手で作り出され、賞賛を浴びる美しいクリスマスボールによってこの時期の行事を彩っています。",
+            "description": [
+                {
+                    "text": "世界でもユニークなメキシコのクリスマスは伝統が根付いており、年々吹き込みガラスの技術で熟練の職人の魔法のような手で作り出され、賞賛を浴びる美しいクリスマスボールによってこの時期の行事を彩っています。"
+                },
+                {
+                    "text": "ミチョアカン州のトラルプハウア村とプエブラ州のチグナワパン村はプエブロ・マヒコ（魔法の街）として指定されており、これらの伝統的な製品を国内外からの観光客が何千人と訪れて購入する代表的な2つの村であると同時に、観光地の見所や地域のガストロノミーを欧化できます。"
+                },
+                {
+                    "text": "メキシコのクリスマスを美しく飾るクリスマスボールの伝統は、17世紀この国に導入されてから、世代から世代へと受け継がれています。記録によると2000年以上も前から、中国で作られていたそうです。"
+                },
+                {
+                    "text": "その技術はヨーロッパへと伝わり、そしてメキシコのコミュニティは植民地時代に取り入れ、結果として素晴らしい融合を経て、現代へと続いています。"
+                }
+            ],
+            "urlImg": "esferas_.webp",
+            "shareFb": "",
+            "shareIg": "",
+            "shareVideo": "",
+            "shareTT": "",
+            "actions": {
+                "button": {
+                    "text" : "ブログに行く",
+                    "dir": "/blog"
+                }
+            }
+        },
+        {
+            "id": 1,
+            "title": "トラルプハウア村とクリスマスボール祭り",
+            "shortDescription": "この民芸品の伝統と生産はとても重要で、トラルプハウア村の最も重要な5つの祭りのひとつにクリスマスボール祭りがあり、来訪者たちが豊富な色彩、形やサイズなどを見る機会をつくるために、10月から12月にかけて開催されます。",
+            "description": [
+                {
+                    "text": "この民芸品の伝統と生産はとても重要で、トラルプハウア村の最も重要な5つの祭りのひとつにクリスマスボール祭りがあり、来訪者たちが豊富な色彩、形やサイズなどを見る機会をつくるために、10月から12月にかけて開催されます。"
+                },
+                {
+                    "text": "そうすることで、各家庭がメキシコのクリスマスの最も代表的な要素を得ることができるわけです。トラルプハウア村はメキシコシティーから高速で約3時間の場所、モレリア市やトルーカ市からは1.5時間の場所にあります。ミチョアカン州から北東へ、マラバティオ市、コンテペック市、センギオ市、メキシコ州に囲まれています。"
+                },
+                {
+                    "text": "革命軍のイグナシオ・ロペス＝ラヨンの生誕地であり、公式名称はトラルプハウア・デ・ラヨンと命名されており、バルコニーが張り出した屋敷などの植民地時代の建造物が特徴的で、鉱業も盛んでした。"
+                },
+                {
+                    "text": "クリスマスボールを買いにこのプエブロ・マヒコを訪問した暁には、博物館となっているラヨン兄弟の生家、聖母カルメン教会、ドス・エストレヤス鉱山などの名所をぜひ訪れてみてください。"
+                },
+                {
+                    "text": "しかし、トラルプハウア村近郊は特に美しい自然にも恵まれています。まさにこの近郊にはモナルカ蝶(オオカバマダラ蝶)の生息地保護区があり、11月から2月にかけてカナダからこの村の近郊にあるようなミチョアカンの森まで何千匹という大型の蝶が渡ってきます。"
+                },
+                {
+                    "text": "トラルプハウア村の数々の魅力は、2005年6月27日にプエブロ・マヒコに指定されたことで認識度が上がりました。"
+                }
+            ],
+            "urlImg": "esferas2.webp",
+            "shareFb": "",
+            "shareIg": "",
+            "shareVideo": "",
+            "shareTT": "",
+            "actions": {
+                "button": {
+                    "text" : "ブログに行く",
+                    "dir": "/blog"
+                }
+            }
+        },
+        {
+            "id": 2,
+            "title": "チグナワパン村とクリスマスボールワークショップ",
+            "shortDescription": "プエブラ州にあるプエブロ・マヒコでは、200以上のクリスマスボール工房やワークショップの存在がが登録されており、メキシコのクリスマスを彩る芸術品が年間10数百万個もの生産が行われています。",
+            "description": [
+                {
+                    "text": "プエブラ州にあるプエブロ・マヒコでは、200以上のクリスマスボール工房やワークショップの存在がが登録されており、メキシコのクリスマスを彩る芸術品が年間10数百万個もの生産が行われています。"
+                },
+                {
+                    "text": "メキシコシティから2.5時間、パチューカ市から1.5時間、プエブラ市からは2時間10分のところに位置するチグナワパン村という美しい村は、二つの山の尾根の谷間になっており、特殊な気候を持ち、特に寒気が強いです。"
+                },
+                {
+                    "text": "イスラーム芸術という特徴的な流派の芸術は19世紀末のスペインで生まれ、その影響が色濃く残るあずまやが、まず最初に来訪者たちが見に行くべき名所で、観光客たちのマスト写真撮影場所となっています。"
+                },
+                {
+                    "text": "また、無原罪聖母聖堂やアルマス広場なども有名ですが、このプエブロ・マヒコの最もたる魅力は自然です。エル・カホンやケツァルパンの滝、湖や温泉などが来訪者たちからの人気を得ています。"
+                },
+                {
+                    "text": "この通り、トラルプハウア村とチグナワパン村が、次のクリスマスシーズンのためのクリスマスボールをゲットするベストオプションであるだけでなく、メキシコの素晴らしいプエブロ・マヒコを訪問する絶好の機会となります。"
+                }
+            ],
+            "urlImg": "blogesfera.webp",
+            "shareFb": "",
+            "shareIg": "",
+            "shareVideo": "",
+            "shareTT": "",
+            "actions": {
+                "button": {
+                    "text" : "ブログに行く",
+                    "dir": "/blog"
+                }
+            }
+        },
+        {
+            "id": 3,
+            "title": "10 ACTIVIDADES QUE PUEDES REALIZAR EN COZUMEL",
+            "shortDescription": "En el Caribe Mexicano se encuentra uno de los paraísos insulares más preciados de México, Cozumel, cuya riqueza natural se combina a la perfección con el legado de la Cultura Maya y su moderna infraestructura para recibir al turismo, como su aeropuerto internacional, su zona hotelera y el muelle apto para recibir cruceros de gran tamaño.",
+            "description": [
+                {
+                    "text": "En el Caribe Mexicano se encuentra uno de los paraísos insulares más preciados de México, Cozumel, cuya riqueza natural se combina a la perfección con el legado de la Cultura Maya y su moderna infraestructura para recibir al turismo, como su aeropuerto internacional, su zona hotelera y el muelle apto para recibir cruceros de gran tamaño."
+                },
+                {
+                    "text": "También conocida como la Isla de las Golondrinas, Cozumel, Quintana Roo es el sitio perfecto para contemplar la extensa flora y fauna marina, ya que se ubica en la segunda barrera de coral más grande del mundo."
+                },
+                {
+                    "text": "Rodeado por las aguas turquesa del mar Caribe, más de la mitad del territorio de este destino es Área Natural Protegida, lo que ayuda a la conservación y la práctica de un turismo responsable para deleite de los visitantes que llegan, ya sea a través de embarcaciones, o por vía aérea."
+                },
+                {
+                    "text": "Aunque una opción muy recurrente es tomar un ferry desde Playa del Carmen para hacer una visita a Cozumel, esta isla cuenta con una variada gama de actividades, por lo que bien vale la pena tener una estancia de algunos días, para disfrutarla al máximo."
+                }
+            ],
+            "urlImg": "cozumel-0.wep.jpg",
+            "shareFb": "",
+            "shareIg": "",
+            "shareVideo": "",
+            "shareTT": "",
+            "actions": {
+                "button": {
+                    "text" : "ブログに行く",
+                    "dir": "/blog"
+                }
+            }
+        },
+        {
+            "id": 4,
+            "title": "ACTIVIDADES OBLIGADAS PARA REALIZAR EN COZUMEL",
+            "shortDescription": "Al ser uno de los principales sitios de entrada a este destino insular, lo más recomendable es conocer su muelle y el centro de San Miguel de Cozumel, en donde se encuentra la cabecera municipal, y cuenta con parte de los sitios históricos y culturales, además de restaurantes, tiendas de artesanías y recuerdos, entre otros establecimientos. Además, podrás admirar los modernos murales que le dan a la visita un toque muy pintoresco y agradable, ideal para tomarse unas buenas fotos.",
+            "description": [
+                {
+                    "list": [
+                        {
+                            "title": "VISITAR EL MUELLE Y EL CENTRO DE SAN MIGUEL DE COZUMEL",
+                            "description": [
+                                {
+                                    "text": "Al ser uno de los principales sitios de entrada a este destino insular, lo más recomendable es conocer su muelle y el centro de San Miguel de Cozumel, en donde se encuentra la cabecera municipal, y cuenta con parte de los sitios históricos y culturales, además de restaurantes, tiendas de artesanías y recuerdos, entre otros establecimientos. Además, podrás admirar los modernos murales que le dan a la visita un toque muy pintoresco y agradable, ideal para tomarse unas buenas fotos."
+                                }
+                            ]
+                        },
+                        {
+                            "title": "PRACTICAR BUCEO Y ESNÓRQUEL",
+                            "description": [
+                                {
+                                    "text": "Por su privilegiada ubicación geográfica, la mejor manera de disfrutar las maravillas naturales de Cozumel, es mediante la práctica de buceo. Ya sea para expertos o principiantes, en las diferentes áreas de la isla se encuentran prestadores de servicio que ayudarán al visitante a aprender esta actividad. Pero si lo prefieres, también es posible hacer solo esnórquel y ver los tesoros naturales que esconden las profundidades de esta zona del mar Caribe."
+                                }
+                            ]
+                        },
+                        {
+                            "title": "VIAJAR A PUNTA SUR",
+                            "description": [
+                                {
+                                    "text": "Como su nombre lo india, en el extremo ‘inferior’ de Cozumel se encuentra Punta Sur, una gran área natural que lo mismo tiene amplias extensiones de vegetación, manglares y arrecifes, que un impresionante faro y el Museo de la Navegación, donde se resguarda el paso de la historia de los mayas y los navegantes de esta zona del Caribe mexicano, y hasta vestigios de esta impresionante cultura."
+                                }
+                            ]
+                        },
+                        {
+                            "title": "RECORRER LA ZONA ARQUEOLÓGICA DE SAN GERVASIO",
+                            "description": [
+                                {
+                                    "text": "Para los mayas, Ixchel es la diosa de la fertilidad, el parto, la medicina y las artes, y esta zona arqueológica de Cozumel está dedicada a esta deidad. Aunque esta área resguarda los principales vestigios de veneración, a lo largo de Cozumel hay distintas manifestaciones que dan fe del culto que se le rendía; incluso se sabe que anteriormente, todas las mujeres debían visitar alguna vez la isla."
+                                }
+                            ]
+                        },
+                        {
+                            "title": "APRECIAR LA LLEGADA DE LA TRAVESÍA SAGRADA MAYA",
+                            "description": [
+                                {
+                                    "text": "Ya que hablamos de Ixchel, también es importante hablar de uno de los eventos más significativos de Cozumel, la Travesía Sagrada Maya, que actualmente es una recreación del recorrido que hacen los canoeros que parten desde la zona continental en Playa del Carmen, para rendir tributo a esta diosa, con el propósito de pedir por la fertilidad de la tierra y agradecer por lo recibido."
+                                }
+                            ]
+                        },
+                        {
+                            "title": "DISFRUTAR DEL PARQUE NACIONAL CHANKANAAB",
+                            "description": [
+                                {
+                                    "text": "Historia, naturaleza y diversión se concentran en un solo sitio, el Parque Chankanaab, ya declarado nacional en cuyo interior, además de poder realizar actividades como esnórquel, buceo y hasta nado con delfines, o simplemente relajarse en su club de playa; además, cuenta con un museo, por lo que es uno de los mejores sitios para todo tipo de viajeros."
+                                }
+                            ]
+                        },
+                        {
+                            "title": "DESCANSAR EN EL CEDRAL",
+                            "description": [
+                                {
+                                    "text": "Si Cozumel es el destino perfecto para quien busca tranquilidad y relajación, El Cedral es el rincón perfecto dentro de la isla. Este pequeño pueblito tiene un encanto particular, y es testigo del paso de la historia desde el auge de la Cultura Maya hasta nuestros días. También es sede de la segunda festividad más importante del destino: La Fiesta del Cedral, el día de la Santa Cruz."
+                                }
+                            ]
+                        },
+                        {
+                            "title": "REALIZAR ACTIVIDADES ACUÁTICAS",
+                            "description": [
+                                {
+                                    "text": "Si el buceo y el esnórquel son algunas de las actividades más recurrentes en Cozumel, existe una gama más amplia para disfrutar de sus playas. A lo largo de la costa, encontrarás opciones para practicar paddleboard, jet ski, kayak, siempre con el apoyo de expertos en la materia que te brindarán toda la confianza."
+                                }
+                            ]
+                        },
+                        {
+                            "title": "VISITA A LA ISLA DE LA PASIÓN",
+                            "description": [
+                                {
+                                    "text": "Hacia el norte de Cozumel se encuentra un pequeño lugar llamado Isla Pasión, con una extensión de solo un kilómetro aquí encontramos manglar, arrecife y selva, y en donde se pueden hacer tours para disfrutar de su tranquila y relajante playa, hasta actividades un poco más de adrenalina. Además, por sus características, también se ha convertido en un bello destino para realizar bodas."
+                                }
+                            ]
+                        },
+                        {
+                            "title": "EL CIELO",
+                            "description": [
+                                {
+                                    "text": "Al sur de Cozumel, en el fondo del mar con la arena blanca que caracteriza el mar Caribe, encontramos el auténtico cielo marino. Su nombre se debe a los cientos de estrellas de mar que reposan en una amplia extensión, por lo que no podría recibir otro nombre más que El Cielo, pero dentro del mar. Disfrutar este atractivo es ideal mediante el buceo o esnórquel, y es una más de las visitas que ningún turista puede dejar pasar por alto al viajar a Cozumel."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "urlImg": "sea-cozumel.webp",
+            "shareFb": "",
+            "shareIg": "",
+            "shareVideo": "",
+            "shareTT": "",
+            "actions": {
+                "button": {
+                    "text" : "ブログに行く",
+                    "dir": "/blog"
+                }
+            }
+        }
+    ]
+}

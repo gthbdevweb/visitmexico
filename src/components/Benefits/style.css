@@ -1,0 +1,63 @@
+.towns-benefits-ctn{
+  padding: 40px 20px;
+  background-image: url('../../assets/img/layout/bg.png');
+  background-repeat: repeat-y;
+  background-size: 100% auto;
+  background-position: center;
+}
+.towns-benefits-text-title {
+  font-size: 26px;
+  text-align: center;
+}
+.towns-benefits-cards-ctn {
+  padding: 40px 0;
+}
+.towns-benefits-card-ctn {
+  margin-bottom: 60px;
+}
+.towns-benefits-card-img {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  aspect-ratio: 3/2;
+}
+.towns-benefits-card-text-title {
+  margin-top: 20px;
+  text-align: center;
+  font-size: 22px;
+}
+.towns-benefits-card-text-desc {
+  font-size: 14px;
+  text-align: center;
+  margin-top: 15px;
+}
+.towns-benefits-card-btn {
+  float: right;
+  width: 120px;
+  margin: 0 10px 0 0;
+}
+
+@media (min-width: 744px) {
+  .towns-benefits-cards-ctn {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .towns-benefits-card-ctn {
+    flex: 1 0 42%;
+    margin: 10px;
+    height: 100%;
+  }
+}
+
+@media (min-width: 992px)  {
+  .towns-benefits-ctn{
+    padding: 72px 20px;
+  }
+  .towns-benefits-text-title {
+    font-size: 32px;
+    text-align: center;
+  }
+  .towns-benefits-card-ctn {
+    flex: 1 0 21%;
+  }
+}

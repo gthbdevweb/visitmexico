@@ -1,0 +1,76 @@
+{
+    "videoTop": "https://www.youtube.com/embed/RXnihWaAL9Q?rel=0;&autoplay=1",
+    "title": "Magic Towns",
+    "urlImgTop": "slide1.webp",
+    "descriptionTop": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, delectus voluptatem. Blanditiis perspiciatis modi doloremque neque maiores odio id sapiente omnis beatae mollitia corrupti ab dolorum, iure quis animi voluptatibus fugit recusandae, ipsam repellendus! Mollitia inventore soluta possimus perferendis explicabo harum magni hic necessitatibus voluptas provident nisi itaque, tempore a quia fugit laudantium voluptatum eum! Tempora ab ut natus, mollitia quam ad perspiciatis odio obcaecati inventore quasi aliquid corporis hic magni magnam. Aliquam nisi dolorem, animi architecto deserunt ad in. Unde mollitia neque vitae?",
+    "subtitle": "Subtitle",
+    "texShowMore": "Show more",
+    "textShowLess": "Show less",
+    "towns": [
+        {
+            "urlVideo": "https://www.youtube.com/embed/z4EPuUpf6Qs",
+            "title": "TEQUILA",
+            "id": 1
+        },
+        {
+            "urlVideo": "https://www.youtube.com/embed/eNn83mXHwg0",
+            "title": "SAN CRISTOBAL DE LAS CASAS - CHIAPAS",
+            "id": 2
+        },
+        {
+            "urlVideo": "https://www.youtube.com/embed/VRFTsB1ASxE",
+            "title": "PARACHO - MICHOACÁN",
+            "id": 3
+        },
+        {
+            "urlVideo": "https://www.youtube.com/embed/bRpeilRty0c",
+            "title": "MÚZQUIZ - COAHUILA",
+            "id": 4
+        },
+        {
+            "urlVideo": "https://www.youtube.com/embed/Orm6xaA2boY",
+            "title": "MINERAL DEL CHICO - HIDALGO",
+            "id": 5
+        },
+        {
+            "urlVideo": "https://www.youtube.com/embed/YctE9pnGFbY",
+            "title": "MEXCALTITÁN - NAYARIT",
+            "id": 6
+        },
+        {
+            "urlVideo": "https://www.youtube.com/embed/d74Cquz4I0A",
+            "title": "IZAMAL - YUCATÁN",
+            "id": 7
+        },
+        {
+            "urlVideo": "https://www.youtube.com/embed/mQTU_qiDFYo",
+            "title": "CREEL - CHIHUAHUA",
+            "id": 8
+        },
+        {
+            "urlVideo": "https://www.youtube.com/embed/b28ltsYTv64",
+            "title": "BACALAR - QUINTANA ROO",
+            "id": 9
+        },
+        {
+            "urlVideo": "https://www.youtube.com/embed/NVcGteckl6g",
+            "title": "CRONISTAS",
+            "id": 10
+        },
+        {
+            "urlVideo": "https://www.youtube.com/embed/5Z2Qy1i-M0M",
+            "title": "AULAS ETNOGRÁFICAS",
+            "id": 11
+        },
+        {
+            "urlVideo": "https://www.youtube.com/embed/wwjBVvMUZKc",
+            "title": "RAÍCES MÁGICAS",
+            "id": 12
+        },
+        {
+            "urlVideo": "https://www.youtube.com/embed/RXnihWaAL9Q",
+            "title": "PUEBLOS MÁGICOS",
+            "id": 13
+        }
+    ]
+}

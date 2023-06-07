@@ -1,0 +1,40 @@
+{
+    "title": "Sol y Playa",
+    "description": [
+        {
+            "text": "La Privilegiada Ubicación De México Le Permite Estar “Bañado” Por El Océano Pacífico, El Golfo De México Y El Mar Caribe, Lo Que Hace De Nuestro País Un Destino Paradisiaco Para Los Turistas Que Buscan Sol Y Playa."
+        },
+        {
+            "text": "Las Largas Extensiones De Costa Que Superan Los 11 Mil Kilómetros Permiten Que Cada Playa Sea Única Por Sí Misma, Con Aguas De Distintas Tonalidades Y Arena De Diferentes Texturas."
+        },
+        {
+            "text": "La Flora Y Fauna Marina También Hacen De México Un Imán De Visitantes De Todas Partes Del Mundo. El Mar De Cortés, Considerado “El Acuario Del Mundo”; La Hermosa Bahía De Acapulco, Con Uno De Los Climas Más Privilegiados De Todo El Planeta; Y Las Playas Oaxaqueñas Cuyo Oleaje Es Perfecto Para La Práctica Del Surf Son Solo Algunos Ejemplos De Lo Que Se Puede Disfrutar En El Pacífico Mexicano; Mientras Que Del Lado Del Golfo De México Encontramos La Costa Esmeralda, En Veracruz, Y Qué Decir Del Azul Turquesa Del Caribe Mexicano, Con Su Blanca Arena."
+        }
+    ],
+    "cards": [
+        {
+            "urlImg": "NAY_sanblas_playas_98.webp",
+            "title": "Cabo Pulmo, Baja California"
+        },
+        {
+            "urlImg": "NAY_sanblas_playas_98.webp",
+            "title": "Baja California Sur"
+        },
+        {
+            "urlImg": "NAY_sanblas_playas_98.webp",
+            "title": "La Paz Baja California Sur"
+        },
+        {
+            "urlImg": "NAY_sanblas_playas_98.webp",
+            "title": "Playa Balandra, Baja California Sur"
+        },
+        {
+            "urlImg": "NAY_sanblas_playas_98.webp",
+            "title": "Bahía Ángeles Baja California Sur"
+        },
+        {
+            "urlImg": "NAY_sanblas_playas_98.webp",
+            "title": "San Felipe Baja California"
+        }
+    ]
+}

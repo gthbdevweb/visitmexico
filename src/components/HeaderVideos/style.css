@@ -1,0 +1,27 @@
+.videos-title-ctn {
+  padding-top: 145px;
+  background-image: url('../../assets/img/layout/bg.png');
+  background-repeat: repeat-y;
+  background-size: 100% auto;
+  background-position: center;
+}
+.videos-title-text-title {
+  font-size: 42px;
+  text-align: center;
+}
+
+@media (min-width: 744px) {
+  .videos-title-ctn {
+    padding-top: 80px;
+    padding-bottom: 72px;
+  }
+  .videos-title-text-title {
+    margin-top: 20px;
+  }
+}
+
+@media (min-width: 992px) {
+  .videos-title-text-title {
+    font-size: 72px;
+  }
+}

@@ -1,0 +1,11 @@
+{
+    "title": "Soleil et Plage",
+    "description": "Dans un emplacement privilégié, le Mexique est entouré par l'océan Pacifique, le golfe du Mexique et la mer des Caraïbes, ce qui fait de notre pays une destination paradisiaque pour les touristes en quête de soleil, de plage et de sable. Dans les plus de 11 000 kilomètres de côtes du Mexique, chaque plage, unique dans son propre, abrite des eaux de différentes nuances, du sable aux textures diverses, des paysages oniriques et des cultures différentes. La flore et la faune marines font également du Mexique un pôle d'attraction pour les visiteurs du monde entier. La mer de Cortez, considérée comme « l'aquarium du monde ;» la magnifique baie d'Acapulco, avec l'un des climats les plus privilégiés de toute la planète ; et les plages d'Oaxaca dont les vagues sont parfaites pour surfer, ne sont que quelques exemples de ce que l'on peut apprécier dans le Pacifique mexicain. Du côté du golfe du Mexique, nous trouvons la Costa Esmeralda, à Veracruz; et que dire du bleu turquoise des Caraïbes mexicaines, avec son sable blanc.",
+    "urlImg": "NAY_sanblas_playas_98.webp",
+    "actions": {
+        "button": {
+            "text": "Lorem ipsum dolor sit.",
+            "dir": ""
+        }
+    }
+}

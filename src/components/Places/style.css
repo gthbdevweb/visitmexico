@@ -1,0 +1,124 @@
+.places-ctn {
+  padding: 42px 0;
+  background-image: url('../../assets/img/layout/bg.png');
+  background-repeat: repeat-y;
+  background-size: 100% auto;
+  background-position: center;
+}
+.places-text-title {
+  text-align: center;
+  font-size: 26px;
+}
+.pĺaces-text-desciption {
+  font-size: 16px;
+  padding: 0 15px;
+  text-align: center;
+}
+.places-cards-ctn {
+  display: flex ;
+  margin-top: 42px;
+  width: 100%;
+  overflow-x: scroll;
+  gap: 20px;
+  padding: 0 20px;
+}
+.places-card {
+  display: grid;
+  grid-template-columns: 1fr;
+  justify-content: center;
+  align-items: center;
+  min-width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.places-card-link {
+  text-decoration: none;
+  color: #000;
+  position: relative;
+}
+.places-card-img {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+}
+.places-card-text {
+  margin-top: 15px;
+  text-align: center;
+  font-size: 14px;
+}
+.places-card-link:hover .places-card-hover {
+  display: flex;
+  background-color: rgba(0, 0, 0, .4);
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.places-card-hover-text {
+  display: none;
+}
+.places-card-link:hover .places-card-hover-text {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  position: absolute;
+  top: 0;
+  left: 0;
+  color: #fff;
+  width: 100%;
+  height: 100%;
+  animation-duration: .3s;
+  animation-name: places-card;
+}
+
+.sliceLeft {
+  animation-duration: 1s;
+  animation-name: silceLeft;
+}
+
+@media (min-width: 744px) {
+  .places-ctn {
+    padding: 56px 0;
+  }
+  .places-text-title {
+    font-size: 28px;
+  }
+  .pĺaces-text-desciption {
+    font-size: 18px;
+  }
+  .places-cards-ctn {
+    display: grid ;
+    grid-template-columns: 1fr 1fr;
+    margin-top: 56px;
+    overflow: hidden;
+  }
+}
+
+@media (min-width: 992px) {
+  .places-ctn {
+    padding: 72px 0;
+  }
+  .places-text-title {
+    font-size: 32px;
+  }
+  .places-cards-ctn {
+    display: grid ;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    margin-top: 72px;
+  }
+  .places-card-img {
+    height: 190px;
+  }
+}
+
+@keyframes silceLeft {
+  from {
+    transform: translateX(100%);
+  }
+
+  to {
+    transform: translateX(0%);
+  }
+}

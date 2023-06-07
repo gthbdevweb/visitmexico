@@ -1,0 +1,76 @@
+{
+    "videoTop": "https://www.youtube.com/embed/RXnihWaAL9Q?rel=0;&autoplay=1",
+    "title": "神奇小镇",
+    "urlImgTop": "Tlaxcala_Portada.webp",
+    "descriptionTop": "神奇小镇指的是一个充满着象征与传奇、传统与历史的小镇;在许多情况下,它们是墨西哥超越性事件的现场、墨西哥民族特性的代表地,因此具有吸引游客的魔力。参观神奇小镇是发现墨西哥魅力的一个机会。 《神奇的城镇计划》有助于重新评价墨西哥的一组城镇,这些城镇是国家集体想象力的组成部分,给本国、外国游客带来有吸引力的、多种多样的选择。 目前,墨西哥有 132 个神奇小镇。",
+    "subtitle": "Subtítulo",
+    "texShowMore": "Ver más",
+    "textShowLess": "Ver menos",
+    "towns": [
+        {
+            "urlVideo": "https://www.youtube.com/embed/z4EPuUpf6Qs",
+            "title": "TEQUILA",
+            "id": 1
+        },
+        {
+            "urlVideo": "https://www.youtube.com/embed/eNn83mXHwg0",
+            "title": "SAN CRISTOBAL DE LAS CASAS - CHIAPAS",
+            "id": 2
+        },
+        {
+            "urlVideo": "https://www.youtube.com/embed/VRFTsB1ASxE",
+            "title": "PARACHO - MICHOACÁN",
+            "id": 3
+        },
+        {
+            "urlVideo": "https://www.youtube.com/embed/bRpeilRty0c",
+            "title": "MÚZQUIZ - COAHUILA",
+            "id": 4
+        },
+        {
+            "urlVideo": "https://www.youtube.com/embed/Orm6xaA2boY",
+            "title": "MINERAL DEL CHICO - HIDALGO",
+            "id": 5
+        },
+        {
+            "urlVideo": "https://www.youtube.com/embed/YctE9pnGFbY",
+            "title": "MEXCALTITÁN - NAYARIT",
+            "id": 6
+        },
+        {
+            "urlVideo": "https://www.youtube.com/embed/d74Cquz4I0A",
+            "title": "IZAMAL - YUCATÁN",
+            "id": 7
+        },
+        {
+            "urlVideo": "https://www.youtube.com/embed/mQTU_qiDFYo",
+            "title": "CREEL - CHIHUAHUA",
+            "id": 8
+        },
+        {
+            "urlVideo": "https://www.youtube.com/embed/b28ltsYTv64",
+            "title": "BACALAR - QUINTANA ROO",
+            "id": 9
+        },
+        {
+            "urlVideo": "https://www.youtube.com/embed/NVcGteckl6g",
+            "title": "CRONISTAS",
+            "id": 10
+        },
+        {
+            "urlVideo": "https://www.youtube.com/embed/5Z2Qy1i-M0M",
+            "title": "AULAS ETNOGRÁFICAS",
+            "id": 11
+        },
+        {
+            "urlVideo": "https://www.youtube.com/embed/wwjBVvMUZKc",
+            "title": "RAÍCES MÁGICAS",
+            "id": 12
+        },
+        {
+            "urlVideo": "https://www.youtube.com/embed/RXnihWaAL9Q",
+            "title": "PUEBLOS MÁGICOS",
+            "id": 13
+        }
+    ]
+}

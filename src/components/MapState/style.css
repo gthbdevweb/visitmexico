@@ -1,0 +1,43 @@
+.state-map-ctn {
+  padding: 42px 0;
+  background-color: #eee;
+}
+.state-map-view-ctn {
+  height: 100%;
+  width: 100%;
+  aspect-ratio: 1/1;
+  padding: 20px;
+}
+.state-map-desc-ctn {
+  padding: 20px;
+}
+.state-map-desc-text-title {
+  font-size: 22px;
+}
+.state-map-desc-text-desc {
+  font-size: 14px;
+  margin-top: 25px;
+}
+.state-map-btn {
+  float: right;
+}
+
+@media (min-width: 992px) {
+  .state-map-ctn {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+  .state-map-view-ctn {
+    padding: 40px;
+    aspect-ratio: auto;
+  }
+  .state-map-desc-ctn {
+    padding: 40px 0;
+  }
+  .state-map-desc-text-title {
+    font-size: 28px;
+  }
+  .state-map-desc-text-desc {
+    font-size: 16px;
+  }
+}

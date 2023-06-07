@@ -1,0 +1,62 @@
+.state-known-ctn {
+  display: block;
+  padding: 42px 0;
+  background-image: url('../../assets/img/layout/bg.png');
+  background-repeat: repeat-y;
+  background-size: 100% auto;
+  background-position: center;
+}
+.state-known-text-ctn {
+  padding: 20px 20px 40px 20px;
+}
+.state-known-text-title {
+  font-size: 32px;
+}
+.state-known-text-desc {
+  font-size: 14px;
+  margin-top: 25px;
+}
+.state-known-btn {
+  float: right;
+  border: 1px solid #a6a6a6;
+  color: #303030;
+}
+.state-known-btn:hover {
+  float: right;
+  background: #303030;
+  border: 1px solid #303030;
+  color: #e3e8ed;
+}
+.state-known-img-ctn {
+  width: 100%;
+  height: 100%;
+}
+.state-known-img {
+  margin-top: 25px;
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  aspect-ratio: 1/1;
+}
+
+@media (min-width: 992px) {
+  .state-known-ctn {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 72px 0;
+  }
+  .state-known-text-title {
+    font-size: 48px;
+  }
+  .state-known-text-desc {
+    font-size: 18px;
+  }
+  .state-known-text-ctn {
+    padding: 20px 40px;
+  }
+  .state-known-img {
+    width: 100%;
+    height: 100%;
+    padding: 10% 10% 0 10%;
+  }
+}

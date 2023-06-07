@@ -1,0 +1,95 @@
+.turismo-de-aventura-content-ctn {
+  padding: 142px 0;
+  background-color: #eee;
+  background-image: url('../../assets/img/layout/bg.png');
+  background-repeat: repeat-y;
+  background-size: 100% auto;
+  background-position: center;
+}
+.turismo-de-aventura-content-ctn-text {
+  padding: 15px;
+}
+.turismo-de-aventura-content-text-title {
+  font-size: 26px;
+}
+.turismo-de-aventura-content-text-desc {
+  font-size: 16px;
+}
+.turismo-de-aventura-content-ctn-badge {
+  background-color: #ccc;
+  text-align: center;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 2px;
+  margin-top: 35px;
+}
+.turismo-de-aventura-content-badge-text {
+  font-size: 16px;
+  margin-bottom: 0;
+}
+.turismo-de-aventura-content-ctn-img {
+  margin-top: 35px;
+  width: 100%;
+  height: 100%;
+}
+.turismo-de-aventura-content-img {
+  width: 100%;
+  height: 270px;
+  object-fit: cover;
+}
+
+@media (min-width: 744px) {
+  .turismo-de-aventura-content-ctn {
+    padding: 156px 0;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+  .turismo-de-aventura-content-text-title {
+    font-size: 28px;
+  }
+  .turismo-de-aventura-content-text-desc {
+    font-size: 14px;
+  }
+  .turismo-de-aventura-content-badge-text {
+    font-size: 18px;
+  }
+  .turismo-de-aventura-content-ctn-img {
+    margin-top: 0;
+    width: 100%;
+    height: 100%;
+    padding: 0 15px;
+  }
+}
+
+@media (min-width: 992px) {
+  .turismo-de-aventura-content-ctn {
+    padding: 172px 0;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+  .turismo-de-aventura-content-ctn-text {
+    display: block;
+    align-self: center;
+  }
+  .turismo-de-aventura-content-text-title {
+    font-size: 32px;
+  }
+  .turismo-de-aventura-content-text-desc {
+    margin-top: 15px;
+    font-size: 16px;
+  }
+  .turismo-de-aventura-content-ctn-img {
+    margin-top: 0;
+    width: 100%;
+    height: 100%;
+    padding: 0 15px;
+  }
+  .turismo-de-aventura-content-img {
+    height: 460px;
+  }
+  .turismo-de-aventura-content-ctn-badge {
+    padding: 35px;
+  }
+}

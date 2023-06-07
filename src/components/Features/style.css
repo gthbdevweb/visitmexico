@@ -1,0 +1,71 @@
+.features-ctn {
+  padding: 42px 15px 72px;
+  background-color: #eee;
+}
+.features-text-title {
+  text-align: center;
+  font-size: 26px;
+}
+.features-collapse-ctn {
+  margin-top: 42px;
+}
+.features-collapse-btn-ctn {
+  display: grid;
+  gap: 10px;
+  padding: 15px;
+  border: 1px solid #ccc;
+  grid-template-columns: auto 1fr;
+}
+.features-collapse-show {
+  background: #03a0af;
+  border: none;
+  color: #e3e8ed;
+}
+.features-collapse-show:hover {
+  background: #a6208c;
+  border: none;
+  color: #e3e8ed;
+}
+.features-collapse-desc-ctn {
+  text-align: center;
+}
+.features-collapse-btn {
+  height: 36px;
+  min-width: 36px;
+  font-size: 16px;
+}
+.features-collapse-desc {
+  font-size: 16px;
+  margin: 0;
+  padding: 0;
+}
+.features-collapse-body-ctn {
+  margin-top: 10px;
+  font-size: 14px;
+}
+.class-buton-features {
+  float: right;
+  border-color: #03a0af;
+  color: #303030;
+}
+.class-buton-features:hover {
+  border-color: #03a0af;
+  background: #03a0af;
+  color: #fff;
+}
+
+@media (min-width: 992px) {
+  .features-ctn {
+    padding: 72px 12%;
+  }
+  .features-text-title {
+    text-align: center;
+    font-size: 42px;
+  }
+  .features-collapse-btn {
+    font-size: 18px;
+  }
+  .features-collapse-body-ctn {
+    font-size: 16px;
+  }
+}

@@ -1,0 +1,24 @@
+.blog-title-ctn {
+  padding-top: 145px;
+  background-image: url('../../assets/img/layout/bg.png');
+  background-repeat: repeat-y;
+  background-size: 100% auto;
+  background-position: center;
+}
+.blog-title-text-title {
+  font-size: 34px;
+  text-align: center;
+  margin: 0;
+}
+
+@media (min-width: 744px) {
+  .blog-title-ctn {
+    padding-top: 80px;
+  }
+}
+
+@media (min-width: 992px) {
+  .blog-title-text-title {
+    font-size: 36px;
+  }
+}

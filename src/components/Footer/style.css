@@ -1,0 +1,27 @@
+.footer-ctn { 
+  padding: 42px 15px;
+  background-color: #eee;
+}
+.footer-text-desc {
+  font-size: 12px;
+}
+
+@media (min-width: 744px) {
+  .footer-ctn { 
+    padding: 56px 15px;
+    background-color: #eee;
+  }
+  .footer-text-desc {
+    font-size: 14px;
+  }
+}
+
+@media (min-width: 992px) {
+  .footer-ctn { 
+    padding: 72px 25px;
+    background-color: #eee;
+  }
+  .footer-text-desc {
+    font-size: 14px;
+  }
+}

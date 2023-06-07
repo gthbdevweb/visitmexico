@@ -1,0 +1,236 @@
+{
+    "title": "BLOG",
+    "blogs": [
+        {
+            "id": 0,
+            "title": "ZUR WEIHNACHTSZEIT WIRD GANZ MEXIKO VON GLÄSERNEN CHRISTBAUMKUGELN GESCHMÜCKT",
+            "shortDescription": "Jahr für Jahr werden die Tannenbäume in Mexiko mit diesen prachtvollen Kugeln verziert, die erfahrene Glasbläser in aufwendiger Handarbeit herstellen. Die einzigartige Technik der Glasbläserei bietet eine Vielzahl von Möglichkeiten, um wunderschöne Kreationen zu schaffen, die die tief verwurzelte und einzigartige Tradition des Weihnachtsfestes in Mexiko verschönern.",
+            "description": [
+                {
+                    "text": "Jahr für Jahr werden die Tannenbäume in Mexiko mit diesen prachtvollen Kugeln verziert, die erfahrene Glasbläser in aufwendiger Handarbeit herstellen. Die einzigartige Technik der Glasbläserei bietet eine Vielzahl von Möglichkeiten, um wunderschöne Kreationen zu schaffen, die die tief verwurzelte und einzigartige Tradition des Weihnachtsfestes in Mexiko verschönern."
+                },
+                {
+                    "text": "Die Pueblos Mágicos Tlalpujahua in Michoacán und Chignahuapan in Puebla sind die beiden repräsentativsten Orte, an denen Jahr für Jahr Tausende von in- und ausländischen Besucher*innen diese ikonischen Produkte erwerben und gleichzeitig die touristischen Attraktionen und die regionale Küche genießen."
+                },
+                {
+                    "text": "Die Christbaumkugeln, die das Weihnachtsfest in Mexiko verzieren, sind aus einer Tradition entstanden, die bereits über Generationen weitergegeben wurde, seit sie im 17. Jahrhundert in unser Land kam. Es ist überliefert, dass sie bereits vor mehr als 2.000 Jahren in China hergestellt wurden."
+                },
+                {
+                    "text": "Die Technik wurde nach Europa überliefert, und die Gemeinden in Mexiko übernahmen sie ab der Zeit des Vizekönigreichs, was zu einer außergewöhnlichen Verschmelzung führte, die bis heute anhält."
+                }
+            ],
+            "urlImg": "esferas_.webp",
+            "shareFb": "",
+            "shareIg": "",
+            "shareVideo": "",
+            "shareTT": "",
+            "actions": {
+                "button": {
+                    "text" : "Gehe zum Blog",
+                    "dir": "/blog"
+                }
+            }
+        },
+        {
+            "id": 1,
+            "title": "TLALPUJAHUA UND DIE MESSE DER CHRISTBAUMKUGELN",
+            "shortDescription": "Die Tradition und Herstellung dieser handgefertigten Kreationen ist so wichtig, dass eines der fünf populärsten Feste in Tlalpujahua die Messe der Christbaumkugeln ist, die zwischen Oktober und Dezember stattfindet. Die Messebesucher*innen können die große Vielfalt an Farben, Modellen und Größen der hergestellten Kugeln sehen und einige davon mit nach Hause nehmen. Auf diese Weise ist eines der charakteristischen Elemente der mexikanischen Weihnacht in den Wohnzimmern der Bewohner*innen zu finden.",
+            "description": [
+                {
+                    "text": "Die Tradition und Herstellung dieser handgefertigten Kreationen ist so wichtig, dass eines der fünf populärsten Feste in Tlalpujahua die Messe der Christbaumkugeln ist, die zwischen Oktober und Dezember stattfindet. Die Messebesucher*innen können die große Vielfalt an Farben, Modellen und Größen der hergestellten Kugeln sehen und einige davon mit nach Hause nehmen. Auf diese Weise ist eines der charakteristischen Elemente der mexikanischen Weihnacht in den Wohnzimmern der Bewohner*innen zu finden."
+                },
+                {
+                    "text": "Tlalpujahua ist etwa 3 Autostunden von Mexiko-Stadt und 1 Stunde 50 Minuten von Morelia oder Toluca entfernt. Die Stadt liegt im Nordwesten von Michoacán und grenzt an Maravatío, Contepec, Senguio und den Bundesstaat Mexiko."
+                },
+                {
+                    "text": "Sie ist der Geburtsort des mexikanischen Aufständischen Ignacio López Rayón, daher lautet der offizielle Name des Ortes Tlalpujahua de Rayón. Er zeichnet sich durch seine Architektur mit Gebäuden aus der Zeit des Vizekönigtums und Herrenhäusern mit Balkonen sowie durch seine reiche Bergbaugeschichte aus."
+                },
+                {
+                    "text": "Wenn du also dieses Pueblo Mágico besuchst, um Christbaumkugeln zu erwerben, solltest du dir die Gelegenheit nicht entgehen lassen, Sehenswürdigkeiten wie das Museum des Hauses Hermanos Rayon, die Wallfahrtskirche Unserer Lieben Frau von Carmen oder die Mine Dos Estrellas zu besuchen."
+                },
+                {
+                    "text": "Tlalpujahua verfügt aber auch über pittoreske Naturlandschaften, die der Stadt einen besonderen Charme verleihen. Ein Beispiel dafür ist das Heiligtum der Monarchfalter, das zwischen November und Februar Tausende von Exemplaren dieser wandernden Spezies aufnimmt. Sie ziehen von Kanada aus in die Wälder von Michoacán, wie sie in diesem Ort zu finden sind."
+                },
+                {
+                    "text": "Der Charme von Tlalpujahua hat dazu geführt, dass es seit dem 27. Juni 2005 den Titel Pueblo Mágico trägt."
+                }
+            ],
+            "urlImg": "esferas2.webp",
+            "shareFb": "",
+            "shareIg": "",
+            "shareVideo": "",
+            "shareTT": "",
+            "actions": {
+                "button": {
+                    "text" : "Gehe zum Blog",
+                    "dir": "/blog"
+                }
+            }
+        },
+        {
+            "id": 2,
+            "title": "CHIGNAHUAPAN UND SEINE CHRISTBAUMKUGEL WERKSTÄTTEN",
+            "shortDescription": "In diesem Pueblo Mágico in Puebla gibt es mehr als 200 Werkstätten und Fabriken für Christbaumkugeln, in denen jährlich Millionen von Kunstwerken hergestellt werden, die das Weihnachtsfest in Mexiko schmücken.",
+            "description": [
+                {
+                    "text": "In diesem Pueblo Mágico in Puebla gibt es mehr als 200 Werkstätten und Fabriken für Christbaumkugeln, in denen jährlich Millionen von Kunstwerken hergestellt werden, die das Weihnachtsfest in Mexiko schmücken."
+                },
+                {
+                    "text": "Chignahuapan liegt 2,5 Stunden von Mexiko-Stadt, 1,5 Stunden von Pachuca und knappe 2 Stunden von Puebla entfernt und ist ein wunderschönes Städtchen, eingebettet zwischen Hügeln, die für ein besonderes, sehr kaltes Klima sorgen."
+                },
+                {
+                    "text": "Der Mudéjar-Kiosk ist einer der Orte, die jede/r Besucher*in unbedingt sehen muss, da er den charakteristischen Stil der künstlerischen Strömung in Spanien Ende des 19. Jahrhunderts widerspiegelt. Außerdem ist es ein obligatorischer Insta-Spot."
+                },
+                {
+                    "text": "Auch die Basilika der Unbefleckten Empfängnis und die Plaza de Armas sind sehenswert, aber die Naturattraktionen sind in diesem Pueblo Mágico am repräsentativsten. Wasserfälle wie El Cajón, Quetzalapan, seine Lagunen und heißen Quellen sind nur einige der beliebtesten Orte für Besucher*innen."
+                },
+                {
+                    "text": "Nun weißt du also, dass Tlalpujahua und Chignahuapan die beiden empfehlenswertesten Optionen sind, nicht nur um die Christbaumkugeln für die nächste Weihnachtssaison zu erwerben, sondern auch um zwei unglaubliche Pueblos Mágicos in Mexiko kennenzulernen."
+                }
+            ],
+            "urlImg": "blogesfera.webp",
+            "shareFb": "",
+            "shareIg": "",
+            "shareVideo": "",
+            "shareTT": "",
+            "actions": {
+                "button": {
+                    "text" : "Gehe zum Blog",
+                    "dir": "/blog"
+                }
+            }
+        },
+        {
+            "id": 3,
+            "title": "10 AKTIVITÄTEN, DIE DU IN COZUMEL UNTERNEHMEN KANNST",
+            "shortDescription": "Cozumel, eines der wertvollsten Inselparadiese Mexikos, liegt direkt in der mexikanischen Karibik. Sein natürlicher Reichtum wird perfekt durch das Erbe der Maya-Kultur, die moderne Infrastruktur für den Tourismus, wie dem internationalen.",
+            "description": [
+                {
+                    "text": "Cozumel, eines der wertvollsten Inselparadiese Mexikos, liegt direkt in der mexikanischen Karibik. Sein natürlicher Reichtum wird perfekt durch das Erbe der Maya-Kultur, die moderne Infrastruktur für den Tourismus, wie dem internationalen."
+                },
+                {
+                    "text": "Cozumel, Quintana Roo, auch als Insel der Schwalben bekannt, ist der perfekte Ort, um die umfangreiche Meeresflora und -fauna zu bewundern, da sie sich am zweitgrößten Barriereriff der Welt befindet."
+                },
+                {
+                    "text": "Umgeben vom türkisblauen Wasser der Karibik ist mehr als die Hälfte des Gebiets dieses Reiseziels ein Naturschutzgebiet, das zu dessen Erhaltung sowie zum verantwortungsvollen Tourismus beiträgt, ganz zur Freude der Besucher*innen, die entweder mit dem Boot oder mit dem Flugzeug anreisen."
+                },
+                {
+                    "text": "Obwohl viele Touristen mit der Fähre von der Playa del Carmen einen Tagesausflug nach Cozumel machen, lohnt es sich auch, ein paar Tage für diese Reise einzuplanen. Die Insel bietet ein vielfältiges Angebot an Aktivitäten."
+                }
+            ],
+            "urlImg": "cozumel-0.wep.jpg",
+            "shareFb": "",
+            "shareIg": "",
+            "shareVideo": "",
+            "shareTT": "",
+            "actions": {
+                "button": {
+                    "text" : "Gehe zum Blog",
+                    "dir": "/blog"
+                }
+            }
+        },
+        {
+            "id": 4,
+            "title": "FOLGENDE AKTIVITÄTEN SIND IN COZUMEL EIN MUSS",
+            "shortDescription": "Da es sich um einen der Haupteingangspunkte zu diesem Inselziel handelt, ist es am besten den Pier und das Zentrum zu besuchen, wo der Gemeindesitz liegt. Hier befinden sich ein Teil der historischen und kulturellen Stätten sowie Restaurants, Handwerks- und Souvenirläden. Darüber hinaus kann man die moderne Wandmalerei bewundern, die dem Besuch ihre sehr malerische und angenehme Note verleiht und sich ideal zum Fotografieren eignet.",
+            "description": [
+                {
+                    "list": [
+                        {
+                            "title": "BESUCHE DEN PIER UND DAS ZENTRUM VON SAN MIGUEL DE COZUMEL",
+                            "description": [
+                                {
+                                    "text": "Da es sich um einen der Haupteingangspunkte zu diesem Inselziel handelt, ist es am besten den Pier und das Zentrum zu besuchen, wo der Gemeindesitz liegt. Hier befinden sich ein Teil der historischen und kulturellen Stätten sowie Restaurants, Handwerks- und Souvenirläden. Darüber hinaus kann man die moderne Wandmalerei bewundern, die dem Besuch ihre sehr malerische und angenehme Note verleiht und sich ideal zum Fotografieren eignet."
+                                }
+                            ]
+                        },
+                        {
+                            "title": "TAUCHEN UND SCHNORCHELN TREIBEN",
+                            "description": [
+                                {
+                                    "text": "Aufgrund seiner privilegierten geographischen Lage kann man die Naturwunder von Cozumel am besten beim Tauchen genießen. Egal ob für Expert*innen oder Anfänger*innen, in den verschiedenen Gegenden der Insel gibt es Dienstleister*innen, die dem*der Besucher*in das Erlernen dieser Aktivität erleichtern. Für alle, die es so bevorzugen, bietet sich auch die Gelegenheit, zu schnorcheln, während man die Naturschätze, die die Tiefen dieser Karibikregion verbergen, betrachtet."
+                                }
+                            ]
+                        },
+                        {
+                            "title": "NACH PUNTA SUR REISEN",
+                            "description": [
+                                {
+                                    "text": "Wie der Name schon sagt, befindet sie sich an der ‘südlichen’ Spitze von Cozumel. Sie ist ein großes Naturschutzgebiet mit sowohl breiten Vegetationsflächen, Mangroven und Riffen als auch einem bezaubernden Leuchtturm und dem Schifffahrtsmuseum, in dem sich die Maya- und Seefahrergeschichte abspielt. Sogar Überreste dieser beeindruckenden Kultur sind hier zu finden."
+                                }
+                            ]
+                        },
+                        {
+                            "title": "SPAZIERGANG DURCH DIE ARCHÄOLOGISCHE ZONE SAN GERVASIO",
+                            "description": [
+                                {
+                                    "text": "Für die Mayas dient Ixchel als die Göttin der Fruchtbarkeit, der Geburt, Medizin und Künste, und diese archäologische Zone von Cozumel ist dieser Gottheit gewidmet. Obwohl dieses Gebiet die wichtigsten Spuren der Verehrung beherbergt, gibt es weit und breit verschiedene Manifestationen, die den Kult bezeugen, der ihm zugeteilt wurde. Es ist sogar bekannt, dass früher alle Frauen irgendwann einmal die Insel besuchen mussten."
+                                }
+                            ]
+                        },
+                        {
+                            "title": "WERTSCHÄTZUNG DER KANUTENANKUNFT DER HEILIGEN MAYA-REISE",
+                            "description": [
+                                {
+                                    "text": "Da wir jetzt über Ixchel sprechen, ist es auch wichtig, über eines der bedeutendsten Ereignisse in Cozumel zu sprechen, nämlich die Heilige Maya-Reise, die zurzeit eine Aufführung des Reiseweges ist, der von den Kanufahrer*innen genommen wurde und vom Festland nach Playa del Carmen abfährt, um diese Göttin anzubeten."
+                                }
+                            ]
+                        },
+                        {
+                            "title": "GENIESSE DEN CHANKANAAB-NATIONALPARK",
+                            "description": [
+                                {
+                                    "text": "Geschichte, Natur und Spaß treffen sich an einem einzigen Ort, der bereits zur Nationalstätte erklärt wurde, in dem man nicht nur Aktivitäten wie Schnorcheln, Tauchen oder Schwimmen mit Delfinen unternehmen kann, sondern der auch über ein Museum verfügt, was es zu einem der besten Orte für alle Arten von Reisenden macht."
+                                }
+                            ]
+                        },
+                        {
+                            "title": "ERHOLUNG AN EL CEDRAL",
+                            "description": [
+                                {
+                                    "text": "Wenn Cozumel das perfekte Reiseziel für Ruhe- und Entspannungssuchende ist, ist El Cedral das perfekte Plätzchen auf der Insel. Dieses kleine Dörfchen besitzt einen besonderen Charme und ist zugleich Zeuge des Geschichtslaufes vom Aufstieg der Maya-Kultur bis in die Neuzeit. Hier findet auch das zweitwichtigste Fest dieses Reisezieles statt: La Fiesta del Cedral am Tage des Heiligen Kreuzes."
+                                }
+                            ]
+                        },
+                        {
+                            "title": "WASSERAKTIVITÄTEN DURCHFÜHREN",
+                            "description": [
+                                {
+                                    "text": "Während Tauchen und Schnorcheln zu den bekanntesten Aktivitäten in Cozumel zählen, gibt es auch noch ein großes Angebot an Stränden. Entlang der Küste sind Paddeln, Jetskifahren und Kajakfahren zu finden. Stets mit der entsprechenden Unterstützung und Beratung von Expert*innen."
+                                }
+                            ]
+                        },
+                        {
+                            "title": "BESUCH AUF DER ISLA DE LA PASIÓN",
+                            "description": [
+                                {
+                                    "text": "Nördlich von Cozumel gibt es einen winzigen Ort namens Isla Pasión mit einer Ausdehnung von nur einem Kilometer. Hier gibt es Mangroven, Riffe und Dschungel. Außerdem kannst du hier sowohl an adrenalinreichen Aktivitäten teilnehmen, als auch Touren unternehmen, um den ruhigen und entspannten Strand zu genießen. Cozumel ist auch wegen der Durchführung von Feierlichkeiten, vor allem Eheschließungen, bekannt."
+                                }
+                            ]
+                        },
+                        {
+                            "title": "EL CIELO",
+                            "description": [
+                                {
+                                    "text": "Südlich von Cozumel am sandweißen Meeresgrund, der das karibische Meer charakterisiert, befindet sich das wahre Meeresparadies. Sein Name ist auf die Hunderte von Seesternen zurückzuführen, die in einem weiten Gebiet rasten, weshalb er keinen anderen Namen erhalten konnte als “Himmel”, jedoch tief unten im Meer. Diese Attraktion lässt sich idealerweise beim Tauchen oder Schnorcheln genießen. Aus diesem Grund einer der Zusammenkünfte, die Keine*r auf einer Reise nach Cozumel verpassen darf."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "urlImg": "sea-cozumel.webp",
+            "shareFb": "",
+            "shareIg": "",
+            "shareVideo": "",
+            "shareTT": "",
+            "actions": {
+                "button": {
+                    "text" : "Gehe zum Blog",
+                    "dir": "/blog"
+                }
+            }
+        }
+    ]
+}

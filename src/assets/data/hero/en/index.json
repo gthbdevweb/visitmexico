@@ -1,0 +1,30 @@
+{
+    "carousel": [
+        {
+            "url": "PUE_catedral_42.webp",
+            "id": "Puebla catedral"
+        },
+        {
+            "url": "PUE_cuetzalan_163.webp",
+            "id": "Puebla Cuetzalan"
+        }, 
+        {
+            "url": "PUE_cholula_9.webp",
+            "id": "Puebla Cholula"
+        }
+    ],
+    "content": {
+        "title": "Title",
+        "subtitle": "Subtitle",
+        "desciption": "Lorem ipsum dolor sit amet consectetur."
+    },
+    "actions": {
+        "button": {
+            "text" : "Go!",
+            "dir": "/"
+        }
+    },
+    "brand": {
+        "text": "México, de los países más visitados."
+    }
+}

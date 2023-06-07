@@ -1,0 +1,40 @@
+{
+    "title": "太陽、ビーチに砂浜",
+    "description": [
+        {
+            "text": "恵まれた位置にあるメキシコは、太平洋、メキシコ湾岸、カリブ海に囲まれ、太陽、ビーチ、砂浜を求めてやってくる観光客のパラダイスとなっています。"
+        },
+        {
+            "text": "メキシコが誇る1.1万キロ以上の海岸は、それぞれ海の色調から砂の手ざわり、幻想的な景色に、違う文化があり、ユニークなビーチを作り出しています。"
+        },
+        {
+            "text": "メキシコの海洋の動植物も世界各国から観光客を引き寄せる磁石となっています。コルテスの海は「世界の水槽」として知られています。美しいアカプルコ湾は、世界で最も優れた気候に恵まれています。そしてオアハカ州沿岸部の波はサーフィンに最適です。メキシコの太平洋側で楽しめるほんの一部の例にすぎません。メキシコ湾側ではベラクルス州のコスタ・エスメラルダ、そしてメキシコのカリブ海の白い砂浜に碧い海については言わずもがなです。"
+        }
+    ],
+    "cards": [
+        {
+            "urlImg": "NAY_sanblas_playas_98.webp",
+            "title": "Cabo Pulmo, Baja California"
+        },
+        {
+            "urlImg": "NAY_sanblas_playas_98.webp",
+            "title": "Baja California Sur"
+        },
+        {
+            "urlImg": "NAY_sanblas_playas_98.webp",
+            "title": "La Paz Baja California Sur"
+        },
+        {
+            "urlImg": "NAY_sanblas_playas_98.webp",
+            "title": "Playa Balandra, Baja California Sur"
+        },
+        {
+            "urlImg": "NAY_sanblas_playas_98.webp",
+            "title": "Bahía Ángeles Baja California Sur"
+        },
+        {
+            "urlImg": "NAY_sanblas_playas_98.webp",
+            "title": "San Felipe Baja California"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "title": "Sol e Praia",
+    "description": "Graças a sua privilegiada localização, rodeado pelo Oceano Pacífico, o Golfo do México e o mar do Caribe, o México é um destino paradisíaco para os turistas que estão em busca de sol, praia e areia. Os mais de 11 mil quilômetros de litoral, que tem o México, permitem que cada praia seja única por si só, com águas de diferentes tonalidades, areia de diversas texturas, paisagens de sonho e diferentes culturas. A flora e a fauna marinha também tornam o México um imã para visitantes de todos os cantos do mundo. O Mar de Cortés, considerado “o aquário do mundo”, a linda Bahía de Acapulco, com um dos climas mais privilegiados do planeta, e as praias de Oaxaca com ondas perfeitas para a prática de surf são alguns exemplos do quê você pode aproveitar no Pacífico mexicano, enquanto que, no lado do Golfo do México, está a Costa Esmeralda, em Veracruz, e o quê dizer do azul-turquesa e da branca areia do Caribe mexicano.",
+    "urlImg": "NAY_sanblas_playas_98.webp",
+    "actions": {
+        "button": {
+            "text": "Lorem ipsum dolor sit.",
+            "dir": ""
+        }
+    }
+}

@@ -1,0 +1,40 @@
+.video-home-ctn {
+  padding: 42px 0;
+  background-image: url('../../assets/img/layout/bg.png');
+  background-repeat: repeat-y;
+  background-size: 100% auto;
+  background-position: center;
+}
+.video-home-text-title {
+  text-align: center;
+  font-size: 28px;
+}
+.video-home-vide-ctn {
+  margin-top: 18px;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16 / 9;
+}
+@media (min-width: 744px) {
+  .video-home-ctn {
+    padding: 56px 0;
+  }
+  .video-home-text-title {
+    font-size: 32px;
+  }
+  .video-home-vide-ctn {
+    margin-top: 32px;
+  }
+}
+
+@media (min-width: 992px) {
+  .video-home-ctn {
+    padding: 72px 0;
+  }
+  .video-home-text-title {
+    font-size: 42px;
+  }
+  .video-home-vide-ctn {
+    margin-top: 46px;
+  }
+}

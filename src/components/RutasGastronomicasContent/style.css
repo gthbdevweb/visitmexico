@@ -1,0 +1,95 @@
+.rutas-gastronomicas-content-ctn {
+  padding: 142px 0;
+  background-color: #eee;
+  background-image: url('../../assets/img/layout/bg.png');
+  background-repeat: repeat-y;
+  background-size: 100% auto;
+  background-position: center;
+}
+.rutas-gastronomicas-content-ctn-text {
+  padding: 15px;
+}
+.rutas-gastronomicas-content-text-title {
+  font-size: 26px;
+}
+.rutas-gastronomicas-content-text-desc {
+  font-size: 16px;
+}
+.rutas-gastronomicas-content-ctn-badge {
+  background-color: #ccc;
+  text-align: center;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 2px;
+  margin-top: 35px;
+}
+.rutas-gastronomicas-content-badge-text {
+  font-size: 16px;
+  margin-bottom: 0;
+}
+.rutas-gastronomicas-content-ctn-img {
+  margin-top: 35px;
+  width: 100%;
+  height: 100%;
+}
+.rutas-gastronomicas-content-img {
+  width: 100%;
+  height: 270px;
+  object-fit: cover;
+}
+
+@media (min-width: 744px) {
+  .rutas-gastronomicas-content-ctn {
+    padding: 156px 0;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+  .rutas-gastronomicas-content-text-title {
+    font-size: 28px;
+  }
+  .rutas-gastronomicas-content-text-desc {
+    font-size: 14px;
+  }
+  .rutas-gastronomicas-content-badge-text {
+    font-size: 18px;
+  }
+  .rutas-gastronomicas-content-ctn-img {
+    margin-top: 0;
+    width: 100%;
+    height: 100%;
+    padding: 0 15px;
+  }
+}
+
+@media (min-width: 992px) {
+  .rutas-gastronomicas-content-ctn {
+    padding: 172px 0;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+  .rutas-gastronomicas-content-ctn-text {
+    display: block;
+    align-self: center;
+  }
+  .rutas-gastronomicas-content-text-title {
+    font-size: 32px;
+  }
+  .rutas-gastronomicas-content-text-desc {
+    margin-top: 15px;
+    font-size: 16px;
+  }
+  .rutas-gastronomicas-content-ctn-img {
+    margin-top: 0;
+    width: 100%;
+    height: 100%;
+    padding: 0 15px;
+  }
+  .rutas-gastronomicas-content-img {
+    height: 460px;
+  }
+  .rutas-gastronomicas-content-ctn-badge {
+    padding: 35px;
+  }
+}
