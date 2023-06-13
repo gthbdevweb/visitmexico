@@ -14,6 +14,11 @@
 }
 .turismo-sostenible-content-text-desc {
   font-size: 16px;
+  text-align: justify;
+  text-transform: lowercase;
+}
+.turismo-sostenible-content-text-desc::first-letter {
+  text-transform: capitalize;
 }
 .turismo-sostenible-content-ctn-badge {
   background-color: #ccc;

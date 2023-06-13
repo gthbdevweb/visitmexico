@@ -43,6 +43,9 @@
   margin-top: 10px;
   font-size: 14px;
 }
+.features-card-body-text {
+  text-align: justify;
+}
 .class-buton-features {
   float: right;
   border-color: #03a0af;

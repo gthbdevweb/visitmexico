@@ -14,6 +14,11 @@
 }
 .rutas-gastronomicas-content-text-desc {
   font-size: 16px;
+  text-align: justify;
+  text-transform: lowercase;
+}
+.rutas-gastronomicas-content-text-desc::first-letter {
+  text-transform: capitalize;
 }
 .rutas-gastronomicas-content-ctn-badge {
   background-color: #ccc;

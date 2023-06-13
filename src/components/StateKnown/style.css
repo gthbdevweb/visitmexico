@@ -15,6 +15,7 @@
 .state-known-text-desc {
   font-size: 14px;
   margin-top: 25px;
+  text-align: justify;
 }
 .state-known-btn {
   float: right;

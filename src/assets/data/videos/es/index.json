@@ -1,5 +1,5 @@
 {
-    "title": "Vídeos",
+    "title": "Videos",
     "videos": [
         {
             "id": 1,
@@ -67,5 +67,5 @@
             "dir": "/videos"
         }
     ],
-    "linkTitle": "Quiza también te interese..."
+    "linkTitle": "Quizás también te interese..."
 }

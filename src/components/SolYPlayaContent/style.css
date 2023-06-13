@@ -14,6 +14,11 @@
 }
 .sol-y-playa-content-text-desc {
   font-size: 16px;
+  text-align: justify;
+  text-transform: lowercase;
+}
+.sol-y-playa-content-text-desc::first-letter {
+  text-transform: capitalize;
 }
 .sol-y-playa-content-ctn-badge {
   background-color: #ccc;

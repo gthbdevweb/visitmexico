@@ -42,7 +42,7 @@ const Features = () => {
         </div>
         <div className="collapse features-collapse-body-ctn" id={`featuresCollapse${blog.id}`}>
           <div className="card card-body">
-            <p>{blog.shortDescription}</p>
+            <p className="features-card-body-text">{blog.shortDescription}</p>
             <Link to={blog.actions.button.dir}>
               <button type="button" className="btn btn-outline-primary class-buton-features">{blog.actions.button.text}</button>
             </Link>

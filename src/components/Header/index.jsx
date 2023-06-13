@@ -87,7 +87,7 @@ const Header = () => {
           {menuOptions()}
         </ul>
         <ul className="nav-menu-blog">
-          <li><a href="https://www.101museos.com/" target='_blank'>101 museos</a></li>
+          {/*<li><a href="https://www.101museos.com/" target='_blank'>101 museos</a></li>*/}
           {/*<li><a href="#">México a través de los años</a></li>
           <li><a href="#">Destino del mes</a></li>
           <li><a href="#">Lo imperdible</a></li>
@@ -125,7 +125,7 @@ const Header = () => {
           </li>
         </ul>
         <div className="navbar-menu-video">
-          <iframe loading='lazy' width="100%" height="100%" src={`https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=${isChecked ? 1 : 0}`} title="Conoce las Ciudades Mexicanas Patrimonio Mundial. Visit México." frameBorder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
+          <iframe loading='lazy' width="100%" height="100%" src={`https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0&mute=1&autoplay=${isChecked ? 1 : 0}`} title="Conoce las Ciudades Mexicanas Patrimonio Mundial. Visit México." frameBorder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
         </div>
       </div>
     </>

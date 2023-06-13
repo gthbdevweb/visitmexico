@@ -9,84 +9,84 @@
             "dir": "/trenmaya",
             "urlImg": "trenMaya.webp",
             "description": "Tren Maya",
-            "hover": "Vámos a Tren Maya!"
+            "hover": "¡Vamos a Tren Maya!"
         },
         {
             "name": "Estados",
             "dir": "/estados",
             "urlImg": "NAY_sanblas_8.webp",
             "description": "Estados",
-            "hover": "Vámos a Estados!"
+            "hover": "¡Vamos a Estados!"
         },
         {
             "name": "Pueblos Mágicos",
             "dir": "/pueblos",
             "urlImg": "YUC_Hacienda_Ochil139.webp",
             "description": "Pueblos Mágicos",
-            "hover": "Vámos a Pueblos Mágicos!"
+            "hover": "¡Vamos a Pueblos Mágicos!"
         },
         {
             "name": "Eventos Internacionales",
             "dir": "/eventos",
             "urlImg": "f1evento.webp",
             "description": "Eventos Internacionales",
-            "hover": "Vámos a Eventos Internacionales!"
+            "hover": "¡Vamos a Eventos Internacionales!"
         },
         {
             "name": "Sol y Playa",
             "dir": "/solyplaya",
             "urlImg": "Qroo_cancun_playa108.webp",
             "description": "Sol y Playa",
-            "hover": "Vámos a Sol y Playa!"
+            "hover": "¡Vamos a Sol y Playa!"
         },
         {
             "name": "Rutas Gastronómicas",
             "dir": "/rutasgastronomicas",
             "urlImg": "Dgo_Ciudad_Durango421.webp",
             "description": "Rutas Gastronómicas",
-            "hover": "Vámos a Rutas Gastronómicas!"
+            "hover": "¡Vamos a Rutas Gastronómicas!"
         },
         {
             "name": "Turismo Sostenible",
             "dir": "/turismosostenible",
             "urlImg": "BCS_tiburonballena.webp",
             "description": "Turismo Sostenible",
-            "hover": "Vámos a Turismo Sostenible!"
+            "hover": "¡Vamos a Turismo Sostenible!"
         },
         {
             "name": "Bienestar",
             "dir": "/bienestar",
             "urlImg": "MOR_Tepoztlan_HotelDosPiedras_LGBT-33.webp",
             "description": "Bienestar",
-            "hover": "Vámos a Bienestar!"
+            "hover": "¡Vamos a Bienestar!"
         },
         {
             "name": "Turismo de Aventura",
             "dir": "/turismodeaventura",
             "urlImg": "SIN_guanacoa_257.webp",
             "description": "Turismo de Aventura",
-            "hover": "Vámos a Turismo de Aventura!"
+            "hover": "¡Vamos a Turismo de Aventura!"
         },
         {
             "name": "Calendario",
             "dir": "/calendario",
             "urlImg": "blog.webp",
             "description": "Calendario",
-            "hover": "Vámos a Calendario!"
+            "hover": "¡Vamos a Calendario!"
         },
         {
             "name": "Blog",
             "dir": "/blog",
             "urlImg": "bloghome.webp",
             "description": "Blog",
-            "hover": "Vámos a Blog!"
+            "hover": "¡Vamos a Blog!"
         },
         {
-            "name": "Vídeos",
+            "name": "Videos",
             "dir": "/videos",
             "urlImg": "videos.webp",
-            "description": "Vídeos",
-            "hover": "Vámos a Vídeos!"
+            "description": "Videos",
+            "hover": "¡Vamos a Videos!"
         }
     ]
 }

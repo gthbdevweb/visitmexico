@@ -17,6 +17,7 @@
 .state-map-desc-text-desc {
   font-size: 14px;
   margin-top: 25px;
+  text-align: justify;
 }
 .state-map-btn {
   float: right;
