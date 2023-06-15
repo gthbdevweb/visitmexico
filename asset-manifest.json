@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/visitmexico/static/css/main.d0e605d7.css",
-    "main.js": "/visitmexico/static/js/main.ef3edbb9.js",
+    "main.css": "/visitmexico/static/css/main.345e16f2.css",
+    "main.js": "/visitmexico/static/js/main.55b5d90f.js",
     "static/js/787.8f5b6e93.chunk.js": "/visitmexico/static/js/787.8f5b6e93.chunk.js",
     "static/media/GRO_acapulco_1317.webp": "/visitmexico/static/media/GRO_acapulco_1317.682ec4d5fa18a2ed9987.webp",
     "static/media/COAH_2_dunas_bilbao_22.webp": "/visitmexico/static/media/COAH_2_dunas_bilbao_22.d068f2fe28a65eb1b51a.webp",
@@ -29,7 +29,6 @@
     "static/media/PUE_cuetzalan_163.webp": "/visitmexico/static/media/PUE_cuetzalan_163.40a8af7eb1a6ee282758.webp",
     "static/media/SIN_mazatlan_playa-750.webp": "/visitmexico/static/media/SIN_mazatlan_playa-750.d96550b7b4c24e84422a.webp",
     "static/media/DF_Bellas_artes_04.webp": "/visitmexico/static/media/DF_Bellas_artes_04.94c8e060123130cdc5d2.webp",
-    "static/media/bg.png": "/visitmexico/static/media/bg.a13b9284b57c26f19f70.png",
     "static/media/NAY_sanblas_playas_98.webp": "/visitmexico/static/media/NAY_sanblas_playas_98.4e8a3b24770086d7fbc5.webp",
     "static/media/MOR_axochiapan_t_164.webp": "/visitmexico/static/media/MOR_axochiapan_t_164.3491fa2cadfe72aa0019.webp",
     "static/media/YUC_Valladolid18-2.webp": "/visitmexico/static/media/YUC_Valladolid18-2.560a864c989e808cfb33.webp",
@@ -45,6 +44,7 @@
     "static/media/Tlaxcala_Portada.webp": "/visitmexico/static/media/Tlaxcala_Portada.557a1fba483f96605794.webp",
     "static/media/tren.webp": "/visitmexico/static/media/tren.b425c1f7c1f77415ed3d.webp",
     "static/media/MOR_Tepoztlan_HotelDosPiedras_LGBT-33.webp": "/visitmexico/static/media/MOR_Tepoztlan_HotelDosPiedras_LGBT-33.41ab00d2d4b4dfb29ded.webp",
+    "static/media/bg.webp": "/visitmexico/static/media/bg.2dd3d30e2b9a8ed9dce3.webp",
     "static/media/QRO_sierra_gorda_422.webp": "/visitmexico/static/media/QRO_sierra_gorda_422.cb70c2d0d72a9033b188.webp",
     "static/media/BCS_tiburonballena.webp": "/visitmexico/static/media/BCS_tiburonballena.98d2cc8406e3b72cbb00.webp",
     "static/media/OAX_Hierve_el_agua3023.webp": "/visitmexico/static/media/OAX_Hierve_el_agua3023.fa4a13af9d08b35dc7cd.webp",
@@ -64,12 +64,12 @@
     "static/media/trenMaya.webp": "/visitmexico/static/media/trenMaya.8a170d5399bb93e9d337.webp",
     "static/media/logo.png": "/visitmexico/static/media/logo.077d6f371a73310c9868.png",
     "index.html": "/visitmexico/index.html",
-    "main.d0e605d7.css.map": "/visitmexico/static/css/main.d0e605d7.css.map",
-    "main.ef3edbb9.js.map": "/visitmexico/static/js/main.ef3edbb9.js.map",
+    "main.345e16f2.css.map": "/visitmexico/static/css/main.345e16f2.css.map",
+    "main.55b5d90f.js.map": "/visitmexico/static/js/main.55b5d90f.js.map",
     "787.8f5b6e93.chunk.js.map": "/visitmexico/static/js/787.8f5b6e93.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d0e605d7.css",
-    "static/js/main.ef3edbb9.js"
+    "static/css/main.345e16f2.css",
+    "static/js/main.55b5d90f.js"
   ]
 }
