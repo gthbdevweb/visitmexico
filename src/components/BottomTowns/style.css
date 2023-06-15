@@ -1,7 +1,7 @@
 .towns-bottom-ctn {
   background-color: #eee;
   padding: 60px 20px;
-  background-image: url('../../assets/img/layout/bg.png');
+  background-image: url('../../assets/img/layout/bg.webp');
   background-repeat: repeat-y;
   background-size: 100% auto;
   background-position: center;
@@ -24,6 +24,33 @@
   font-size: 14px;
   margin-top: 20px;
   text-align: justify;
+}
+
+.btn-towns {
+  margin-top: 12px;
+  float: right;
+  background: #EC068B;
+  border-color: #EC068B;
+}
+
+.btn-towns:hover {
+  background: rgba(236,6,139, .6);
+  border-color: rgba(236,6,139, .6);
+}
+
+.btn-towns:active {
+  background: rgba(236,6,139, .6);
+  border-color: rgba(236,6,139, .6);
+}
+
+.btn-towns:focus {
+  background: rgba(236,6,139, .6);
+  border-color: rgba(236,6,139, .6);
+}
+
+.btn-towns:visited {
+  background: rgba(236,6,139, .6);
+  border-color: rgba(236,6,139, .6);
 }
 
 @media (min-width: 992px) {

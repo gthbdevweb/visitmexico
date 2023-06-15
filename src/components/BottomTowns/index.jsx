@@ -36,6 +36,13 @@ const BottomTowns = () => {
       <div className="towns-bottom-text-ctn">
         <h3 className="towns-bottom-text-title">{language?.title}</h3>
         <p className="towns-bottom-text-desc">{language?.descriptionTop}</p>
+        <a 
+          href='https://pueblosmagicos.mexicodesconocido.com.mx/'
+          className="btn btn-primary btn-towns"
+          target='_blank'
+        >
+          Destinos encantados
+        </a>
       </div>
     </section>
   )

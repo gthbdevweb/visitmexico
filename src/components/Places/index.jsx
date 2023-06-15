@@ -10,6 +10,15 @@ const Places = () => {
   const { isLanguage } = useContext(Context);
   const [language, setLanguage] = useState({});
 
+  const colors = [
+    '166, 32, 140, .5',
+    '229, 38, 25, .5',
+    '236, 6, 139, .5',
+    '253, 167, 0, .5',
+    '136, 194, 67, .5',
+    '3, 160, 175, .5'
+  ];
+
   useEffect(() => (
     isLanguage === 'MX' ? setLanguage(dataEs)
     : isLanguage === 'USA' ? setLanguage(dataEn)
@@ -26,7 +35,7 @@ const Places = () => {
             alt={item.name}
           />
           <p className="places-card-text">{item.description}</p>
-          <div className="places-card-hover">
+          <div className="places-card-hover" style={{ background: `rgba(${colors[index]})`}}>
             <p className="places-card-hover-text">{item.hover}</p>
           </div>
         </Link>

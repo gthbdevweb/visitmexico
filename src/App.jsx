@@ -1,5 +1,6 @@
 import React from 'react';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import ReactGA from 'react-ga';
 import Layout from './components/Layout';
 import Home from './views/Home';
 import States from './views/States';
@@ -20,6 +21,9 @@ import TurismoDeAventura from './views/TurismoDeAventura';
 import './App.css';
 
 function App() {
+  const TRACKING_ID = "UA-273648726-1";
+  ReactGA.initialize(TRACKING_ID);
+
   return (
     <BrowserRouter>
       <Layout>
