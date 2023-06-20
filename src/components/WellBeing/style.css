@@ -1,26 +1,27 @@
-.sol-y-playa-content-ctn {
-  padding: 142px 0;
+.well-being-content-ctn {
+  padding: 0 0 0 0;
   background-color: #eee;
   background-image: url('../../assets/img/layout/bg.webp');
   background-repeat: repeat-y;
   background-size: 100% auto;
   background-position: center;
+  overflow-x: hidden;
 }
-.sol-y-playa-content-ctn-text {
+.well-being-content-ctn-text {
   padding: 15px;
 }
-.sol-y-playa-content-text-title {
+.well-being-content-text-title {
   font-size: 26px;
 }
-.sol-y-playa-content-text-desc {
+.well-being-content-text-desc {
   font-size: 16px;
   text-align: justify;
   text-transform: lowercase;
 }
-.sol-y-playa-content-text-desc::first-letter {
+.well-being-content-text-desc::first-letter {
   text-transform: capitalize;
 }
-.sol-y-playa-content-ctn-badge {
+.well-being-content-ctn-badge {
   background-color: #ccc;
   text-align: center;
   padding: 20px;
@@ -30,40 +31,43 @@
   border-radius: 2px;
   margin-top: 35px;
 }
-.sol-y-playa-content-badge-text {
+.well-being-content-badge-text {
   font-size: 16px;
   margin-bottom: 0;
 }
-.sol-y-playa-content-ctn-img {
+.well-being-content-ctn-img {
   margin-top: 35px;
-  width: 100%;
+  margin-bottom: 32px;
+  width: 85%;
   height: 100%;
+  margin-right: auto;
+  margin-left: auto;
+  transform: rotate(-5deg);
 }
-.sol-y-playa-content-img {
+.well-being-content-img {
   width: 100%;
   height: 270px;
   object-fit: cover;
-}
-.sol-y-playa-content-rss {
-  width: 100%;
+  border: 25px solid #fff;
+  box-shadow: 15px 15px 10px #c2c2c2;
 }
 
 @media (min-width: 744px) {
-  .sol-y-playa-content-ctn {
-    padding: 156px 0;
+  .well-being-content-ctn {
+    padding: 50px 0 0 0;
     display: grid;
     grid-template-columns: 1fr 1fr;
   }
-  .sol-y-playa-content-text-title {
+  .well-being-content-text-title {
     font-size: 28px;
   }
-  .sol-y-playa-content-text-desc {
+  .well-being-content-text-desc {
     font-size: 14px;
   }
-  .sol-y-playa-content-badge-text {
+  .well-being-content-badge-text {
     font-size: 18px;
   }
-  .sol-y-playa-content-ctn-img {
+  .well-being-content-ctn-img {
     margin-top: 0;
     width: 100%;
     height: 100%;
@@ -72,32 +76,32 @@
 }
 
 @media (min-width: 992px) {
-  .sol-y-playa-content-ctn {
-    padding: 172px 0;
+  .well-being-content-ctn {
+    padding: 50px 0 0 0;
     display: grid;
     grid-template-columns: 1fr 1fr;
   }
-  .sol-y-playa-content-ctn-text {
+  .well-being-content-ctn-text {
     display: block;
     align-self: center;
   }
-  .sol-y-playa-content-text-title {
+  .well-being-content-text-title {
     font-size: 32px;
   }
-  .sol-y-playa-content-text-desc {
+  .well-being-content-text-desc {
     margin-top: 15px;
     font-size: 16px;
   }
-  .sol-y-playa-content-ctn-img {
+  .well-being-content-ctn-img {
     margin-top: 0;
     width: 100%;
     height: 100%;
     padding: 0 15px;
   }
-  .sol-y-playa-content-img {
+  .well-being-content-img {
     height: 460px;
   }
-  .sol-y-playa-content-ctn-badge {
+  .well-being-content-ctn-badge {
     padding: 35px;
   }
 }

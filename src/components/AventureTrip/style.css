@@ -1,26 +1,27 @@
-.rutas-gastronomicas-content-ctn {
-  padding: 142px 0;
+.aventure-trip-content-ctn {
+  padding: 142px 0 100px 0;
   background-color: #eee;
   background-image: url('../../assets/img/layout/bg.webp');
   background-repeat: repeat-y;
   background-size: 100% auto;
   background-position: center;
+  overflow-x: hidden;
 }
-.rutas-gastronomicas-content-ctn-text {
+.aventure-trip-content-ctn-text {
   padding: 15px;
 }
-.rutas-gastronomicas-content-text-title {
+.aventure-trip-content-text-title {
   font-size: 26px;
 }
-.rutas-gastronomicas-content-text-desc {
+.aventure-trip-content-text-desc {
   font-size: 16px;
   text-align: justify;
   text-transform: lowercase;
 }
-.rutas-gastronomicas-content-text-desc::first-letter {
+.aventure-trip-content-text-desc::first-letter {
   text-transform: capitalize;
 }
-.rutas-gastronomicas-content-ctn-badge {
+.aventure-trip-content-ctn-badge {
   background-color: #ccc;
   text-align: center;
   padding: 20px;
@@ -30,37 +31,43 @@
   border-radius: 2px;
   margin-top: 35px;
 }
-.rutas-gastronomicas-content-badge-text {
+.aventure-trip-content-badge-text {
   font-size: 16px;
   margin-bottom: 0;
 }
-.rutas-gastronomicas-content-ctn-img {
-  margin-top: 35px;
-  width: 100%;
+.aventure-trip-content-ctn-img {
+  margin-top: 15px;
+  margin-bottom: 32px;
+  width: 85%;
   height: 100%;
+  margin-right: auto;
+  margin-left: auto;
+  transform: rotate(-5deg);
 }
-.rutas-gastronomicas-content-img {
+.aventure-trip-content-img {
   width: 100%;
   height: 270px;
   object-fit: cover;
+  border: 25px solid #fff;
+  box-shadow: 15px 15px 10px #c2c2c2;
 }
 
 @media (min-width: 744px) {
-  .rutas-gastronomicas-content-ctn {
-    padding: 156px 0;
+  .aventure-trip-content-ctn {
+    padding: 156px 0 80px 0;
     display: grid;
     grid-template-columns: 1fr 1fr;
   }
-  .rutas-gastronomicas-content-text-title {
+  .aventure-trip-content-text-title {
     font-size: 28px;
   }
-  .rutas-gastronomicas-content-text-desc {
+  .aventure-trip-content-text-desc {
     font-size: 14px;
   }
-  .rutas-gastronomicas-content-badge-text {
+  .aventure-trip-content-badge-text {
     font-size: 18px;
   }
-  .rutas-gastronomicas-content-ctn-img {
+  .aventure-trip-content-ctn-img {
     margin-top: 0;
     width: 100%;
     height: 100%;
@@ -69,32 +76,32 @@
 }
 
 @media (min-width: 992px) {
-  .rutas-gastronomicas-content-ctn {
-    padding: 172px 0;
+  .aventure-trip-content-ctn {
+    padding: 172px 0 100px 0;
     display: grid;
     grid-template-columns: 1fr 1fr;
   }
-  .rutas-gastronomicas-content-ctn-text {
+  .aventure-trip-content-ctn-text {
     display: block;
     align-self: center;
   }
-  .rutas-gastronomicas-content-text-title {
+  .aventure-trip-content-text-title {
     font-size: 32px;
   }
-  .rutas-gastronomicas-content-text-desc {
+  .aventure-trip-content-text-desc {
     margin-top: 15px;
     font-size: 16px;
   }
-  .rutas-gastronomicas-content-ctn-img {
+  .aventure-trip-content-ctn-img {
     margin-top: 0;
     width: 100%;
     height: 100%;
     padding: 0 15px;
   }
-  .rutas-gastronomicas-content-img {
+  .aventure-trip-content-img {
     height: 460px;
   }
-  .rutas-gastronomicas-content-ctn-badge {
+  .aventure-trip-content-ctn-badge {
     padding: 35px;
   }
 }

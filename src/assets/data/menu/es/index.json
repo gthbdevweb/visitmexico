@@ -33,39 +33,11 @@
             "hover": "¡Vamos a Eventos Internacionales!"
         },
         {
-            "name": "Sol y Playa",
-            "dir": "/solyplaya",
+            "name": "Experiencias",
+            "dir": "/experiencias",
             "urlImg": "Qroo_cancun_playa108.webp",
-            "description": "Sol y Playa",
-            "hover": "¡Vamos a Sol y Playa!"
-        },
-        {
-            "name": "Rutas Gastronómicas",
-            "dir": "/rutasgastronomicas",
-            "urlImg": "Dgo_Ciudad_Durango421.webp",
-            "description": "Rutas Gastronómicas",
-            "hover": "¡Vamos a Rutas Gastronómicas!"
-        },
-        {
-            "name": "Turismo Sostenible",
-            "dir": "/turismosostenible",
-            "urlImg": "BCS_tiburonballena.webp",
-            "description": "Turismo Sostenible",
-            "hover": "¡Vamos a Turismo Sostenible!"
-        },
-        {
-            "name": "Bienestar",
-            "dir": "/bienestar",
-            "urlImg": "MOR_Tepoztlan_HotelDosPiedras_LGBT-33.webp",
-            "description": "Bienestar",
-            "hover": "¡Vamos a Bienestar!"
-        },
-        {
-            "name": "Turismo de Aventura",
-            "dir": "/turismodeaventura",
-            "urlImg": "SIN_guanacoa_257.webp",
-            "description": "Turismo de Aventura",
-            "hover": "¡Vamos a Turismo de Aventura!"
+            "description": "Experiencias",
+            "hover": "¡Vamos a Experiencias!"
         },
         {
             "name": "Calendario",

@@ -11,7 +11,7 @@ import dataCn from '../../assets/data/solYPlaya/cn/index.json';
 import Share from '../Share';
 import './style.css';
 
-const SolYPlayaContent = () => {
+const SunAndBeach = () => {
   const { isLanguage } = useContext(Context);
   const [language, setLanguage] = useState({});
 
@@ -27,17 +27,17 @@ const SolYPlayaContent = () => {
   ), [isLanguage]);
 
   return (
-    <section className="sol-y-playa-content-ctn">
-      <div className="sol-y-playa-content-ctn-text">
-        <h1 className="sol-y-playa-content-text-title">{language?.title}</h1>
-        {language?.description?.map((info, index) => <p className="sol-y-playa-content-text-desc" key={index}>{info?.text}</p>)}
-      </div>
-      <div className="sol-y-playa-content-ctn-img">
+    <section className="sun-and-beach-content-ctn">
+      <div className="sun-and-beach-content-ctn-img">
         <LazyLoadImage
-          className="sol-y-playa-content-img"
+          className="sun-and-beach-content-img"
           src={require(`../../assets/img/solYPlaya/Qroo_cancun_playa108.webp`)} 
           alt={language?.title}
         />
+      </div>
+      <div className="sun-and-beach-content-ctn-text">
+        <h1 className="sun-and-beach-content-text-title">{language?.title}</h1>
+        {language?.description?.map((info, index) => <p className="sun-and-beach-content-text-desc" key={index}>{info?.text}</p>)}
       </div>
       <Share 
         urlFaceboock = "https://visitmexico.com/solyplaya/"
@@ -49,4 +49,4 @@ const SolYPlayaContent = () => {
   )
 };
 
-export default SolYPlayaContent;
+export default SunAndBeach;

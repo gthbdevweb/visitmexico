@@ -11,7 +11,7 @@ import dataCn from '../../assets/data/rutasGastronomicas/cn/index.json';
 import Share from '../Share';
 import './style.css';
 
-const RutasGastronomicasContent = () => {
+const GastronomicRoutes = () => {
   const { isLanguage } = useContext(Context);
   const [language, setLanguage] = useState({});
 
@@ -27,26 +27,26 @@ const RutasGastronomicasContent = () => {
   ), [isLanguage]);
 
   return (
-    <section className="rutas-gastronomicas-content-ctn">
-      <div className="rutas-gastronomicas-content-ctn-text">
-      <h1 className="rutas-gastronomicas-content-text-title">{language?.title}</h1>
-        {language?.description?.map((info, index) => <p className="rutas-gastronomicas-content-text-desc" key={index}>{info?.text}</p>)}
+    <section className="gastronomic-routes-content-ctn">
+      <div className="gastronomic-routes-content-ctn-text">
+      <h1 className="gastronomic-routes-content-text-title">{language?.title}</h1>
+        {language?.description?.map((info, index) => <p className="gastronomic-routes-content-text-desc" key={index}>{info?.text}</p>)}
       </div>
-      <div className="rutas-gastronomicas-content-ctn-img">
+      <div className="gastronomic-routes-content-ctn-img">
         <LazyLoadImage
-          className="rutas-gastronomicas-content-img"
+          className="gastronomic-routes-content-img"
           src={require(`../../assets/img/rutasGastronomicas/Dgo_Ciudad_Durango421.webp`)} 
           alt={language?.title}
         />
       </div>
       <Share 
-        urlFaceboock = "https://visitmexico.com/rutasgastronomicas/"
-        urlPinterest = "https://visitmexico.com/rutasgastronomicas/"
-        urlTwitter = "https://visitmexico.com/rutasgastronomicas/"
-        urlWhatsapp = "https://visitmexico.com/rutasgastronomicas/"
+        urlFaceboock = "https://visitmexico.com/experiencias/"
+        urlPinterest = "https://visitmexico.com/experiencias/"
+        urlTwitter = "https://visitmexico.com/experiencias/"
+        urlWhatsapp = "https://visitmexico.com/experiencias/"
       />
     </section>
   )
 };
 
-export default RutasGastronomicasContent;
+export default GastronomicRoutes;

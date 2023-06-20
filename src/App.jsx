@@ -12,11 +12,7 @@ import Calendar from './views/Calendar';
 import Events from './views/Events';
 import Towns from './views/Towns';
 import TrenMaya from './views/TrenMaya';
-import SolYPlaya from './views/SolYPlaya';
-import RutasGastronomicas from './views/RutasGastronomicas';
-import TurismoSostenible from './views/TurismoSostenible';
-import Bienestar from './views/Bienestar';
-import TurismoDeAventura from './views/TurismoDeAventura';
+import Experiences from './views/Experiences';
 //Delete next
 import './App.css';
 
@@ -38,11 +34,7 @@ function App() {
           <Route path='/eventos' element={<Events />} />
           <Route path='/pueblos' element={<Towns />} />
           <Route path='/trenmaya' element={<TrenMaya />} />
-          <Route path='/solyplaya' element={<SolYPlaya />} />
-          <Route path='/rutasgastronomicas' element={<RutasGastronomicas />} />
-          <Route path='/turismosostenible' element={<TurismoSostenible />} />
-          <Route path='/bienestar' element={<Bienestar />} />
-          <Route path='/turismodeaventura' element={<TurismoDeAventura />} />
+          <Route path='/experiencias' element={<Experiences />} />
           <Route path='*' element={<Home />} />
         </Routes>
       </Layout>

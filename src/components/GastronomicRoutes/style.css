@@ -1,26 +1,27 @@
-.turismo-de-aventura-content-ctn {
-  padding: 142px 0;
+.gastronomic-routes-content-ctn {
+  padding: 50px 0;
   background-color: #eee;
   background-image: url('../../assets/img/layout/bg.webp');
   background-repeat: repeat-y;
   background-size: 100% auto;
   background-position: center;
+  overflow-x: hidden;
 }
-.turismo-de-aventura-content-ctn-text {
+.gastronomic-routes-content-ctn-text {
   padding: 15px;
 }
-.turismo-de-aventura-content-text-title {
+.gastronomic-routes-content-text-title {
   font-size: 26px;
 }
-.turismo-de-aventura-content-text-desc {
+.gastronomic-routes-content-text-desc {
   font-size: 16px;
   text-align: justify;
   text-transform: lowercase;
 }
-.turismo-de-aventura-content-text-desc::first-letter {
+.gastronomic-routes-content-text-desc::first-letter {
   text-transform: capitalize;
 }
-.turismo-de-aventura-content-ctn-badge {
+.gastronomic-routes-content-ctn-badge {
   background-color: #ccc;
   text-align: center;
   padding: 20px;
@@ -30,37 +31,43 @@
   border-radius: 2px;
   margin-top: 35px;
 }
-.turismo-de-aventura-content-badge-text {
+.gastronomic-routes-content-badge-text {
   font-size: 16px;
   margin-bottom: 0;
 }
-.turismo-de-aventura-content-ctn-img {
+.gastronomic-routes-content-ctn-img {
   margin-top: 35px;
-  width: 100%;
+  margin-bottom: 32px;
+  width: 85%;
   height: 100%;
+  margin-right: auto;
+  margin-left: auto;
+  transform: rotate(-5deg);
 }
-.turismo-de-aventura-content-img {
+.gastronomic-routes-content-img {
   width: 100%;
   height: 270px;
   object-fit: cover;
+  border: 25px solid #fff;
+  box-shadow: 15px 15px 10px #c2c2c2;
 }
 
 @media (min-width: 744px) {
-  .turismo-de-aventura-content-ctn {
-    padding: 156px 0;
+  .gastronomic-routes-content-ctn {
+    padding: 50px 0;
     display: grid;
     grid-template-columns: 1fr 1fr;
   }
-  .turismo-de-aventura-content-text-title {
+  .gastronomic-routes-content-text-title {
     font-size: 28px;
   }
-  .turismo-de-aventura-content-text-desc {
+  .gastronomic-routes-content-text-desc {
     font-size: 14px;
   }
-  .turismo-de-aventura-content-badge-text {
+  .gastronomic-routes-content-badge-text {
     font-size: 18px;
   }
-  .turismo-de-aventura-content-ctn-img {
+  .gastronomic-routes-content-ctn-img {
     margin-top: 0;
     width: 100%;
     height: 100%;
@@ -69,32 +76,32 @@
 }
 
 @media (min-width: 992px) {
-  .turismo-de-aventura-content-ctn {
-    padding: 172px 0;
+  .gastronomic-routes-content-ctn {
+    padding: 80px 0;
     display: grid;
     grid-template-columns: 1fr 1fr;
   }
-  .turismo-de-aventura-content-ctn-text {
+  .gastronomic-routes-content-ctn-text {
     display: block;
     align-self: center;
   }
-  .turismo-de-aventura-content-text-title {
+  .gastronomic-routes-content-text-title {
     font-size: 32px;
   }
-  .turismo-de-aventura-content-text-desc {
+  .gastronomic-routes-content-text-desc {
     margin-top: 15px;
     font-size: 16px;
   }
-  .turismo-de-aventura-content-ctn-img {
+  .gastronomic-routes-content-ctn-img {
     margin-top: 0;
     width: 100%;
     height: 100%;
     padding: 0 15px;
   }
-  .turismo-de-aventura-content-img {
+  .gastronomic-routes-content-img {
     height: 460px;
   }
-  .turismo-de-aventura-content-ctn-badge {
+  .gastronomic-routes-content-ctn-badge {
     padding: 35px;
   }
 }

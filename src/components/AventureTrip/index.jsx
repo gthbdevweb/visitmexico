@@ -11,7 +11,7 @@ import dataCn from '../../assets/data/turismoDeAventura/cn/index.json';
 import Share from '../Share';
 import './style.css';
 
-const TurismoDeAventuraContent = () => {
+const AventureTrip = () => {
   const { isLanguage } = useContext(Context);
   const [language, setLanguage] = useState({});
 
@@ -27,26 +27,26 @@ const TurismoDeAventuraContent = () => {
   ), [isLanguage]);
 
   return (
-    <section className="turismo-de-aventura-content-ctn">
-      <div className="turismo-de-aventura-content-ctn-text">
-        <h1 className="turismo-de-aventura-content-text-title">{language?.title}</h1>
-        {language?.description?.map((info, index) => <p className="turismo-de-aventura-content-text-desc" key={index}>{info?.text}</p>)}
+    <section className="aventure-trip-content-ctn">
+      <div className="aventure-trip-content-ctn-text">
+        <h1 className="aventure-trip-content-text-title">{language?.title}</h1>
+        {language?.description?.map((info, index) => <p className="aventure-trip-content-text-desc" key={index}>{info?.text}</p>)}
       </div>
-      <div className="turismo-de-aventura-content-ctn-img">
+      <div className="aventure-trip-content-ctn-img">
         <LazyLoadImage
-          className="turismo-de-aventura-content-img"
+          className="aventure-trip-content-img"
           src={require(`../../assets/img/turismoDeAventura/SIN_guanacoa_257.webp`)} 
           alt={language?.title}
         />
       </div>
       <Share 
-        urlFaceboock = "https://visitmexico.com/turismodeaventura/"
-        urlPinterest = "https://visitmexico.com/turismodeaventura/"
-        urlTwitter = "https://visitmexico.com/turismodeaventura/"
-        urlWhatsapp = "https://visitmexico.com/turismodeaventura/"
+        urlFaceboock = "https://visitmexico.com/experiencias/"
+        urlPinterest = "https://visitmexico.com/experiencias/"
+        urlTwitter = "https://visitmexico.com/experiencias/"
+        urlWhatsapp = "https://visitmexico.com/experiencias/"
       />
     </section>
   )
 };
 
-export default TurismoDeAventuraContent;
+export default AventureTrip;

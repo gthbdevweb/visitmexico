@@ -11,7 +11,7 @@ import dataCn from '../../assets/data/bienestar/cn/index.json';
 import Share from '../Share';
 import './style.css';
 
-const BienestarContent = () => {
+const WellBeing = () => {
   const { isLanguage } = useContext(Context);
   const [language, setLanguage] = useState({});
 
@@ -27,26 +27,26 @@ const BienestarContent = () => {
   ), [isLanguage]);
 
   return (
-    <section className="bienestar-content-ctn">
-      <div className="bienestar-content-ctn-text">
-        <h1 className="bienestar-content-text-title">{language?.title}</h1>
-        {language?.description?.map((info, index) => <p className="bienestar-content-text-desc" key={index}>{info?.text}</p>)}
+    <section className="well-being-content-ctn">
+      <div className="well-being-content-ctn-text">
+        <h1 className="well-being-content-text-title">{language?.title}</h1>
+        {language?.description?.map((info, index) => <p className="well-being-content-text-desc" key={index}>{info?.text}</p>)}
       </div>
-      <div className="bienestar-content-ctn-img">
+      <div className="well-being-content-ctn-img">
         <LazyLoadImage
-          className="bienestar-content-img"
+          className="well-being-content-img"
           src={require(`../../assets/img/bienestar/MOR_Tepoztlan_HotelDosPiedras_LGBT-33.webp`)} 
           alt={language?.title}
         />
       </div>
       <Share 
-        urlFaceboock = "https://visitmexico.com/bienestar/"
-        urlPinterest = "https://visitmexico.com/bienestar/"
-        urlTwitter = "https://visitmexico.com/bienestar/"
-        urlWhatsapp = "https://visitmexico.com/bienestar/"
+        urlFaceboock = "https://visitmexico.com/experiencias/"
+        urlPinterest = "https://visitmexico.com/experiencias/"
+        urlTwitter = "https://visitmexico.com/experiencias/"
+        urlWhatsapp = "https://visitmexico.com/experiencias/"
       />
     </section>
   )
 };
 
-export default BienestarContent;
+export default WellBeing;

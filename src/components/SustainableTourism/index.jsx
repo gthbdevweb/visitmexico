@@ -11,7 +11,7 @@ import dataCn from '../../assets/data/turismoSostenible/cn/index.json';
 import Share from '../Share';
 import './style.css';
 
-const TurismoSostenibleContent = () => {
+const SustainableTourism = () => {
   const { isLanguage } = useContext(Context);
   const [language, setLanguage] = useState({});
 
@@ -27,26 +27,26 @@ const TurismoSostenibleContent = () => {
   ), [isLanguage]);
 
   return (
-    <section className="turismo-sostenible-content-ctn">
-      <div className="turismo-sostenible-content-ctn-text">
-        <h1 className="turismo-sostenible-content-text-title">{language?.title}</h1>
-        {language?.description?.map((info, index) => <p className="turismo-sostenible-content-text-desc" key={index}>{info?.text}</p>)}
-      </div>
-      <div className="turismo-sostenible-content-ctn-img">
+    <section className="sustainable-tourism-content-ctn">
+      <div className="sustainable-tourism-content-ctn-img">
         <LazyLoadImage
-          className="turismo-sostenible-content-img"
+          className="sustainable-tourism-content-img"
           src={require(`../../assets/img/turismoSostenible/BCS_tiburonballena.webp`)} 
           alt={language?.title}
         />
       </div>
+      <div className="sustainable-tourism-content-ctn-text">
+        <h1 className="sustainable-tourism-content-text-title">{language?.title}</h1>
+        {language?.description?.map((info, index) => <p className="sustainable-tourism-content-text-desc" key={index}>{info?.text}</p>)}
+      </div>
       <Share 
-        urlFaceboock = "https://visitmexico.com/turismosostenible/"
-        urlPinterest = "https://visitmexico.com/turismosostenible/"
-        urlTwitter = "https://visitmexico.com/turismosostenible/"
-        urlWhatsapp = "https://visitmexico.com/turismosostenible/"
+        urlFaceboock = "https://visitmexico.com/experiencias/"
+        urlPinterest = "https://visitmexico.com/experiencias/"
+        urlTwitter = "https://visitmexico.com/experiencias/"
+        urlWhatsapp = "https://visitmexico.com/experiencias/"
       />
     </section>
   )
 };
 
-export default TurismoSostenibleContent;
+export default SustainableTourism;

@@ -1,26 +1,27 @@
-.turismo-sostenible-content-ctn {
-  padding: 142px 0;
+.sustainable-tourism-content-ctn {
+  padding: 50px 0 50px 0;
   background-color: #eee;
   background-image: url('../../assets/img/layout/bg.webp');
   background-repeat: repeat-y;
   background-size: 100% auto;
   background-position: center;
+  overflow-x: hidden;
 }
-.turismo-sostenible-content-ctn-text {
+.sustainable-tourism-content-ctn-text {
   padding: 15px;
 }
-.turismo-sostenible-content-text-title {
+.sustainable-tourism-content-text-title {
   font-size: 26px;
 }
-.turismo-sostenible-content-text-desc {
+.sustainable-tourism-content-text-desc {
   font-size: 16px;
   text-align: justify;
   text-transform: lowercase;
 }
-.turismo-sostenible-content-text-desc::first-letter {
+.sustainable-tourism-content-text-desc::first-letter {
   text-transform: capitalize;
 }
-.turismo-sostenible-content-ctn-badge {
+.sustainable-tourism-content-ctn-badge {
   background-color: #ccc;
   text-align: center;
   padding: 20px;
@@ -30,37 +31,43 @@
   border-radius: 2px;
   margin-top: 35px;
 }
-.turismo-sostenible-content-badge-text {
+.sustainable-tourism-content-badge-text {
   font-size: 16px;
   margin-bottom: 0;
 }
-.turismo-sostenible-content-ctn-img {
-  margin-top: 35px;
-  width: 100%;
+.sustainable-tourism-content-ctn-img {
+  margin-top: 0;
+  margin-bottom: 32px;
+  width: 85%;
   height: 100%;
+  margin-right: auto;
+  margin-left: auto;
+  transform: rotate(5deg);
 }
-.turismo-sostenible-content-img {
+.sustainable-tourism-content-img {
   width: 100%;
   height: 270px;
   object-fit: cover;
+  border: 25px solid #fff;
+  box-shadow: 15px 15px 10px #c2c2c2;
 }
 
 @media (min-width: 744px) {
-  .turismo-sostenible-content-ctn {
-    padding: 156px 0;
+  .sustainable-tourism-content-ctn {
+    padding: 50px 0 0 0;
     display: grid;
     grid-template-columns: 1fr 1fr;
   }
-  .turismo-sostenible-content-text-title {
+  .sustainable-tourism-content-text-title {
     font-size: 28px;
   }
-  .turismo-sostenible-content-text-desc {
+  .sustainable-tourism-content-text-desc {
     font-size: 14px;
   }
-  .turismo-sostenible-content-badge-text {
+  .sustainable-tourism-content-badge-text {
     font-size: 18px;
   }
-  .turismo-sostenible-content-ctn-img {
+  .sustainable-tourism-content-ctn-img {
     margin-top: 0;
     width: 100%;
     height: 100%;
@@ -69,32 +76,32 @@
 }
 
 @media (min-width: 992px) {
-  .turismo-sostenible-content-ctn {
-    padding: 172px 0;
+  .sustainable-tourism-content-ctn {
+    padding: 50px 0 0 0;
     display: grid;
     grid-template-columns: 1fr 1fr;
   }
-  .turismo-sostenible-content-ctn-text {
+  .sustainable-tourism-content-ctn-text {
     display: block;
     align-self: center;
   }
-  .turismo-sostenible-content-text-title {
+  .sustainable-tourism-content-text-title {
     font-size: 32px;
   }
-  .turismo-sostenible-content-text-desc {
+  .sustainable-tourism-content-text-desc {
     margin-top: 15px;
     font-size: 16px;
   }
-  .turismo-sostenible-content-ctn-img {
+  .sustainable-tourism-content-ctn-img {
     margin-top: 0;
     width: 100%;
     height: 100%;
     padding: 0 15px;
   }
-  .turismo-sostenible-content-img {
+  .sustainable-tourism-content-img {
     height: 460px;
   }
-  .turismo-sostenible-content-ctn-badge {
+  .sustainable-tourism-content-ctn-badge {
     padding: 35px;
   }
 }

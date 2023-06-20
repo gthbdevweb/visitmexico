@@ -1,26 +1,27 @@
-.bienestar-content-ctn {
-  padding: 142px 0;
+.sun-and-beach-content-ctn {
+  padding: 35px 0 0 0;
   background-color: #eee;
   background-image: url('../../assets/img/layout/bg.webp');
   background-repeat: repeat-y;
   background-size: 100% auto;
   background-position: center;
+  overflow-x: hidden;
 }
-.bienestar-content-ctn-text {
+.sun-and-beach-content-ctn-text {
   padding: 15px;
 }
-.bienestar-content-text-title {
+.sun-and-beach-content-text-title {
   font-size: 26px;
 }
-.bienestar-content-text-desc {
+.sun-and-beach-content-text-desc {
   font-size: 16px;
   text-align: justify;
   text-transform: lowercase;
 }
-.bienestar-content-text-desc::first-letter {
+.sun-and-beach-content-text-desc::first-letter {
   text-transform: capitalize;
 }
-.bienestar-content-ctn-badge {
+.sun-and-beach-content-ctn-badge {
   background-color: #ccc;
   text-align: center;
   padding: 20px;
@@ -30,37 +31,46 @@
   border-radius: 2px;
   margin-top: 35px;
 }
-.bienestar-content-badge-text {
+.sun-and-beach-content-badge-text {
   font-size: 16px;
   margin-bottom: 0;
 }
-.bienestar-content-ctn-img {
+.sun-and-beach-content-ctn-img {
   margin-top: 35px;
-  width: 100%;
+  margin-bottom: 32px;
+  width: 85%;
   height: 100%;
+  margin-right: auto;
+  margin-left: auto;
+  transform: rotate(5deg);
 }
-.bienestar-content-img {
+.sun-and-beach-content-img {
   width: 100%;
   height: 270px;
   object-fit: cover;
+  border: 25px solid #fff;
+  box-shadow: 15px 15px 10px #c2c2c2;
+}
+.sun-and-beach-content-rss {
+  width: 100%;
 }
 
 @media (min-width: 744px) {
-  .bienestar-content-ctn {
-    padding: 156px 0;
+  .sun-and-beach-content-ctn {
+    padding: 50px 0 0 0;
     display: grid;
     grid-template-columns: 1fr 1fr;
   }
-  .bienestar-content-text-title {
+  .sun-and-beach-content-text-title {
     font-size: 28px;
   }
-  .bienestar-content-text-desc {
+  .sun-and-beach-content-text-desc {
     font-size: 14px;
   }
-  .bienestar-content-badge-text {
+  .sun-and-beach-content-badge-text {
     font-size: 18px;
   }
-  .bienestar-content-ctn-img {
+  .sun-and-beach-content-ctn-img {
     margin-top: 0;
     width: 100%;
     height: 100%;
@@ -69,32 +79,32 @@
 }
 
 @media (min-width: 992px) {
-  .bienestar-content-ctn {
-    padding: 172px 0;
+  .sun-and-beach-content-ctn {
+    padding: 80px 0 0 0;
     display: grid;
     grid-template-columns: 1fr 1fr;
   }
-  .bienestar-content-ctn-text {
+  .sun-and-beach-content-ctn-text {
     display: block;
     align-self: center;
   }
-  .bienestar-content-text-title {
+  .sun-and-beach-content-text-title {
     font-size: 32px;
   }
-  .bienestar-content-text-desc {
+  .sun-and-beach-content-text-desc {
     margin-top: 15px;
     font-size: 16px;
   }
-  .bienestar-content-ctn-img {
+  .sun-and-beach-content-ctn-img {
     margin-top: 0;
     width: 100%;
     height: 100%;
     padding: 0 15px;
   }
-  .bienestar-content-img {
+  .sun-and-beach-content-img {
     height: 460px;
   }
-  .bienestar-content-ctn-badge {
+  .sun-and-beach-content-ctn-badge {
     padding: 35px;
   }
 }

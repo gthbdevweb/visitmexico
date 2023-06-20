@@ -34,7 +34,7 @@ const Liststates = () => {
             alt={state.titleTop}
           />
           <h5 className="states-card-text-title">{state.titleTop}</h5>
-          <p className="states-card-text-desc">{state.descriptionShort}</p>
+          {/*<p className="states-card-text-desc">{state.descriptionShort}</p>*/}
           <div className="states-card-back">
             <p className="states-card-back-desc">{state.desciptionHover}</p>
           </div>
@@ -46,6 +46,7 @@ const Liststates = () => {
 
   return (
     <section className="states-list-ctn sliceLeft">
+      <h1 className="states-list-title">{language?.titleState}</h1>
       <ul className="states-list-cards-ctn">
         {listStates()}
       </ul>
