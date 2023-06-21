@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/visitmexico/static/css/main.345e16f2.css",
-    "main.js": "/visitmexico/static/js/main.55b5d90f.js",
+    "main.css": "/visitmexico/static/css/main.1d0124f6.css",
+    "main.js": "/visitmexico/static/js/main.79fadb8a.js",
     "static/js/787.8f5b6e93.chunk.js": "/visitmexico/static/js/787.8f5b6e93.chunk.js",
     "static/media/GRO_acapulco_1317.webp": "/visitmexico/static/media/GRO_acapulco_1317.682ec4d5fa18a2ed9987.webp",
     "static/media/COAH_2_dunas_bilbao_22.webp": "/visitmexico/static/media/COAH_2_dunas_bilbao_22.d068f2fe28a65eb1b51a.webp",
@@ -29,7 +29,6 @@
     "static/media/PUE_cuetzalan_163.webp": "/visitmexico/static/media/PUE_cuetzalan_163.40a8af7eb1a6ee282758.webp",
     "static/media/SIN_mazatlan_playa-750.webp": "/visitmexico/static/media/SIN_mazatlan_playa-750.d96550b7b4c24e84422a.webp",
     "static/media/DF_Bellas_artes_04.webp": "/visitmexico/static/media/DF_Bellas_artes_04.94c8e060123130cdc5d2.webp",
-    "static/media/NAY_sanblas_playas_98.webp": "/visitmexico/static/media/NAY_sanblas_playas_98.4e8a3b24770086d7fbc5.webp",
     "static/media/MOR_axochiapan_t_164.webp": "/visitmexico/static/media/MOR_axochiapan_t_164.3491fa2cadfe72aa0019.webp",
     "static/media/YUC_Valladolid18-2.webp": "/visitmexico/static/media/YUC_Valladolid18-2.560a864c989e808cfb33.webp",
     "static/media/BCS_cabo_san_lucas_113.webp": "/visitmexico/static/media/BCS_cabo_san_lucas_113.2237b17cd7a39693cb62.webp",
@@ -64,12 +63,12 @@
     "static/media/trenMaya.webp": "/visitmexico/static/media/trenMaya.8a170d5399bb93e9d337.webp",
     "static/media/logo.png": "/visitmexico/static/media/logo.077d6f371a73310c9868.png",
     "index.html": "/visitmexico/index.html",
-    "main.345e16f2.css.map": "/visitmexico/static/css/main.345e16f2.css.map",
-    "main.55b5d90f.js.map": "/visitmexico/static/js/main.55b5d90f.js.map",
+    "main.1d0124f6.css.map": "/visitmexico/static/css/main.1d0124f6.css.map",
+    "main.79fadb8a.js.map": "/visitmexico/static/js/main.79fadb8a.js.map",
     "787.8f5b6e93.chunk.js.map": "/visitmexico/static/js/787.8f5b6e93.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.345e16f2.css",
-    "static/js/main.55b5d90f.js"
+    "static/css/main.1d0124f6.css",
+    "static/js/main.79fadb8a.js"
   ]
 }

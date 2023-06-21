@@ -1,6 +1,6 @@
 .header-ctn {
   position: absolute;
-  top: 15px;
+  top: 45px;
   left: 0;
   right: 0;
   margin-left: auto;
@@ -181,6 +181,7 @@ input[id="nav-active"] {
   .header-ctn {
     position: fixed;
     z-index: 100;
+    top: 15px;
   }
   .header-back {
     display: flex;

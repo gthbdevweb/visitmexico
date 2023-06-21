@@ -1,29 +1,48 @@
 {
     "carousel": [
         {
-            "url": "PUE_catedral_42.webp",
-            "id": "Puebla catedral"
+            "url": "Nayarit2_Portada.webp",
+            "id": "Nayarit",
+            "content": {
+                "title": "Nayarit Encantador:",
+                "subtitle": "Descubre la Joya del Pacífico Mexicano."
+            },
+            "actions": {
+                "button": {
+                    "text" : "¡Vamos allá!",
+                    "dir": "/estado/Nayarit"
+                }
+            }
         },
         {
-            "url": "PUE_cuetzalan_163.webp",
-            "id": "Puebla Cuetzalan"
+            "url": "SanLuisPotosi_Portada.webp",
+            "id": "San Luis Potosí",
+            "content": {
+                "title": "Descubre San Luis Potosí:",
+                "subtitle": "Tesoros Naturales y Culturales en el Corazón de México."
+            },
+            "actions": {
+                "button": {
+                    "text" : "¡Vamos allá!",
+                    "dir": "/estado/SanLuisPotosi"
+                }
+            }
         }, 
         {
-            "url": "PUE_cholula_9.webp",
-            "id": "Puebla Cholula"
+            "url": "NuevoLeon_Portada.webp",
+            "id": "Nuevo León",
+            "content": {
+                "title": "Nuevo León:",
+                "subtitle": "Explora la Esencia del Norte de México."
+            },
+            "actions": {
+                "button": {
+                    "text" : "¡Vamos allá!",
+                    "dir": "/estado/NuevoLeon"
+                }
+            }
         }
     ],
-    "content": {
-        "title": "Cholula, Puebla",
-        "subtitle": "Iglesia y Pirámide cuidando un volcan",
-        "desciption": "Lorem ipsum dolor sit amet consectetur."
-    },
-    "actions": {
-        "button": {
-            "text" : "¡Vamos allá!",
-            "dir": "/estado/Puebla"
-        }
-    },
     "brand": {
         "text": "México dentro del Top Rank de los 10 países más visitados en el mundo."
     }

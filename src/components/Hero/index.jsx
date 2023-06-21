@@ -33,6 +33,14 @@ const Hero = () => {
           className="hero-carousel-img"
           alt={lang.id}
         />
+        <div className="hero-text-ctn">
+          <h1 className="hero-text-title">{lang?.content?.title}</h1>
+          <h2 className="hero-text-subtitle">{lang?.content?.subtitle}</h2>
+          <p className="hero-text-desc">{lang?.content?.description}</p>
+          <Link to={lang?.actions?.button?.dir}>
+            <button type="button" className="btn btn-outline-primary class-buton-hero">{lang?.actions?.button?.text}</button>
+          </Link>
+        </div>
       </div>  
     ))
   );
@@ -68,7 +76,6 @@ const Hero = () => {
     <section className="hero-ctn">
       {heroBrand()}
       {carousel()}
-      {hero()}
     </section>
   )
 }

@@ -5,7 +5,7 @@ import dataEs from '../../assets/data/calendar/es/index.json';
 import dataEn from '../../assets/data/calendar/en/index.json';
 import Calendar from 'react-calendar-events-full-year'
 import { tempEvents } from '../../assets/data/calendar/data';
-import Calendar1 from '../../assets/img/calendar/blog.webp';
+import Calendar1 from '../../assets/img/calendar/calendario.webp';
 import './style.css';
 
 const HeaderCalendar = () => {
@@ -20,7 +20,6 @@ const HeaderCalendar = () => {
     : setLanguage(dataEs);
   }, [isLanguage]);
   
-
   return (
     <section className="calendar-header-ctn">
       <div className="calendar-header-text-ctn">

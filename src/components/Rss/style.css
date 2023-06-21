@@ -13,9 +13,43 @@
   text-decoration: none;
   color: #fff;
   margin-left: 3px;
-  background-color: rgba(0, 0, 0, .7);
+  background-color: rgba(0, 0, 0, .9);
   border-radius: 50%;
   padding: 9px;
+}
+
+.rss-show {
+  text-decoration: none;
+  color: #fff;
+  margin-left: 3px;
+  background-color: rgba(0, 0, 0, .9);
+  border-radius: 50%;
+  padding: 9px;
+  border: none;
+}
+
+.hide {
+  animation-duration: 1.3s;
+  animation-name: rss-out;
+  margin-left: -230px;
+}
+
+@keyframes rss-in {
+  from {
+    margin-left: -230px;
+  }
+  to {
+    margin-left: 0%;
+  }
+}
+
+@keyframes rss-out {
+  from {
+    margin-left: 0%;
+  }
+  to {
+    margin-left: -230px;
+  }
 }
 
 @media (min-width: 744px) {

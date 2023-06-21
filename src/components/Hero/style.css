@@ -8,7 +8,7 @@
 }
 .carousel-brand {
   background: #fda700;
-  height: 28px;
+  height: 45px;
 }
 .carousel-brand-text {
   margin: 0;
@@ -27,7 +27,7 @@
 
 .hero-text-ctn {
   position: absolute;
-  top: 35%;
+  top: 20%;
   left: 0;
   right: 0;
   margin-left: auto;
@@ -55,6 +55,10 @@
   .hero-ctn {
     margin-top: 80px;
     padding: 0;
+  }
+  .carousel-brand {
+    background: #fda700;
+    height: 27px;
   }
   .carousel-brand-text {
     font-size: 16px;
