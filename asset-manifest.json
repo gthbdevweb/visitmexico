@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/visitmexico/static/css/main.1d0124f6.css",
-    "main.js": "/visitmexico/static/js/main.79fadb8a.js",
+    "main.css": "/visitmexico/static/css/main.6d28bf40.css",
+    "main.js": "/visitmexico/static/js/main.bf2c96c0.js",
     "static/js/787.8f5b6e93.chunk.js": "/visitmexico/static/js/787.8f5b6e93.chunk.js",
     "static/media/GRO_acapulco_1317.webp": "/visitmexico/static/media/GRO_acapulco_1317.682ec4d5fa18a2ed9987.webp",
     "static/media/COAH_2_dunas_bilbao_22.webp": "/visitmexico/static/media/COAH_2_dunas_bilbao_22.d068f2fe28a65eb1b51a.webp",
@@ -37,14 +37,17 @@
     "static/media/TMPS_miramar_2_20.webp": "/visitmexico/static/media/TMPS_miramar_2_20.dc5025a45fb331673f13.webp",
     "static/media/NAY_sanblas_8.webp": "/visitmexico/static/media/NAY_sanblas_8.47d97c187059e7d6131f.webp",
     "static/media/NAY_RinconDeGuayabitos_Playas_0529.webp": "/visitmexico/static/media/NAY_RinconDeGuayabitos_Playas_0529.2ab035cf289c154c8bff.webp",
+    "static/media/SanLuisPotosi_Portada.webp": "/visitmexico/static/media/SanLuisPotosi_Portada.c474eb1aea2255068a28.webp",
     "static/media/SON_caborca_10.webp": "/visitmexico/static/media/SON_caborca_10.f489d1039fc1498d4d7a.webp",
     "static/media/NL_Villa_Santiago398.webp": "/visitmexico/static/media/NL_Villa_Santiago398.0a3dfb660a5d0f54131d.webp",
     "static/media/PUE_cholula_9.webp": "/visitmexico/static/media/PUE_cholula_9.de1998a543812418ead2.webp",
     "static/media/Tlaxcala_Portada.webp": "/visitmexico/static/media/Tlaxcala_Portada.557a1fba483f96605794.webp",
     "static/media/tren.webp": "/visitmexico/static/media/tren.b425c1f7c1f77415ed3d.webp",
+    "static/media/NuevoLeon_Portada.webp": "/visitmexico/static/media/NuevoLeon_Portada.5d052696aa894de7b023.webp",
     "static/media/MOR_Tepoztlan_HotelDosPiedras_LGBT-33.webp": "/visitmexico/static/media/MOR_Tepoztlan_HotelDosPiedras_LGBT-33.41ab00d2d4b4dfb29ded.webp",
     "static/media/bg.webp": "/visitmexico/static/media/bg.2dd3d30e2b9a8ed9dce3.webp",
     "static/media/QRO_sierra_gorda_422.webp": "/visitmexico/static/media/QRO_sierra_gorda_422.cb70c2d0d72a9033b188.webp",
+    "static/media/Nayarit2_Portada.webp": "/visitmexico/static/media/Nayarit2_Portada.861520d8916751199599.webp",
     "static/media/BCS_tiburonballena.webp": "/visitmexico/static/media/BCS_tiburonballena.98d2cc8406e3b72cbb00.webp",
     "static/media/OAX_Hierve_el_agua3023.webp": "/visitmexico/static/media/OAX_Hierve_el_agua3023.fa4a13af9d08b35dc7cd.webp",
     "static/media/esferas_.webp": "/visitmexico/static/media/esferas_.f43766cf624a73dc8e8d.webp",
@@ -55,6 +58,7 @@
     "static/media/f1evento.webp": "/visitmexico/static/media/f1evento.118f3490112eaf790ddd.webp",
     "static/media/blog.webp": "/visitmexico/static/media/blog.bbcd838f443103179710.webp",
     "static/media/cozumel-0.wep.jpg": "/visitmexico/static/media/cozumel-0.wep.597c6290d151ef1792c0.jpg",
+    "static/media/calendario.webp": "/visitmexico/static/media/calendario.6f96bb55172bbbfc6750.webp",
     "static/media/blogesfera.webp": "/visitmexico/static/media/blogesfera.c3cf2087a0ac9a1ff54e.webp",
     "static/media/videos.webp": "/visitmexico/static/media/videos.ae75ccb99cbe08d3c84b.webp",
     "static/media/slide2.jpg": "/visitmexico/static/media/slide2.eff18485d2d1a4aca8a5.jpg",
@@ -63,12 +67,12 @@
     "static/media/trenMaya.webp": "/visitmexico/static/media/trenMaya.8a170d5399bb93e9d337.webp",
     "static/media/logo.png": "/visitmexico/static/media/logo.077d6f371a73310c9868.png",
     "index.html": "/visitmexico/index.html",
-    "main.1d0124f6.css.map": "/visitmexico/static/css/main.1d0124f6.css.map",
-    "main.79fadb8a.js.map": "/visitmexico/static/js/main.79fadb8a.js.map",
+    "main.6d28bf40.css.map": "/visitmexico/static/css/main.6d28bf40.css.map",
+    "main.bf2c96c0.js.map": "/visitmexico/static/js/main.bf2c96c0.js.map",
     "787.8f5b6e93.chunk.js.map": "/visitmexico/static/js/787.8f5b6e93.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1d0124f6.css",
-    "static/js/main.79fadb8a.js"
+    "static/css/main.6d28bf40.css",
+    "static/js/main.bf2c96c0.js"
   ]
 }
