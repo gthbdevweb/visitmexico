@@ -180,8 +180,8 @@
                     "text": "コミタン・デ・ドミンゲスは古代先住民から受け継がれた村であり、プエブロ・マ ヒコとして登録されています。スペイン人の入植時期にドミニコ会員が設立しまし た。"
                 }
             ],
-            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512730.705677566!2d-124.59084255708773!3d37.151646373370205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20EE.%20UU.!5e0!3m2!1ses-419!2smx!4v1682217912140!5m2!1ses-419!2smx",
-            "urlSpotify": "https://open.spotify.com/embed/track/41Id1RtpdXLICwdGCs848s?utm_source=generator",
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1961119.1179261617!2d-93.57467866521142!3d16.255834972286834!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x858d44b49757ce67%3A0xcf0033824619d615!2sChiapas!5e0!3m2!1ses-419!2smx!4v1687396192993!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/29d3FB7sl4FglZV1p3IXAs?utm_source=generator",
             "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
             "descriptionShort": "旅行リストに載せるべき 5 つの理由をご覧ください。",
             "desciptionHover": "もっと詳しく知るには CHIAPAS ここを押してください",
@@ -222,6 +222,37 @@
             "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
             "descriptionShort": "旅行リストに載せるべき 5 つの理由をご覧ください。",
             "desciptionHover": "もっと詳しく知るには CHIHUAHUA ここを押してください",
+            "dir": "/estado"
+        },
+        {
+            "id": "CiudadDeMexico",
+            "urlVideoTop": "https://www.youtube.com/embed/YxvMmtDxEQQ?autoplay=1",
+            "titleTop": "Ciudad de México",
+            "descriptionTop": "La Ciudad de México es conocida como la Capital Cultural de América, es uno de los destinos más ricos y fascinantes del mundo, no solo por ser una de las tres principales ciudades con el mayor número de museos, también conjuga un legado histórico, lleno de sabor gracias a su variada oferta gastronómica, reconocida por los amantes de la comida, local, tradicional y de gran fusión internacional.",
+            "urlImg": "CiudaddeMexico_Portada.webp",
+            "actions": {
+                "button": {
+                    "text" : "PARA CONOCER MÁS DE CIUDAD DE MÉXICO PRESIONA AQUÍ",
+                    "dir": "https://visitachihuahua.com/"
+                }
+            },
+            "titleBottom": "Conoce los motivos por el que debe estar en tu lista de viajero.",
+            "descriptionBottom": [
+                {
+                    "text": "La Ciudad de México es conocida como la Capital Cultural de América, es uno de los destinos más ricos y fascinantes del mundo, no solo por ser una de las tres principales ciudades con el mayor número de museos, también conjuga un legado histórico, lleno de sabor gracias a su variada oferta gastronómica, reconocida por los amantes de la comida, local, tradicional y de gran fusión internacional."
+                },
+                {
+                    "text": "La Ciudad que lo tiene todo es epicentro de los festivales culturales, deportivos y artísticos más importantes de Latinoamérica."
+                },
+                {
+                    "text": "Quien elige a la Ciudad de México como su destino de viaje disfrutará de raíces culturales llenas de magia, costumbres y grandes tradiciones en una urbe que contrasta una metrópoli con espacios verdes llenos de vida."
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d963456.3369006228!2d-99.143613!3d19.390734!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ce0026db097507%3A0x54061076265ee841!2sCiudad%20de%20M%C3%A9xico%2C%20CDMX!5e0!3m2!1ses-419!2smx!4v1687384235747!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/2CoCTWNwmcDsTMPxG4CmMP?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/YxvMmtDxEQQ;&autoplay=1",
+            "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
+            "desciptionHover": "PARA CONOCER MÁS DE CIUDAD DE MÉXICO PRESIONA AQUÍ",
             "dir": "/estado"
         },
         {
