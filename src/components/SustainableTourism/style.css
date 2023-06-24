@@ -1,5 +1,5 @@
 .sustainable-tourism-content-ctn {
-  padding: 50px 0 50px 0;
+  padding: 50px 0 0 0;
   background-color: #eee;
   background-image: url('../../assets/img/layout/bg.webp');
   background-repeat: repeat-y;
@@ -12,6 +12,24 @@
 }
 .sustainable-tourism-content-text-title {
   font-size: 26px;
+  position: relative;
+  z-index: 1;
+  color: #e3e8ed;
+  height: 50px;
+  display: flex;
+  align-items: center;
+}
+.sustainable-tourism-content-text-title::after {
+  content: '';
+  height: 110%;
+  width: 117%;
+  background: #303030;
+  position: absolute;
+  top: 0;
+  right: -15%;
+  border-radius: 30px 0 0 30px;
+  z-index: -1;
+  animation: sustainable-text-in 2.5s;
 }
 .sustainable-tourism-content-text-desc {
   font-size: 16px;
@@ -103,5 +121,15 @@
   }
   .sustainable-tourism-content-ctn-badge {
     padding: 35px;
+  }
+}
+
+@keyframes sustainable-text-in {
+  0% {
+    right: -100%;
+  }
+
+  100% {
+    right: -15%;
   }
 }

@@ -6,6 +6,7 @@ import dataFr from '../../assets/data/states/fr/index.json';
 import dataDe from '../../assets/data/states/de/index.json';
 import dataJp from '../../assets/data/states/jp/index.json';
 import dataCn from '../../assets/data/states/cn/index.json';
+import gif from '../../assets/img/states/mex.gif';
 import './style.css';
 
 const Videostates = () => {
@@ -24,16 +25,7 @@ const Videostates = () => {
 
   return (
     <section className="states-video-ctn">
-      <iframe
-        width="100%"
-        height="100%"
-        src={language?.urlVideoStates}
-        title="Conoce las Ciudades Mexicanas Patrimonio Mundial. Visit México."
-        frameBorder="1" 
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-        allowFullScreen 
-        loading='lazy'
-      />
+      <img src={gif} alt="Conoce las Ciudades Mexicanas Patrimonio Mundial. Visit México" />
     </section>
   )
 };

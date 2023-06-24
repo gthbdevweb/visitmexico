@@ -1,6 +1,5 @@
 {
     "titleState": "Descubre los 5 motivos  para visitar los Estados de México",
-    "urlVideoStates": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
     "states": [
         {
             "id": "Aguascalientes",
@@ -44,7 +43,7 @@
             "urlVideoTop": "https://www.youtube.com/embed/GLKLZeEgC24?autoplay=1",
             "titleTop": "Baja California",
             "descriptionTop": "Geschützt durch das Meer von Cortez und den Pazifischen Ozean ist Baja California ein unvergessliches Erlebnis: Inseln, Strände, Wüste, Schluchten, Gebirge und erloschene Vulkane begleiten die Reise.",
-            "urlImg": "BCA_rosarito_playa-952.webp",
+            "urlImg": "Vinedos4.webp",
             "actions": {
                 "button": {
                     "text" : "UM MEHR ÜBER BAJA CALIFORNIA ZU ERFAHREN, KLICK HIER",
@@ -112,7 +111,7 @@
         },
         {
             "id": "Campeche",
-            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "urlVideoTop": "https://www.youtube.com/embed/HvBIXBIGt3k?autoplay=1",
             "titleTop": "Campeche",
             "descriptionTop": "Dieser Staat im Südosten Mexikos verfügt über einen besonderen kulturellen Reichtum, der durch seine Architektur und Geschichte identitätsstiftend wirkt.",
             "urlImg": "CAM_calakmul53.webp",
@@ -149,10 +148,10 @@
         },
         {
             "id": "Chiapas",
-            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "urlVideoTop": "https://www.youtube.com/embed/KeQ___kEs2Q?autoplay=1",
             "titleTop": "Chiapas",
             "descriptionTop": "Chiapas ist der Staat, den du mit allen Sinnen erfahren kannst. Der intensive Duft des Kaffees, die Süße der typischen Ataúlfo-Mangos, das Naturschauspiel der Ara-Schwärme im Urwald, das rhythmische Fließen des Wassers und die Feinheit der traditionellen Textilien laden dich ein, deine Umgebung ganz bewusst wahrzunehmen.",
-            "urlImg": "CHIS_yaxchilan_95.webp",
+            "urlImg": "Chiapas-agua_azul-01.webp",
             "actions": {
                 "button": {
                     "text" : "UM MEHR ÜBER CHIAPAS ZU ERFAHREN, KLICK HIER",
@@ -189,7 +188,7 @@
             "urlVideoTop": "https://www.youtube.com/embed/2XtTWy50hjc?autoplay=1",
             "titleTop": "Chihuahua",
             "descriptionTop": "Das nördlich gelegene Chihuahua ist der größte Bundesstaat der mexikanischen Republik. Um eine bessere Vorstellung von seiner Größe zu bekommen, kann man sich vorstellen, dass ganz Großbritannien hineinpassen würde. Beeindruckend ist die Vielfalt an Ökosystemen, regionaler Küche und Kultur, die dieser Bundesstaat zu bieten hat.",
-            "urlImg": "CHIH_creel47.webp",
+            "urlImg": "Chihuahua-barrancaschepe_02.webp",
             "actions": {
                 "button": {
                     "text" : "UM MEHR ÜBER CHIHUAHUA ZU ERFAHREN, KLICK HIER",
@@ -230,7 +229,7 @@
             "actions": {
                 "button": {
                     "text" : "PARA CONOCER MÁS DE CIUDAD DE MÉXICO PRESIONA AQUÍ",
-                    "dir": "https://visitachihuahua.com/"
+                    "dir": "https://mexicocity.cdmx.gob.mx/"
                 }
             },
             "titleBottom": "Conoce los motivos por el que debe estar en tu lista de viajero.",
@@ -328,7 +327,7 @@
         },
         {
             "id": "Durango",
-            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "urlVideoTop": "https://www.youtube.com/embed/N7MmjzREtig?autoplay=1",
             "titleTop": "Durango",
             "descriptionTop": "Durango ist ein Bundesstaat zum Genießen, Entdecken und Leben und gilt als das wichtigste Waldreservat Mexikos. Seine Kolonialarchitektur ist einzigartig und beherbergt viele Geschichten, Legenden und Kultur. Außerdem gibt es in Durango eine lange Filmtradition.",
             "urlImg": "DGO_Cd_Durango_34.webp",
@@ -365,10 +364,10 @@
         },
         {
             "id": "EstadoDeMexico",
-            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "urlVideoTop": "https://www.youtube.com/embed/Pydx7Hk0rM0?autoplay=1",
             "titleTop": "Estado de México",
             "descriptionTop": "Inmitten des Landes bietet dieses Bundesstaat eine breite Auswahl an Reisezielen und Sehenswürdigkeiten, wie z.B. seine 10 Pueblos Mágicos, 23 Pueblos con Encanto und vier UNESCO-Welterbestätten.",
-            "urlImg": "MEX_hda_flores_t_12.webp",
+            "urlImg": "EDOMEX-cosmovitral_02.webp",
             "actions": {
                 "button": {
                     "text" : "UM MEHR ÜBER ESTADO DE MÉXICO ZU ERFAHREN, KLICK HIER",
@@ -402,7 +401,7 @@
         },
         {
             "id": "Guanajuato",
-            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "urlVideoTop": "https://www.youtube.com/embed/Rhh9Uxb6c0g?autoplay=1",
             "titleTop": "Guanajuato",
             "descriptionTop": "Guanajuato ist aufgrund der Vielfalt seiner Attraktionen das wichtigste koloniale Reiseziel Mexikos. Es beherbergt unter anderem 6 Pueblos Mágicos, 2 Kulturerbestätten und 5 archäologischen Stätten.",
             "urlImg": "GTO_guanajuato_338.webp",
@@ -439,7 +438,7 @@
         },
         {
             "id": "Guerrero",
-            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "urlVideoTop": "https://www.youtube.com/embed/qcx9vIc0m98?autoplay=1",
             "titleTop": "Guerrero",
             "descriptionTop": "Guerrero ist ein Bundesstaat im Süden Mexikos mit einem großen touristischen Angebot, das paradiesische Strände, imposante Berge und traumhafte Landschaften umfasst. Es erwarten dich Abenteuer, Schönheit und Überraschungen.",
             "urlImg": "GRO_acapulco_1317.webp",
@@ -476,7 +475,7 @@
         },
         {
             "id": "Hidalgo",
-            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "urlVideoTop": "https://www.youtube.com/embed/We4c0RjDGX4?autoplay=1",
             "titleTop": "Hidalgo",
             "descriptionTop": "Klöster, Gutshöfe, Minen, Abenteuer, Kultur und Tradition bilden das touristische Erbe von Hidalgo. Die Atmosphäre vermittelt den Wert der jahrtausendealten Kulturen, die sich in diesem Land niedergelassen haben.",
             "urlImg": "Hgo_tula_003.webp",

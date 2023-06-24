@@ -1,6 +1,7 @@
 .description-ctn {
   padding: 42px 0;
   background-color: #eee;
+  overflow-x: hidden;
 }
 .description-ctn-text {
   padding: 15px;
@@ -28,14 +29,26 @@
 }
 .description-ctn-img {
   margin-top: 35px;
+  margin-bottom: 32px;
   width: 100%;
   height: 100%;
+  margin-right: auto;
+  margin-left: auto;
+  transform: rotate(5deg);
 }
 .description-img {
   width: 100%;
   height: 270px;
   object-fit: cover;
+  border: 25px solid #fff;
+  box-shadow: 15px 15px 10px #c2c2c2;
 }
+.animate-text-ctn {
+  margin-top: -75px;
+  font-weight: 700;
+  font-size: 32px;
+}
+
 
 @media (min-width: 744px) {
   .description-ctn {
@@ -57,6 +70,11 @@
     width: 100%;
     height: 100%;
     padding: 0 15px;
+  }
+  .animate-text-ctn {
+    margin-top: -75px;
+    margin-bottom: 0;
+    font-weight: 700;
   }
 }
 
@@ -89,4 +107,11 @@
   .description-ctn-badge {
     padding: 35px;
   }
+  .animate-text-ctn {
+    margin-top: -75px;
+    font-weight: 700;
+    font-size: 42px;
+    margin-bottom: 0;
+  }
+  
 }

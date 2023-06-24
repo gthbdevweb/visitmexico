@@ -13,6 +13,8 @@ import Events from './views/Events';
 import Towns from './views/Towns';
 import TrenMaya from './views/TrenMaya';
 import Experiences from './views/Experiences';
+import GastronomicRoutesContent from './views/GastronomicRoutesContent';
+import RomanceContent from './views/RomanceContent';
 //Delete next
 import './App.css';
 
@@ -35,6 +37,8 @@ function App() {
           <Route path='/pueblos' element={<Towns />} />
           <Route path='/trenmaya' element={<TrenMaya />} />
           <Route path='/experiencias' element={<Experiences />} />
+          <Route path='/rutas-gastronomicas' element={<GastronomicRoutesContent />} />
+          <Route path='/romance' element={<RomanceContent />} />
           <Route path='*' element={<Home />} />
         </Routes>
       </Layout>

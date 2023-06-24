@@ -1,6 +1,5 @@
 {
     "titleState": "Descubre los 5 motivos  para visitar los Estados de México",
-    "urlVideoStates": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
     "states": [
         {
             "id": "Aguascalientes",
@@ -44,7 +43,7 @@
             "urlVideoTop": "https://www.youtube.com/embed/GLKLZeEgC24?autoplay=1",
             "titleTop": "Baja California",
             "descriptionTop": "コルテス海と太平洋に守られたバハ・カリフォルニア州は、特別な体験を提供します。その道 沿いには、島々、ビーチ、砂漠、峡谷、山脈、死火山が彩りを添えています。",
-            "urlImg": "BCA_rosarito_playa-952.webp",
+            "urlImg": "Vinedos4.webp",
             "actions": {
                 "button": {
                     "text" : "もっと詳しく知るには BAJA CALIFORNIA ここを押してください",
@@ -115,7 +114,7 @@
         },
         {
             "id": "Campeche",
-            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "urlVideoTop": "https://www.youtube.com/embed/HvBIXBIGt3k?autoplay=1",
             "titleTop": "Campeche",
             "descriptionTop": "カンペチェ州はメキシコ南東部の貴重な宝物です。建物や歴史にある豊かな文化が、メキシコ らしさを表します。",
             "urlImg": "CAM_calakmul53.webp",
@@ -152,10 +151,10 @@
         },
         {
             "id": "Chiapas",
-            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "urlVideoTop": "https://www.youtube.com/embed/KeQ___kEs2Q?autoplay=1",
             "titleTop": "Chiapas",
             "descriptionTop": "チアパス州は、感覚が刺激される土地です。コーヒーの深い香り、アタウルフォマンゴーの甘 さ、林の中を飛ぶ派手なグアカマヤ（オウム）の群れの眺め、流れ続ける水の音、伝統的な織 物の繊細さを感じることがチアパスです。",
-            "urlImg": "CHIS_yaxchilan_95.webp",
+            "urlImg": "Chiapas-agua_azul-01.webp",
             "actions": {
                 "button": {
                     "text" : "もっと詳しく知るには CHIAPAS ここを押してください",
@@ -192,7 +191,7 @@
             "urlVideoTop": "https://www.youtube.com/embed/2XtTWy50hjc?autoplay=1",
             "titleTop": "Chihuahua",
             "descriptionTop": "北部にあるチワワ州は、メキシコ共和国最大の州であり、世界の国の面積と比較するとイギリ スが入るくらいです。この巨大な土地に含まれる様々な生態機、ガストロノミーと文化は印象 的です。",
-            "urlImg": "CHIH_creel47.webp",
+            "urlImg": "Chihuahua-barrancaschepe_02.webp",
             "actions": {
                 "button": {
                     "text" : "もっと詳しく知るには CHIHUAHUA ここを押してください",
@@ -233,7 +232,7 @@
             "actions": {
                 "button": {
                     "text" : "PARA CONOCER MÁS DE CIUDAD DE MÉXICO PRESIONA AQUÍ",
-                    "dir": "https://visitachihuahua.com/"
+                    "dir": "https://mexicocity.cdmx.gob.mx/"
                 }
             },
             "titleBottom": "Conoce los motivos por el que debe estar en tu lista de viajero.",
@@ -331,7 +330,7 @@
         },
         {
             "id": "Durango",
-            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "urlVideoTop": "https://www.youtube.com/embed/N7MmjzREtig?autoplay=1",
             "titleTop": "Durango",
             "descriptionTop": "Durango es un estado para disfrutar, explorar, vivir y está considerado la reserva forestal más importante de México. Su arquitectura única y colonial son fuente de grandes historias, leyendas y cultura, además de una larga tradición cinematográfica.",
             "urlImg": "DGO_Cd_Durango_34.webp",
@@ -368,10 +367,10 @@
         },
         {
             "id": "EstadoDeMexico",
-            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "urlVideoTop": "https://www.youtube.com/embed/Pydx7Hk0rM0?autoplay=1",
             "titleTop": "Estado de México",
             "descriptionTop": "Ubicado en el corazón del país, el estado ofrece una amplia oferta de destinos y atractivos como sus 10 Pueblos Mágicos, 23 Pueblos con Encanto y cuatro sitios declarados Patrimonio de la Humanidad por la UNESCO.",
-            "urlImg": "MEX_hda_flores_t_12.webp",
+            "urlImg": "EDOMEX-cosmovitral_02.webp",
             "actions": {
                 "button": {
                     "text" : "もっと詳しく知るには ESTADO DE MÉXICO ここを押してください",
@@ -405,7 +404,7 @@
         },
         {
             "id": "Guanajuato",
-            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "urlVideoTop": "https://www.youtube.com/embed/Rhh9Uxb6c0g?autoplay=1",
             "titleTop": "Guanajuato",
             "descriptionTop": "Guanajuato es el destino turístico colonial más importante de México debido a la diversidad de sus atractivos, como sus seis Pueblos Mágicos, dos Ciudades Patrimonio y cinco zonas arqueológicas.",
             "urlImg": "GTO_guanajuato_338.webp",
@@ -442,7 +441,7 @@
         },
         {
             "id": "Guerrero",
-            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "urlVideoTop": "https://www.youtube.com/embed/qcx9vIc0m98?autoplay=1",
             "titleTop": "Guerrero",
             "descriptionTop": "Guerrero es un estado ubicado al sur de México, cuenta con una gran oferta turística que incluye paradisiacas playas, imponentes montañas y paisajes de ensueño. Una tierra brava, bella y sorprendente.",
             "urlImg": "GRO_acapulco_1317.webp",
@@ -479,7 +478,7 @@
         },
         {
             "id": "Hidalgo",
-            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "urlVideoTop": "https://www.youtube.com/embed/We4c0RjDGX4?autoplay=1",
             "titleTop": "Hidalgo",
             "descriptionTop": "Conventos, haciendas, minas, aventura, cultura y tradición, constituyen el acervo turístico hidalguense, el ambiente que se respira transmite el valor de las culturas milenarias asentadas en sus tierras.",
             "urlImg": "Hgo_tula_003.webp",

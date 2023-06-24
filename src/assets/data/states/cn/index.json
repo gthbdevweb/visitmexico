@@ -1,6 +1,5 @@
 {
     "titleState": "Descubre los 5 motivos  para visitar los Estados de México",
-    "urlVideoStates": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
     "states": [
         {
             "id": "Aguascalientes",
@@ -44,7 +43,7 @@
             "urlVideoTop": "https://www.youtube.com/embed/GLKLZeEgC24?autoplay=1",
             "titleTop": "Baja California",
             "descriptionTop": "访问下加利福尼亚州的 5 个理由在科尔特斯海和太平洋的庇护下,下加利福尼亚州意味着一种特殊的体验:岛屿、海滩、沙漠、峡谷、山脉和死火山伴随着旅程。",
-            "urlImg": "BCA_rosarito_playa-952.webp",
+            "urlImg": "Vinedos4.webp",
             "actions": {
                 "button": {
                     "text" : "想了解更多关于州的信息 BAJA CALIFORNIA 请点击这里",
@@ -115,7 +114,7 @@
         },
         {
             "id": "Campeche",
-            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "urlVideoTop": "https://www.youtube.com/embed/HvBIXBIGt3k?autoplay=1",
             "titleTop": "Campeche",
             "descriptionTop": "访问坎佩切州的 5 个理由坎佩切位于墨西哥东南部,是一个拥有巨大文化财富的州;古老的历史与建筑构成了其丰富的文化内涵,给墨西哥人提供了人身份认同感。",
             "urlImg": "CAM_calakmul53.webp",
@@ -152,10 +151,10 @@
         },
         {
             "id": "Chiapas",
-            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "urlVideoTop": "https://www.youtube.com/embed/KeQ___kEs2Q?autoplay=1",
             "titleTop": "Chiapas",
             "descriptionTop": "访问恰帕斯州的 5 个理由:恰帕斯州是一片充满感觉的土地,让你闻到浓厚的咖啡气味,尝到阿陶尔福芒果的甜味,在丛林中看到成群的金刚鹦鹉,听到川流不息的水声,感受到传统纺织品的精致。",
-            "urlImg": "CHIS_yaxchilan_95.webp",
+            "urlImg": "Chiapas-agua_azul-01.webp",
             "actions": {
                 "button": {
                     "text" : "想了解更多关于州的信息 CHIAPAS 请点击这里",
@@ -192,7 +191,7 @@
             "urlVideoTop": "https://www.youtube.com/embed/2XtTWy50hjc?autoplay=1",
             "titleTop": "Chihuahua",
             "descriptionTop": "访问奇瓦瓦州的 5 个理由:奇瓦瓦州位于墨西哥北部,是国家最大的州,与英格兰的面积差不多。这个庞大之州的生态系统、美食与文化的多样性令人印象深刻。",
-            "urlImg": "CHIH_creel47.webp",
+            "urlImg": "Chihuahua-barrancaschepe_02.webp",
             "actions": {
                 "button": {
                     "text" : "想了解更多关于州的信息 CHIHUAHUA 请点击这里",
@@ -233,7 +232,7 @@
             "actions": {
                 "button": {
                     "text" : "PARA CONOCER MÁS DE CIUDAD DE MÉXICO PRESIONA AQUÍ",
-                    "dir": "https://visitachihuahua.com/"
+                    "dir": "https://mexicocity.cdmx.gob.mx/"
                 }
             },
             "titleBottom": "Conoce los motivos por el que debe estar en tu lista de viajero.",
@@ -331,7 +330,7 @@
         },
         {
             "id": "Durango",
-            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "urlVideoTop": "https://www.youtube.com/embed/N7MmjzREtig?autoplay=1",
             "titleTop": "Durango",
             "descriptionTop": "访问杜兰戈州的 5 个理由杜兰戈州是值得去享受、探索、体验的一个州,被认为是墨西哥最重要的森林保护区。 其独特的殖民时期建筑作为伟大故事、传说与文化的起源,以及悠久电影传统的热点。",
             "urlImg": "DGO_Cd_Durango_34.webp",
@@ -368,10 +367,10 @@
         },
         {
             "id": "EstadoDeMexico",
-            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "urlVideoTop": "https://www.youtube.com/embed/Pydx7Hk0rM0?autoplay=1",
             "titleTop": "Estado de México",
             "descriptionTop": "访问墨西哥州的 5 个理由墨西哥州位于国家的中心地带,提供了广泛的旅游目的地和景点,如其10 座神奇小镇,23 座迷人城镇和四个被联合国教科文组织宣布为世界遗产的地点。",
-            "urlImg": "MEX_hda_flores_t_12.webp",
+            "urlImg": "EDOMEX-cosmovitral_02.webp",
             "actions": {
                 "button": {
                     "text" : "想了解更多关于州的信息 ESTADO DE MÉXICO 请点击这里",
@@ -405,7 +404,7 @@
         },
         {
             "id": "Guanajuato",
-            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "urlVideoTop": "https://www.youtube.com/embed/Rhh9Uxb6c0g?autoplay=1",
             "titleTop": "Guanajuato",
             "descriptionTop": "访问瓜纳华托州的 5 个理由瓜纳华托州是墨西哥最重要的殖民时期旅游目的地,是因为其景点的多样性,包括六座神奇小镇、两个遗产城市和五个考古遗址。",
             "urlImg": "GTO_guanajuato_338.webp",
@@ -442,7 +441,7 @@
         },
         {
             "id": "Guerrero",
-            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "urlVideoTop": "https://www.youtube.com/embed/qcx9vIc0m98?autoplay=1",
             "titleTop": "Guerrero",
             "descriptionTop": "访问格雷罗州的 5 个理由:格雷罗州是位于墨西哥南部的一个州,其旅游资源非常丰富,包括天堂般的海滩、雄伟的山脉和梦幻般的风景。这是一片富有勇气和美丽、令人惊讶的土地。",
             "urlImg": "GRO_acapulco_1317.webp",
@@ -479,7 +478,7 @@
         },
         {
             "id": "Hidalgo",
-            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "urlVideoTop": "https://www.youtube.com/embed/We4c0RjDGX4?autoplay=1",
             "titleTop": "Hidalgo",
             "descriptionTop": "参观伊达尔戈州的 5 个理由修道院、庄园、矿场、探险、文化和传统,这一切构成了伊达尔戈州的旅游遗产;这里的氛围传递着早就于此定居的千年文化的价值。",
             "urlImg": "Hgo_tula_003.webp",

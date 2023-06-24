@@ -1,14 +1,17 @@
 .states-video-ctn {
-  height: 120px;
   width: 100%;
   height: auto;
   aspect-ratio: 16 / 9;
+  overflow-x: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: var(--white);
 }
 
 @media (min-width: 744px) {
   .states-video-ctn {
     margin-top: 80px;
-    height: 100%;
     width: 100%;
     height: auto;
     aspect-ratio: 16 / 4;
@@ -17,6 +20,7 @@
 
 @media (min-width: 992px) {
   .states-video-ctn {
-    aspect-ratio: 16 / 2;
+    height: 244px;
+    aspect-ratio: 16 / 4;
   }
 }

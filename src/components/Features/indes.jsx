@@ -54,7 +54,9 @@ const Features = () => {
 
   return (
     <section className="features-ctn">
+    <div className="features-bubble-ctn">
       <h2 className="features-text-title">{language?.title}</h2>
+    </div>
       {getBlogs()}
       <Share
         urlFaceboock = "https://visitmexico.com/blog/"

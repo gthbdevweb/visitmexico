@@ -29,7 +29,7 @@ const BottomTowns = () => {
       <div className="towns-bottom-img-ctn">
         <img
          className="towns-bottom-img"
-         src={require(`../../assets/img/towns/Tlaxcala_Portada.webp`)}
+         src={require(`../../assets/img/towns/Pueblos-magicos.webp`)}
          alt={language?.title}
        />
       </div>

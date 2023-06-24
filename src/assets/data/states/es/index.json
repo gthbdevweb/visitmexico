@@ -1,6 +1,5 @@
 {
     "titleState": "Descubre los 5 motivos  para visitar los Estados de México",
-    "urlVideoStates": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
     "states": [
         {
             "id": "Aguascalientes",
@@ -44,7 +43,7 @@
             "urlVideoTop": "https://www.youtube.com/embed/GLKLZeEgC24?autoplay=1",
             "titleTop": "Baja California",
             "descriptionTop": "Cobijada por el Mar de Cortés y el Océano Pacífico, Baja California significa una experiencia especial: islas, playas, desierto, cañones, sierras y volcanes extintos acompañan el camino.",
-            "urlImg": "BCA_rosarito_playa-952.webp",
+            "urlImg": "Vinedos4.webp",
             "actions": {
                 "button": {
                     "text" : "PARA CONOCER MÁS DE BAJA CALIFORNIA PRESIONA AQUÍ",
@@ -115,7 +114,7 @@
         },
         {
             "id": "Campeche",
-            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "urlVideoTop": "https://www.youtube.com/embed/HvBIXBIGt3k?autoplay=1",
             "titleTop": "Campeche",
             "descriptionTop": "Campeche se ubica al sureste de México, es un estado con un enorme tesoro, sus edificaciones y su historia constituyen una riqueza cultural que nos da identidad.",
             "urlImg": "CAM_calakmul53.webp",
@@ -152,10 +151,10 @@
         },
         {
             "id": "Chiapas",
-            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "urlVideoTop": "https://www.youtube.com/embed/KeQ___kEs2Q?autoplay=1",
             "titleTop": "Chiapas",
             "descriptionTop": "Chiapas es una tierra de sensaciones: es sentir el olor profundo del café, es paladear la dulzura de un mango ataúlfo, es ver una parvada de guacamayas en la selva, es oír el interminable correr del agua o palpar la delicadeza de un textil tradicional.",
-            "urlImg": "CHIS_yaxchilan_95.webp",
+            "urlImg": "Chiapas-agua_azul-01.webp",
             "actions": {
                 "button": {
                     "text" : "PARA CONOCER MÁS DE CHIAPAS PRESIONA AQUÍ",
@@ -192,7 +191,7 @@
             "urlVideoTop": "https://www.youtube.com/embed/2XtTWy50hjc?autoplay=1",
             "titleTop": "Chihuahua",
             "descriptionTop": "Ubicado al norte, Chihuahua es el Estado más grande de la República Mexicana, para darnos una idea de su magnitud, Inglaterra podría caber dentro de él. Es impresionante la diversidad de ecosistemas, de gastronomía y cultura que alberga esta imponente entidad.",
-            "urlImg": "CHIH_creel47.webp",
+            "urlImg": "Chihuahua-barrancaschepe_02.webp",
             "actions": {
                 "button": {
                     "text" : "PARA CONOCER MÁS DE CHIHUAHUA PRESIONA AQUÍ",
@@ -233,7 +232,7 @@
             "actions": {
                 "button": {
                     "text" : "PARA CONOCER MÁS DE CIUDAD DE MÉXICO PRESIONA AQUÍ",
-                    "dir": "https://visitachihuahua.com/"
+                    "dir": "https://mexicocity.cdmx.gob.mx/"
                 }
             },
             "titleBottom": "Conoce los motivos por el que debe estar en tu lista de viajero.",
@@ -331,7 +330,7 @@
         },
         {
             "id": "Durango",
-            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "urlVideoTop": "https://www.youtube.com/embed/N7MmjzREtig?autoplay=1",
             "titleTop": "Durango",
             "descriptionTop": "Durango es un estado para disfrutar, explorar, vivir y está considerado la reserva forestal más importante de México. Su arquitectura única y colonial son fuente de grandes historias, leyendas y cultura, además de una larga tradición cinematográfica.",
             "urlImg": "DGO_Cd_Durango_34.webp",
@@ -368,10 +367,10 @@
         },
         {
             "id": "EstadoDeMexico",
-            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "urlVideoTop": "https://www.youtube.com/embed/Pydx7Hk0rM0?autoplay=1",
             "titleTop": "Estado de México",
             "descriptionTop": "Ubicado en el corazón del país, el estado ofrece una amplia oferta de destinos y atractivos como sus 10 Pueblos Mágicos, 23 Pueblos con Encanto y cuatro sitios declarados Patrimonio de la Humanidad por la UNESCO.",
-            "urlImg": "MEX_hda_flores_t_12.webp",
+            "urlImg": "EDOMEX-cosmovitral_02.webp",
             "actions": {
                 "button": {
                     "text" : "PARA CONOCER MÁS DE ESTADO DE MÉXICO PRESIONA AQUÍ",
@@ -405,7 +404,7 @@
         },
         {
             "id": "Guanajuato",
-            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "urlVideoTop": "https://www.youtube.com/embed/Rhh9Uxb6c0g?autoplay=1",
             "titleTop": "Guanajuato",
             "descriptionTop": "Guanajuato es el destino turístico colonial más importante de México debido a la diversidad de sus atractivos, como sus seis Pueblos Mágicos, dos Ciudades Patrimonio y cinco zonas arqueológicas.",
             "urlImg": "GTO_guanajuato_338.webp",
@@ -442,7 +441,7 @@
         },
         {
             "id": "Guerrero",
-            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "urlVideoTop": "https://www.youtube.com/embed/qcx9vIc0m98?autoplay=1",
             "titleTop": "Guerrero",
             "descriptionTop": "Guerrero es un estado ubicado al sur de México, cuenta con una gran oferta turística que incluye paradisiacas playas, imponentes montañas y paisajes de ensueño. Una tierra brava, bella y sorprendente.",
             "urlImg": "GRO_acapulco_1317.webp",
@@ -479,7 +478,7 @@
         },
         {
             "id": "Hidalgo",
-            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "urlVideoTop": "https://www.youtube.com/embed/We4c0RjDGX4?autoplay=1",
             "titleTop": "Hidalgo",
             "descriptionTop": "Conventos, haciendas, minas, aventura, cultura y tradición, constituyen el acervo turístico hidalguense, el ambiente que se respira transmite el valor de las culturas milenarias asentadas en sus tierras.",
             "urlImg": "Hgo_tula_003.webp",
@@ -518,7 +517,7 @@
             "id": "Jalisco",
             "urlVideoTop": "https://www.youtube.com/embed/N7MmjzREtig?autoplay=1",
             "titleTop": "Jalisco",
-            "descriptionTop": "Ubicado al occidente de México se encuentra Jalisco, tierra del mariachi y el tequila, dos de los embajadores más representativos de México en el mundo., Se dice que cada uno de sus 125 municipios es una pieza valiosísima de su maravilloso mosaico.",
+            "descriptionTop": "Ubicado al occidente de México se encuentra Jalisco, tierra del mariachi y el tequila, dos de los embajadores más representativos de México en el mundo. Se dice que cada uno de sus 125 municipios es una pieza valiosísima de su maravilloso mosaico.",
             "urlImg": "JAL_charros_179.webp",
             "actions": {
                 "button": {

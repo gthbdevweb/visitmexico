@@ -7,7 +7,16 @@
 }
 .places-text-title {
   text-align: center;
+  justify-content: center;
+  align-items: center;
+  display: flex;
   font-size: 26px;
+  height: 75px;
+  color: #e3e8ed;
+  background: linear-gradient(135deg, #ec068b, #a6208c);
+  box-shadow: 0 10px 20px -3px #303030;
+  animation-duration: 3s;
+  animation-name: silceRight;
 }
 .pĺaces-text-desciption {
   font-size: 16px;
@@ -78,6 +87,7 @@
   animation-name: silceLeft;
 }
 
+
 @media (min-width: 744px) {
   .places-ctn {
     padding: 56px 0;
@@ -120,5 +130,17 @@
 
   to {
     transform: translateX(0%);
+  }
+}
+
+@keyframes silceRight {
+  from {
+    transform: translateX(100%);
+    opacity: 0;
+  }
+
+  to {
+    transform: translateX(0%);
+    opacity: 1;
   }
 }

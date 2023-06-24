@@ -1,0 +1,29 @@
+{
+    "title": "Turismo de Romance",
+    "gallery": [
+        {
+            "imageUrl": "Boda-tradicional-Olmeca-Veracruz.webp",
+            "title": "tecate"
+        },
+        {
+            "imageUrl": "Ceremonia-Wixarika-Nayarit.webp",
+            "title": "cochinita"
+        },
+        {
+            "imageUrl": "Ceremonia-Wixarika-Zacatecas.webp",
+            "title": "cochinita tradicional"
+        },
+        {
+            "imageUrl": "La-novia-de-Puebla.webp",
+            "title": "papadzules"
+        },
+        {
+            "imageUrl": "Novios-Queretaro-4.webp",
+            "title": "pocchuc"
+        },
+        {
+            "imageUrl": "Pareja-Queretaro-3.webp",
+            "title": "sopa lima tradicional"
+        }
+    ]
+}

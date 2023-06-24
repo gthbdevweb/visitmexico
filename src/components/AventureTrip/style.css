@@ -1,5 +1,5 @@
 .aventure-trip-content-ctn {
-  padding: 142px 0 100px 0;
+  padding: 50px 0 0 0;
   background-color: #eee;
   background-image: url('../../assets/img/layout/bg.webp');
   background-repeat: repeat-y;
@@ -12,6 +12,24 @@
 }
 .aventure-trip-content-text-title {
   font-size: 26px;
+  position: relative;
+  z-index: 1;
+  color: #e3e8ed;
+  height: 40px;
+  display: flex;
+  align-items: center;
+}
+.aventure-trip-content-text-title::after {
+  content: '';
+  height: 110%;
+  width: 100%;
+  background: #303030;
+  position: absolute;
+  top: 0;
+  left: -10%;
+  border-radius: 0 30px 30px 0;
+  z-index: -1;
+  animation: aventure-text-in 2.5s;
 }
 .aventure-trip-content-text-desc {
   font-size: 16px;
@@ -54,7 +72,7 @@
 
 @media (min-width: 744px) {
   .aventure-trip-content-ctn {
-    padding: 156px 0 80px 0;
+    padding: 50px 0 0 0;
     display: grid;
     grid-template-columns: 1fr 1fr;
   }
@@ -77,7 +95,7 @@
 
 @media (min-width: 992px) {
   .aventure-trip-content-ctn {
-    padding: 172px 0 100px 0;
+    padding: 50px 0 0 0;
     display: grid;
     grid-template-columns: 1fr 1fr;
   }
@@ -103,5 +121,15 @@
   }
   .aventure-trip-content-ctn-badge {
     padding: 35px;
+  }
+}
+
+@keyframes aventure-text-in {
+  0% {
+    left: -100%;
+  }
+
+  100% {
+    left: -10%;
   }
 }

@@ -1,6 +1,11 @@
 import React, { useState, useEffect, useContext} from 'react';
 import { LazyLoadImage } from 'react-lazy-load-image-component';
 import { Context } from '../../Context';
+import DatePicker from "react-datepicker";
+import setMinutes from "date-fns/setMinutes";
+import setHours from "date-fns/setHours";
+import { addDays } from "date-fns";
+import "react-datepicker/dist/react-datepicker.css";
 import dataEs from '../../assets/data/calendar/es/index.json';
 import dataEn from '../../assets/data/calendar/en/index.json';
 import Calendar from 'react-calendar-events-full-year'
@@ -14,6 +19,8 @@ const HeaderCalendar = () => {
 
   const [calendarEvents, setEvents] = useState(tempEvents.map(d => ({...d, from: new Date(d.from), to: new Date(d.to)})));
   
+  const [startDate, setStartDate] = useState(new Date());
+
   useEffect(() => {
     isLanguage === 'MX' ? setLanguage(dataEs)
     : isLanguage === 'USA' ? setLanguage(dataEn)
@@ -30,9 +37,16 @@ const HeaderCalendar = () => {
         <div className="calendar-header-calendar-img-ctn">
           <LazyLoadImage className="calendar-header-calendar-img" src={Calendar1} alt="calendar" />
         </div>
+        <DatePicker
+            selected={startDate}
+            onChange={(date) => setStartDate(date)}
+            inline
+            maxDate={addDays(new Date(), 7)}  
+          />
         <div className="calendar-header-calendar">
           {/*<div id="calendar"></div>*/}
           <Calendar calendarEvents={calendarEvents} monthView={true}/>
+          
         </div>
       </div>
       {/*<div className="calendar-header-text-desc-ctn">

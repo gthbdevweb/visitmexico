@@ -35,7 +35,7 @@ const Places = () => {
             alt={item.name}
           />
           <p className="places-card-text">{item.description}</p>
-          <div className="places-card-hover" style={{ background: `rgba(${colors[index]})`}}>
+          <div className="places-card-hover" style={{ background: `rgba(${colors[Math.floor(Math.random() * 6)]})`}}>
             <p className="places-card-hover-text">{item.hover}</p>
           </div>
         </Link>

@@ -8,6 +8,15 @@
 .towns-benefits-text-title {
   font-size: 26px;
   text-align: center;
+  color: var(--white);
+  background: linear-gradient(135deg, var(--green), var(--green));
+  box-shadow: 0 10px 20px -3px var(--black);
+  animation-duration: 3s;
+  animation-name: silceRight;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 .towns-benefits-cards-ctn {
   padding: 40px 0;

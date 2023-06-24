@@ -1,3 +1,16 @@
+:root {
+  --purple: #a6208c;
+  --red: #e52619;
+  --pink: #ec068b;
+  --yellow: #fda700;
+  --green: #88c243;
+  --blue: #03a0af;
+  --white: #e3e8ed;
+  --grey: #cccccc;
+  --gray: #a6a6a6;
+  --black: #303030;
+}
+
 body {
   margin: 0;
   font-family: 'Roboto', sans-serif;

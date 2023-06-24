@@ -1,6 +1,7 @@
 import React, { useEffect, useState, useContext } from 'react';
 import { LazyLoadImage } from 'react-lazy-load-image-component';
 import { Context } from '../../Context';
+import { Link } from 'react-router-dom';
 import dataEs from '../../assets/data/rutasGastronomicas/es/index.json';
 import dataEn from '../../assets/data/rutasGastronomicas/en/index.json';
 import dataFr from '../../assets/data/rutasGastronomicas/fr/index.json';
@@ -35,16 +36,25 @@ const GastronomicRoutes = () => {
       <div className="gastronomic-routes-content-ctn-img">
         <LazyLoadImage
           className="gastronomic-routes-content-img"
-          src={require(`../../assets/img/rutasGastronomicas/Dgo_Ciudad_Durango421.webp`)} 
+          src={require(`../../assets/img/rutasGastronomicas/PUE-Puebla-Gastronomia-JoyasColoniales-FabianGarcilita-BC3_3712-_1_.webp`)} 
           alt={language?.title}
         />
       </div>
-      <Share 
-        urlFaceboock = "https://visitmexico.com/experiencias/"
-        urlPinterest = "https://visitmexico.com/experiencias/"
-        urlTwitter = "https://visitmexico.com/experiencias/"
-        urlWhatsapp = "https://visitmexico.com/experiencias/"
-      />
+      <div>
+        <Share 
+          urlFaceboock = "https://visitmexico.com/experiencias/"
+          urlPinterest = "https://visitmexico.com/experiencias/"
+          urlTwitter = "https://visitmexico.com/experiencias/"
+          urlWhatsapp = "https://visitmexico.com/experiencias/"
+        />
+        <Link 
+          to='/rutas-gastronomicas'
+        >
+          <button className='btn btn-outline-primary class-button-gastronomic'>
+            Galeria
+          </button>
+        </Link>
+      </div>
     </section>
   )
 };

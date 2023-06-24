@@ -6,8 +6,18 @@
   background-position: center;
 }
 .videos-title-text-title {
-  font-size: 42px;
+  font-size: 28px;
   text-align: center;
+  color: var(--white);
+  background: linear-gradient(135deg, var(--pink), var(--purple));
+  box-shadow: 0 10px 20px -3px var(--black);
+  animation-duration: 3s;
+  animation-name: silceRight;
+  height: 160px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 25px;
 }
 
 @media (min-width: 744px) {
@@ -22,6 +32,6 @@
 
 @media (min-width: 992px) {
   .videos-title-text-title {
-    font-size: 72px;
+    font-size: 32px;
   }
 }

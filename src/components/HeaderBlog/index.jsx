@@ -26,7 +26,9 @@ const HeaderBlog = () => {
 
   return (
     <section className="blog-title-ctn">
-      <h1 className="blog-title-text-title">{language?.title} </h1>
+      <div className="blog-bubble-ctn">
+        <h1 className="blog-title-text-title">¿A dónde ir, qué hacer, qué visitar?</h1>
+      </div>
     </section>
   )
 };

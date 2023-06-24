@@ -21,7 +21,7 @@
         {
             "name": "Pueblos Mágicos",
             "dir": "/pueblos",
-            "urlImg": "YUC_Hacienda_Ochil139.webp",
+            "urlImg": "Pueblos-magicos.webp",
             "description": "Pueblos Mágicos",
             "hover": "¡Vamos a Pueblos Mágicos!"
         },
@@ -42,7 +42,7 @@
         {
             "name": "Rutas Gastronómicas",
             "dir": "/rutasgastronomicas",
-            "urlImg": "Dgo_Ciudad_Durango421.webp",
+            "urlImg": "PUE-Puebla-Gastronomia-JoyasColoniales-FabianGarcilita-BC3_3712-_1_.webp",
             "description": "Rutas Gastronómicas",
             "hover": "¡Vamos a Rutas Gastronómicas!"
         },

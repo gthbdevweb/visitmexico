@@ -11,6 +11,21 @@
 }
 .state-known-text-title {
   font-size: 32px;
+  position: relative;
+  z-index: 1;
+  color: #e3e8ed;
+}
+.state-known-text-title::after {
+  content: '';
+  height: 110%;
+  width: 100%;
+  background: #303030;
+  position: absolute;
+  top: 0;
+  left: -10%;
+  border-radius: 0 30px 30px 0;
+  z-index: -1;
+  animation: state-text-in 2.5s;
 }
 .state-known-text-desc {
   font-size: 14px;
@@ -59,5 +74,15 @@
     width: 100%;
     height: 100%;
     padding: 10% 10% 0 10%;
+  }
+}
+
+@keyframes state-text-in {
+  0% {
+    left: -100%;
+  }
+
+  100% {
+    left: -10%;
   }
 }

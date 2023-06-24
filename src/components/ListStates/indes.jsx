@@ -14,6 +14,15 @@ const Liststates = () => {
   const { isLanguage } = useContext(Context);
   const [language, setLanguage] = useState({});
 
+  const colors = [
+    '166, 32, 140, .5',
+    '229, 38, 25, .5',
+    '236, 6, 139, .5',
+    '253, 167, 0, .5',
+    '136, 194, 67, .5',
+    '3, 160, 175, .5'
+  ];
+
   useEffect(() => (
     isLanguage === 'MX' ? setLanguage(dataEs)
     : isLanguage === 'USA' ? setLanguage(dataEn)
@@ -35,7 +44,7 @@ const Liststates = () => {
           />
           <h5 className="states-card-text-title">{state.titleTop}</h5>
           {/*<p className="states-card-text-desc">{state.descriptionShort}</p>*/}
-          <div className="states-card-back">
+          <div className="states-card-back" style={{ background: `rgba(${colors[Math.floor(Math.random() * 6)]})`}}>
             <p className="states-card-back-desc">{state.desciptionHover}</p>
           </div>
         </Link>

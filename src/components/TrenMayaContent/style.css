@@ -11,6 +11,10 @@
 }
 .tren-maya-content-text-title {
   font-size: 26px;
+  position: relative;
+  z-index: 1;
+  color: #e3e8ed;
+  margin-bottom: 22px;
 }
 .tren-maya-content-text-desc {
   font-size: 16px;
@@ -46,6 +50,29 @@
   aspect-ratio: auto;
   width: 100%;
 } 
+
+.tren-maya-content-text-title::after {
+  content: '';
+  height: 110%;
+  width: 106%;
+  background: #303030;
+  position: absolute;
+  top: -10px;
+  left: -5%;
+  border-radius: 0 30px 30px 0;
+  z-index: -1;
+  animation: train-in 2.5s;
+}
+
+@keyframes train-in {
+  0% {
+    left: -106%;
+  }
+
+  100% {
+    left: -5%;
+  }
+}
 
 @media (min-width: 744px) {
   .tren-maya-content-ctn {

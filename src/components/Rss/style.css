@@ -3,7 +3,7 @@
   left: 7px;
   top: 85px;
   z-index: 25;
-  animation-duration: 1.3s;
+  animation-duration: .5s;
   animation-name: rss-in;
   display: flex;
   justify-content: center;
@@ -29,14 +29,14 @@
 }
 
 .hide {
-  animation-duration: 1.3s;
+  animation-duration: .5s;
   animation-name: rss-out;
-  margin-left: -230px;
+  margin-left: -65px;
 }
 
 @keyframes rss-in {
   from {
-    margin-left: -230px;
+    margin-left: -65px;
   }
   to {
     margin-left: 0%;
@@ -48,7 +48,7 @@
     margin-left: 0%;
   }
   to {
-    margin-left: -230px;
+    margin-left: -65px;
   }
 }
 
