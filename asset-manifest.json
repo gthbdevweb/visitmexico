@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/visitmexico/static/css/main.6d28bf40.css",
-    "main.js": "/visitmexico/static/js/main.97461d2b.js",
+    "main.css": "/visitmexico/static/css/main.3df69115.css",
+    "main.js": "/visitmexico/static/js/main.a658b44e.js",
     "static/js/787.8f5b6e93.chunk.js": "/visitmexico/static/js/787.8f5b6e93.chunk.js",
     "static/media/GRO_acapulco_1317.webp": "/visitmexico/static/media/GRO_acapulco_1317.682ec4d5fa18a2ed9987.webp",
     "static/media/COAH_2_dunas_bilbao_22.webp": "/visitmexico/static/media/COAH_2_dunas_bilbao_22.d068f2fe28a65eb1b51a.webp",
@@ -68,12 +68,12 @@
     "static/media/trenMaya.webp": "/visitmexico/static/media/trenMaya.8a170d5399bb93e9d337.webp",
     "static/media/logo.png": "/visitmexico/static/media/logo.077d6f371a73310c9868.png",
     "index.html": "/visitmexico/index.html",
-    "main.6d28bf40.css.map": "/visitmexico/static/css/main.6d28bf40.css.map",
-    "main.97461d2b.js.map": "/visitmexico/static/js/main.97461d2b.js.map",
+    "main.3df69115.css.map": "/visitmexico/static/css/main.3df69115.css.map",
+    "main.a658b44e.js.map": "/visitmexico/static/js/main.a658b44e.js.map",
     "787.8f5b6e93.chunk.js.map": "/visitmexico/static/js/787.8f5b6e93.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6d28bf40.css",
-    "static/js/main.97461d2b.js"
+    "static/css/main.3df69115.css",
+    "static/js/main.a658b44e.js"
   ]
 }
