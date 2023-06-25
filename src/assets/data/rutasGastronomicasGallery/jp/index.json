@@ -2,76 +2,48 @@
     "title": "Rutas Gastronómicas",
     "gallery": [
         {
-            "imageUrl": "BCN_tecate_198.webp",
-            "title": "tecate"
-        },
-        {
-            "imageUrl": "Gastronomía-CochinitaPibil-HaciendaOchil150.webp",
+            "imageUrl": "Gastronomia-CochinitaPibil-HaciendaOchil150.webp",
             "title": "cochinita"
         },
         {
-            "imageUrl": "Gastronomía-CochinitaPibil-LaTradición53.webp",
-            "title": "cochinita tradicional"
-        },
-        {
-            "imageUrl": "Gastronomía-Papadzules-HaciendaOchil153.webp",
-            "title": "papadzules"
-        },
-        {
-            "imageUrl": "Gastronomía-PocChuc-MUGY26.webp",
-            "title": "pocchuc"
-        },
-        {
-            "imageUrl": "Gastronomía-SopaLima-LaTradición108.webp",
-            "title": "sopa lima tradicional"
-        },
-        {
-            "imageUrl": "Gastronomía-SopaLima-MUGY79.webp",
-            "title": " sopa lima"
-        },
-        {
-            "imageUrl": "Gastronomía-Vaporcitos-HaciendaOchil51.webp",
+            "imageUrl": "Gastronomia-Vaporcitos-HaciendaOchil51.webp",
             "title": "vaporcitos"
         },
         {
-            "imageUrl": "HGO_acatlan_4.webp",
+            "imageUrl": "HGO_acatlan_4_11zon.webp",
             "title": "acatlan"
         },
         {
-            "imageUrl": "HGO_t2_actopan_356-_1_.webp",
+            "imageUrl": "HGO_t2_actopan_356-_1__11zon.webp",
             "title": "actopan"
         },
         {
-            "imageUrl": "MEX_avandaro_t__147.webp",
+            "imageUrl": "MEX_avandaro_t__147_11zon.webp",
             "title": "avandaro"
         },
         {
-            "imageUrl": "Papadzules3.webp",
+            "imageUrl": "Papadzules5_11zon.webp",
             "title": "papadzules"
         },
         {
-            "imageUrl": "PUE-Puebla-Gastronomia-JoyasColoniales-FabianGarcilita-BC3_3712-_1_.webp",
-            "title": "Puebla"
+            "imageUrl": "Papadzules_11zon.webp",
+            "title": "papadzules dos"
         },
         {
-            "imageUrl": "Qroo_Lorenzillos_girls63-2.webp",
+            "imageUrl": "PUE-Puebla-Gastronomia-JoyasColoniales-FabianGarcilita-BC3_3712_11zon.webp",
+            "title": "joyas coloniales"
+        },
+        {
+            "imageUrl": "Qroo_Lorenzillos_girls63-2_11zon.webp",
             "title": "lorenzillos"
         },
         {
-            "imageUrl": "SIN_los_mochis_gastronomia_17.webp",
-            "title": "los mochis"
-        },
-        {
-            "imageUrl": "Sopa-de-lima-y-papadzules.webp",
-            "title": "sopa de lima y papadzules"
-        },
-        {
-            "imageUrl": "TMPS_tampico_2_131.webp",
+            "imageUrl": "TMPS_tampico_2_131_11zon.webp",
             "title": "tampico"
         },
         {
             "imageUrl": "Yucatan_Foto_13.webp",
-            "title": "Yucatan"
+            "title": "yucatan"
         }
         
     ]

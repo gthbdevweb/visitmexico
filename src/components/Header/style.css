@@ -158,6 +158,20 @@
   width: 100%;
   text-align: left;
 }
+.nav-show .nav-menu-blog li a p {
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 400;
+  padding: 5px 0;
+  color: #000;
+  line-height: 30px;
+  width: 100%;
+  text-align: left;
+  height: 14px;
+}
+.nav-menu-blog-first {
+  margin-top: 25px;
+}
 .nav-show .nav-menu-blog li a:hover {
   color: #ccc;
 }

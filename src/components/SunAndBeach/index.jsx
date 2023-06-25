@@ -1,4 +1,5 @@
 import React, { useEffect, useState, useContext } from 'react';
+import { Link } from 'react-router-dom';
 import { LazyLoadImage } from 'react-lazy-load-image-component';
 import { Context } from '../../Context';
 import dataEs from '../../assets/data/solYPlaya/es/index.json';
@@ -45,6 +46,11 @@ const SunAndBeach = () => {
         urlTwitter = "https://visitmexico.com/solyplaya/"
         urlWhatsapp = "https://visitmexico.com/solyplaya/"
       />
+      <Link
+        to='/sol-y-playa'
+      >
+        <button className='btn btn-outline-primary class-button-romance'>Galería</button>
+      </Link>
     </section>
   )
 };

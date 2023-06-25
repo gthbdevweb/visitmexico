@@ -1,0 +1,45 @@
+{
+    "title": "Sol y Playa",
+    "gallery": [
+        {
+            "imageUrl": "BCN_ensenada_7_11zon.webp",
+            "title": "ensenada"
+        },
+        {
+            "imageUrl": "BCS_cabo_pulmo_26_11zon.webp",
+            "title": "cabo pulmon"
+        },
+        {
+            "imageUrl": "GRO_acapulco_1317_11zon.webp",
+            "title": "acapulco"
+        },
+        {
+            "imageUrl": "JAL_careyes_11_11zon.webp",
+            "title": "careyes"
+        },
+        {
+            "imageUrl": "OAX_costa_25_11zon.webp",
+            "title": "oaxaca"
+        },
+        {
+            "imageUrl": "Qroo_Hotel_catalonia63_2_11zon.webp",
+            "title": "queretaro"
+        },
+        {
+            "imageUrl": "SIN_las_glorias_25_11zon.webp",
+            "title": "las glorias"
+        },
+        {
+            "imageUrl": "SON_SanCarlos_Mirador-138_11zon.webp",
+            "title": "san carlos"
+        },
+        {
+            "imageUrl": "TMPS_miramar_2_236_11zon.webp",
+            "title": "miramar"
+        },
+        {
+            "imageUrl": "VER_catemaco104_11zon.webp",
+            "title": "catemaco"
+        }
+    ]
+}

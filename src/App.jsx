@@ -15,6 +15,8 @@ import TrenMaya from './views/TrenMaya';
 import Experiences from './views/Experiences';
 import GastronomicRoutesContent from './views/GastronomicRoutesContent';
 import RomanceContent from './views/RomanceContent';
+import SolYPlayaContent from './views/SolYPlayaContent';
+import AvisoDePrivacidad from './views/AvisoDePrivacidad';
 //Delete next
 import './App.css';
 
@@ -39,6 +41,8 @@ function App() {
           <Route path='/experiencias' element={<Experiences />} />
           <Route path='/rutas-gastronomicas' element={<GastronomicRoutesContent />} />
           <Route path='/romance' element={<RomanceContent />} />
+          <Route path='/sol-y-playa' element={<SolYPlayaContent />} />
+          <Route path='/aviso-de-privacidad' element={<AvisoDePrivacidad />} />
           <Route path='*' element={<Home />} />
         </Routes>
       </Layout>
