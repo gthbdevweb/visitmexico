@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/visitmexico/static/css/main.0d75a973.css",
-    "main.js": "/visitmexico/static/js/main.2442159d.js",
+    "main.css": "/visitmexico/static/css/main.02e9d0bc.css",
+    "main.js": "/visitmexico/static/js/main.ee0da4bc.js",
     "static/js/787.8f5b6e93.chunk.js": "/visitmexico/static/js/787.8f5b6e93.chunk.js",
     "static/media/Novios-Queretaro-4.webp": "/visitmexico/static/media/Novios-Queretaro-4.cccdeefa4aafa0dc8d80.webp",
     "static/media/GRO_acapulco_1317.webp": "/visitmexico/static/media/GRO_acapulco_1317.682ec4d5fa18a2ed9987.webp",
@@ -102,12 +102,12 @@
     "static/media/BCS_cabo_pulmo_26_11zon.webp": "/visitmexico/static/media/BCS_cabo_pulmo_26_11zon.30b06773207adff07a7f.webp",
     "static/media/OAX_costa_25_11zon.webp": "/visitmexico/static/media/OAX_costa_25_11zon.9b7f7971111af89e5ed7.webp",
     "index.html": "/visitmexico/index.html",
-    "main.0d75a973.css.map": "/visitmexico/static/css/main.0d75a973.css.map",
-    "main.2442159d.js.map": "/visitmexico/static/js/main.2442159d.js.map",
+    "main.02e9d0bc.css.map": "/visitmexico/static/css/main.02e9d0bc.css.map",
+    "main.ee0da4bc.js.map": "/visitmexico/static/js/main.ee0da4bc.js.map",
     "787.8f5b6e93.chunk.js.map": "/visitmexico/static/js/787.8f5b6e93.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0d75a973.css",
-    "static/js/main.2442159d.js"
+    "static/css/main.02e9d0bc.css",
+    "static/js/main.ee0da4bc.js"
   ]
 }
