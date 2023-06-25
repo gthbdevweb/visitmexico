@@ -1,32 +1,14 @@
+export const eventsList = [
+  '2023:10:29',
+];
+
 export const tempEvents = [
   {
     "id": "1",
-    "title": "test title - 4",
-    "from": "2023-05-01T11:33:35.833Z",
-    "to":  "2023-05-01T14:33:35.833Z"
-  },
-  {
-    "id": "2",
-    "title": "test title - 5",
-    "from": "2023-05-03T11:33:35.833Z",
-    "to":  "2023-05-03T14:33:35.833Z"
-  },
-  {
-    "id": "3",
-    "title": "test title - 7",
-    "from": "2023-05-07T11:33:35.833Z",
-    "to":  "2023-05-07T14:33:35.833Z"
-  },
-  {
-    "id": "4",
-    "title": "test title - 7",
-    "from": "2023-06-20T11:33:35.833Z",
-    "to":  "2023-06-20T14:33:35.833Z"
-  },
-  {
-    "id": "5",
-    "title": "test title - 7",
-    "from": "2023-06-22T11:33:35.833Z",
-    "to":  "2023-06-22T14:33:35.833Z"
+    "title": "Día de los muertos",
+    "description": "Las festividades anuales del día de los muertos se han vuelto muy populares en México entre los visitantes internacionales. El desfile principal en el centro de la ciudad es una producción espectacular.",
+    "date": "2023:10:29",
+    "imgUrl": 'dia-de-muertos.webp',
   }
 ];
+

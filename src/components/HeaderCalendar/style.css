@@ -34,6 +34,12 @@
 .calendar-header-calendar-img-ctn {
   width: 100%;
   height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 25px solid #fff;
+  box-shadow: 15px 15px 10px #c2c2c2;
+  box-sizing: border-box;
 }
 .calendar-header-calendar-img {
   object-fit: cover;
@@ -42,10 +48,14 @@
   aspect-ratio: 1/1;
 }
 .calendar-header-calendar {
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  display: block;
   margin-top: 30px;
+  background: rgba(48, 48, 48, .7);
+  border-radius: 0;
+  flex-wrap: wrap;
+  padding: 30% 0;
+  max-height: 100%;
+  box-shadow: 15px 15px 10px #c2c2c2;
 }
 .react-calendar-events {
   width: 100%;
@@ -60,7 +70,40 @@
   font-size: 16px;
   text-align: center;
 }
-
+.calendar-select-text {
+  font-size: 22px;
+  font-weight: 500;
+  text-align: center;
+  color: var(--white);
+}
+.rmdp-input {
+  text-align: center;
+  height: 50px;
+  border: 2px solid var(--purple);
+  background: var(--white);
+  box-shadow: 7px 10px 10px 5px var(--black);
+}
+.calendar-select-ctn {
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+.calendar-select-title {
+  margin-top: 17px;
+  font-size: 22px;
+  font-weight: 600;
+  color: var(--white);
+  text-align: center;
+}
+.calendar-select-description {
+  margin-top: 17px;
+  font-size: 16px;
+  color: var(--white);
+  text-align: justify;
+  padding-left: 25px;
+  padding-right: 25px;
+}
 @media (min-width: 992px) {
   .calendar-header-ctn {
     padding: 80px 0;
@@ -73,7 +116,6 @@
   }
   .calendar-header-calendar-img {
     height: 600px;
-    padding-top: 30px;
   }
   .calendar-header-calendar-ctn {
     display: grid;
@@ -86,5 +128,8 @@
   .calendar-header-text-desc {
     font-size: 18px;
     text-align: center;
+  }
+  .calendar-header-calendar {
+    margin-top: 0;
   }
 }
