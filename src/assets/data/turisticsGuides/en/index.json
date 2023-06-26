@@ -1,0 +1,511 @@
+{
+    "titleState": "GUÍAS TURÍSTICAS DE MÉXICO",
+    "subTitle": "Descarga las guías turísticas y prepárate a disfrutar tu siguiente destino.",
+    "states": [
+        {
+            "id": "ACAPULCO",
+            "titleTop": "ACAPULCO",
+            "descriptionTop": "Su clima, aguas templadas, 365 días soleados al año, junto con sus bellas playas, incomparables vistas, inolvidables atardeceres, ambiente casual, impresionante infraestructura turística y por sobre todo la hospitalidad de su gente son algunas de las razones del porqué Acapulco es uno de los destinos favoritos en el mundo.",
+            "urlImg": "ACAPULCO/ACAPULCO-8(1).png",
+            "actions": {
+                "button": [
+                    {
+                        "text" : "GUÍA TURÍSTICA ESPAÑOL",
+                        "dir": "ACAPULCO/Guia-Turistica-de-Acapulco..pdf"
+                    },
+                    {
+                        "text" : "TRAVEL GUIDE ENGLISH",
+                        "dir": "ACAPULCO/Travel-Guide-Acapulco.pdf"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "CAMPECHE",
+            "titleTop": "CAMPECHE",
+            "descriptionTop": "Campeche es una ciudad fortificada famosa por conservar en excelente estado torreones, baluartes y murallas construidos para su protección de los piratas de la etapa colonial y es por eso que su centro histórico forma parte del Patrimonio de la Humanidad.",
+            "urlImg": "CAMPECHE/CAMPECHE-8.png",
+            "actions": {
+                "button": [
+                    {
+                        "text" : "GUÍA TURÍSTICA ESPAÑOL",
+                        "dir": "CAMPECHE/Guia-Turistica-de-Campeche.pdf"
+                    },
+                    {
+                        "text" : "TRAVEL GUIDE ENGLISH",
+                        "dir": "CAMPECHE/Travel-Guide-Campeche.pdf"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "CANCÚN",
+            "titleTop": "CANCÚN",
+            "descriptionTop": "Cancún es una verdadera joya del Caribe Mexicano situado en el norte del estado de Quintana Roo en la Península de Yucatán.",
+            "urlImg": "CANCUN/CANCUN-8(1).png",
+            "actions": {
+                "button": [
+                    {
+                        "text" : "GUÍA TURÍSTICA ESPAÑOL",
+                        "dir": "CANCUN/Informacion-turistica.pdf"
+                    },
+                    {
+                        "text" : "TRAVEL GUIDE ENGLISH",
+                        "dir": "CANCUN/travel-guide-cancun.pdf"
+                    },
+                    {
+                        "text" : "GUIDE TURISTIQUE",
+                        "dir": "CANCUN/Guide-Touristique-de-Cancun.pdf"
+                    },
+                    {
+                        "text" : "GEISEFÜHRER",
+                        "dir": "CANCUN/Reisefuherer-Cancun.pdf"
+                    },
+                    {
+                        "text" : "GUIDA TURISTICHE",
+                        "dir": "CANCUN/Guida-Turistica-di-Cancun.pdf"
+                    },
+                    {
+                        "text" : "GUÍA TURÍSTICA - PORTUGUES",
+                        "dir": "CANCUN/guia-cancun-portugues.pdf"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "CIUDAD DE MÉXICO",
+            "titleTop": "CIUDAD DE MÉXICO",
+            "descriptionTop": "La Ciudad de México, es la capital de la República Mexicana y se ha convertido en el centro financiero, cultural y político del país. Es una de las ciudades más grandes y pobladas del mundo.",
+            "urlImg": "CDMX/CDMX-8.png",
+            "actions": {
+                "button": [
+                    {
+                        "text" : "GUÍA TURÍSTICA ESPAÑOL",
+                        "dir": "CDMX/guia-turistica-ciudad-de-mexico.pdf"
+                    },
+                    {
+                        "text" : "TRAVEL GUIDE ENGLISH",
+                        "dir": "CDMX/mexico-city-travel-guide.pdf"
+                    },
+                    {
+                        "text" : "GUIDE TURISTIQUE",
+                        "dir": "CDMX/mexico-guide-touristiche.pdf"
+                    },
+                    {
+                        "text" : "GEISEFÜHRER",
+                        "dir": "CDMX/reisefuhrer-mexiko-stadt.pdf"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "CHIAPAS",
+            "titleTop": "CHIAPAS",
+            "descriptionTop": "Chiapas es uno de los Estados con mayor diversidad biológica en el mundo. Su variada vegetación, con bosques y selvas dan origen a una flora y fauna única que son uno de los grandes atractivos de la región.",
+            "urlImg": "CHIAPAS/CHIAPAS-8(1).png",
+            "actions": {
+                "button": [
+                    {
+                        "text" : "GUÍA TURÍSTICA ESPAÑOL",
+                        "dir": "CHIAPAS/Guía-Turística-de-Chiapas.pdf"
+                    },
+                    {
+                        "text" : "TRAVEL GUIDE ENGLISH",
+                        "dir": "CHIAPAS/Travel-Guide-Chiapas.pdf"
+                    },
+                    {
+                        "text" : "GUIDE TURISTIQUE",
+                        "dir": "CHIAPAS/Guide-Touristique-de-chiapas.pdf"
+                    },
+                    {
+                        "text" : "GEISEFÜHRER",
+                        "dir": "CHIAPAS/Reisefuhrer-Chiapas.pdf"
+                    },
+                    {
+                        "text" : "GUIDA TURISTICHE",
+                        "dir": "CHIAPAS/Guida-Turistica-di-Chiapas.pdf"
+                    },
+                    {
+                        "text" : "GUÍA TURÍSTICA - PORTUGUES",
+                        "dir": "CHIAPAS/guia-cancun-portugues.pdf"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "COSTA MAYA",
+            "titleTop": "COSTA MAYA",
+            "descriptionTop": "Es una tierra bendecida con una combinación de selva tropical, humedales, playas de arena blanca, arrecifes coralinos, abundante vida silvestre y maravillosos sitios arqueológicos. Ideal para practicar el turismo alternativo y disfrutar de la cultura maya, ya que existen comunidades que conservan sus tradiciones ancestrales.",
+            "urlImg": "COSTAMAYA/COSTA-MAYA-8(1).png",
+            "actions": {
+                "button": [
+                    {
+                        "text" : "GUÍA TURÍSTICA ESPAÑOL",
+                        "dir": "COSTAMAYA/GRAN-COSTA-MAYA-2019-6.pdf"
+                    },
+                    {
+                        "text" : "TRAVEL GUIDE ENGLISH",
+                        "dir": "COSTAMAYA/Travel-Guide-Costa-Maya.pdf"
+                    },
+                    {
+                        "text" : "GUIDE TURISTIQUE",
+                        "dir": "COSTAMAYA/Guide-Touristique-de-Costa-Maya.pdf"
+                    },
+                    {
+                        "text" : "GEISEFÜHRER",
+                        "dir": "COSTAMAYA/Costa-maya-aleman.pdf"
+                    },
+                    {
+                        "text" : "GUIDA TURISTICHE",
+                        "dir": "COSTAMAYA/Guida-Turistica-di-Costa-Maya.pdf"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "GUADALAJARA",
+            "titleTop": "GUADALAJARA",
+            "descriptionTop": "La perla de occidente de México es una ciudad majestuosa, de monumentos, parques y flores, fuentes y árboles alineados a lo largo de sus avenidas, una ciudad viva con una sutil atracción que mantiene a quien le visita por primera vez entretenido durante semanas. La rica herencia del México colonial es evidente por doquier, destacándose su enorme catedral, símbolo de la ciudad.",
+            "urlImg": "GUADALAJARA/GUADALAJARA-8(1).png",
+            "actions": {
+                "button": [
+                    {
+                        "text" : "GUÍA TURÍSTICA ESPAÑOL",
+                        "dir": "GUADALAJARA/Guía-Turística-de-Guadalajara.pdf"
+                    },
+                    {
+                        "text" : "TRAVEL GUIDE ENGLISH",
+                        "dir": "GUADALAJARA/Travel-Guide-Guadalajara.pdf"
+                    },
+                    {
+                        "text" : "GUIDE TURISTIQUE",
+                        "dir": "GUADALAJARA/Guide-Touristique-de-Guadalajara.pdf"
+                    },
+                    {
+                        "text" : "GUIDA TURISTICHE",
+                        "dir": "GUADALAJARA/Guida-Turistica-di-Guadalajara.pdf"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "GUANAJUATO",
+            "titleTop": "GUANAJUATO",
+            "descriptionTop": "Guanajuato antigua ciudad minera con una monumental historia y ha sido nombrada por la UNESCO “Patrimonio de la Humanidad. Asentada en una cañada, su traza irregular obedece a los cerros que la rodean. Conjuga un ambiente bohemio y de intelectualidad dentro de una atmósfera especial creada por su arquitectura que junto con sus estudiantinas, plazas, callejones y túneles subterráneos, hacen que sus visitantes vivan una magia especial.",
+            "urlImg": "GUANAJUATO/GUANAJUATO-8(1).png",
+            "actions": {
+                "button": [
+                    {
+                        "text" : "GUÍA TURÍSTICA ESPAÑOL",
+                        "dir": "GUANAJUATO/Guia-Turistica-de-Guanajuato.pdf"
+                    },
+                    {
+                        "text" : "TRAVEL GUIDE ENGLISH",
+                        "dir": "GUANAJUATO/Travel-Guide-Guanajuato.pdf"
+                    },
+                    {
+                        "text" : "GUIDE TURISTIQUE",
+                        "dir": "GUANAJUATO/Guide-Touristique-de-Guanajuato.pdf"
+                    },
+                    {
+                        "text" : "GEISEFÜHRER",
+                        "dir": "GUANAJUATO/Reisefuhrer-Guanajuato.pdf"
+                    },
+                    {
+                        "text" : "GUIDA TURISTICHE",
+                        "dir": "GUANAJUATO/Guida-Turistica-di-Guanajuato.pdf"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "ISLA COZUMEL",
+            "titleTop": "ISLA COZUMEL",
+            "descriptionTop": "De corazón mexicano y alma caribeña, Cozumel es un paraíso donde se unen tradición, sabor y alegría; y en donde siempre se encontrará con una cara amable y una cálida bienvenida que hará su visita inolvidable. La mayor parte del territorio virgen al centro de la isla de Cozumel se encuentra cubierto por selva y lagunas cenagosas que son el hogar de pequeños mamíferos y aves endémicas que De corazón mexicano y alma caribeña siempre han habitado la isla. Cabe mencionar al Parque Nacional, símbolo de Cozumel y la Reserva Ecológica Punta Sur.",
+            "urlImg": "ISLACOZUMEL/ISLA-COZUMEL-8(1).png",
+            "actions": {
+                "button": [
+                    {
+                        "text" : "GUÍA TURÍSTICA ESPAÑOL",
+                        "dir": "ISLACOZUMEL/Guia-Turistica-de-Cozumel1.pdf"
+                    },
+                    {
+                        "text" : "TRAVEL GUIDE ENGLISH",
+                        "dir": "ISLACOZUMEL/Travel-Guide-Cozumel.pdf"
+                    },
+                    {
+                        "text" : "GUIDE TURISTIQUE",
+                        "dir": "ISLACOZUMEL/Guide-Touristique-de-Cozumel.pdf"
+                    },
+                    {
+                        "text" : "GEISEFÜHRER",
+                        "dir": "ISLACOZUMEL/Reisefuhrer-Cozumel.pdf"
+                    },
+                    {
+                        "text" : "GUIDA TURISTICHE",
+                        "dir": "ISLACOZUMEL/Guida-Turistica-di-Cozumel.pdf"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "ISLAS DEL CARIBE",
+            "titleTop": "ISLAS DEL CARIBE",
+            "descriptionTop": "Sus playas son ideales para relajarte ya que son de fina arena blanca, característico del Caribe, y sus aguas son cristalinas, de suave oleaje y poco profundas. En el centro podrás observar las típicas construcciones isleñas que en su mayoría son coloridas casas de madera, además de diversos murales que le dan un carácter único.",
+            "urlImg": "ISLADELCARIBE/ISLAS-DEL-CARIBE-8(1).png",
+            "actions": {
+                "button": [
+                    {
+                        "text" : "GUÍA TURÍSTICA ESPAÑOL",
+                        "dir": "ISLADELCARIBE/guia-islas-del-caribe-espanol.pdf"
+                    },
+                    {
+                        "text" : "TRAVEL GUIDE ENGLISH",
+                        "dir": "ISLADELCARIBE/guia-islas-del-caribe-ingles.pdf"
+                    },
+                    {
+                        "text" : "GUIDE TURISTIQUE",
+                        "dir": "ISLADELCARIBE/guia-islas-del-caribe-frances.pdf"
+                    },
+                    {
+                        "text" : "GEISEFÜHRER",
+                        "dir": "ISLADELCARIBE/guia-islas-del-caribe-aleman.pdf"
+                    },
+                    {
+                        "text" : "GUIDA TURISTICHE",
+                        "dir": "ISLADELCARIBE/guia-islas-del-caribe-italiano.pdf"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "IXTAPA ZIHUATANEJO",
+            "titleTop": "IXTAPA ZIHUATANEJO",
+            "descriptionTop": "Estos dos lugares enteramente diferentes separados por tan sólo 7 kilómetros, se pueden considerar como un par de paraísos que pueden satisfacer los gustos de cualquier visitante, ya sea del aventurero o del que gusta de asolearse y relajarse. Este destino ofrece hermosas playas, aguas cristalinas donde practicar todo tipo de deportes acuáticos, lujosos hoteles, tranquilas bahías y el sabor de un típico pueblo mexicano.",
+            "urlImg": "IXTAPAZIHUATANEJO/IXTAPA-ZIHUATANEJO-8.png",
+            "actions": {
+                "button": [
+                    {
+                        "text" : "GUÍA TURÍSTICA ESPAÑOL",
+                        "dir": "IXTAPAZIHUATANEJO/Guía-Turística-de-Ixtapa-Zihuatanejo.pdf"
+                    },
+                    {
+                        "text" : "TRAVEL GUIDE ENGLISH",
+                        "dir": "IXTAPAZIHUATANEJO/Travel-Guide-Ixtapa-Zihuatanejo.pdf"
+                    },
+                    {
+                        "text" : "GUIDE TURISTIQUE",
+                        "dir": "IXTAPAZIHUATANEJO/Guide-Touristique-de-Ixtapa-Zihuatanejo.pdf"
+                    },
+                    {
+                        "text" : "GUIDA TURISTICHE",
+                        "dir": "IXTAPAZIHUATANEJO/guia-islas-del-caribe-italiano.pdf"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "MICHOACÁN",
+            "titleTop": "MICHOACÁN",
+            "descriptionTop": "Michoacán es un estado único, rico en bellezas naturales y legados culturales. En la actualidad, posee cinco títulos de Patrimonios de la Humanidad otorgados por la UNESCO y cinco Pueblos Mágicos.",
+            "urlImg": "MICHOACAN/MICHOACAN-8.png",
+            "actions": {
+                "button": [
+                    {
+                        "text" : "GUÍA TURÍSTICA ESPAÑOL",
+                        "dir": "MICHOACAN/Guida-Turistica-di-Michoacan.pdf"
+                    },
+                    {
+                        "text" : "TRAVEL GUIDE ENGLISH",
+                        "dir": "MICHOACAN/Travel-Guide-Michoacan.pdf"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "OAXACA",
+            "titleTop": "OAXACA",
+            "descriptionTop": "Oaxaca posee cumbres de más de tres mil metros de altura, cavernas que se encuentran entre las más profundas del mundo, playas vírgenes, selvas escondidas y valles que acogen poblaciones donde se funden, las culturas de pueblos que aún conservan su cultura y sus costumbres.",
+            "urlImg": "OAXACA/OAXACA-8.png",
+            "actions": {
+                "button": [
+                    {
+                        "text" : "GUÍA TURÍSTICA ESPAÑOL",
+                        "dir": "OAXACA/Guía-Turística-de-Oaxaca.pdf"
+                    },
+                    {
+                        "text" : "TRAVEL GUIDE ENGLISH",
+                        "dir": "OAXACA/Travel-Guide-Oaxaca.pdf"
+                    },
+                    {
+                        "text" : "GUIDE TURISTIQUE",
+                        "dir": "OAXACA/Guide-Touristique-de-Oaxaca.pdf"
+                    },
+                    {
+                        "text" : "GEISEFÜHRER",
+                        "dir": "OAXACA/Reisefuhrer-Oaxaca.pdf"
+                    },
+                    {
+                        "text" : "GUIDA TURISTICHE",
+                        "dir": "OAXACA/Guida-Turistica-di-Oaxaca.pdf"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "PUEBLA",
+            "titleTop": "PUEBLA",
+            "descriptionTop": "Es un Estado que se localiza en pleno corazón de México, en el lugar exacto de toda la historia, en la cual más que espectador ha sido protagonista, pues en ella se combinan el pasado indígena, el legado de Palafox, los movimientos revolucionarios y las expresiones modernas de arte y cultura.",
+            "urlImg": "PUEBLA/PUEBLA-8.png",
+            "actions": {
+                "button": [
+                    {
+                        "text" : "GUÍA TURÍSTICA ESPAÑOL",
+                        "dir": "PUEBLA/Guia-Puebla.pdf"
+                    },
+                    {
+                        "text" : "TRAVEL GUIDE ENGLISH",
+                        "dir": "PUEBLA/Travel-Guide-Puebla.pdf"
+                    },
+                    {
+                        "text" : "GUIDE TURISTIQUE",
+                        "dir": "PUEBLA/Guide-Touristique-de-Puebla.pdf"
+                    },
+                    {
+                        "text" : "GEISEFÜHRER",
+                        "dir": "PUEBLA/Reisefuhrer-Puebla.pdf"
+                    },
+                    {
+                        "text" : "GUIDA TURISTICHE",
+                        "dir": "PUEBLA/Guida-Turistica-di-Puebla.pdf"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "PUERTO MORELOS",
+            "titleTop": "PUERTO MORELOS",
+            "descriptionTop": "Puerto Morelos tiene una personalidad única y es el destino perfecto para aquellos que buscan descansar y disfrutar del contacto con la naturaleza. Es un destino de aventura en el que destacan maravillosos atractivos naturales como los manglares, la selva exuberante y los cenotes.",
+            "urlImg": "PUERTOMORELOS/PUERTO-MORELOS-8.png",
+            "actions": {
+                "button": [
+                    {
+                        "text" : "GUÍA TURÍSTICA ESPAÑOL",
+                        "dir": "PUERTOMORELOS/guia-puerto-morelos-espanol.pdf"
+                    },
+                    {
+                        "text" : "TRAVEL GUIDE ENGLISH",
+                        "dir": "PUERTOMORELOS/guia-puerto-morelos-ingles.pdf"
+                    },
+                    {
+                        "text" : "GUIDE TURISTIQUE",
+                        "dir": "PUERTOMORELOS/guia-puerto-morelos-frances.pdf"
+                    },
+                    {
+                        "text" : "GEISEFÜHRER",
+                        "dir": "PUERTOMORELOS/guia-puerto-morelos-aleman.pdf"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "RIVIERA NAYARIT",
+            "titleTop": "RIVIERA NAYARIT",
+            "descriptionTop": "Su nombre proviene del Cora y significa “Hijo de Dios que está en el cielo y en el Sol”. Lo primordial en el Turismo del Estado de Nayarit es su costa denominada Riviera Nayarit. Sin embargo, también cuenta con ciudades coloniales, balnearios, zonas arqueológicas y sobre todo con una riqueza única en cultura y tradiciones.",
+            "urlImg": "RIVIERANAYARIT/RIVIERA-NAYARIT-8.png",
+            "actions": {
+                "button": [
+                    {
+                        "text" : "GUÍA TURÍSTICA ESPAÑOL",
+                        "dir": "RIVIERANAYARIT/Guía-Turística-de-Riviera-Nayarit.pdf"
+                    },
+                    {
+                        "text" : "TRAVEL GUIDE ENGLISH",
+                        "dir": "RIVIERANAYARIT/Travel-Guide-Nayarit.pdf"
+                    }
+                ]
+            }
+        },{
+            "id": "RIVIERA MAYA",
+            "titleTop": "RIVIERA MAYA",
+            "descriptionTop": "La Riviera Maya ofrece arenas blancas, aguas turquesa, sitios arqueológicos, pintorescos pueblos, centros recreativos, lagunas de agua dulce, cavernas subterráneas y cenotes, así como opciones de hoteles que van desde rústicas cabañas hasta lujosos hoteles gran turismo. La variedad y riqueza de los sabores que presenta la rica gastronomía de la Riviera Maya te puede seducir, comenzando con la cocina regional heredada de los mayas. Además, la vida nocturna es excitante y cosmopolita con bares y discotecas a la orilla de la playa.",
+            "urlImg": "RIVIERAMAYA/RIVIERA-MAYA-8.png",
+            "actions": {
+                "button": [
+                    {
+                        "text" : "GUÍA TURÍSTICA ESPAÑOL",
+                        "dir": "RIVIERAMAYA/Guia-Turistica-de-Riviera-Maya.pdf"
+                    },
+                    {
+                        "text" : "TRAVEL GUIDE ENGLISH",
+                        "dir": "RIVIERAMAYA/Travel-Guide-Riviera-Maya.pdf"
+                    },
+                    {
+                        "text" : "GUIDE TURISTIQUE",
+                        "dir": "RIVIERAMAYA/Guide-Touristique-de-Riviera-Maya.pdf"
+                    },
+                    {
+                        "text" : "GEISEFÜHRER",
+                        "dir": "RIVIERAMAYA/Reisefuhrer-Riviera-Maya.pdf"
+                    },
+                    {
+                        "text" : "GUIDA TURISTICHE",
+                        "dir": "RIVIERAMAYA/Guida-Turistica-di-Riviera-Maya.pdf"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "YUCATÁN",
+            "titleTop": "YUCATÁN",
+            "descriptionTop": "Tierra mágica donde el pasado se vuelve presente. Tierra de historias y maravillas eternas, de gente amable y tradiciones que contrastan con su modernidad, su industria y su puerto de altura.",
+            "urlImg": "YUCATAN/YUCATAN-8.png",
+            "actions": {
+                "button": [
+                    {
+                        "text" : "TRAVEL GUIDE ENGLISH",
+                        "dir": "YUCATAN/Travel-Guide-Yucatan.pdf"
+                    },
+                    {
+                        "text" : "GUIDE TURISTIQUE",
+                        "dir": "YUCATAN/Guide-Touristique-de-Yucatan.pdf"
+                    },
+                    {
+                        "text" : "GEISEFÜHRER",
+                        "dir": "YUCATAN/Reisefuhrer-Yucatan.pdf"
+                    },
+                    {
+                        "text" : "GUIDA TURISTICHE",
+                        "dir": "YUCATAN/Guida-Turistica-di-Yucatan.pdf"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "ZACATECAS",
+            "titleTop": "ZACATECAS",
+            "descriptionTop": "Es un lugar con una rica historia y su herencia colonial se ve reflejada en su bella arquitectura barroca en donde predomina la cantera rosa. Zacatecas es una tierra llena de leyendas y magia en donde lo mismo puedes explorar sus maravillosos museos que sorprenderte con sus increíbles bellezas naturales que ofrecen sus escarpados terrenos, todo bajo el cobijo de un extraordinario cielo de azul intenso. Este destino ofrece cultura, tradiciones, gastronomía, aventura, romance, fiestas, color y mucho más.",
+            "urlImg": "ZACATECAS/ZACATECAS-8.png",
+            "actions": {
+                "button": [
+                    {
+                        "text" : "GUÍA TURÍSTICA ESPAÑOL",
+                        "dir": "ZACATECAS/guia-turistica-zacatecas.pdf"
+                    },
+                    {
+                        "text" : "GUIDE TURISTIQUE",
+                        "dir": "ZACATECAS/guide-touristique-zacatecas.pdf"
+                    },
+                    {
+                        "text" : "GEISEFÜHRER",
+                        "dir": "ZACATECAS/Reisefuhrer-zacatecas.pdf"
+                    },
+                    {
+                        "text" : "GUIDA TURISTICHE",
+                        "dir": "ZACATECAS/guida-Turistica-di-zacatecas.pdf"
+                    }
+                ]
+            }
+        }
+    ]
+}

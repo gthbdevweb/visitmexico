@@ -17,6 +17,7 @@ import GastronomicRoutesContent from './views/GastronomicRoutesContent';
 import RomanceContent from './views/RomanceContent';
 import SolYPlayaContent from './views/SolYPlayaContent';
 import AvisoDePrivacidad from './views/AvisoDePrivacidad';
+import TuristicsGuides from './views/TuristicsGuides';
 //Delete next
 import './App.css';
 
@@ -43,6 +44,7 @@ function App() {
           <Route path='/romance' element={<RomanceContent />} />
           <Route path='/sol-y-playa' element={<SolYPlayaContent />} />
           <Route path='/aviso-de-privacidad' element={<AvisoDePrivacidad />} />
+          <Route path='/guias-turisticas' element={<TuristicsGuides />} />
           <Route path='*' element={<Home />} />
         </Routes>
       </Layout>

@@ -1,5 +1,5 @@
 .romance-content-ctn {
-  padding: 50px 0 0 0;
+  padding: 50px 0 50px 0;
   background-color: #eee;
   background-image: url('../../assets/img/layout/bg.webp');
   background-repeat: repeat-y;
@@ -82,7 +82,7 @@
 
 @media (min-width: 744px) {
   .romance-content-ctn {
-    padding: 50px 0 0 0;
+    padding: 50px 0 50px 0;
     display: grid;
     grid-template-columns: 1fr 1fr;
   }
@@ -105,7 +105,7 @@
 
 @media (min-width: 992px) {
   .romance-content-ctn {
-    padding: 50px 0 0 0;
+    padding: 50px 0 50px 0;
     display: grid;
     grid-template-columns: 1fr 1fr;
   }

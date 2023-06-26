@@ -89,6 +89,14 @@ const Header = () => {
       <div className={classNavWraper}  id="nav-wrapper">
         <ul className="nav-menu-options">
           {menuOptions()}
+          <li key="8">
+            <Link 
+              to="guias-turisticas"
+              onClick={changeState}
+            >
+              Guías Turísticas
+            </Link>
+          </li>
         </ul>
         <ul className="nav-menu-blog">
           {/*<li><a href="https://www.101museos.com/" target='_blank'>101 museos</a></li>*/}
