@@ -14,7 +14,7 @@
   font-size: 26px;
   position: relative;
   z-index: 1;
-  color: #e3e8ed;
+  color: var(--white);
   height: 50px;
   display: flex;
   align-items: center;
@@ -23,7 +23,7 @@
   content: '';
   height: 110%;
   width: 117%;
-  background: #303030;
+  background: var(--blue);
   position: absolute;
   top: 0;
   right: -15%;

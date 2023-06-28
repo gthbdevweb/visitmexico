@@ -35,7 +35,7 @@ const AventureTrip = () => {
       <div className="aventure-trip-content-ctn-img">
         <LazyLoadImage
           className="aventure-trip-content-img"
-          src={require(`../../assets/img/turismoDeAventura/SIN_guanacoa_257.webp`)} 
+          src={require(`../../assets/img/turismoDeAventura/TRAVESIA-3(1).webp`)} 
           alt={language?.title}
         />
       </div>

@@ -13,13 +13,13 @@
   font-size: 32px;
   position: relative;
   z-index: 1;
-  color: #e3e8ed;
+  color: var(--white);
 }
 .state-known-text-title::after {
   content: '';
   height: 110%;
   width: 100%;
-  background: #303030;
+  background: var(--purple);
   position: absolute;
   top: 0;
   left: -10%;

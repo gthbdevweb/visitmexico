@@ -14,7 +14,7 @@ const ContentStates = () => {
     : setLanguage(dataEs);
   }, [isLanguage]);
 
-  const languageSort = language?.videos?.sort(function(a, b){return b.id - a.id});
+  const languageSort = language?.videoInterested?.sort(function(a, b){return b.id - a.id});
   const deletedVideos = languageSort?.slice(0, 3);
 
   const getVideos = () => (

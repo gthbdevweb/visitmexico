@@ -137,5 +137,19 @@
             ] 
         }
     ],
+    "videoInterested": [
+        {
+            "id": 1,
+            "urlVideo": "https://www.youtube.com/embed/dNIrs66OMOo"
+        },
+        {
+            "id": 2,
+            "urlVideo": "https://www.youtube.com/embed/ws-ef907aKg"
+        },
+        {
+            "id": 3,
+            "urlVideo": "https://www.youtube.com/embed/8I0bQgC1418"
+        }
+    ],
     "linkTitle": "Quizás también te interese..."
 }
