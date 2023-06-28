@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/visitmexico/static/css/main.8c8f6c5a.css",
-    "main.js": "/visitmexico/static/js/main.317e3d43.js",
+    "main.css": "/visitmexico/static/css/main.9f31d83e.css",
+    "main.js": "/visitmexico/static/js/main.bdec4510.js",
     "static/js/787.8f5b6e93.chunk.js": "/visitmexico/static/js/787.8f5b6e93.chunk.js",
     "static/media/Travel-Guide-Riviera-Maya.pdf": "/visitmexico/static/media/Travel-Guide-Riviera-Maya.d93db2fe171f4437cb76.pdf",
     "static/media/Reisefuhrer-Riviera-Maya.pdf": "/visitmexico/static/media/Reisefuhrer-Riviera-Maya.0df2f777481a4d03ed67.pdf",
@@ -150,8 +150,10 @@
     "static/media/MEX_avandaro_t__147_11zon.webp": "/visitmexico/static/media/MEX_avandaro_t__147_11zon.2d2a6e37a541655640a6.webp",
     "static/media/videos.webp": "/visitmexico/static/media/videos.ae75ccb99cbe08d3c84b.webp",
     "static/media/Ceremonia-Wixarika-Zacatecas.webp": "/visitmexico/static/media/Ceremonia-Wixarika-Zacatecas.3a599421643e0f859b1c.webp",
+    "static/media/MOR-Tepoztlan-ExConventoNatividad-PuebloMagico-GerardoJuarez-4858_2-_1__11zon.webp": "/visitmexico/static/media/MOR-Tepoztlan-ExConventoNatividad-PuebloMagico-GerardoJuarez-4858_2-_1__11zon.195d1f665e8784898e04.webp",
     "static/media/Chihuahua-barrancaschepe_02.webp": "/visitmexico/static/media/Chihuahua-barrancaschepe_02.60986416e8583eeebfa4.webp",
     "static/media/EDOMEX-cosmovitral_02.webp": "/visitmexico/static/media/EDOMEX-cosmovitral_02.463ef2e6491b0c8eec2a.webp",
+    "static/media/MOR_xochicalco_t_156-_1__11zon.webp": "/visitmexico/static/media/MOR_xochicalco_t_156-_1__11zon.57ad9752b393042c637d.webp",
     "static/media/slide2.jpg": "/visitmexico/static/media/slide2.eff18485d2d1a4aca8a5.jpg",
     "static/media/Ceremonia-Wixarika-Nayarit.webp": "/visitmexico/static/media/Ceremonia-Wixarika-Nayarit.210665e4885e0069bd69.webp",
     "static/media/Chiapas-agua_azul-01.webp": "/visitmexico/static/media/Chiapas-agua_azul-01.0521d49800e54ded5f77.webp",
@@ -159,8 +161,10 @@
     "static/media/HGO_acatlan_4_11zon.webp": "/visitmexico/static/media/HGO_acatlan_4_11zon.ebdeac985acf62be9ad3.webp",
     "static/media/Pueblos-magicos.webp": "/visitmexico/static/media/Pueblos-magicos.3f07e275be46e8293737.webp",
     "static/media/SON_SanCarlos_Mirador-138_11zon.webp": "/visitmexico/static/media/SON_SanCarlos_Mirador-138_11zon.851cbdaa9503d43365bb.webp",
+    "static/media/TRAVESIA-3(1).webp": "/visitmexico/static/media/TRAVESIA-3(1).f868424780ad41be2846.webp",
     "static/media/bloghome.webp": "/visitmexico/static/media/bloghome.ac3aa0f5224bab5ada4c.webp",
     "static/media/JAL_careyes_11_11zon.webp": "/visitmexico/static/media/JAL_careyes_11_11zon.3926c5503ea8b8ce8c5f.webp",
+    "static/media/CHIH_creel47-_1__11zon.webp": "/visitmexico/static/media/CHIH_creel47-_1__11zon.8c6db5ad131fcb53a56c.webp",
     "static/media/Papadzules_11zon.webp": "/visitmexico/static/media/Papadzules_11zon.ededa0a1d8e78adf1578.webp",
     "static/media/VER_catemaco104_11zon.webp": "/visitmexico/static/media/VER_catemaco104_11zon.540979361c55635a8a3c.webp",
     "static/media/GRO_acapulco_1317_11zon.webp": "/visitmexico/static/media/GRO_acapulco_1317_11zon.2d2145b5301ca11cb6ab.webp",
@@ -198,12 +202,12 @@
     "static/media/BCS_cabo_pulmo_26_11zon.webp": "/visitmexico/static/media/BCS_cabo_pulmo_26_11zon.30b06773207adff07a7f.webp",
     "static/media/OAX_costa_25_11zon.webp": "/visitmexico/static/media/OAX_costa_25_11zon.9b7f7971111af89e5ed7.webp",
     "index.html": "/visitmexico/index.html",
-    "main.8c8f6c5a.css.map": "/visitmexico/static/css/main.8c8f6c5a.css.map",
-    "main.317e3d43.js.map": "/visitmexico/static/js/main.317e3d43.js.map",
+    "main.9f31d83e.css.map": "/visitmexico/static/css/main.9f31d83e.css.map",
+    "main.bdec4510.js.map": "/visitmexico/static/js/main.bdec4510.js.map",
     "787.8f5b6e93.chunk.js.map": "/visitmexico/static/js/787.8f5b6e93.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8c8f6c5a.css",
-    "static/js/main.317e3d43.js"
+    "static/css/main.9f31d83e.css",
+    "static/js/main.bdec4510.js"
   ]
 }
