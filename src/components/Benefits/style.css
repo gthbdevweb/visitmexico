@@ -6,7 +6,7 @@
   background-position: center;
 }
 .towns-benefits-text-title {
-  font-size: 26px;
+  font-size: var(--txt-h2-sm);
   text-align: center;
   color: var(--white);
   background: linear-gradient(135deg, var(--green), var(--green));
@@ -31,7 +31,7 @@
   aspect-ratio: 3/2;
 }
 .towns-benefits-card-text-title {
-  margin-top: 20px;
+  margin-top: var(--txt-h4-sm);
   text-align: center;
   font-size: 22px;
 }
@@ -44,6 +44,7 @@
   float: right;
   width: 120px;
   margin: 0 10px 0 0;
+  font-size: var(--txt-btn-sm);
 }
 
 @media (min-width: 744px) {
@@ -56,6 +57,15 @@
     margin: 10px;
     height: 100%;
   }
+  .towns-benefits-text-title {
+    font-size: var(--txt-h2-md);
+  }
+  .towns-benefits-card-text-title {
+    margin-top: var(--txt-h4-md);
+  }
+  .towns-benefits-card-btn {
+    font-size: var(--txt-btn-md);
+  }
 }
 
 @media (min-width: 992px)  {
@@ -63,10 +73,16 @@
     padding: 72px 20px;
   }
   .towns-benefits-text-title {
-    font-size: 32px;
+    font-size: var(--txt-h2-xl);
     text-align: center;
   }
   .towns-benefits-card-ctn {
     flex: 1 0 21%;
+  }
+  .towns-benefits-card-text-title {
+    margin-top: var(--txt-h4-xl);
+  }
+  .towns-benefits-card-btn {
+    font-size: var(--txt-btn-xl);
   }
 }

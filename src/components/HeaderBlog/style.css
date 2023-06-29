@@ -6,7 +6,7 @@
   background-position: center;
 }
 .blog-title-text-title {
-  font-size: 28px;
+  font-size: var(--txt-h1-sm);
   text-align: center;
   margin: 0;
 }
@@ -59,10 +59,13 @@
   .blog-title-ctn {
     padding-top: 110px;
   }
+  .blog-title-text-title {
+    font-size: var(--txt-h1-md);
+  }
 }
 
 @media (min-width: 992px) {
   .blog-title-text-title {
-    font-size: 32px;
+    font-size: var(--txt-h1-xl);
   }
 }

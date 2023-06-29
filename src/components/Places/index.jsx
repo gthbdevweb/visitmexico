@@ -45,7 +45,7 @@ const Places = () => {
 
   return (
     <section className="places-ctn sliceLeft">
-      <h2 className="places-text-title">{language?.header?.title}</h2>
+      <h1 className="places-text-title">{language?.header?.title}</h1>
       <p className="pĺaces-text-desciption">{language?.header?.description}</p>
       <div className="places-cards-ctn">
         {placesContent()}

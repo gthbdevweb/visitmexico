@@ -11,7 +11,7 @@
   padding: 15px;
 }
 .well-being-content-text-title {
-  font-size: 26px;
+  font-size: var(--txt-h1-sm);
   position: relative;
   z-index: 1;
   color: var(--white);
@@ -32,7 +32,7 @@
   animation: well-text-in 2.5s;
 }
 .well-being-content-text-desc {
-  font-size: 16px;
+  font-size: var(--txt-p-sm);
   text-align: justify;
   text-transform: lowercase;
 }
@@ -77,10 +77,10 @@
     grid-template-columns: 1fr 1fr;
   }
   .well-being-content-text-title {
-    font-size: 28px;
+    font-size: var(--txt-h1-md);
   }
   .well-being-content-text-desc {
-    font-size: 14px;
+    font-size: var(--txt-p-md);
   }
   .well-being-content-badge-text {
     font-size: 18px;
@@ -104,11 +104,11 @@
     align-self: center;
   }
   .well-being-content-text-title {
-    font-size: 32px;
+    font-size: var(--txt-h1-xl);
   }
   .well-being-content-text-desc {
     margin-top: 15px;
-    font-size: 16px;
+    font-size: var(--txt-p-xl);
   }
   .well-being-content-ctn-img {
     margin-top: 0;

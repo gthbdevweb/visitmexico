@@ -7,7 +7,7 @@
 }
 .video-home-text-title {
   text-align: center;
-  font-size: 28px;
+  font-size: var(--txt-h2-sm);
   position: relative;
   z-index: 1;
 }
@@ -29,14 +29,12 @@
   box-shadow: 15px 13px 13px #a6a6a6;
 }
 
-
-
 @media (min-width: 744px) {
   .video-home-ctn {
     padding: 56px 0;
   }
   .video-home-text-title {
-    font-size: 32px;
+    font-size: var(--txt-h2-md);
   }
   .video-home-vide-ctn {
     margin-top: 32px;
@@ -48,7 +46,7 @@
     padding: 72px 0;
   }
   .video-home-text-title {
-    font-size: 42px;
+    font-size: var(--txt-h2-xl);
   }
   .video-home-vide-ctn {
     margin-top: 46px;

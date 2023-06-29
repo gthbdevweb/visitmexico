@@ -18,6 +18,7 @@
   justify-content: center;
   align-items: center;
   animation-name: silceRight;
+  font-size: var(--txt-h1-sm);
 }
 .states-list-ctn > ul {
   list-style: none;
@@ -55,7 +56,7 @@
   align-items: center;
   margin-left: auto;
   margin-right: auto;
-  font-size: 14px;
+  font-size: var(--txt-p-sm);
   font-weight: 600;
 }
 .states-card-ctn > a {
@@ -69,7 +70,7 @@
 .states-card-text-title {
   text-align: center;
   margin: 12px;
-  font-size: 24px;
+  font-size: var(--txt-h5-sm);
 }
 .states-card-text-desc {
   text-align: center;
@@ -81,6 +82,15 @@
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 20px;
+  }
+  .states-card-ctn:hover .states-card-back-desc {
+    font-size: var(--txt-p-md);
+  }
+  .states-list-title {
+    font-size: var(--txt-h1-md);
+  }
+  .states-card-text-title {
+    font-size: var(--txt-h5-md);
   }
 }
 
@@ -98,10 +108,16 @@
     height: 250px;
   }
   .states-card-text-title {
-    font-size: 24px;
+    font-size: var(--txt-h5-xl);
   }
   .states-card-text-desc {
     font-size: 14px;
+  }
+  .states-card-ctn:hover .states-card-back-desc {
+    font-size: var(--txt-p-xl);
+  }
+  .states-list-title {
+    font-size: var(--txt-h1-xl);
   }
 }
 

@@ -27,7 +27,7 @@
   align-items: center;
 }
 .videos-content-text-title {
-  font-size: 18px;
+  font-size: var(--txt-h1-sm);
   position: relative;
   z-index: 1;
   color: var(--white);
@@ -54,7 +54,7 @@
   box-shadow: 0 10px 20px -3px var(--black);
 }
 .videos-content-description {
-  font-size: 24px;
+  font-size: var(--txt-h2-sm);
   text-align: center;
   padding: 10px 25px;
 }
@@ -71,7 +71,10 @@
     gap: 20px;
   }
   .videos-content-text-title {
-    font-size: 28px;
+    font-size: var(--txt-h1-md);
+  }
+  .videos-content-description {
+    font-size: var(--txt-h2-md);
   }
 }
 
@@ -99,6 +102,9 @@
     margin-bottom: 0;
   }
   .videos-content-text-title {
-    font-size: 32px;
+    font-size: var(--txt-h1-xl);
+  }
+  .videos-content-description {
+    font-size: var(--txt-h2-xl);
   }
 }

@@ -22,7 +22,7 @@
 .sol-y-playa-content-card-text {
   text-align: center;
   margin-top: 20px;
-  font-size: 16px;
+  font-size: var(--txt-p-sm);
   font-weight: 600;
 }
 
@@ -36,7 +36,9 @@
     flex: 1 0 40%;
     padding: 20px 20px 70px 20px;
   }
-  
+  .sol-y-playa-content-card-text {
+    font-size: var(--txt-p-md);
+  }
 }
 
 @media (min-width: 992px) {
@@ -45,6 +47,6 @@
     padding: 20px 20px 80px 20px;
   }
   .sol-y-playa-content-card-text {
-    font-size: 18px;
+    font-size: var(--txt-p-xl);
   }
 }

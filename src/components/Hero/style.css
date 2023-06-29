@@ -40,10 +40,10 @@
   color: #fff;
 }
 .hero-text-title { 
-  font-size: 36px;
+  font-size: var(--txt-h1-sm);
 }
 .hero-text-subtitle {
-  font-size: 22px;
+  font-size: var(--txt-h2-sm);
   margin-top: 10px;
 }
 .hero-text-desc {
@@ -72,13 +72,16 @@
     padding: 25px 0 45px 0;
   }
   .hero-text-title { 
-    font-size: 38px;
+    font-size: var(--txt-h1-sm);
   }
   .hero-text-subtitle {
-    font-size: 24px;
+    font-size: var(--txt-h2-md);
   }
   .hero-text-desc {
     font-size: 18px;
+  }
+  .class-buton-hero {
+    font-size: var(--txt-btn-md);
   }
 }
 
@@ -90,17 +93,21 @@
     padding: 45px 0 65px 0;
   }
   .hero-text-title { 
-    font-size: 52px;
+    font-size: var(--txt-h1-xl);
   }
   .hero-text-subtitle {
-    font-size: 28px;
+    font-size: var(--txt-h2-xl);
   }
   .hero-text-desc {
     margin-top: 42px;
   }
+  .class-buton-hero {
+    font-size: var(--txt-btn-xl);
+  }
 }
 
 .class-buton-hero {
+  font-size: var(--txt-btn-sm);
   color: #fff;
   border-color: #fff;
 }

@@ -7,6 +7,13 @@ import Description from '../components/Description';
 import Slider from '../components/Slider';
 import Features from '../components/Features/indes';
 import VideoHome from '../components/VideoHome';
+import MainDestinations from '../components/MainDestinations';
+import WorldHeritageCities from '../components/WorldHeritageCities';
+import WhereToGo from '../components/WhereToGo';
+import TipsForTraveling from '../components/TipsForTraveling';
+import ColonialTreasures from '../components/ColonialTreasures';
+import NationalFairs from '../components/NationalFairs';
+import ToDo from '../components/ToDo';
 import Rss from '../components/Rss';
 import './style.css';
 
@@ -34,6 +41,13 @@ const Home = () => {
         <Slider />
         <Features />
         <VideoHome />
+        <MainDestinations />
+        <ColonialTreasures />
+        <WorldHeritageCities />
+        <NationalFairs />
+        <WhereToGo />
+        <ToDo />
+        <TipsForTraveling />
       </LazyLoadComponent>
     </div>
   )

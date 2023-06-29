@@ -10,7 +10,7 @@
   padding: 20px 20px 40px 20px;
 }
 .state-known-text-title {
-  font-size: 32px;
+  font-size: var(--txt-h2-sm);
   position: relative;
   z-index: 1;
   color: var(--white);
@@ -28,7 +28,7 @@
   animation: state-text-in 2.5s;
 }
 .state-known-text-desc {
-  font-size: 14px;
+  font-size: var(--txt-p-sm);
   margin-top: 25px;
   text-align: justify;
 }
@@ -55,6 +55,15 @@
   aspect-ratio: 1/1;
 }
 
+@media (min-width: 744px) {
+  .state-known-text-desc {
+    font-size: var(--txt-p-md);
+  }
+  .state-known-text-title {
+    font-size: var(--txt-h2-md);
+  }
+}
+
 @media (min-width: 992px) {
   .state-known-ctn {
     display: grid;
@@ -62,10 +71,10 @@
     padding: 72px 0;
   }
   .state-known-text-title {
-    font-size: 48px;
+    font-size: var(--txt-h2-xl);
   }
   .state-known-text-desc {
-    font-size: 18px;
+    font-size: var(--txt-p-xl);
   }
   .state-known-text-ctn {
     padding: 20px 40px;

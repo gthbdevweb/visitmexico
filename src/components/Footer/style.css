@@ -8,14 +8,14 @@
   grid-template-columns: 1fr;
 }
 .footer-title {
-  font-size: 16px;
+  font-size: var(--txt-h5-sm);
   font-weight: 700;
   margin-top: 25px;
 }
 .footer-text {
   color: var(--black);
   margin: 5px 0;
-  font-size: 14px;
+  font-size: var(--txt-p-sm);
 }
 
 .footer-bottom-ctn {
@@ -36,11 +36,23 @@
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
   }
+  .footer-text {
+    font-size: var(--txt-p-md);
+  }
+  .footer-title {
+    font-size: var(--txt-h5-md);
+  }
 }
 
 @media (min-width: 992px) {
   .footer-ctn { 
     padding: 18px 25px;
     background-color: #eee;
+  }
+  .footer-text {
+    font-size: var(--txt-p-xl);
+  }
+  .footer-title {
+    font-size: var(--txt-h5-xl);
   }
 }

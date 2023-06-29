@@ -10,7 +10,7 @@
   margin-top: 80px;
 }
 .calendar-header-text-title {
-  font-size: 26px;
+  font-size: var(--txt-h1-sm);
   text-align: center;
   color: var(--white);
   background: linear-gradient(135deg, #ec068b, var(--blue));
@@ -71,7 +71,7 @@
   text-align: center;
 }
 .calendar-select-text {
-  font-size: 22px;
+  font-size: var(--txt-h4-sm);
   font-weight: 500;
   text-align: center;
   color: var(--white);
@@ -91,25 +91,40 @@
 }
 .calendar-select-title {
   margin-top: 17px;
-  font-size: 22px;
+  font-size: var(--txt-h3-sm);
   font-weight: 600;
   color: var(--white);
   text-align: center;
 }
 .calendar-select-description {
   margin-top: 17px;
-  font-size: 16px;
+  font-size: var(--txt-p-sm);
   color: var(--white);
   text-align: justify;
   padding-left: 25px;
   padding-right: 25px;
 }
+@media (min-width: 744px) {
+  .calendar-select-description {
+    font-size: var(--txt-p-md);
+  }
+  .calendar-header-text-title {
+    font-size: var(--txt-h1-md);
+  }
+  .calendar-select-text {
+    font-size: var(--txt-h4-md);
+  }
+  .calendar-select-title {
+    font-size: var(--txt-h3-md);
+  }
+}
+
 @media (min-width: 992px) {
   .calendar-header-ctn {
     padding: 80px 0;
   }
   .calendar-header-text-title {
-    font-size: 32px;
+    font-size: var(--txt-h1-xl);
   }
   .calendar-header-text-subtitle {
     font-size: 32px;
@@ -131,5 +146,14 @@
   }
   .calendar-header-calendar {
     margin-top: 0;
+  }
+  .calendar-select-description {
+    font-size: var(--txt-p-xl);
+  }
+  .calendar-select-text {
+    font-size: var(--txt-h4-xl);
+  }
+  .calendar-select-title {
+    font-size: var(--txt-h3-xl);
   }
 }

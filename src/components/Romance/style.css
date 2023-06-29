@@ -11,7 +11,7 @@
   padding: 15px;
 }
 .romance-content-text-title {
-  font-size: 26px;
+  font-size: var(--txt-h1-sm);
   position: relative;
   z-index: 1;
   color: var(--white);
@@ -32,7 +32,7 @@
   animation: sustainable-text-in 2.5s;
 }
 .romance-content-text-desc {
-  font-size: 16px;
+  font-size: var(--txt-p-sm);
   text-align: justify;
   text-transform: lowercase;
 }
@@ -71,6 +71,7 @@
 }
 
 .class-button-romance {
+  font-size: var(--txt-btn-sm);
   border-color: var(--blue);
   color: var(--blue);
   margin-left: 25px;
@@ -87,10 +88,10 @@
     grid-template-columns: 1fr 1fr;
   }
   .romance-content-text-title {
-    font-size: 28px;
+    font-size: var(--txt-h1-md);
   }
   .romance-content-text-desc {
-    font-size: 14px;
+    font-size: var(--txt-p-md);
   }
   .romance-content-badge-text {
     font-size: 18px;
@@ -100,6 +101,9 @@
     width: 100%;
     height: 100%;
     padding: 0 15px;
+  }
+  .class-button-romance {
+    font-size: var(--txt-btn-md);
   }
 }
 
@@ -114,11 +118,11 @@
     align-self: center;
   }
   .romance-content-text-title {
-    font-size: 32px;
+    font-size: var(--txt-h1-xl);
   }
   .romance-content-text-desc {
     margin-top: 15px;
-    font-size: 16px;
+    font-size: var(--txt-p-xl);
   }
   .romance-content-ctn-img {
     margin-top: 0;
@@ -131,6 +135,9 @@
   }
   .romance-content-ctn-badge {
     padding: 35px;
+  }
+  .class-button-romance {
+    font-size: var(--txt-btn-xl);
   }
 }
 

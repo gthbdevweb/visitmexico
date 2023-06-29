@@ -11,7 +11,7 @@
 }
 .description-text-desc {
   text-align: justify;
-  font-size: 16px;
+  font-size: var(--txt-p-sm);
 }
 .description-ctn-badge {
   background-color: #ccc;
@@ -60,7 +60,7 @@
     font-size: 28px;
   }
   .description-text-desc {
-    font-size: 14px;
+    font-size: var(--txt-p-md);
   }
   .description-badge-text {
     font-size: 18px;
@@ -93,7 +93,7 @@
   }
   .description-text-desc {
     margin-top: 15px;
-    font-size: 16px;
+    font-size: var(--txt-p-xl);
   }
   .description-ctn-img {
     margin-top: 0;

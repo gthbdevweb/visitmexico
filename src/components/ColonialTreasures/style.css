@@ -1,0 +1,149 @@
+.colonial-treasures-content-ctn {
+  padding: 50px 0 0 0;
+  background-color: #eee;
+  background-image: url('../../assets/img/layout/bg.webp');
+  background-repeat: repeat-y;
+  background-size: 100% auto;
+  background-position: center;
+  overflow-x: hidden;
+}
+.colonial-treasures-content-ctn-text {
+  padding: 15px;
+}
+.colonial-treasures-content-text-title {
+  font-size: var(--txt-h1-sm);
+  position: relative;
+  z-index: 1;
+  color: var(--black);
+  height: 50px;
+  display: flex;
+  align-items: center;
+  padding-left: 40px;
+}
+.colonial-treasures-content-text-title::after {
+  content: '';
+  height: 110%;
+  width: 107%;
+  background: var(--yellow);
+  position: absolute;
+  top: 0;
+  right: -15%;
+  border-radius: 30px 0 0 30px;
+  z-index: -1;
+  animation: colonial-treasures-text-in 2.5s;
+}
+.colonial-treasures-content-text-desc {
+  font-size: var(--txt-p-sm);
+  text-align: justify;
+  text-transform: lowercase;
+}
+.colonial-treasures-content-text-desc::first-letter {
+  text-transform: capitalize;
+}
+.colonial-treasures-content-ctn-badge {
+  background-color: #ccc;
+  text-align: center;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 2px;
+  margin-top: 35px;
+}
+.colonial-treasures-content-badge-text {
+  font-size: 16px;
+  margin-bottom: 0;
+}
+.colonial-treasures-content-ctn-img {
+  margin-top: 35px;
+  margin-bottom: 32px;
+  width: 85%;
+  height: 100%;
+  margin-right: auto;
+  margin-left: auto;
+  transform: rotate(5deg);
+}
+.colonial-treasures-content-img {
+  width: 100%;
+  height: 270px;
+  object-fit: cover;
+  border: 25px solid #fff;
+  box-shadow: 15px 15px 10px #c2c2c2;
+}
+.colonial-treasures-content-rss {
+  width: 100%;
+}
+
+@media (min-width: 744px) {
+  .colonial-treasures-content-ctn {
+    padding: 50px 0 0 0;
+  }
+  .colonial-treasures-content-text-title {
+    font-size: var(--txt-h1-md);
+  }
+  .colonial-treasures-content-text-desc {
+    font-size: var(--txt-p-md);
+  }
+  .colonial-treasures-content-badge-text {
+    font-size: 18px;
+  }
+  .colonial-treasures-content-ctn-img {
+    margin-top: 0;
+    width: 100%;
+    height: 100%;
+    padding: 0 15px;
+  }
+  .colonial-treasures-content-text-title {
+    padding-left: 50px;
+  }
+  .colonial-treasures-content-text-title::after {
+    width: 105%;
+    right: -10%;
+  }
+}
+
+@media (min-width: 992px) {
+  .colonial-treasures-content-ctn {
+    padding: 80px 0 0 0;
+  }
+  .colonial-treasures-content-ctn-text {
+    display: block;
+    align-self: center;
+  }
+  .colonial-treasures-content-text-title {
+    font-size: var(--txt-h1-xl);
+  }
+  .colonial-treasures-content-text-desc {
+    margin-top: 15px;
+    font-size: var(--txt-p-xl);
+  }
+  .colonial-treasures-content-ctn-img {
+    margin-top: 0;
+    width: 100%;
+    height: 100%;
+    padding: 0 15px;
+  }
+  .colonial-treasures-content-img {
+    height: 460px;
+  }
+  .colonial-treasures-content-ctn-badge {
+    padding: 35px;
+  }
+  .colonial-treasures-content-text-title {
+    padding-left: 70px;
+  }
+  .colonial-treasures-content-text-title::after {
+    width: 100%;
+    right: -5%;
+  }
+}
+
+@keyframes colonial-treasures-text-in {
+  0% {
+    right: -100%;
+  }
+
+  100% {
+    right: -15%;
+  }
+}

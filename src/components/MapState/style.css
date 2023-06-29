@@ -12,7 +12,7 @@
   padding: 20px;
 }
 .state-map-desc-text-title {
-  font-size: 22px;
+  font-size: var(--txt-h3-sm);
 }
 .state-map-desc-text-desc {
   font-size: 14px;
@@ -21,6 +21,12 @@
 }
 .state-map-btn {
   float: right;
+}
+
+@media (min-width: 9744px) {
+  .state-map-desc-text-title {
+    font-size: var(--txt-h3-md);
+  }
 }
 
 @media (min-width: 992px) {
@@ -36,7 +42,7 @@
     padding: 40px 0;
   }
   .state-map-desc-text-title {
-    font-size: 28px;
+    font-size: var(--txt-h3-xl);
   }
   .state-map-desc-text-desc {
     font-size: 16px;

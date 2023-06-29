@@ -18,7 +18,7 @@
   aspect-ratio: 3/2;
 }
 .towns-bottom-text-title {
-  font-size: 26px;
+  font-size: var(--txt-h3-sm);
   margin-top: 55px;
   position: relative;
   z-index: 1;
@@ -40,7 +40,7 @@
   animation: towns-text-in 2.5s;
 }
 .towns-bottom-text-desc {
-  font-size: 14px;
+  font-size: var(--txt-p-sm);
   margin-top: 20px;
   text-align: justify;
 }
@@ -72,6 +72,15 @@
   border-color: rgba(236,6,139, .6);
 }
 
+@media (min-width: 744px) {
+  .towns-bottom-text-desc {
+    font-size: var(--txt-p-md);
+  }
+  .towns-bottom-text-title {
+    font-size: var(--txt-h3-md);
+  }
+}
+
 @media (min-width: 992px) {
   .towns-bottom-ctn {
     display: grid;
@@ -81,11 +90,11 @@
     padding: 0 40px;
   }
   .towns-bottom-text-title {
-    font-size: 32px;
+    font-size: var(--txt-h3-xl);
     margin-top: 0;
   }
   .towns-bottom-text-desc {
-    font-size: 18px;
+    font-size: var(--txt-p-xl);
     margin-top: 40px;
   }
 }

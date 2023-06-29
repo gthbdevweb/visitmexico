@@ -4,7 +4,7 @@
 }
 .features-text-title {
   text-align: center;
-  font-size: 26px;
+  font-size: var(--txt-h2-sm);
 }
 .features-collapse-ctn {
   margin-top: 42px;
@@ -32,10 +32,10 @@
 .features-collapse-btn {
   height: 36px;
   min-width: 36px;
-  font-size: 16px;
+  font-size: var(--txt-btn-sm);
 }
 .features-collapse-desc {
-  font-size: 16px;
+  font-size: var(--txt-p-sm);
   margin: 0;
   padding: 0;
 }
@@ -50,6 +50,7 @@
   float: right;
   border-color: #03a0af;
   color: #303030;
+  font-size: var(--txt-btn-sm);
 }
 .class-buton-features:hover {
   border-color: #03a0af;
@@ -109,6 +110,34 @@
   z-index: -2;
 }
 
+@media (min-width: 744px) {
+  .features-collapse-desc {
+    font-size: var(--txt-p-md);
+  }
+  .features-text-title {
+    text-align: center;
+    font-size: var(--txt-h2-md);
+  }
+  .features-collapse-btn {
+    font-size: var(--txt-btn-md);
+  }
+  .class-buton-features {
+    font-size: var(--txt-btn-md);
+  }
+}
+
+@media (min-width: 992px) {
+  .features-collapse-desc {
+    font-size: var(--txt-p-xl);
+  }
+  .features-collapse-btn {
+    font-size: var(--txt-btn-xl);
+  }
+  .class-buton-features {
+    font-size: var(--txt-btn-xl);
+  }
+}
+
 @keyframes float {
   0% {
     transform: translatey(0px);
@@ -144,10 +173,10 @@
   }
   .features-text-title {
     text-align: center;
-    font-size: 42px;
+    font-size: var(--txt-h2-xl);
   }
   .features-collapse-btn {
-    font-size: 18px;
+    font-size: var(--txt-btn-xl);
   }
   .features-collapse-body-ctn {
     font-size: 16px;

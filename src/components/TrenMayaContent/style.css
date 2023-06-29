@@ -10,14 +10,14 @@
   padding: 15px;
 }
 .tren-maya-content-text-title {
-  font-size: 26px;
+  font-size: var(--txt-h1-p);
   position: relative;
   z-index: 1;
   color: var(--white);
   margin-bottom: 22px;
 }
 .tren-maya-content-text-desc {
-  font-size: 16px;
+  font-size: var(--txt-p-sm);
   text-align: justify;
 }
 .tren-maya-content-ctn-badge {
@@ -83,10 +83,10 @@
     grid-template-columns: 1fr 1fr;
   }
   .tren-maya-content-text-title {
-    font-size: 28px;
+    font-size: var(--txt-h1-md);
   }
   .tren-maya-content-text-desc {
-    font-size: 14px;
+    font-size: var(--txt-p-md);
   }
   .tren-maya-content-badge-text {
     font-size: 18px;
@@ -115,11 +115,11 @@
     align-self: center;
   }
   .tren-maya-content-text-title {
-    font-size: 32px;
+    font-size: var(--txt-h1-xl);
   }
   .tren-maya-content-text-desc {
     margin-top: 15px;
-    font-size: 16px;
+    font-size: var(--txt-p-xl);
   }
   .tren-maya-content-ctn-img {
     margin-top: 0;

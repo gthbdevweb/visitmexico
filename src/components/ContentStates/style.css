@@ -3,7 +3,7 @@
   padding: 48px 20px;
 }
 .states-relation-content-text-title {
-  font-size: 22px;
+  font-size: var(--txt-h3-sm);
 }
 .states-relation-content-cards-ctn {
   gap: 40px;
@@ -27,6 +27,12 @@
   text-align: center;
 }
 
+@media (min-width: 744px) {
+  .states-relation-content-text-title {
+    font-size: var(--txt-h3-md);
+  }
+}
+
 @media (min-width: 992px) {
   .states-relation-content-ctn {
     padding-bottom: 20px;
@@ -36,7 +42,7 @@
     flex-wrap: wrap;
   }
   .states-relation-content-text-title {
-    font-size: 32px;
+    font-size: var(--txt-h3-xl);
   }
   .states-relation-content-card-text-title {
     font-size: 28px;

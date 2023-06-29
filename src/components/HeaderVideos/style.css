@@ -6,7 +6,7 @@
   background-position: center;
 }
 .videos-title-text-title {
-  font-size: 28px;
+  font-size: var(--txt-h1-sm);
   text-align: center;
   color: var(--white);
   background: linear-gradient(135deg, var(--pink), var(--purple));
@@ -26,12 +26,12 @@
     padding-bottom: 72px;
   }
   .videos-title-text-title {
-    margin-top: 20px;
+    margin-top: var(--txt-h1-md);
   }
 }
 
 @media (min-width: 992px) {
   .videos-title-text-title {
-    font-size: 32px;
+    font-size: var(--txt-h1-xl);
   }
 }

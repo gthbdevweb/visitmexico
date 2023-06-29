@@ -18,6 +18,7 @@
   justify-content: center;
   align-items: center;
   animation-name: silceRight;
+  font-size: var(--txt-h1-sm);
 }
 .list-turistic-guides-list-ctn > ul {
   list-style: none;
@@ -73,7 +74,7 @@
 .list-turistic-guides-card-text-title {
   text-align: center;
   margin: 12px;
-  font-size: 24px;
+  font-size: var(--txt-h5-sm);
 }
 .list-turistic-guides-card-text-desc {
   text-align: center;
@@ -100,6 +101,7 @@
   overflow-y: scroll;
 }
 .btn-list-turistic-guides-close {
+  font-size: var(--txt-btn-sm);
   border-color: var(--black);
   color: var(--black);
   float: right;
@@ -111,13 +113,13 @@
   color: var(--white);
 }
 .list-turistic-guides-modal-title {
-  font-size: 22px;
+  font-size: var(--txt-h2-sm);
   text-align: center;
   margin-top: 10%;
   font-weight: 700;
 }
 .list-turistic-guides-modal-description {
-  font-size: 14px;
+  font-size: var(--txt-p-sm);
   text-align: justify;
   margin-top: 25px;
   border-top: 1px solid var(--gray);
@@ -139,7 +141,7 @@
 }
 .list-turistic-guides-modal-card-text {
   margin-top: 12px;
-  font-size: 14px;
+  font-size: var(--txt-p-sm);
   text-align: center;
   font-weight: 700;
 }
@@ -165,6 +167,24 @@
     display: flex;
     gap: 20px;
   }
+  .list-turistic-guides-modal-description {
+    font-size: var(--txt-p-md);
+  }
+  .list-turistic-guides-modal-card-text {
+    font-size: var(--txt-p-md);
+  }
+  .list-turistic-guides-list-title {
+    font-size: var(--txt-h1-md);
+  }
+  .list-turistic-guides-modal-title {
+    font-size: var(--txt-h2-md);
+  }
+  .list-turistic-guides-card-text-title {
+    font-size: var(--txt-h5-md);
+  }
+  .btn-list-turistic-guides-close {
+    font-size: var(--txt-btn-md);
+  }
 }
 
 @media (min-width: 992px) {
@@ -181,10 +201,25 @@
     height: 250px;
   }
   .list-turistic-guides-card-text-title {
-    font-size: 24px;
+    font-size: var(--txt-h5-xl);
   }
   .list-turistic-guides-card-text-desc {
     font-size: 14px;
+  }
+  .list-turistic-guides-modal-description {
+    font-size: var(--txt-p-xl);
+  }
+  .list-turistic-guides-modal-card-text {
+    font-size: var(--txt-p-xl);
+  }
+  .list-turistic-guides-list-title {
+    font-size: var(--txt-h1-xl);
+  }
+  .list-turistic-guides-modal-title {
+    font-size: var(--txt-h2-xl);
+  }
+  .btn-list-turistic-guides-close {
+    font-size: var(--txt-btn-xl);
   }
 }
 

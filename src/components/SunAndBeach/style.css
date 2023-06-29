@@ -11,7 +11,7 @@
   padding: 15px;
 }
 .sun-and-beach-content-text-title {
-  font-size: 26px;
+  font-size: var(--txt-h1-sm);
   position: relative;
   z-index: 1;
   color: var(--black);
@@ -32,7 +32,7 @@
   animation: sun-and-beach-text-in 2.5s;
 }
 .sun-and-beach-content-text-desc {
-  font-size: 16px;
+  font-size: var(--txt-p-sm);
   text-align: justify;
   text-transform: lowercase;
 }
@@ -80,10 +80,10 @@
     grid-template-columns: 1fr 1fr;
   }
   .sun-and-beach-content-text-title {
-    font-size: 28px;
+    font-size: var(--txt-h1-md);
   }
   .sun-and-beach-content-text-desc {
-    font-size: 14px;
+    font-size: var(--txt-p-md);
   }
   .sun-and-beach-content-badge-text {
     font-size: 18px;
@@ -107,11 +107,11 @@
     align-self: center;
   }
   .sun-and-beach-content-text-title {
-    font-size: 32px;
+    font-size: var(--txt-h1-xl);
   }
   .sun-and-beach-content-text-desc {
     margin-top: 15px;
-    font-size: 16px;
+    font-size: var(--txt-p-xl);
   }
   .sun-and-beach-content-ctn-img {
     margin-top: 0;

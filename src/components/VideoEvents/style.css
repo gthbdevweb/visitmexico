@@ -15,7 +15,7 @@
 .eventos-video-text-desc {
   text-align: center;
   margin-top: 20px;
-  font-size: 16px;
+  font-size: var(--txt-p-sm);
 }
 
 @media (min-width: 744px) {
@@ -31,10 +31,16 @@
     object-fit: cover;
     margin-bottom: 0;
   }
+  .eventos-video-text-desc {
+    font-size: var(--txt-p-md);
+  }
 }
 
 @media (min-width: 992px) {
   .eventos-video-ctn {
     flex: 1 0 21%;
+  }
+  .eventos-video-text-desc {
+    font-size: var(--txt-p-xl);
   }
 }

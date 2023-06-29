@@ -26,7 +26,7 @@
   aspect-ratio: 1/1;
 }
 .heading-slider-text-title {
-  margin-top: 32px;
+  margin-top: var(--txt-h3-sm);
   font-size: 18px;
   text-align: center;
 }

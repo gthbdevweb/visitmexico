@@ -55,7 +55,7 @@ const HeaderCalendar = () => {
           />
         </div>
         <div className="calendar-header-calendar">
-          <h2 className="calendar-select-text">Elige una fecha</h2>
+          <h4 className="calendar-select-text">Da click y conoce las fechas de los eventos</h4>
           <div className="calendar-select-ctn">
             <DatePicker 
               mapDays={getEvents}

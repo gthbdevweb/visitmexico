@@ -20,14 +20,27 @@
   padding: 30px 0;
 }
 .tendencies-card-text-title {
-  font-size: 32px;
+  font-size: var(--txt-h2-sm);
 }
 .tendencies-card-text-desc {
-  font-size: 16px;
+  font-size: var(--txt-p-sm);
   margin-top: 20px;
 }
 .tendencies-card-text-btn {
   float: right;
+  font-size: var(--txt-btn-sm);
+}
+
+@media (min-width: 744px) {
+  .tendencies-card-text-desc {
+    font-size: var(--txt-p-md);
+  }
+  .tendencies-card-text-title {
+    font-size: var(--txt-h2-md);
+  }
+  .tendencies-card-text-btn {
+    font-size: var(--txt-btn-md);
+  }
 }
 
 @media (min-width: 992px) {
@@ -42,14 +55,15 @@
     height: 420px;
   }
   .tendencies-card-text-title {
-    font-size: 48px;
+    font-size: var(--txt-h2-xl);
   }
   .tendencies-card-text-desc {
-    font-size: 18px;
+    font-size: var(--txt-p-xl);
     margin-top: 25px;
   }
   .tendencies-card-text-btn {
     float: right;
     margin-right: 40px;
+    font-size: var(--txt-btn-xl);
   }
 }

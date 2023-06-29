@@ -11,7 +11,7 @@
   padding: 15px;
 }
 .romance-gallery-content-text-title {
-  font-size: 26px;
+  font-size: var(--txt-h1-sm);
   position: relative;
   z-index: 1;
   color: var(--white);
@@ -67,7 +67,7 @@
     padding: 120px 0 0 0;
   }
   .romance-gallery-content-text-title {
-    font-size: 28px;
+    font-size: var(--txt-h1-md);
   }
   .romance-gallery-content-ctn-img {
     display: grid;
@@ -89,7 +89,7 @@
     align-self: center;
   }
   .romance-gallery-content-text-title {
-    font-size: 32px;
+    font-size: var(--txt-h1-xl);
   }
   .romance-gallery-content-ctn-img {
     grid-template-columns: 1fr 1fr 1fr;

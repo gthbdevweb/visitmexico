@@ -11,7 +11,7 @@
   padding: 15px;
 }
 .gastronomic-routes-content-text-title {
-  font-size: 26px;
+  font-size: var(--txt-h1-sm);
   position: relative;
   z-index: 1;
   color: var(--white);
@@ -32,7 +32,7 @@
   animation: gastronomic-text-in 2.5s;
 }
 .gastronomic-routes-content-text-desc {
-  font-size: 16px;
+  font-size: var(--txt-p-sm);
   text-align: justify;
   text-transform: lowercase;
 }
@@ -73,6 +73,7 @@
   border-color: var(--blue);
   color: var(--blue);
   margin-left: 25px;
+  font-size: var(--txt-btn-sm);
 }
 .class-button-gastronomic:hover {
   border-color: var(--blue);
@@ -86,10 +87,10 @@
     grid-template-columns: 1fr 1fr;
   }
   .gastronomic-routes-content-text-title {
-    font-size: 28px;
+    font-size: var(--txt-h1-md);
   }
   .gastronomic-routes-content-text-desc {
-    font-size: 14px;
+    font-size: var(--txt-p-md);
   }
   .gastronomic-routes-content-badge-text {
     font-size: 18px;
@@ -99,6 +100,9 @@
     width: 100%;
     height: 100%;
     padding: 0 15px;
+  }
+  .class-button-gastronomic {
+    font-size: var(--txt-btn-md);
   }
 }
 
@@ -113,11 +117,10 @@
     align-self: center;
   }
   .gastronomic-routes-content-text-title {
-    font-size: 32px;
+    font-size: var(--txt-h1-xl);
   }
   .gastronomic-routes-content-text-desc {
-    margin-top: 15px;
-    font-size: 16px;
+    margin-top: var(--txt-p-xl);
   }
   .gastronomic-routes-content-ctn-img {
     margin-top: 0;
@@ -130,6 +133,9 @@
   }
   .gastronomic-routes-content-ctn-badge {
     padding: 35px;
+  }
+  .class-button-gastronomic {
+    font-size: var(--txt-btn-xl);
   }
 }
 
