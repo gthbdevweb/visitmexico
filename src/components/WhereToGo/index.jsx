@@ -1,7 +1,7 @@
 import React, { useEffect, useState, useContext } from 'react';
-import { LazyLoadImage } from 'react-lazy-load-image-component';
+// import { LazyLoadImage } from 'react-lazy-load-image-component';
 import { Context } from '../../Context';
-import { Link } from 'react-router-dom';
+// import { Link } from 'react-router-dom';
 import dataEs from '../../assets/data/whereToGo/es/index.json';
 import dataEn from '../../assets/data/whereToGo/en/index.json';
 import dataFr from '../../assets/data/whereToGo/fr/index.json';
@@ -33,13 +33,13 @@ const WhereToGo = () => {
       <h2 className="where-to-go-content-text-title">{language?.title}</h2>
         {language?.description?.map((info, index) => <p className="where-to-go-content-text-desc" key={index}>{info?.text}</p>)}
       </div>
-      {/*<div className="where-to-go-content-ctn-img">
+      {/* <div className="where-to-go-content-ctn-img">
         <LazyLoadImage
           className="where-to-go-content-img"
           src={require(`../../assets/img/rutasGastronomicas/PUE-Puebla-Gastronomia-JoyasColoniales-FabianGarcilita-BC3_3712-_1_.webp`)} 
           alt={language?.title}
         />
-      </div>*/}
+      </div> */}
       <div>
         <Share 
           urlFaceboock = "https://visitmexico.com/"
@@ -47,13 +47,13 @@ const WhereToGo = () => {
           urlTwitter = "https://visitmexico.com/"
           urlWhatsapp = "https://visitmexico.com/"
         />
-        {/*<Link 
+        {/* <Link 
           to='/rutas-gastronomicas'
         >
           <button className='btn btn-outline-primary class-button-gastronomic'>
             Galeria
           </button>
-        </Link>*/}
+        </Link> */}
       </div>
     </section>
   )

@@ -38,7 +38,7 @@ const Romance = () => {
       </div>
       <div className="romance-content-ctn-text">
         <h1 className="romance-content-text-title">{language?.title}</h1>
-        {language?.description?.map((info, index) => <p className="romance-content-text-desc" key={index}>{info?.text}</p>)}
+        {language?.description?.map((info, index) => index === 0 && <p className="romance-content-text-desc" key={index}>{info?.text}</p>)}
       </div>
       <Share 
         urlFaceboock = "https://visitmexico.com/romance/"

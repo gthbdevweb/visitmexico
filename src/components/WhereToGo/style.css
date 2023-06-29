@@ -35,7 +35,6 @@
 .where-to-go-content-text-desc {
   font-size: var(--txt-p-sm);
   text-align: justify;
-  text-transform: lowercase;
 }
 .where-to-go-content-text-desc::first-letter {
   text-transform: capitalize;

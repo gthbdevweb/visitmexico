@@ -61,16 +61,16 @@ const Hero = () => {
     </div>  
   );
 
-  const hero = () => (
-    <div className="hero-text-ctn">
-      <h1 className="hero-text-title">{language?.content?.title}</h1>
-      <h2 className="hero-text-subtitle">{language?.content?.subtitle}</h2>
-      <p className="hero-text-desc">{language?.content?.description}</p>
-      <Link to={language?.actions?.button?.dir}>
-        <button type="button" className="btn btn-outline-primary class-buton-hero">{language?.actions?.button?.text}</button>
-      </Link>
-    </div>
-  );
+  // const hero = () => (
+  //   <div className="hero-text-ctn">
+  //     <h1 className="hero-text-title">{language?.content?.title}</h1>
+  //     <h2 className="hero-text-subtitle">{language?.content?.subtitle}</h2>
+  //     <p className="hero-text-desc">{language?.content?.description}</p>
+  //     <Link to={language?.actions?.button?.dir}>
+  //       <button type="button" className="btn btn-outline-primary class-buton-hero">{language?.actions?.button?.text}</button>
+  //     </Link>
+  //   </div>
+  // );
 
   return (
     <section className="hero-ctn">

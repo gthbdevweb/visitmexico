@@ -3,43 +3,43 @@
     "gallery": [
         {
             "imageUrl": "BCN_ensenada_7_11zon.webp",
-            "title": "ensenada"
+            "title": "BCN Ensenada"
         },
         {
             "imageUrl": "BCS_cabo_pulmo_26_11zon.webp",
-            "title": "cabo pulmon"
+            "title": "BCS Cabo Pulmo"
         },
         {
             "imageUrl": "GRO_acapulco_1317_11zon.webp",
-            "title": "acapulco"
+            "title": "GRO Acapulco"
         },
         {
             "imageUrl": "JAL_careyes_11_11zon.webp",
-            "title": "careyes"
+            "title": "Jalisco Careyes"
         },
         {
             "imageUrl": "OAX_costa_25_11zon.webp",
-            "title": "oaxaca"
+            "title": "Oaxaca Costa Chica"
         },
         {
             "imageUrl": "Qroo_Hotel_catalonia63_2_11zon.webp",
-            "title": "queretaro"
+            "title": "Hotel Catalonia Riviera Maya"
         },
         {
             "imageUrl": "SIN_las_glorias_25_11zon.webp",
-            "title": "las glorias"
+            "title": "Las Glorias, Sinaloa"
         },
         {
             "imageUrl": "SON_SanCarlos_Mirador-138_11zon.webp",
-            "title": "san carlos"
+            "title": "Sonora El mirador de San Carlos"
         },
         {
             "imageUrl": "TMPS_miramar_2_236_11zon.webp",
-            "title": "miramar"
+            "title": "Miramar Tamaulipas"
         },
         {
             "imageUrl": "VER_catemaco104_11zon.webp",
-            "title": "catemaco"
+            "title": "Catemaco Veracruz"
         }
     ]
 }

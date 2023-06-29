@@ -18,6 +18,7 @@ import RomanceContent from './views/RomanceContent';
 import SolYPlayaContent from './views/SolYPlayaContent';
 import AvisoDePrivacidad from './views/AvisoDePrivacidad';
 import TuristicsGuides from './views/TuristicsGuides';
+import StuffToDownloadContent from './views/StuffToDownload';
 //Delete next
 import './App.css';
 
@@ -45,6 +46,7 @@ function App() {
           <Route path='/sol-y-playa' element={<SolYPlayaContent />} />
           <Route path='/aviso-de-privacidad' element={<AvisoDePrivacidad />} />
           <Route path='/guias-turisticas' element={<TuristicsGuides />} />
+          <Route path='/materia-para-descargar' element={<StuffToDownloadContent />} />
           <Route path='*' element={<Home />} />
         </Routes>
       </Layout>

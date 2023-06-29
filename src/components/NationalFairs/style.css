@@ -35,7 +35,6 @@
 .national-fairs-content-text-desc {
   font-size: var(--txt-p-sm);
   text-align: justify;
-  text-transform: lowercase;
 }
 .national-fairs-content-text-desc::first-letter {
   text-transform: capitalize;

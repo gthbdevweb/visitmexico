@@ -31,7 +31,7 @@ const GastronomicRoutes = () => {
     <section className="gastronomic-routes-content-ctn">
       <div className="gastronomic-routes-content-ctn-text">
       <h1 className="gastronomic-routes-content-text-title">{language?.title}</h1>
-        {language?.description?.map((info, index) => <p className="gastronomic-routes-content-text-desc" key={index}>{info?.text}</p>)}
+        {language?.description?.map((info, index) => index === 0 && <p className="gastronomic-routes-content-text-desc" key={index}>{info?.text}</p>)}
       </div>
       <div className="gastronomic-routes-content-ctn-img">
         <LazyLoadImage

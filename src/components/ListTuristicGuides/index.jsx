@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useContext} from 'react';
 import { Context } from '../../Context';
 import { LazyLoadImage } from 'react-lazy-load-image-component';
-import { Link } from 'react-router-dom';
+// import { Link } from 'react-router-dom';
 import dataEs from '../../assets/data/turisticsGuides/es/index.json';
 import dataEn from '../../assets/data/turisticsGuides/en/index.json';
 import dataFr from '../../assets/data/turisticsGuides/fr/index.json';
@@ -16,14 +16,14 @@ const ListTuristicGuides = () => {
   const [modalOpen, setModalOpen] = useState(false);
   const [dataModal, setDataModal] = useState();
 
-  const colors = [
-    '166, 32, 140, .5',
-    '229, 38, 25, .5',
-    '236, 6, 139, .5',
-    '253, 167, 0, .5',
-    '136, 194, 67, .5',
-    '3, 160, 175, .5'
-  ];
+  // const colors = [
+  //   '166, 32, 140, .5',
+  //   '229, 38, 25, .5',
+  //   '236, 6, 139, .5',
+  //   '253, 167, 0, .5',
+  //   '136, 194, 67, .5',
+  //   '3, 160, 175, .5'
+  // ];
 
   function downloadFile(url) {
     const namePdf = url?.split('/')[1];

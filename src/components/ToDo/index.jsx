@@ -1,6 +1,6 @@
 import React, { useEffect, useState, useContext } from 'react';
-import { Link } from 'react-router-dom';
-import { LazyLoadImage } from 'react-lazy-load-image-component';
+// import { Link } from 'react-router-dom';
+// import { LazyLoadImage } from 'react-lazy-load-image-component';
 import { Context } from '../../Context';
 import dataEs from '../../assets/data/toDo/es/index.json';
 import dataEn from '../../assets/data/toDo/en/index.json';
@@ -29,13 +29,13 @@ const ToDo = () => {
 
   return (
     <section className="to-do-content-ctn">
-      {/*<div className="to-do-content-ctn-img">
+      {/* <div className="to-do-content-ctn-img">
         <LazyLoadImage
           className="to-do-content-img"
           src={require(`../../assets/img/solYPlaya/Qroo_cancun_playa108.webp`)} 
           alt={language?.title}
         />
-      </div>*/}
+      </div> */}
       <div className="to-do-content-ctn-text">
         <h1 className="to-do-content-text-title">{language?.title}</h1>
         {language?.description?.map((info, index) => <p className="to-do-content-text-desc" key={index}>{info?.text}</p>)}
@@ -46,11 +46,11 @@ const ToDo = () => {
         urlTwitter = "https://visitmexico.com/"
         urlWhatsapp = "https://visitmexico.com/"
       />
-      {/*<Link
+      {/* <Link
         to='/sol-y-playa'
       >
         <button className='btn btn-outline-primary class-button-romance'>Galería</button>
-      </Link>*/}
+      </Link> */}
     </section>
   )
 };

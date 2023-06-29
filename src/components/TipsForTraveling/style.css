@@ -35,7 +35,6 @@
 .tips-for-traveling-content-text-desc {
   font-size: var(--txt-p-sm);
   text-align: justify;
-  text-transform: lowercase;
 }
 .tips-for-traveling-content-text-desc::first-letter {
   text-transform: capitalize;

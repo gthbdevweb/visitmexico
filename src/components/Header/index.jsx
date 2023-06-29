@@ -97,6 +97,14 @@ const Header = () => {
               Guías Turísticas
             </Link>
           </li>
+          <li key="9">
+            <Link 
+              to="materia-para-descargar"
+              onClick={changeState}
+            >
+              Material para Descargar
+            </Link>
+          </li>
         </ul>
         <ul className="nav-menu-blog">
           {/*<li><a href="https://www.101museos.com/" target='_blank'>101 museos</a></li>*/}
@@ -139,38 +147,50 @@ const Header = () => {
               </svg>
             </a>
             <Link 
-              to='/sol-y-playa'
+              to='/'
               onClick={changeState}
             >
               <p 
                 className='nav-menu-blog-first'
               >
-                Sol y Playa
+                Principales Destinos
               </p>
             </Link>
             <Link 
-              to='/eventos'
+              to='/'
               onClick={changeState}
             >
-              <p>Eventos Internacionales</p>
+              <p>Tesoros Coloniales</p>
             </Link>
             <Link 
-              to='/rutas-gastronomicas'
+              to='/'
               onClick={changeState}
             >
-              <p>Rutas Gastronómicas</p>
+              <p>Ciudades Patrimonio Mundial de la UNESCO</p>
             </Link>
             <Link 
-              to='/romance'
+              to='/'
               onClick={changeState}
             >
-              <p>Turismo de Romance</p>
+              <p>Ferias Nacionales</p>
             </Link>
             <Link 
-              to='/experiencias'
+              to='/'
               onClick={changeState}
             >
-              <p>Turismo de Aventura</p>
+              <p>¿Dónde ir?</p>
+            </Link>
+            <Link 
+              to='/'
+              onClick={changeState}
+            >
+              <p>¿Qué hacer?</p>
+            </Link>
+            <Link 
+              to='/'
+              onClick={changeState}
+            >
+              <p>5 Tips para Viajar a México</p>
             </Link>
             </div>
           </li>

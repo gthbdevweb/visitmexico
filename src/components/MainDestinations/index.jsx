@@ -1,7 +1,7 @@
 import React, { useEffect, useState, useContext } from 'react';
-import { LazyLoadImage } from 'react-lazy-load-image-component';
+// import { LazyLoadImage } from 'react-lazy-load-image-component';
 import { Context } from '../../Context';
-import { Link } from 'react-router-dom';
+// import { Link } from 'react-router-dom';
 import dataEs from '../../assets/data/mainDestinations/es/index.json';
 import dataEn from '../../assets/data/mainDestinations/en/index.json';
 import dataFr from '../../assets/data/mainDestinations/fr/index.json';
@@ -33,13 +33,13 @@ const MainDestinations = () => {
       <h2 className="main-destinations-content-text-title">{language?.title}</h2>
         {language?.description?.map((info, index) => <p className="main-destinations-content-text-desc" key={index}>{info?.text}</p>)}
       </div>
-      {/*<div className="main-destinations-content-ctn-img">
+      {/* <div className="main-destinations-content-ctn-img">
         <LazyLoadImage
           className="main-destinations-content-img"
           src={require(`../../assets/img/rutasGastronomicas/PUE-Puebla-Gastronomia-JoyasColoniales-FabianGarcilita-BC3_3712-_1_.webp`)} 
           alt={language?.title}
         />
-      </div>*/}
+      </div> */}
       <div>
         <Share 
           urlFaceboock = "https://visitmexico.com/"

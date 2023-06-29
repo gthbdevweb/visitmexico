@@ -1,0 +1,110 @@
+.stuff-to-download-gallery-content-ctn {
+  padding: 110px 0 0 0;
+  background-color: #eee;
+  background-image: url('../../assets/img/layout/bg.webp');
+  background-repeat: repeat-y;
+  background-size: 100% auto;
+  background-position: center;
+  overflow-x: hidden;
+}
+.stuff-to-download-gallery-content-ctn-text {
+  padding: 15px;
+}
+.stuff-to-download-gallery-content-text-title {
+  font-size: var(--txt-h1-sm);
+  position: relative;
+  z-index: 1;
+  color: var(--white);
+  height: 40px;
+  display: flex;
+  align-items: center;
+}
+.stuff-to-download-gallery-content-text-title::after {
+  content: '';
+  height: 110%;
+  width: 100%;
+  background: var(--purple);
+  position: absolute;
+  top: 0;
+  left: -10%;
+  border-radius: 0 30px 30px 0;
+  z-index: -1;
+  animation: gastronomic-text-in 2.5s;
+}
+.stuff-to-download-gallery-content-ctn-img {
+  width: 100%;
+  height: 100%;
+}
+.stuff-to-download-gallery-content-img {
+  height: 100%;
+  width: 100vw;
+}
+.class-button-gastronomic {
+  border-color: var(--blue);
+  color: var(--blue);
+  margin-left: 25px;
+}
+.class-button-gastronomic:hover {
+  border-color: var(--blue);
+  background: var(--blue);
+}
+.stuff-to-download-gallery-video {
+  width: 100%;
+  height: 210px;
+}
+.stuff-to-download-gallery-content-text-ctn {
+  margin: 75px 0;
+  padding: 0 20px;
+}
+.stuff-to-download-gallery-content-text-desc {
+  font-size: var(--txt-p-sm);
+}
+
+@media (min-width: 744px) {
+  .stuff-to-download-gallery-content-ctn {
+    padding: 120px 0 0 0;
+  }
+  .stuff-to-download-gallery-content-text-title {
+    font-size: var(--txt-h1-md);
+  }
+  .stuff-to-download-gallery-video {
+    width: 100%;
+    height: 310px;
+  }
+  .stuff-to-download-gallery-content-text-desc {
+    font-size: var(--txt-p-md);
+  }
+}
+
+@media (min-width: 992px) {
+  .stuff-to-download-gallery-content-ctn {
+    padding: 120px 0 0 0;
+  }
+  .stuff-to-download-gallery-content-ctn-text {
+    display: block;
+    align-self: center;
+  }
+  .stuff-to-download-gallery-content-text-title {
+    font-size: var(--txt-h1-xl);
+  }
+  .stuff-to-download-gallery-content-ctn-badge {
+    padding: 35px;
+  }
+  .stuff-to-download-gallery-video {
+    width: 100%;
+    height: 470px;
+  }
+  .stuff-to-download-gallery-content-text-desc {
+    font-size: var(--txt-p-xl);
+  }
+}
+
+@keyframes gastronomic-text-in {
+  0% {
+    left: -100%;
+  }
+
+  100% {
+    left: -10%;
+  }
+}

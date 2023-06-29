@@ -34,7 +34,6 @@
 .main-destinations-content-text-desc {
   font-size: var(--txt-p-sm);
   text-align: justify;
-  text-transform: lowercase;
 }
 .main-destinations-content-text-desc::first-letter {
   text-transform: capitalize;
@@ -116,7 +115,7 @@
     font-size: var(--txt-h2-xl);
   }
   .main-destinations-content-text-desc {
-    margin-top: var(--txt-p-xl);
+    font-size: var(--txt-p-xl);
   }
   .main-destinations-content-ctn-img {
     margin-top: 0;

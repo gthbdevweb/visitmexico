@@ -32,7 +32,7 @@ const TrenMayaContent = () => {
         <div className="tren-maya-content-ctn-img">
           <LazyLoadImage
             className="tren-maya-content-img"
-            src={require(`../../assets/img/trenMaya/tren.webp`)} 
+            src={require(`../../assets/img/trenMaya/tren_1.webp`)} 
             alt={language?.title}
           />
         </div>

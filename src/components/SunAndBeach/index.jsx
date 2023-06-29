@@ -38,7 +38,7 @@ const SunAndBeach = () => {
       </div>
       <div className="sun-and-beach-content-ctn-text">
         <h1 className="sun-and-beach-content-text-title">{language?.title}</h1>
-        {language?.description?.map((info, index) => <p className="sun-and-beach-content-text-desc" key={index}>{info?.text}</p>)}
+        {language?.description?.map((info, index) => index === 0 && <p className="sun-and-beach-content-text-desc" key={index}>{info?.text}</p>)}
       </div>
       <Share 
         urlFaceboock = "https://visitmexico.com/solyplaya/"

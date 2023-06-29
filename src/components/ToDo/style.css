@@ -35,7 +35,6 @@
 .to-do-content-text-desc {
   font-size: var(--txt-p-sm);
   text-align: justify;
-  text-transform: lowercase;
 }
 .to-do-content-text-desc::first-letter {
   text-transform: capitalize;

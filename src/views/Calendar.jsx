@@ -1,8 +1,8 @@
 import React from 'react';
-import { LazyLoadComponent } from 'react-lazy-load-image-component';
+// import { LazyLoadComponent } from 'react-lazy-load-image-component';
 import HeaderCalendar from '../components/HeaderCalendar';
-import ImagesCalendar from '../components/ImagesCalendar';
-import VideoCalendar from '../components/VideoCalendar';
+// import ImagesCalendar from '../components/ImagesCalendar';
+// import VideoCalendar from '../components/VideoCalendar';
 import Rss from '../components/Rss';
 import './style.css';
 
@@ -11,10 +11,10 @@ const Calendar = () => {
     <div className="main-content">
       <Rss />
       <HeaderCalendar />
-      {/*<LazyLoadComponent>
+      {/* <LazyLoadComponent>
         <ImagesCalendar />
         <VideoCalendar />
-      </LazyLoadComponent>*/}
+      </LazyLoadComponent> */}
     </div>
   )
 };

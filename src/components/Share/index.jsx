@@ -20,7 +20,7 @@ const Share = ({
   const urlFb = urlFaceboock ? urlFaceboock : 'https://visitmexico.com/';
   const urlPt = urlPinterest ? urlPinterest : 'https://visitmexico.com/';
   const urlTw = urlTwitter ? urlTwitter : 'https://visitmexico.com/';
-  const urlWa = urlWhatsapp ? urlWhatsapp : 'https://visitmexico.com/';
+  // const urlWa = urlWhatsapp ? urlWhatsapp : 'https://visitmexico.com/';
 
   return (
     <div className="video-home-share">
