@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.ca6cb01c.css",
-    "main.js": "/static/js/main.439fe5a2.js",
+    "main.css": "/static/css/main.7befcedc.css",
+    "main.js": "/static/js/main.ecff2290.js",
     "static/js/787.8f5b6e93.chunk.js": "/static/js/787.8f5b6e93.chunk.js",
     "static/media/Travel-Guide-Riviera-Maya.pdf": "/static/media/Travel-Guide-Riviera-Maya.d93db2fe171f4437cb76.pdf",
     "static/media/Reisefuhrer-Riviera-Maya.pdf": "/static/media/Reisefuhrer-Riviera-Maya.0df2f777481a4d03ed67.pdf",
@@ -205,12 +205,12 @@
     "static/media/BCS_cabo_pulmo_26_11zon.webp": "/static/media/BCS_cabo_pulmo_26_11zon.30b06773207adff07a7f.webp",
     "static/media/OAX_costa_25_11zon.webp": "/static/media/OAX_costa_25_11zon.9b7f7971111af89e5ed7.webp",
     "index.html": "/index.html",
-    "main.ca6cb01c.css.map": "/static/css/main.ca6cb01c.css.map",
-    "main.439fe5a2.js.map": "/static/js/main.439fe5a2.js.map",
+    "main.7befcedc.css.map": "/static/css/main.7befcedc.css.map",
+    "main.ecff2290.js.map": "/static/js/main.ecff2290.js.map",
     "787.8f5b6e93.chunk.js.map": "/static/js/787.8f5b6e93.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ca6cb01c.css",
-    "static/js/main.439fe5a2.js"
+    "static/css/main.7befcedc.css",
+    "static/js/main.ecff2290.js"
   ]
 }

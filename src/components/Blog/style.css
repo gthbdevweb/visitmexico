@@ -6,15 +6,19 @@
   background-repeat: repeat-y;
   background-size: 100% auto;
   background-position: center;
+  box-sizing: border-box;
 }
 .blog-item-ctn {
   padding-bottom: 50px;
   margin-top: 45px;
+  background: #fff;
+  padding: 20px;
+  box-shadow: 0px 7px 5px 3px var(--gray);
 }
 .blog-item-img {
   object-fit: cover;
   width: 100%;
-  height: 100%;
+  height: 250px;
   aspect-ratio: 3/2;
 }
 .blog-item-text-title {
@@ -23,8 +27,9 @@
   margin-bottom: 42px;
   font-weight: 600;
 }
-.blog-item-tex-subtitle {
-  font-size: var(--txt-h5-sm);
+.blog-item-tex-ctn {
+  height: 150px;
+  overflow-x: hidden;
 }
 .blog-item-text-desc {
   font-size: var(--txt-p-sm);
@@ -34,8 +39,40 @@
 .blog-item-btn {
   float: right;
 }
+.blog-item-hide {
+  height: 800px;
+  overflow: hidden;
+  position: relative;
+}
+.blog-item-hide::after {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  content: '';
+  height: 150px;
+  width: 100%;
+  background: linear-gradient(360deg, #fff 50%, transparent);
+}
+.blog-item-show {
+  position: relative;
+  height: 100%;
+  overflow: hidden;
+}
+.blog-item-btn {
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+  border-color: var(--black);
+  color: var(--black);
+  z-index: 1;
+}
+.blog-item-btn:hover {
+  border-color: var(--black);
+  background: var(--black);
+  color: var(--white);
+}
 
-@media (min-width: 744px) {
+@media (min-width: 744px) {border-color: var(--black);
   .blog-item-text-desc {
     font-size: var(--txt-p-md);
   }
@@ -70,5 +107,8 @@
   }
   .blog-item-tex-subtitle {
     font-size: var(--txt-h5-xl);
+  }
+  .blog-item-hide {
+    height: 900px;
   }
 }

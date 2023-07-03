@@ -1,17 +1,16 @@
 .tips-for-traveling-content-ctn {
-  padding: 50px 0 0 0;
-  background-color: #eee;
-  background-image: url('../../assets/img/layout/bg.webp');
-  background-repeat: repeat-y;
-  background-size: 100% auto;
-  background-position: center;
+  padding:  0px 0 0 0;
+  background-color: #fff;
   overflow-x: hidden;
+  margin: 15px;
+  border: 1px solid var(--gray);
+  box-shadow: 0px 7px 5px 3px var(--gray);
 }
 .tips-for-traveling-content-ctn-text {
   padding: 15px;
 }
 .tips-for-traveling-content-text-title {
-  font-size: var(--txt-h2-sm);
+  font-size: var(--txt-h5-sm);
   position: relative;
   z-index: 1;
   color: var(--white);
@@ -32,11 +31,42 @@
   z-index: -1;
   animation: gastronomic-text-in 2.5s;
 }
-.tips-for-traveling-content-text-desc {
+.tips-for-traveling-content-text-desc-hide {
   font-size: var(--txt-p-sm);
   text-align: justify;
+  position: relative;
+  height: 80px;
+  overflow: hidden;
 }
-.tips-for-traveling-content-text-desc::first-letter {
+.tips-for-traveling-content-text-desc-hide::after {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  content: '';
+  height: 80px;
+  width: 100%;
+  background: linear-gradient(360deg, #fff 50%, transparent);
+}
+.tips-for-traveling-content-text-desc-hide::first-letter {
+  text-transform: capitalize;
+}
+.tips-for-traveling-content-text-desc-show {
+  font-size: var(--txt-p-sm);
+  text-align: justify;
+  position: relative;
+  height: 100%;
+  overflow: hidden;
+  margin-bottom: 35px;
+}
+.tips-for-traveling-content-text-desc-show::after {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  content: '';
+  height: 100%;
+  width: 100%;
+}
+.tips-for-traveling-content-text-desc-show::first-letter {
   text-transform: capitalize;
 }
 .tips-for-traveling-content-ctn-badge {
@@ -56,18 +86,13 @@
 .tips-for-traveling-content-ctn-img {
   margin-top: 35px;
   margin-bottom: 32px;
-  width: 85%;
+  width: 100%;
   height: 100%;
-  margin-right: auto;
-  margin-left: auto;
-  transform: rotate(-5deg);
 }
 .tips-for-traveling-content-img {
   width: 100%;
   height: 270px;
   object-fit: cover;
-  border: 25px solid #fff;
-  box-shadow: 15px 15px 10px #c2c2c2;
 }
 .class-button-gastronomic {
   border-color: var(--blue);
@@ -79,15 +104,30 @@
   border-color: var(--blue);
   background: var(--blue);
 }
+.tips-for-traveling-btn-show {
+  margin-left: 15px;
+  margin-top: -10px;
+  border-color: var(--black);
+  color: var(--black);
+}
+.tips-for-traveling-btn-show:hover {
+  background: var(--black);
+  color: var(--white);
+  border-color: var(--black);
+}
 
 @media (min-width: 744px) {
   .tips-for-traveling-content-ctn {
-    padding: 50px 0 0 0;
+    padding: 30px 0 0 0;
+    width: 46%;
   }
   .tips-for-traveling-content-text-title {
-    font-size: var(--txt-h2-md);
+    font-size: var(--txt-h5-md);
   }
-  .tips-for-traveling-content-text-desc {
+  .tips-for-traveling-content-text-desc-hide {
+    font-size: var(--txt-p-md);
+  }
+  .tips-for-traveling-content-text-desc-show {
     font-size: var(--txt-p-md);
   }
   .tips-for-traveling-content-badge-text {
@@ -111,16 +151,20 @@
 
 @media (min-width: 992px) {
   .tips-for-traveling-content-ctn {
-    padding: 50px 0 0 0;
+    padding: 30px 0 0 0;
+    width: 31%;
   }
   .tips-for-traveling-content-ctn-text {
     display: block;
     align-self: center;
   }
   .tips-for-traveling-content-text-title {
-    font-size: var(--txt-h2-xl);
+    font-size: var(--txt-h5-xl);
   }
-  .tips-for-traveling-content-text-desc {
+  .tips-for-traveling-content-text-desc-hide {
+    margin-top: var(--txt-p-xl);
+  }
+  .tips-for-traveling-content-text-desc-show {
     margin-top: var(--txt-p-xl);
   }
   .tips-for-traveling-content-ctn-img {

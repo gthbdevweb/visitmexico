@@ -28,8 +28,6 @@ const MapState = () => {
     : setLanguage(dataEs);
   }, [isLanguage]);
 
-  console.log('stateId: ', stateId)
-
   const getList = () => (
     data?.descriptionBottom?.map((item, index) => (
       <li key={index}>

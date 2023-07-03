@@ -44,7 +44,7 @@ const ListTuristicGuides = () => {
     setDataModal(state);
     setModalOpen(!modalOpen);
   };
-  console.log('dataModal: ', dataModal?.actions)
+  
   const closeModal = (state) => {
     setModalOpen(!modalOpen);
   };

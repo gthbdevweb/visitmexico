@@ -1,5 +1,5 @@
 import React, { useEffect, useState, useContext } from 'react';
-// import { LazyLoadImage } from 'react-lazy-load-image-component';
+import { LazyLoadImage } from 'react-lazy-load-image-component';
 import { Context } from '../../Context';
 // import { Link } from 'react-router-dom';
 import dataEs from '../../assets/data/whereToGo/es/index.json';
@@ -15,6 +15,7 @@ import './style.css';
 const WhereToGo = () => {
   const { isLanguage } = useContext(Context);
   const [language, setLanguage] = useState({});
+  const [show, setShow] = useState(false);
 
   useEffect(() => (
     isLanguage === 'MX' ? setLanguage(dataEs)
@@ -30,16 +31,18 @@ const WhereToGo = () => {
   return (
     <section className="where-to-go-content-ctn">
       <div className="where-to-go-content-ctn-text">
-      <h2 className="where-to-go-content-text-title">{language?.title}</h2>
-        {language?.description?.map((info, index) => <p className="where-to-go-content-text-desc" key={index}>{info?.text}</p>)}
-      </div>
-      {/* <div className="where-to-go-content-ctn-img">
+      <div className="where-to-go-content-ctn-img">
         <LazyLoadImage
           className="where-to-go-content-img"
           src={require(`../../assets/img/rutasGastronomicas/PUE-Puebla-Gastronomia-JoyasColoniales-FabianGarcilita-BC3_3712-_1_.webp`)} 
           alt={language?.title}
         />
-      </div> */}
+      </div>
+      <h2 className="where-to-go-content-text-title">{language?.title}</h2>
+        <div className={`where-to-go-content-text-desc-${show ? 'show' : 'hide'}`}>
+          {language?.description?.map((info, index) => <p key={index}>{info?.text}</p>)}
+        </div>
+      </div>
       <div>
         <Share 
           urlFaceboock = "https://visitmexico.com/"
@@ -55,6 +58,12 @@ const WhereToGo = () => {
           </button>
         </Link> */}
       </div>
+      <button
+        className="where-to-go-btn-show btn btn-outline-primary"
+        onClick={() => setShow(!show)}
+      >
+        Ver {show ? 'menos' : 'más'}
+      </button>
     </section>
   )
 };

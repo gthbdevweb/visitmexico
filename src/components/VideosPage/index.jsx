@@ -8,7 +8,7 @@ const VideosPage = () => {
   const { isLanguage } = useContext(Context);
   const [language, setLanguage] = useState({});
   const [valueSelected, setValueSelected] = useState();
-  const [getVideoData, setVideoData] = useState();
+  const [getVideoData, setVideoData] = useState();  
 
   useEffect(() => {
     isLanguage === 'MX' ? setLanguage(dataEs)
@@ -33,6 +33,10 @@ const VideosPage = () => {
     setVideoData(language?.videos?.find(el => el.name === valueSelected))
   }, [valueSelected]);
 
+  useEffect(() => {
+    setVideoData(language?.videos?.[0])
+  }, [language]);
+
   return (
     <section className="videos-ctn sliceLeft">
       <iframe
@@ -52,7 +56,6 @@ const VideosPage = () => {
             aria-label=".form-select-sm example"
             onChange={(e) => handleChange(e)}
           >
-            <option value="" >Categorías</option>
             {getVideoListSelect()}
           </select>
         </div>

@@ -1,6 +1,6 @@
 import React, { useEffect, useState, useContext } from 'react';
 // import { Link } from 'react-router-dom';
-// import { LazyLoadImage } from 'react-lazy-load-image-component';
+import { LazyLoadImage } from 'react-lazy-load-image-component';
 import { Context } from '../../Context';
 import dataEs from '../../assets/data/colonialTreasures/es/index.json';
 import dataEn from '../../assets/data/colonialTreasures/en/index.json';
@@ -15,6 +15,7 @@ import './style.css';
 const ColonialTreasures = () => {
   const { isLanguage } = useContext(Context);
   const [language, setLanguage] = useState({});
+  const [show, setShow] = useState(false);
 
   useEffect(() => (
     isLanguage === 'MX' ? setLanguage(dataEs)
@@ -29,16 +30,18 @@ const ColonialTreasures = () => {
 
   return (
     <section className="colonial-treasures-content-ctn">
-      {/* <div className="colonial-treasures-content-ctn-img">
-        <LazyLoadImage
-          className="colonial-treasures-content-img"
-          src={require(`../../assets/img/solYPlaya/Qroo_cancun_playa108.webp`)} 
-          alt={language?.title}
-        />
-      </div> */}
       <div className="colonial-treasures-content-ctn-text">
+        <div className="colonial-treasures-content-ctn-img">
+          <LazyLoadImage
+            className="colonial-treasures-content-img"
+            src={require(`../../assets/img/solYPlaya/Qroo_cancun_playa108.webp`)} 
+            alt={language?.title}
+          />
+        </div>
         <h1 className="colonial-treasures-content-text-title">{language?.title}</h1>
-        {language?.description?.map((info, index) => <p className="colonial-treasures-content-text-desc" key={index}>{info?.text}</p>)}
+        <div className={`colonial-treasures-content-text-desc-${show ? 'show' : 'hide'}`}>
+          {language?.description?.map((info, index) => <p key={index}>{info?.text}</p>)}
+        </div>
       </div>
       <Share 
         urlFaceboock = "https://visitmexico.com/"
@@ -51,6 +54,12 @@ const ColonialTreasures = () => {
       >
         <button className='btn btn-outline-primary class-button-romance'>Galería</button>
       </Link>*/}
+      <button
+        className="colonial-treasures-btn-show btn btn-outline-primary"
+        onClick={() => setShow(!show)}
+      >
+        Ver {show ? 'menos' : 'más'}
+      </button>
     </section>
   )
 };

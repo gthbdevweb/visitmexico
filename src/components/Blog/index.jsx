@@ -14,6 +14,22 @@ const Blog = () => {
   const { isLanguage } = useContext(Context);
   const [language, setLanguage] = useState({});
 
+  const openView = (e, index) => {
+    const getCard = document.getElementById(index);
+    const getTextButton = document.getElementById(`blog-btn-${index}`);
+
+    getCard.classList.toggle('blog-item-hide');
+    getCard.classList.toggle('blog-item-show');
+
+    if (getCard.classList[1] === 'blog-item-show') {
+      return getTextButton.innerText = 'Ver menos'
+    }
+
+    if (getCard.classList[1] === 'blog-item-hide') {
+      return getTextButton.innerText = 'Ver más'
+    }
+  }
+
   useEffect(() => {
     isLanguage === 'MX' ? setLanguage(dataEs)
     : isLanguage === 'USA' ? setLanguage(dataEn)
@@ -29,7 +45,7 @@ const Blog = () => {
 
   const listBlogs = () => (
     languageSort?.map((blog, index) => (
-      <div className="blog-item-ctn" key={index}>
+      <div className={`blog-item-ctn blog-item-hide`} key={index} id={index}>
         <img
           className="blog-item-img"
           src={require(`../../assets/img/blog/${blog?.urlImg}`)}
@@ -48,6 +64,11 @@ const Blog = () => {
             </ul>
           : <p className="blog-item-text-desc" key={item.text}>{item.text}</p>)
         }
+        <button
+          onClick={(e) => openView(e, index)}
+          className="blog-item-btn btn btn-outline-primary"
+          id={`blog-btn-${index}`}
+        >Ver más</button>
         <Share 
           urlFaceboock = "https://visitmexico.com/blog/"
           urlPinterest = "https://visitmexico.com/blog/"

@@ -1,5 +1,5 @@
 import React, { useEffect, useState, useContext } from 'react';
-// import { LazyLoadImage } from 'react-lazy-load-image-component';
+import { LazyLoadImage } from 'react-lazy-load-image-component';
 import { Context } from '../../Context';
 // import { Link } from 'react-router-dom';
 import dataEs from '../../assets/data/tipsForTraveling/es/index.json';
@@ -15,6 +15,7 @@ import './style.css';
 const TipsForTraveling = () => {
   const { isLanguage } = useContext(Context);
   const [language, setLanguage] = useState({});
+  const [show, setShow] = useState(false);
 
   useEffect(() => (
     isLanguage === 'MX' ? setLanguage(dataEs)
@@ -30,18 +31,20 @@ const TipsForTraveling = () => {
   return (
     <section className="tips-for-traveling-content-ctn">
       <div className="tips-for-traveling-content-ctn-text">
-      <h2 className="tips-for-traveling-content-text-title">{language?.title}</h2>
-      <ul>
-        {language?.description?.map((info, index) => <li className="tips-for-traveling-content-text-desc" key={index}>{info?.text}</li>)}
-      </ul>
+        <div className="tips-for-traveling-content-ctn-img">
+          <LazyLoadImage
+            className="tips-for-traveling-content-img"
+            src={require(`../../assets/img/solYPlaya/Qroo_cancun_playa108.webp`)} 
+            alt={language?.title}
+          />
+        </div>
+        <h2 className="tips-for-traveling-content-text-title">{language?.title}</h2>
+        <div className={`tips-for-traveling-content-text-desc-${show ? 'show' : 'hide'}`}>
+          <ul>
+            {language?.description?.map((info, index) => <li key={index}>{info?.text}</li>)}
+          </ul>
+        </div>
       </div>
-      {/* <div className="tips-for-traveling-content-ctn-img">
-        <LazyLoadImage
-          className="tips-for-traveling-content-img"
-          src={require(`../../assets/img/rutasGastronomicas/PUE-Puebla-Gastronomia-JoyasColoniales-FabianGarcilita-BC3_3712-_1_.webp`)} 
-          alt={language?.title}
-        />
-      </div> */}
       <div>
         <Share 
           urlFaceboock = "https://visitmexico.com/"
@@ -57,6 +60,12 @@ const TipsForTraveling = () => {
           </button>
         </Link> */}
       </div>
+      <button
+        className="tips-for-traveling-btn-show btn btn-outline-primary"
+        onClick={() => setShow(!show)}
+      >
+        Ver {show ? 'menos' : 'más'}
+      </button>
     </section>
   )
 };
