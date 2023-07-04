@@ -3,6 +3,10 @@
     "description":  "La diversité naturelle et culturelle du Mexique, ainsi que ses grandes infrastructures, lui permettent d'accueillir un large éventail d'événements internationaux. Notre pays a accueilli les plus grands représentants du sport, de la culture et du divertissement internationaux.",
     "videos": [
         {
+            "urlVideo": "https://www.youtube.com/embed/boPRg_p4LFg",
+            "title": "MUNDIAL VOLEIBOL DE PLAYA - TLAXCALA 2023"
+        },
+        {
             "urlVideo": "https://www.youtube.com/embed/Dt58kLKEEBc",
             "title": "DESENMASCARANDO LA LUCHA LIBRE - DIVERSIDAD"
         },

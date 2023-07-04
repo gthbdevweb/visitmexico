@@ -33,7 +33,7 @@ const VideoHome = () => {
           loading='lazy'
           width="100%"
           height="100%" 
-          src="https://www.mexico360.com.mx/bajacalifornia/indexweb.html"
+          src="https://www.mexico360.com.mx/"
           title="Conoce las Ciudades Mexicanas Patrimonio Mundial. Visit México."
           frameBorder="1"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 

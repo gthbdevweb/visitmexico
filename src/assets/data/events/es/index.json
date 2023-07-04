@@ -3,6 +3,10 @@
     "description":  "La diversidad natural y cultural de México, junto con su gran infraestructura, le permiten ser sede de toda una gama de eventos de talla internacional. Nuestro país ha recibido a los máximos exponentes del deporte, la cultura y el espectáculo internacional.",
     "videos": [
         {
+            "urlVideo": "https://www.youtube.com/embed/boPRg_p4LFg",
+            "title": "MUNDIAL VOLEIBOL DE PLAYA - TLAXCALA 2023"
+        },
+        {
             "urlVideo": "https://www.youtube.com/embed/Dt58kLKEEBc",
             "title": "DESENMASCARANDO LA LUCHA LIBRE - DIVERSIDAD"
         },

@@ -252,7 +252,7 @@ input[id="nav-active"] {
 @media (min-width: 992px) {
   #nav-wrapper.nav-show {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 2fr;
   }
 
   .nav-show .navbar-menu-video {

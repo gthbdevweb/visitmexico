@@ -3,6 +3,10 @@
     "description":  "墨西哥的自然和文化多样性,加上其一级的基础设施,使其能够主办广泛的国际活动。我们国家已经接待了有国际性和代表性的体育、文化和娱乐的顶级表演者。",
     "videos": [
         {
+            "urlVideo": "https://www.youtube.com/embed/boPRg_p4LFg",
+            "title": "MUNDIAL VOLEIBOL DE PLAYA - TLAXCALA 2023"
+        },
+        {
             "urlVideo": "https://www.youtube.com/embed/Dt58kLKEEBc",
             "title": "DESENMASCARANDO LA LUCHA LIBRE - DIVERSIDAD"
         },

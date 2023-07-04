@@ -3,6 +3,10 @@
     "description":  "メキシコの多様な自然と文化及び、素晴らしいインフラは、あらゆる国際的なイベントの開催国となるのに最適です。スポーツ、文化、エンターテイメント界最大級の代表者を受け入れています。",
     "videos": [
         {
+            "urlVideo": "https://www.youtube.com/embed/boPRg_p4LFg",
+            "title": "MUNDIAL VOLEIBOL DE PLAYA - TLAXCALA 2023"
+        },
+        {
             "urlVideo": "https://www.youtube.com/embed/Dt58kLKEEBc",
             "title": "DESENMASCARANDO LA LUCHA LIBRE - DIVERSIDAD"
         },

@@ -4,6 +4,7 @@ import VideoState from '../components/VideoState';
 import StateKnown from '../components/StateKnown';
 import MapState from '../components/MapState';
 import SpotifyState from '../components/SpotifyState';
+import VideoState360 from '../components/VideoState360';
 import Rss from '../components/Rss';
 import './style.css';
 
@@ -16,6 +17,7 @@ const State = () => {
         <StateKnown />
         <MapState />
         <SpotifyState />
+        <VideoState360 />
       </LazyLoadComponent>
     </div>
   )
