@@ -6,7 +6,7 @@ import Places from '../components/Places';
 import Description from '../components/Description';
 import Slider from '../components/Slider';
 import Features from '../components/Features/indes';
-import Sections from '../components/Sections';
+// import Sections from '../components/Sections';
 import VideoHome from '../components/VideoHome';
 
 import Rss from '../components/Rss';
@@ -36,7 +36,7 @@ const Home = () => {
         <Slider />
         <VideoHome />
         <Features />
-        <Sections />
+        {/* <Sections /> */}
       </LazyLoadComponent>
     </div>
   )

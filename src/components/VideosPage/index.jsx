@@ -2,6 +2,14 @@ import React, { useState, useEffect, useContext} from 'react';
 import { Context } from '../../Context';
 import dataEs from '../../assets/data/videos/es/index.json';
 import dataEn from '../../assets/data/videos/en/index.json';
+import dataFr from '../../assets/data/videos/fr/index.json';
+// import MainDestinations from '../MainDestinations';
+// import WorldHeritageCities from '../WorldHeritageCities';
+import WhereToGo from '../WhereToGo';
+import TipsForTraveling from '../TipsForTraveling';
+// import ColonialTreasures from '../ColonialTreasures';
+import NationalFairs from '../NationalFairs';
+import ToDo from '../ToDo';
 import './style.css';
 
 const VideosPage = () => {
@@ -13,12 +21,47 @@ const VideosPage = () => {
   useEffect(() => {
     isLanguage === 'MX' ? setLanguage(dataEs)
     : isLanguage === 'USA' ? setLanguage(dataEn)
+    : isLanguage === 'FR' ? setLanguage(dataFr)
     : setLanguage(dataEs);
   }, [isLanguage]);
 
   // const languageSort = language?.videos?.sort(function(a, b){return b.id - a.id});
   // const getVideoTop = languageSort?.map((video, index) => index === 0 && video);
  
+  const selectCard = (data) => {
+    if (data === 'Así viajan ellos') {
+      return (
+        <>
+          <TipsForTraveling />
+        </>
+      );  
+    }
+
+    if (data === 'Destino del mes') {
+      return (
+        <>
+          <WhereToGo />
+        </>
+      );  
+    }
+
+    if (data === 'Conociendo México') {
+      return (
+        <>
+          <NationalFairs />
+        </>
+      );  
+    }
+
+    if (data === 'Lo imperdible') {
+      return (
+        <>
+          <ToDo />
+        </>
+      );  
+    }
+  }
+
   const getVideoListSelect = () => (
     language?.videos?.map((video, index) => (
       <option value={video.name} key={index}>{video.name}</option>
@@ -78,6 +121,10 @@ const VideosPage = () => {
             />
           </div>
         ))}
+      </div>
+      <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center'}}>
+
+        {getVideoData?.name && selectCard(getVideoData?.name)}
       </div>
     </section>
   )

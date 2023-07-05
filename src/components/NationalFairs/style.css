@@ -112,7 +112,7 @@
 @media (min-width: 744px) {
   .national-fairs-content-ctn {
     padding: 30px 0 0 0;
-    flex: 1 0 40%;
+    width: 46%;
   }
   .national-fairs-content-text-title {
     font-size: var(--txt-h5-md);
@@ -144,7 +144,7 @@
 @media (min-width: 992px) {
   .national-fairs-content-ctn {
     padding: 30px 0 0 0;
-    flex: 1 0 30%;
+    width: 31%;
   }
   .national-fairs-content-ctn-text {
     display: block;

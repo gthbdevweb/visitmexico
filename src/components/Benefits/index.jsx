@@ -12,12 +12,12 @@ import './style.css';
 const Benefits = () => {
   const { isLanguage } = useContext(Context);
   const [language, setLanguage] = useState({});
-  const [show, setShow] = useState(false);
+  const [show, setShow] = useState(true);
   const [languajeLimit, setLanguageLimit] = useState();
 
   const shortTowns = (data) => {
     const languageSort = data?.towns?.sort(function(a, b){return b.id - a.id});
-    const deletedTowns = languageSort?.slice(0, 4);
+    const deletedTowns = languageSort?.slice(0, languageSort.lenght);
     setLanguageLimit(deletedTowns)
   };
 
@@ -77,13 +77,13 @@ const Benefits = () => {
       <div className="towns-benefits-cards-ctn">
         {getTowns()}
       </div>
-      <button
+      {/* <button
         type="button"
         className="btn btn-primary towns-benefits-card-btn"
         onClick={showMore}
       > 
       {show ? language?.textShowLess : language?.texShowMore}
-      </button>
+      </button> */}
     </section>
   )
 };

@@ -112,7 +112,7 @@
 @media (min-width: 744px) {
   .to-do-content-ctn {
     padding: 30px 0 0 0;
-    flex: 1 0 40%;
+    width: 46%;
   }
   .to-do-content-text-title {
     font-size: var(--txt-h5-md);
@@ -144,7 +144,7 @@
 @media (min-width: 992px) {
   .to-do-content-ctn {
     padding: 30px 0 0 0;
-    flex: 1 0 30%;
+    width: 31%;
   }
   .to-do-content-ctn-text {
     display: block;
