@@ -122,10 +122,9 @@ const VideosPage = () => {
           </div>
         ))}
       </div>
-      <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center'}}>
-
+      {/* <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center'}}>
         {getVideoData?.name && selectCard(getVideoData?.name)}
-      </div>
+        </div> */}
     </section>
   )
 };

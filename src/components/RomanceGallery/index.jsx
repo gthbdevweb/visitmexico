@@ -66,14 +66,6 @@ const RomanceGallery = () => {
       <div className="romance-gallery-content-ctn-text">
         <h1 className="romance-gallery-content-text-title">{language?.title}</h1>
       </div>
-      {/*<iframe
-        className='romance-gallery-video'
-        src="https://www.youtube.com/embed/4nFgp8WdJI0"
-        title="Rutas Gastronómicas"
-        frameBorder="0"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-        allowFullScreen
-      />*/}
       <Share 
         urlFaceboock = "https://visitmexico.com/rutas-gastronomicas/"
         urlPinterest = "https://visitmexico.com/rutas-gastronomicas/"
@@ -86,6 +78,14 @@ const RomanceGallery = () => {
       <div className="romance-gallery-content-ctn-img">
         {getImages()}
       </div>
+      <iframe
+        className='romance-gallery-video'
+        src="https://www.youtube.com/embed/zXbpLh_guyY"
+        title="Rutas Gastronómicas"
+        frameBorder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        allowFullScreen
+      />
     </section>
   )
 };

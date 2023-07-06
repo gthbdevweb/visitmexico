@@ -66,14 +66,6 @@ const SolYPlayaGallery = () => {
       <div className="sol-y-playa-gallery-content-ctn-text">
         <h1 className="sol-y-playa-gallery-content-text-title">{language?.title}</h1>
       </div>
-      {/*<iframe
-        className='sol-y-playa-gallery-video'
-        src="https://www.youtube.com/embed/4nFgp8WdJI0"
-        title="Rutas Gastronómicas"
-        frameBorder="0"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-        allowFullScreen
-      />*/}
       <Share 
         urlFaceboock = "https://visitmexico.com/sol-y-playa/"
         urlPinterest = "https://visitmexico.com/sol-y-playa/"
@@ -86,6 +78,14 @@ const SolYPlayaGallery = () => {
       <div className="sol-y-playa-gallery-content-ctn-img">
         {getImages()}
       </div>
+      <iframe
+        className='sol-y-playa-gallery-video'
+        src="https://www.youtube.com/embed/VSoy_DHqr8s"
+        title="Rutas Gastronómicas"
+        frameBorder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        allowFullScreen
+      />
     </section>
   )
 };
