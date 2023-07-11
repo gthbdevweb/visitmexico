@@ -12,11 +12,11 @@
             "hover": "¡Vamos a Tren Maya!"
         },
         {
-            "name": "Estados",
-            "dir": "/estados",
+            "name": "Destinos",
+            "dir": "/destinos",
             "urlImg": "MOR-Tepoztlan-ExConventoNatividad-PuebloMagico-GerardoJuarez-4858_2-_1__11zon.webp",
-            "description": "Estados",
-            "hover": "¡Vamos a Estados!"
+            "description": "Destinos",
+            "hover": "¡Vamos a Destinos!"
         },
         {
             "name": "Pueblos Mágicos",

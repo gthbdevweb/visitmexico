@@ -36,7 +36,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/aguascalientes/indexweb.html",
             "descriptionShort": "Hier sind 5 Gründe, aus denen auf jeden Fall auf deiner Reiseliste stehen sollte.",
             "desciptionHover": "UM MEHR ÜBER AGUASCALIENTES ZU ERFAHREN, KLICK HIER",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "BajaCalifornia",
@@ -73,7 +73,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/bajacalifornia/indexweb.html",
             "descriptionShort": "Hier sind 5 Gründe, aus denen auf jeden Fall auf deiner Reiseliste stehen sollte.",
             "desciptionHover": "UM MEHR ÜBER BAJA CALIFORNIA ZU ERFAHREN, KLICK HIER",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "BajaCaliforniaSur",
@@ -107,7 +107,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/bajacaliforniasur/indexweb.html",
             "descriptionShort": "Hier sind 5 Gründe, aus denen auf jeden Fall auf deiner Reiseliste stehen sollte.",
             "desciptionHover": "UM MEHR ÜBER BAJA CALIFORNIA SUR ZU ERFAHREN, KLICK HIER",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "Campeche",
@@ -144,7 +144,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/campeche/indexweb.html",
             "descriptionShort": "Hier sind 5 Gründe, aus denen auf jeden Fall auf deiner Reiseliste stehen sollte.",
             "desciptionHover": "UM MEHR ÜBER CAMPECHE ZU ERFAHREN, KLICK HIER",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "Chiapas",
@@ -181,7 +181,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/chiapas/indexweb.html",
             "descriptionShort": "Hier sind 5 Gründe, aus denen auf jeden Fall auf deiner Reiseliste stehen sollte.",
             "desciptionHover": "UM MEHR ÜBER CHIAPAS ZU ERFAHREN, KLICK HIER",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "Chihuahua",
@@ -218,7 +218,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/chihuahua/indexweb.html",
             "descriptionShort": "Hier sind 5 Gründe, aus denen auf jeden Fall auf deiner Reiseliste stehen sollte.",
             "desciptionHover": "UM MEHR ÜBER CHIHUAHUA ZU ERFAHREN, KLICK HIER",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "CiudadDeMexico",
@@ -249,7 +249,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/cdmx/indexweb.html",
             "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
             "desciptionHover": "PARA CONOCER MÁS DE CIUDAD DE MÉXICO PRESIONA AQUÍ",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "Coahuila",
@@ -286,7 +286,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/coahuila/indexweb.html",
             "descriptionShort": "Hier sind 5 Gründe, aus denen auf jeden Fall auf deiner Reiseliste stehen sollte.",
             "desciptionHover": "UM MEHR ÜBER COAHUILA ZU ERFAHREN, KLICK HIER",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "Colima",
@@ -323,7 +323,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/colima/indexweb.html",
             "descriptionShort": "Hier sind 5 Gründe, aus denen auf jeden Fall auf deiner Reiseliste stehen sollte.",
             "desciptionHover": "UM MEHR ÜBER COLIMA ZU ERFAHREN, KLICK HIER",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "Durango",
@@ -360,7 +360,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/durango/indexweb.html",
             "descriptionShort": "Hier sind 5 Gründe, aus denen auf jeden Fall auf deiner Reiseliste stehen sollte.",
             "desciptionHover": "UM MEHR ÜBER DURANGO ZU ERFAHREN, KLICK HIER",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "EstadoDeMexico",
@@ -397,7 +397,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/edomex/indexweb.html",
             "descriptionShort": "Hier sind 5 Gründe, aus denen auf jeden Fall auf deiner Reiseliste stehen sollte.",
             "desciptionHover": "UM MEHR ÜBER ESTADO DE MÉXICO ZU ERFAHREN, KLICK HIER",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "Guanajuato",
@@ -434,7 +434,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/guanajuato/indexweb.html",
             "descriptionShort": "Hier sind 5 Gründe, aus denen auf jeden Fall auf deiner Reiseliste stehen sollte.",
             "desciptionHover": "UM MEHR ÜBER GUANAJUATO ZU ERFAHREN, KLICK HIER",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "Guerrero",
@@ -471,7 +471,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/guerrero/indexweb.html",
             "descriptionShort": "Hier sind 5 Gründe, aus denen auf jeden Fall auf deiner Reiseliste stehen sollte.",
             "desciptionHover": "UM MEHR ÜBER GUERRERO ZU ERFAHREN, KLICK HIER",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "Hidalgo",
@@ -508,7 +508,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/hidalgo/indexweb.html",
             "descriptionShort": "Hier sind 5 Gründe, aus denen auf jeden Fall auf deiner Reiseliste stehen sollte.",
             "desciptionHover": "UM MEHR ÜBER HIDALGO ZU ERFAHREN, KLICK HIER",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "Jalisco",
@@ -545,7 +545,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/jalisco/indexweb.html",
             "descriptionShort": "Hier sind 5 Gründe, aus denen auf jeden Fall auf deiner Reiseliste stehen sollte.",
             "desciptionHover": "UM MEHR ÜBER JALISCO ZU ERFAHREN, KLICK HIER",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "Michoacan",
@@ -582,7 +582,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/michoacan/indexweb.html",
             "descriptionShort": "Hier sind 5 Gründe, aus denen auf jeden Fall auf deiner Reiseliste stehen sollte.",
             "desciptionHover": "UM MEHR ÜBER MICHOACÁN ZU ERFAHREN, KLICK HIER",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "Morelos",
@@ -619,7 +619,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/morelos/indexweb.html",
             "descriptionShort": "Hier sind 5 Gründe, aus denen auf jeden Fall auf deiner Reiseliste stehen sollte.",
             "desciptionHover": "UM MEHR ÜBER MORELOS ZU ERFAHREN, KLICK HIER",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "Nayarit",
@@ -656,7 +656,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/nayarit/indexweb.html",
             "descriptionShort": "Hier sind 5 Gründe, aus denen auf jeden Fall auf deiner Reiseliste stehen sollte.",
             "desciptionHover": "UM MEHR ÜBER NAYARIT ZU ERFAHREN, KLICK HIER",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "NuevoLeon",
@@ -693,7 +693,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/nuevoleon/indexweb.html",
             "descriptionShort": "Hier sind 5 Gründe, aus denen auf jeden Fall auf deiner Reiseliste stehen sollte.",
             "desciptionHover": "UM MEHR ÜBER NUEVO LEÓN ZU ERFAHREN, KLICK HIER",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "Oaxaca",
@@ -730,7 +730,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/oaxaca/indexweb.html",
             "descriptionShort": "Hier sind 5 Gründe, aus denen auf jeden Fall auf deiner Reiseliste stehen sollte.",
             "desciptionHover": "UM MEHR ÜBER OAXACA ZU ERFAHREN, KLICK HIER",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "Puebla",
@@ -767,7 +767,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/puebla/indexweb.html",
             "descriptionShort": "Hier sind 5 Gründe, aus denen auf jeden Fall auf deiner Reiseliste stehen sollte.",
             "desciptionHover": "UM MEHR ÜBER PUEBLA ZU ERFAHREN, KLICK HIER",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "Queretaro",
@@ -804,7 +804,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/queretaro/indexweb.html",
             "descriptionShort": "Hier sind 5 Gründe, aus denen auf jeden Fall auf deiner Reiseliste stehen sollte.",
             "desciptionHover": "UM MEHR ÜBER QUERÉTARO ZU ERFAHREN, KLICK HIER",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "QuintanaRoo",
@@ -841,7 +841,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/quintanaroo/indexweb.html",
             "descriptionShort": "Hier sind 5 Gründe, aus denen auf jeden Fall auf deiner Reiseliste stehen sollte.",
             "desciptionHover": "UM MEHR ÜBER QUINTANA ROO ZU ERFAHREN, KLICK HIER",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "SanLuisPotosi",
@@ -878,7 +878,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/sanluispotosi/indexweb.html",
             "descriptionShort": "Hier sind 5 Gründe, aus denen auf jeden Fall auf deiner Reiseliste stehen sollte.",
             "desciptionHover": "UM MEHR ÜBER SAN LUIS POTOSÍ ZU ERFAHREN, KLICK HIER",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "Sinaloa",
@@ -915,7 +915,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/sinaloa/indexweb.html",
             "descriptionShort": "Hier sind 5 Gründe, aus denen auf jeden Fall auf deiner Reiseliste stehen sollte.",
             "desciptionHover": "UM MEHR ÜBER SINALOA ZU ERFAHREN, KLICK HIER",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "Sonora",
@@ -952,7 +952,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/sonora/indexweb.html",
             "descriptionShort": "Hier sind 5 Gründe, aus denen auf jeden Fall auf deiner Reiseliste stehen sollte.",
             "desciptionHover": "UM MEHR ÜBER SONORA ZU ERFAHREN, KLICK HIER",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "Tabasco",
@@ -989,7 +989,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/tabasco/indexweb.html",
             "descriptionShort": "Hier sind 5 Gründe, aus denen auf jeden Fall auf deiner Reiseliste stehen sollte.",
             "desciptionHover": "UM MEHR ÜBER TABASCO ZU ERFAHREN, KLICK HIER",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "Tamaulipas",
@@ -1026,7 +1026,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/tamaulipas/indexweb.html",
             "descriptionShort": "Hier sind 5 Gründe, aus denen auf jeden Fall auf deiner Reiseliste stehen sollte.",
             "desciptionHover": "UM MEHR ÜBER TAMAULIPAS ZU ERFAHREN, KLICK HIER",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "Tlaxcala",
@@ -1063,7 +1063,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/tlaxcala/indexweb.html",
             "descriptionShort": "Hier sind 5 Gründe, aus denen auf jeden Fall auf deiner Reiseliste stehen sollte.",
             "desciptionHover": "UM MEHR ÜBER TLAXCALA ZU ERFAHREN, KLICK HIER",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "Veracruz",
@@ -1100,7 +1100,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/veracruz/indexweb.html",
             "descriptionShort": "Hier sind 5 Gründe, aus denen auf jeden Fall auf deiner Reiseliste stehen sollte.",
             "desciptionHover": "UM MEHR ÜBER VERACRUZ ZU ERFAHREN, KLICK HIER",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "Yucatan",
@@ -1137,7 +1137,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/yucatan/indexweb.html",
             "descriptionShort": "Hier sind 5 Gründe, aus denen auf jeden Fall auf deiner Reiseliste stehen sollte.",
             "desciptionHover": "UM MEHR ÜBER YUCATÁN ZU ERFAHREN, KLICK HIER",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "Zacatecas",
@@ -1174,7 +1174,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/zacatecas/indexweb.html",
             "descriptionShort": "Hier sind 5 Gründe, aus denen auf jeden Fall auf deiner Reiseliste stehen sollte.",
             "desciptionHover": "UM MEHR ÜBER ZACATECAS ZU ERFAHREN, KLICK HIER",
-            "dir": "/estado"
+            "dir": "/destino"
         }
     ]
 }

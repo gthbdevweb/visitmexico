@@ -55,10 +55,10 @@ const MapState = () => {
           {getList()}
         </ul>
         <Share
-          urlFaceboock = {`https://visitmexico.com/estado/${stateId}/`}
-          urlPinterest = {`https://visitmexico.com/estado/${stateId}/`}
-          urlTwitter = {`https://visitmexico.com/estado/${stateId}/`}
-          urlWhatsapp = {`https://visitmexico.com/estado/${stateId}/`}
+          urlFaceboock = {`https://visitmexico.com/destino/${stateId}/`}
+          urlPinterest = {`https://visitmexico.com/destino/${stateId}/`}
+          urlTwitter = {`https://visitmexico.com/destino/${stateId}/`}
+          urlWhatsapp = {`https://visitmexico.com/destino/${stateId}/`}
         />
       </div>
     </section>

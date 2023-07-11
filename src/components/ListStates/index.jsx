@@ -45,7 +45,7 @@ const Liststates = () => {
           <h5 className="states-card-text-title">{state.titleTop}</h5>
           {/*<p className="states-card-text-desc">{state.descriptionShort}</p>*/}
           <div className="states-card-back" style={{ background: `rgba(${colors[Math.floor(Math.random() * 6)]})`}}>
-            <p className="states-card-back-desc">{state.desciptionHover}</p>
+            <p className="states-card-back-desc">{/* state.desciptionHover */}¡Vamos allá!</p>
           </div>
         </Link>
       </li>

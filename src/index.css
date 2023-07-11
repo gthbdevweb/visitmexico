@@ -9,27 +9,27 @@
   --grey: #cccccc;
   --gray: #a6a6a6;
   --black: #303030;
-  --txt-p-sm: 16px;
-  --txt-p-md: 18px;
-  --txt-p-xl: 20px;
-  --txt-h1-sm: 32px;
-  --txt-h1-md: 34px;
-  --txt-h1-xl: 36px;
-  --txt-h2-sm: 28px;
-  --txt-h2-md: 30px;
-  --txt-h2-xl: 32px;
-  --txt-h3-sm: 26px;
-  --txt-h3-md: 28px;
-  --txt-h3-xl: 30px;
-  --txt-h4-sm: 24px;
-  --txt-h4-md: 26px;
-  --txt-h4-xl: 28px;
-  --txt-h5-sm: 22px;
-  --txt-h5-md: 24px;
-  --txt-h5-xl: 26px;
-  --txt-btn-sm: 14px;
-  --txt-btn-md: 16px;
-  --txt-btn-xl: 18px;
+  --txt-p-sm: 18px;
+  --txt-p-md: 20px;
+  --txt-p-xl: 22px;
+  --txt-h1-sm: 34px;
+  --txt-h1-md: 36px;
+  --txt-h1-xl: 38px;
+  --txt-h2-sm: 30px;
+  --txt-h2-md: 32px;
+  --txt-h2-xl: 34px;
+  --txt-h3-sm: 28px;
+  --txt-h3-md: 30px;
+  --txt-h3-xl: 32px;
+  --txt-h4-sm: 26px;
+  --txt-h4-md: 28px;
+  --txt-h4-xl: 30px;
+  --txt-h5-sm: 24px;
+  --txt-h5-md: 26px;
+  --txt-h5-xl: 28px;
+  --txt-btn-sm: 16px;
+  --txt-btn-md: 18px;
+  --txt-btn-xl: 20px;
 }
 
 body {

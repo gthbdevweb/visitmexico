@@ -36,7 +36,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/aguascalientes/indexweb.html",
             "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
             "desciptionHover": "PARA CONOCER MÁS DE AGUASCALIENTES PRESIONA AQUÍ",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "BajaCalifornia",
@@ -73,7 +73,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/bajacalifornia/indexweb.html",
             "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
             "desciptionHover": "PARA CONOCER MÁS DE BAJA CALIFORNIA PRESIONA AQUÍ",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "BajaCaliforniaSur",
@@ -110,7 +110,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/bajacaliforniasur/indexweb.html",
             "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
             "desciptionHover": "PARA CONOCER MÁS DE BAJA CALIFORNIA SUR PRESIONA AQUÍ",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "Campeche",
@@ -147,7 +147,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/campeche/indexweb.html",
             "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
             "desciptionHover": "PARA CONOCER MÁS DE CAMPECHE PRESIONA AQUÍ",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "Chiapas",
@@ -184,7 +184,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/chiapas/indexweb.html",
             "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
             "desciptionHover": "PARA CONOCER MÁS DE CHIAPAS PRESIONA AQUÍ",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "Chihuahua",
@@ -221,7 +221,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/chihuahua/indexweb.html",
             "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
             "desciptionHover": "PARA CONOCER MÁS DE CHIHUAHUA PRESIONA AQUÍ",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "CiudadDeMexico",
@@ -252,7 +252,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/cdmx/indexweb.html",
             "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
             "desciptionHover": "PARA CONOCER MÁS DE CIUDAD DE MÉXICO PRESIONA AQUÍ",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "Coahuila",
@@ -289,7 +289,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/coahuila/indexweb.html",
             "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
             "desciptionHover": "PARA CONOCER MÁS DE COAHUILA PRESIONA AQUÍ",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "Colima",
@@ -326,7 +326,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/colima/indexweb.html",
             "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
             "desciptionHover": "PARA CONOCER MÁS DE COLIMA PRESIONA AQUÍ",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "Durango",
@@ -363,7 +363,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/durango/indexweb.html",
             "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
             "desciptionHover": "PARA CONOCER MÁS DE DURANGO PRESIONA AQUÍ",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "EstadoDeMexico",
@@ -400,7 +400,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/edomex/indexweb.html",
             "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
             "desciptionHover": "PARA CONOCER MÁS DE ESTADO DE MÉXICO PRESIONA AQUÍ",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "Guanajuato",
@@ -437,7 +437,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/guanajuato/indexweb.html",
             "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
             "desciptionHover": "PARA CONOCER MÁS DE GUANAJUATO PRESIONA AQUÍ",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "Guerrero",
@@ -474,7 +474,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/guerrero/indexweb.html",
             "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
             "desciptionHover": "PARA CONOCER MÁS DE GUERRERO PRESIONA AQUÍ",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "Hidalgo",
@@ -511,7 +511,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/hidalgo/indexweb.html",
             "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
             "desciptionHover": "PARA CONOCER MÁS DE HIDALGO PRESIONA AQUÍ",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "Jalisco",
@@ -548,7 +548,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/jalisco/indexweb.html",
             "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
             "desciptionHover": "PARA CONOCER MÁS DE JALISCO PRESIONA AQUÍ",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "Michoacan",
@@ -585,7 +585,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/michoacan/indexweb.html",
             "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
             "desciptionHover": "PARA CONOCER MÁS DE MICHOACÁN PRESIONA AQUÍ",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "Morelos",
@@ -622,7 +622,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/morelos/indexweb.html",
             "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
             "desciptionHover": "PARA CONOCER MÁS DE MORELOS PRESIONA AQUÍ",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "Nayarit",
@@ -659,7 +659,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/nayarit/indexweb.html",
             "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
             "desciptionHover": "PARA CONOCER MÁS DE NAYARIT PRESIONA AQUÍ",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "NuevoLeon",
@@ -696,7 +696,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/nuevoleon/indexweb.html",
             "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
             "desciptionHover": "PARA CONOCER MÁS DE NUEVO LEÓN PRESIONA AQUÍ",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "Oaxaca",
@@ -733,7 +733,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/oaxaca/indexweb.html",
             "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
             "desciptionHover": "PARA CONOCER MÁS DE OAXACA PRESIONA AQUÍ",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "Puebla",
@@ -770,7 +770,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/puebla/indexweb.html",
             "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
             "desciptionHover": "PARA CONOCER MÁS DE PUEBLA PRESIONA AQUÍ",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "Queretaro",
@@ -807,7 +807,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/queretaro/indexweb.html",
             "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
             "desciptionHover": "PARA CONOCER MÁS DE QUERÉTARO PRESIONA AQUÍ",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "QuintanaRoo",
@@ -844,7 +844,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/quintanaroo/indexweb.html",
             "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
             "desciptionHover": "PARA CONOCER MÁS DE QUINTANA ROO PRESIONA AQUÍ",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "SanLuisPotosi",
@@ -881,7 +881,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/sanluispotosi/indexweb.html",
             "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
             "desciptionHover": "PARA CONOCER MÁS DE SAN LUIS POTOSÍ PRESIONA AQUÍ",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "Sinaloa",
@@ -918,7 +918,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/sinaloa/indexweb.html",
             "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
             "desciptionHover": "PARA CONOCER MÁS DE SINALOA PRESIONA AQUÍ",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "Sonora",
@@ -955,7 +955,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/sonora/indexweb.html",
             "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
             "desciptionHover": "PARA CONOCER MÁS DE SONORA PRESIONA AQUÍ",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "Tabasco",
@@ -992,7 +992,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/tabasco/indexweb.html",
             "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
             "desciptionHover": "PARA CONOCER MÁS DE TABASCO PRESIONA AQUÍ",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "Tamaulipas",
@@ -1029,7 +1029,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/tamaulipas/indexweb.html",
             "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
             "desciptionHover": "PARA CONOCER MÁS DE TAMAULIPAS PRESIONA AQUÍ",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "Tlaxcala",
@@ -1066,7 +1066,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/tlaxcala/indexweb.html",
             "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
             "desciptionHover": "PARA CONOCER MÁS DE TLAXCALA PRESIONA AQUÍ",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "Veracruz",
@@ -1103,7 +1103,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/veracruz/indexweb.html",
             "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
             "desciptionHover": "PARA CONOCER MÁS DE VERACRUZ PRESIONA AQUÍ",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "Yucatan",
@@ -1140,7 +1140,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/yucatan/indexweb.html",
             "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
             "desciptionHover": "PARA CONOCER MÁS DE YUCATÁN PRESIONA AQUÍ",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "Zacatecas",
@@ -1177,7 +1177,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/zacatecas/indexweb.html",
             "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
             "desciptionHover": "PARA CONOCER MÁS DE ZACATECAS PRESIONA AQUÍ",
-            "dir": "/estado"
+            "dir": "/destino"
         }
     ]
 }

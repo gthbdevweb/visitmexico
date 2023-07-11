@@ -56,7 +56,7 @@ const TipsForTraveling = () => {
           to='/rutas-gastronomicas'
         >
           <button className='btn btn-outline-primary class-button-gastronomic'>
-            Galeria
+            Más
           </button>
         </Link> */}
       </div>

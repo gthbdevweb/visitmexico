@@ -36,7 +36,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/aguascalientes/indexweb.html",
             "descriptionShort": "旅行リストに載せるべき 5 つの理由をご覧ください。",
             "desciptionHover": "もっと詳しく知るには AGUASCALIENTES ここを押してください",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "BajaCalifornia",
@@ -73,7 +73,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/bajacalifornia/indexweb.html",
             "descriptionShort": "旅行リストに載せるべき 5 つの理由をご覧ください。",
             "desciptionHover": "もっと詳しく知るには BAJA CALIFORNIA ここを押してください",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "BajaCaliforniaSur",
@@ -110,7 +110,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/bajacaliforniasur/indexweb.html",
             "descriptionShort": "旅行リストに載せるべき 5 つの理由をご覧ください。",
             "desciptionHover": "もっと詳しく知るには BAJA CALIFORNIA SUR ここを押してください",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "Campeche",
@@ -147,7 +147,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/campeche/indexweb.html",
             "descriptionShort": "旅行リストに載せるべき 5 つの理由をご覧ください。",
             "desciptionHover": "もっと詳しく知るには CAMPECHE ここを押してください",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "Chiapas",
@@ -184,7 +184,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/chiapas/indexweb.html",
             "descriptionShort": "旅行リストに載せるべき 5 つの理由をご覧ください。",
             "desciptionHover": "もっと詳しく知るには CHIAPAS ここを押してください",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "Chihuahua",
@@ -221,7 +221,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/chihuahua/indexweb.html",
             "descriptionShort": "旅行リストに載せるべき 5 つの理由をご覧ください。",
             "desciptionHover": "もっと詳しく知るには CHIHUAHUA ここを押してください",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "CiudadDeMexico",
@@ -258,7 +258,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/cdmx/indexweb.html",
             "descriptionShort": "メキシコシティを訪れたい5つの理由",
             "desciptionHover": "PARA CONOCER MÁS DE CIUDAD DE MÉXICO PRESIONA AQUÍ",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "Coahuila",
@@ -295,7 +295,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/coahuila/indexweb.html",
             "descriptionShort": "旅行リストに載せるべき 5 つの理由をご覧ください。",
             "desciptionHover": "もっと詳しく知るには COAHUILA ここを押してください",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "Colima",
@@ -332,7 +332,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/colima/indexweb.html",
             "descriptionShort": "旅行リストに載せるべき 5 つの理由をご覧ください。",
             "desciptionHover": "もっと詳しく知るには COLIMA ここを押してください",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "Durango",
@@ -369,7 +369,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/durango/indexweb.html",
             "descriptionShort": "旅行リストに載せるべき 5 つの理由をご覧ください。",
             "desciptionHover": "もっと詳しく知るには DURANGO ここを押してください",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "EstadoDeMexico",
@@ -406,7 +406,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/edomex/indexweb.html",
             "descriptionShort": "旅行リストに載せるべき 5 つの理由をご覧ください。",
             "desciptionHover": "もっと詳しく知るには ESTADO DE MÉXICO ここを押してください",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "Guanajuato",
@@ -443,7 +443,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/guanajuato/indexweb.html",
             "descriptionShort": "旅行リストに載せるべき 5 つの理由をご覧ください。",
             "desciptionHover": "もっと詳しく知るには GUANAJUATO ここを押してください",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "Guerrero",
@@ -480,7 +480,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/guerrero/indexweb.html",
             "descriptionShort": "旅行リストに載せるべき 5 つの理由をご覧ください。",
             "desciptionHover": "もっと詳しく知るには GUERRERO ここを押してください",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "Hidalgo",
@@ -517,7 +517,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/hidalgo/indexweb.html",
             "descriptionShort": "旅行リストに載せるべき 5 つの理由をご覧ください。",
             "desciptionHover": "もっと詳しく知るには HIDALGO ここを押してください",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "Jalisco",
@@ -554,7 +554,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/jalisco/indexweb.html",
             "descriptionShort": "旅行リストに載せるべき 5 つの理由をご覧ください。",
             "desciptionHover": "もっと詳しく知るには JALISCO ここを押してください",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "Michoacan",
@@ -591,7 +591,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/michoacan/indexweb.html",
             "descriptionShort": "旅行リストに載せるべき 5 つの理由をご覧ください。",
             "desciptionHover": "もっと詳しく知るには MICHOACÁN ここを押してください",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "Morelos",
@@ -628,7 +628,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/morelos/indexweb.html",
             "descriptionShort": "旅行リストに載せるべき 5 つの理由をご覧ください。",
             "desciptionHover": "もっと詳しく知るには MORELOS ここを押してください",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "Nayarit",
@@ -665,7 +665,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/nayarit/indexweb.html",
             "descriptionShort": "旅行リストに載せるべき 5 つの理由をご覧ください。",
             "desciptionHover": "もっと詳しく知るには NAYARIT ここを押してください",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "NuevoLeon",
@@ -702,7 +702,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/nuevoleon/indexweb.html",
             "descriptionShort": "旅行リストに載せるべき 5 つの理由をご覧ください。",
             "desciptionHover": "もっと詳しく知るには NUEVO LEÓN ここを押してください",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "Oaxaca",
@@ -739,7 +739,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/oaxaca/indexweb.html",
             "descriptionShort": "旅行リストに載せるべき 5 つの理由をご覧ください。",
             "desciptionHover": "もっと詳しく知るには OAXACA ここを押してください",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "Puebla",
@@ -776,7 +776,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/puebla/indexweb.html",
             "descriptionShort": "旅行リストに載せるべき 5 つの理由をご覧ください。",
             "desciptionHover": "もっと詳しく知るには PUEBLA ここを押してください",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "Queretaro",
@@ -813,7 +813,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/queretaro/indexweb.html",
             "descriptionShort": "旅行リストに載せるべき 5 つの理由をご覧ください。",
             "desciptionHover": "もっと詳しく知るには QUERÉTARO ここを押してください",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "QuintanaRoo",
@@ -850,7 +850,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/quintanaroo/indexweb.html",
             "descriptionShort": "旅行リストに載せるべき 5 つの理由をご覧ください。",
             "desciptionHover": "もっと詳しく知るには QUINTANA ROO ここを押してください",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "SanLuisPotosi",
@@ -887,7 +887,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/sanluispotosi/indexweb.html",
             "descriptionShort": "旅行リストに載せるべき 5 つの理由をご覧ください。",
             "desciptionHover": "もっと詳しく知るには SAN LUIS POTOSÍ ここを押してください",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "Sinaloa",
@@ -924,7 +924,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/sinaloa/indexweb.html",
             "descriptionShort": "旅行リストに載せるべき 5 つの理由をご覧ください。",
             "desciptionHover": "もっと詳しく知るには SINALOA ここを押してください",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "Sonora",
@@ -961,7 +961,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/sonora/indexweb.html",
             "descriptionShort": "旅行リストに載せるべき 5 つの理由をご覧ください。",
             "desciptionHover": "もっと詳しく知るには SONORA ここを押してください",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "Tabasco",
@@ -998,7 +998,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/tabasco/indexweb.html",
             "descriptionShort": "旅行リストに載せるべき 5 つの理由をご覧ください。",
             "desciptionHover": "もっと詳しく知るには TABASCO ここを押してください",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "Tamaulipas",
@@ -1035,7 +1035,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/tamaulipas/indexweb.html",
             "descriptionShort": "旅行リストに載せるべき 5 つの理由をご覧ください。",
             "desciptionHover": "もっと詳しく知るには TAMAULIPAS ここを押してください",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "Tlaxcala",
@@ -1072,7 +1072,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/tlaxcala/indexweb.html",
             "descriptionShort": "旅行リストに載せるべき 5 つの理由をご覧ください。",
             "desciptionHover": "もっと詳しく知るには TLAXCALA ここを押してください",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "Veracruz",
@@ -1109,7 +1109,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/veracruz/indexweb.html",
             "descriptionShort": "旅行リストに載せるべき 5 つの理由をご覧ください。",
             "desciptionHover": "もっと詳しく知るには VERACRUZ ここを押してください",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "Yucatan",
@@ -1146,7 +1146,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/yucatan/indexweb.html",
             "descriptionShort": "旅行リストに載せるべき 5 つの理由をご覧ください。",
             "desciptionHover": "もっと詳しく知るには YUCATÁN ここを押してください",
-            "dir": "/estado"
+            "dir": "/destino"
         },
         {
             "id": "Zacatecas",
@@ -1183,7 +1183,7 @@
             "urlVideoBottom": "https://www.mexico360.com.mx/zacatecas/indexweb.html",
             "descriptionShort": "旅行リストに載せるべき 5 つの理由をご覧ください。",
             "desciptionHover": "もっと詳しく知るには ZACATECAS ここを押してください",
-            "dir": "/estado"
+            "dir": "/destino"
         }
     ]
 }

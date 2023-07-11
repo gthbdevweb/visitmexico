@@ -52,7 +52,7 @@ const ColonialTreasures = () => {
       {/*<Link
         to='/sol-y-playa'
       >
-        <button className='btn btn-outline-primary class-button-romance'>Galería</button>
+        <button className='btn btn-outline-primary class-button-romance'>Más</button>
       </Link>*/}
       <button
         className="colonial-treasures-btn-show btn btn-outline-primary"

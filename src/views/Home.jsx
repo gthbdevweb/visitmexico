@@ -1,6 +1,7 @@
-import React, { useEffect } from 'react';
+import React, { useState, useEffect } from 'react';
 import { LazyLoadComponent } from 'react-lazy-load-image-component';
 import ReactGA from 'react-ga';
+import Loader from '../components/Loader';
 import Hero from '../components/Hero';
 import Places from '../components/Places';
 import Description from '../components/Description';
@@ -21,24 +22,38 @@ const useAnalyticsEventTracker = (category="Home") => {
 
 const Home = () => {
   const gaEventTracker = useAnalyticsEventTracker('Ingresando al inicio');
+  const [loading, setLoading] = useState(true);
 
   useEffect(() => {
     gaEventTracker('open')
   }, []);
 
+  useEffect(() => {
+    setTimeout(() => {
+      setLoading(false)
+    }, 5000);
+  }, [])
+
   return (
-    <div className="main-content">
-      <Rss />
-        <Hero />
-      <LazyLoadComponent>
-        <Places />
-        <Description />
-        <Slider />
-        <VideoHome />
-        <Features />
-        {/* <Sections /> */}
-      </LazyLoadComponent>
-    </div>
+    <>
+      {!loading ?
+      <div className="main-content">
+        <Rss />
+          <Hero />
+        <LazyLoadComponent>
+          <Places />
+          <Description />
+          <Slider />
+          <VideoHome />
+          <Features />
+          {/* <Sections /> */}
+        </LazyLoadComponent>
+      </div>
+      :
+      <div className="main-content">
+        <Loader/>
+      </div>}
+    </>
   )
 };
 

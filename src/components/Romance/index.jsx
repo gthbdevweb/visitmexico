@@ -49,7 +49,7 @@ const Romance = () => {
       <Link
         to='/romance'
       >
-        <button className='btn btn-outline-primary class-button-romance'>Galería</button>
+        <button className='btn btn-outline-primary class-button-romance'>Más</button>
       </Link>
     </section>
   )

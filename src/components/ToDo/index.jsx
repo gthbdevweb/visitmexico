@@ -52,7 +52,7 @@ const ToDo = () => {
       {/* <Link
         to='/sol-y-playa'
       >
-        <button className='btn btn-outline-primary class-button-romance'>Galería</button>
+        <button className='btn btn-outline-primary class-button-romance'>Más</button>
       </Link> */}
       <button
         className="to-do-btn-show btn btn-outline-primary"

@@ -52,7 +52,7 @@ const NationalFairs = () => {
       {/* <Link
         to='/sol-y-playa'
       >
-        <button className='btn btn-outline-primary class-button-romance'>Galería</button>
+        <button className='btn btn-outline-primary class-button-romance'>Más</button>
       </Link> */}
       <button
         className="national-fairs-btn-show btn btn-outline-primary"

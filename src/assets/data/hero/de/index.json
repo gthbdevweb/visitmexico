@@ -38,7 +38,7 @@
             "actions": {
                 "button": {
                     "text" : "Auf geht's dahin!",
-                    "dir": "/estado/NuevoLeon"
+                    "dir": "/destino/NuevoLeon"
                 }
             }
         }
