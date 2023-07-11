@@ -1,0 +1,64 @@
+{
+    "header": {
+        "title": "どのメキシコを知りたいですか？",
+        "description": ""
+    },
+    "menu": [
+        {
+            "name": "トレン・マヤ（マヤ観光鉄道）",
+            "dir": "/trenmaya",
+            "urlImg": "trenMaya.webp",
+            "description": "トレン・マヤ（マヤ観光鉄道）",
+            "hover": "マヤ観光鉄道へ行こう"
+        },
+        {
+            "name": "エリアから探す",
+            "dir": "/estados",
+            "urlImg": "MOR-Tepoztlan-ExConventoNatividad-PuebloMagico-GerardoJuarez-4858_2-_1__11zon.webp",
+            "description": "エリアから探す",
+            "hover": "諸州へ行こう"
+        },
+        {
+            "name": "魔法の街を紹介",
+            "dir": "/pueblos",
+            "urlImg": "Pueblos-magicos.webp",
+            "description": "魔法の街を紹介",
+            "hover": "魔法の街へ行こう"
+        },
+        {
+            "name": "国際イベント一覧",
+            "dir": "/eventos",
+            "urlImg": "f1evento.webp",
+            "description": "国際イベント一覧",
+            "hover": "国際イベントへ行こう"
+        },
+        {
+            "name": "Experiencias",
+            "dir": "/experiencias",
+            "urlImg": "Qroo_cancun_playa108.webp",
+            "description": "Experiencias",
+            "hover": "¡Vamos a Experiencias!"
+        },
+        {
+            "name": "イベント日程表",
+            "dir": "/calendario",
+            "urlImg": "blog.webp",
+            "description": "イベント日程表",
+            "hover": "イベント日程表へ行こう"
+        },
+        {
+            "name": "ブログ",
+            "dir": "/blog",
+            "urlImg": "MOR_xochicalco_t_156-_1__11zon.webp",
+            "description": "ブログ",
+            "hover": "ブログへ行こう"
+        },
+        {
+            "name": "動画",
+            "dir": "/videos",
+            "urlImg": "videos.webp",
+            "description": "動画",
+            "hover": "動画へ行こう"
+        }
+    ]
+}

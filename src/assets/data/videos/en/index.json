@@ -17,8 +17,8 @@
             ] 
         },
         {
-            "name": "Destino del mes",
-            "decription": "Conoce los principales destinos por estado, tesoros coloniales y ciudades patrimonio de México.",
+            "name": "DESTINATION OF THE MONTH",
+            "decription": "Learn about Mexico’s main destinations by state, its colonial treasures and its heritage ",
             "content": [
                 {
                     "id": 1,
@@ -39,8 +39,8 @@
             ] 
         },
         {
-            "name": "Lo imperdible",
-            "decription": "Lugares de interés, comida, eventos, cultura y costumbres para conocer nuestras maravillas.",
+            "name": "BEST THINGS TO DO",
+            "decription": "Places of interest, food, events, culture and traditions to get to know our wonders.",
             "content": [
                 {
                     "id": 1,
@@ -57,7 +57,8 @@
                 {
                     "id": 4,
                     "urlVideo": "https://www.youtube.com/embed/L_GBrxICTe4"
-                },
+                }
+                ,
                 {
                     "id": 5,
                     "urlVideo": "https://www.youtube.com/embed/vyj7S5IoX1Q"
@@ -65,8 +66,8 @@
             ] 
         },
         {
-            "name": "Así viajan ellos",
-            "decription": "Personalidades te dan tips para viajar.",
+            "name": "THAT’S HOW THEY TRAVEL",
+            "decription": "Celebrities give you their best travel tips.",
             "content": [
                 {
                     "id": 1,
@@ -87,8 +88,8 @@
             ] 
         },
         {
-            "name": "Triviajero",
-            "decription": "¿Qué tanto sabes de México? Ponte a prueba.",
+            "name": "TRAVEL TRIVIA",
+            "decription": "How much do you know about Mexico? Test your knowledge.",
             "content": [
                 {
                     "id": 1,
@@ -109,8 +110,8 @@
             ] 
         },
         {
-            "name": "Conociendo México",
-            "decription": "Descubre México a través de sus Ferias nacionales y de su cultura.",
+            "name": "DISCOVERING MEXICO",
+            "decription": "Discover Mexico through its National Fairs and its culture.",
             "content": [
                 {
                     "id": 1,

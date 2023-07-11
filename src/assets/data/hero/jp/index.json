@@ -1,0 +1,97 @@
+{
+2
+    "carousel": [
+3
+        {
+4
+            "url": "nuevosnombramientos.webp",
+5
+            "id": "Nayarit",
+6
+            "content": {
+7
+                "title": "",
+8
+                "subtitle": ""
+9
+            },
+10
+            "actions": {
+11
+                "button": {
+12
+                    "text" : "そこへ行こう",
+13
+                    "dir": "/pueblos"
+14
+                }
+15
+            }
+16
+        },
+17
+        {
+18
+            "url": "mexicoatraves.webp",
+19
+            "id": "San Luis Potosí",
+20
+            "content": {
+21
+                "title": "",
+22
+                "subtitle": ""
+23
+            },
+24
+            "actions": {
+25
+                "button": {
+26
+                    "text" : "そこへ行こう",
+27
+                    "dir": "/videos"
+28
+                }
+29
+            }
+30
+        }, 
+31
+        {
+32
+            "url": "NuevoLeon_Portada.webp",
+33
+            "id": "Nuevo León",
+34
+            "content": {
+35
+                "title": "Nuevo León:",
+36
+                "subtitle": "Explora la Esencia del Norte de México."
+37
+            },
+38
+            "actions": {
+39
+                "button": {
+40
+                    "text" : "そこへ行こう",
+41
+                    "dir": "/estado/NuevoLeon"
+42
+                }
+43
+            }
+44
+        }
+45
+    ],
+46
+    "brand": {
+47
+        "text": "世界で人気の旅行先（訪問者ランキング）のトップ10にメキシコもランクイン"
+48
+    }
+49
+}

@@ -1,64 +1,64 @@
 {
     "header": {
-        "title": "¿QUÉ MÉXICO QUIERES CONOCER?",
+        "title": "WHICH MEXICO DO YOU WANT TO FIND?",
         "description": ""
     },
     "menu": [
         {
-            "name": "Tren Maya",
+            "name": "Mayan Train",
             "dir": "/trenmaya",
             "urlImg": "trenMaya.webp",
             "description": "Tren Maya",
-            "hover": "¡Vamos a Tren Maya!"
+            "hover": "Let’s go to Tren Maya!"
         },
         {
-            "name": "Estados",
+            "name": "States",
             "dir": "/estados",
             "urlImg": "MOR-Tepoztlan-ExConventoNatividad-PuebloMagico-GerardoJuarez-4858_2-_1__11zon.webp",
             "description": "Estados",
-            "hover": "¡Vamos a Estados!"
+            "hover": "Let’s go to States!"
         },
         {
             "name": "Pueblos Mágicos",
             "dir": "/pueblos",
             "urlImg": "Pueblos-magicos.webp",
             "description": "Pueblos Mágicos",
-            "hover": "¡Vamos a Pueblos Mágicos!"
+            "hover": "Let’s go to Pueblos Mágicos!"
         },
         {
-            "name": "Eventos Internacionales",
+            "name": "International Events",
             "dir": "/eventos",
             "urlImg": "f1evento.webp",
             "description": "Eventos Internacionales",
-            "hover": "¡Vamos a Eventos Internacionales!"
+            "hover": "Let’s go to International Events!"
         },
         {
-            "name": "Experiencias",
+            "name": "Adventure Tourism",
             "dir": "/experiencias",
             "urlImg": "Qroo_cancun_playa108.webp",
             "description": "Experiencias",
-            "hover": "¡Vamos a Experiencias!"
+            "hover": "Let's go to Adventure!"
         },
         {
-            "name": "Calendario",
+            "name": "Calendar",
             "dir": "/calendario",
             "urlImg": "blog.webp",
             "description": "Calendario",
-            "hover": "¡Vamos a Calendario!"
+            "hover": "Let's go to Calendar!"
         },
         {
             "name": "Blog",
             "dir": "/blog",
             "urlImg": "MOR_xochicalco_t_156-_1__11zon.webp",
             "description": "Blog",
-            "hover": "¡Vamos a Blog!"
+            "hover": "Let's go to Blog!"
         },
         {
             "name": "Videos",
             "dir": "/videos",
             "urlImg": "videos.webp",
             "description": "Videos",
-            "hover": "¡Vamos a Videos!"
+            "hover": "Let's go to Videos!"
         }
     ]
 }

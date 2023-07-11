@@ -1,0 +1,160 @@
+{
+    "title": "Conoce los principales destinos por estado, tesoros coloniales y ciudades patrimonio de México",
+    "urlVideoHeader": "https://www.youtube.com/embed/Uf40GtVbG60",
+    "videos": [
+        {
+            "name": "Tianguis turístico",
+            "decription": "",
+            "content": [
+                {
+                    "id": 1,
+                    "urlVideo": "https://www.youtube.com/embed/q_8XWtdqcLA"
+                },
+                {
+                    "id": 2,
+                    "urlVideo": "https://www.youtube.com/embed/Uf40GtVbG60"
+                }
+            ] 
+        },
+        {
+            "name": "本月最佳目的地",
+            "decription": "欢迎你了解墨西哥各州的顶级目的地、殖民时期瑰宝与世界遗产城市。",
+            "content": [
+                {
+                    "id": 1,
+                    "urlVideo": "https://www.youtube.com/embed/i_BIh-F8EA8"
+                },
+                {
+                    "id": 2,
+                    "urlVideo": "https://www.youtube.com/embed/i_BIh-F8EA8"
+                },
+                {
+                    "id": 3,
+                    "urlVideo": "https://www.youtube.com/embed/a5zpkQ-FxUI"
+                },
+                {
+                    "id": 4,
+                    "urlVideo": "https://www.youtube.com/embed/xkdr7GYG5pw"
+                }
+            ] 
+        },
+        {
+            "name": "机不可失",
+            "decription": "旅游景点、美食、活动、文化与习俗：你来体验墨西哥的精华。",
+            "content": [
+                {
+                    "id": 1,
+                    "urlVideo": "https://www.youtube.com/embed/yTGCT8xJtLM"
+                },
+                {
+                    "id": 2,
+                    "urlVideo": "https://www.youtube.com/embed/LQ-dqJPHc3A"
+                },
+                {
+                    "id": 3,
+                    "urlVideo": "https://www.youtube.com/embed/3sxnZFRCUgQ"
+                },
+                {
+                    "id": 4,
+                    "urlVideo": "https://www.youtube.com/embed/L_GBrxICTe4"
+                }
+                ,
+                {
+                    "id": 5,
+                    "urlVideo": "https://www.youtube.com/embed/uoCpf3o1zEg"
+                }
+            ] 
+        },
+        {
+            "name": "名人如何旅行",
+            "decription": "名人为你提供旅行建议",
+            "content": [
+                {
+                    "id": 1,
+                    "urlVideo": "https://www.youtube.com/embed/-Yzq9BC_ocs"
+                },
+                {
+                    "id": 2,
+                    "urlVideo": "https://www.youtube.com/embed/XHWX9PPGNeE"
+                },
+                {
+                    "id": 3,
+                    "urlVideo": "https://www.youtube.com/embed/r1_UKN1WtSw"
+                },
+                {
+                    "id": 4,
+                    "urlVideo": "https://www.youtube.com/embed/5un7BNHlcEE"
+                }
+            ] 
+        },
+        {
+            "name": "旅行者冷知识",
+            "decription": "你对墨西哥了解多少？亲昵做个小测验吧！",
+            "content": [
+                {
+                    "id": 1,
+                    "urlVideo": "https://www.youtube.com/embed/7Yoqsvvw1AU"
+                },
+                {
+                    "id": 2,
+                    "urlVideo": "https://www.youtube.com/embed/rBDFpoWL8kE"
+                },
+                {
+                    "id": 3,
+                    "urlVideo": "https://www.youtube.com/embed/taFEOphMzYo"
+                },
+                {
+                    "id": 4,
+                    "urlVideo": "https://www.youtube.com/embed/JYRVuHXLhuY"
+                }
+            ] 
+        },
+        {
+            "name": "了解墨西哥",
+            "decription": "请你通过国家博览会与传统文化来发现墨西哥。",
+            "content": [
+                {
+                    "id": 1,
+                    "urlVideo": "https://www.youtube.com/embed/HMBotewDNDs"
+                },
+                {
+                    "id": 2,
+                    "urlVideo": "https://www.youtube.com/embed/tw2F0-I3Tng"
+                },
+                {
+                    "id": 3,
+                    "urlVideo": "https://www.youtube.com/embed/HCljfO9zg2g"
+                },
+                {
+                    "id": 4,
+                    "urlVideo": "https://www.youtube.com/embed/ws-ef907aKg"
+                }
+            ] 
+        },
+        {
+            "name": "Gran acuario de Mazatlán",
+            "decription": "",
+            "content": [
+                {
+                    "id": 1,
+                    "urlVideo": "https://www.youtube.com/embed/dNIrs66OMOo"
+                }
+            ] 
+        }
+    ],
+    "videoInterested": [
+        {
+            "id": 1,
+            "urlVideo": "https://www.youtube.com/embed/dNIrs66OMOo"
+        },
+        {
+            "id": 2,
+            "urlVideo": "https://www.youtube.com/embed/ws-ef907aKg"
+        },
+        {
+            "id": 3,
+            "urlVideo": "https://www.youtube.com/embed/8I0bQgC1418"
+        }
+    ],
+    "linkTitle": "Quizás también te interese..."
+}

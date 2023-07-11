@@ -1,0 +1,64 @@
+{
+    "header": {
+        "title": "¿QUÉ MÉXICO QUIERES CONOCER?",
+        "description": ""
+    },
+    "menu": [
+        {
+            "name": "Train Maya",
+            "dir": "/trenmaya",
+            "urlImg": "trenMaya.webp",
+            "description": "Train Maya",
+            "hover": "Aller à Train Maya !"
+        },
+        {
+            "name": "États",
+            "dir": "/estados",
+            "urlImg": "MOR-Tepoztlan-ExConventoNatividad-PuebloMagico-GerardoJuarez-4858_2-_1__11zon.webp",
+            "description": "États",
+            "hover": "Aller à États !"
+        },
+        {
+            "name": "Pueblos Mágicos",
+            "dir": "/pueblos",
+            "urlImg": "Pueblos-magicos.webp",
+            "description": "Pueblos Mágicos",
+            "hover": "Aller à Pueblos Mágicos !"
+        },
+        {
+            "name": "Événements internacionaux",
+            "dir": "/eventos",
+            "urlImg": "f1evento.webp",
+            "description": "Événements internacionaux",
+            "hover": "Aller à Événements internacionaux !"
+        },
+        {
+            "name": "Tourisme d’aventure",
+            "dir": "/experiencias",
+            "urlImg": "Qroo_cancun_playa108.webp",
+            "description": "Tourisme d’aventure",
+            "hover": "Aller à l’Aventure !"
+        },
+        {
+            "name": "Agenda",
+            "dir": "/calendario",
+            "urlImg": "blog.webp",
+            "description": "Agenda",
+            "hover": "Aller à l’Agenda !"
+        },
+        {
+            "name": "Blog",
+            "dir": "/blog",
+            "urlImg": "MOR_xochicalco_t_156-_1__11zon.webp",
+            "description": "Blog",
+            "hover": "Aller à Blog !"
+        },
+        {
+            "name": "Vidéos",
+            "dir": "/videos",
+            "urlImg": "videos.webp",
+            "description": "Vidéos",
+            "hover": "Aller à Vidéos !"
+        }
+    ]
+}

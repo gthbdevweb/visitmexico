@@ -1,0 +1,49 @@
+{
+    "carousel": [
+        {
+            "url": "nuevosnombramientos.webp",
+            "id": "Nayarit",
+            "content": {
+                "title": "迷人的纳亚里特州",
+                "subtitle": "发现墨西哥太平洋的瑰宝。"
+            },
+            "actions": {
+                "button": {
+                    "text" : "我们看一下那里吧!",
+                    "dir": "/pueblos"
+                }
+            }
+        },
+        {
+            "url": "mexicoatraves.webp",
+            "id": "San Luis Potosí",
+            "content": {
+                "title": "发现圣路易斯波托西州",
+                "subtitle": "墨西哥中心地带的自然和文化宝藏。"
+            },
+            "actions": {
+                "button": {
+                    "text" : "我们看一下那里吧!",
+                    "dir": "/videos"
+                }
+            }
+        }, 
+        {
+            "url": "NuevoLeon_Portada.webp",
+            "id": "Nuevo León",
+            "content": {
+                "title": "新莱昂州:",
+                "subtitle": "探索墨西哥北部的精华。"
+            },
+            "actions": {
+                "button": {
+                    "text" : "我们看一下那里吧!",
+                    "dir": "/estado/NuevoLeon"
+                }
+            }
+        }
+    ],
+    "brand": {
+        "text": "México dentro del Top Rank de los 10 países más visitados en el mundo."
+    }
+}

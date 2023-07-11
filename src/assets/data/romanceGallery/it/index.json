@@ -1,0 +1,29 @@
+{
+    "title": "Turismo de Romance",
+    "gallery": [
+        {
+            "imageUrl": "Boda-tradicional-Olmeca-Veracruz.webp",
+            "title": "Boda Tradicional Olmeca, Veracruz"
+        },
+        {
+            "imageUrl": "Ceremonia-Wixarika-Nayarit.webp",
+            "title": "Ceremonia Wixarika, Nayarit"
+        },
+        {
+            "imageUrl": "Ceremonia-Wixarika-Zacatecas.webp",
+            "title": "Ceremonia Wixarika, Zacatecas"
+        },
+        {
+            "imageUrl": "La-novia-de-Puebla.webp",
+            "title": "La novia de Puebla"
+        },
+        {
+            "imageUrl": "Novios-Queretaro-4.webp",
+            "title": "Novios Querétaro"
+        },
+        {
+            "imageUrl": "Pareja-Queretaro-3.webp",
+            "title": "Pareja Querétaro"
+        }
+    ]
+}
