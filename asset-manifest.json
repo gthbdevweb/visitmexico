@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/visitmexico/static/css/main.8e57fbe6.css",
-    "main.js": "/visitmexico/static/js/main.c6af9ec4.js",
+    "main.css": "/visitmexico/static/css/main.7bdf6978.css",
+    "main.js": "/visitmexico/static/js/main.8aae243a.js",
     "static/js/787.8f5b6e93.chunk.js": "/visitmexico/static/js/787.8f5b6e93.chunk.js",
     "static/media/Travel-Guide-Riviera-Maya.pdf": "/visitmexico/static/media/Travel-Guide-Riviera-Maya.d93db2fe171f4437cb76.pdf",
     "static/media/Reisefuhrer-Riviera-Maya.pdf": "/visitmexico/static/media/Reisefuhrer-Riviera-Maya.0df2f777481a4d03ed67.pdf",
@@ -217,12 +217,12 @@
     "static/media/BCS_cabo_pulmo_26_11zon.webp": "/visitmexico/static/media/BCS_cabo_pulmo_26_11zon.30b06773207adff07a7f.webp",
     "static/media/OAX_costa_25_11zon.webp": "/visitmexico/static/media/OAX_costa_25_11zon.9b7f7971111af89e5ed7.webp",
     "index.html": "/visitmexico/index.html",
-    "main.8e57fbe6.css.map": "/visitmexico/static/css/main.8e57fbe6.css.map",
-    "main.c6af9ec4.js.map": "/visitmexico/static/js/main.c6af9ec4.js.map",
+    "main.7bdf6978.css.map": "/visitmexico/static/css/main.7bdf6978.css.map",
+    "main.8aae243a.js.map": "/visitmexico/static/js/main.8aae243a.js.map",
     "787.8f5b6e93.chunk.js.map": "/visitmexico/static/js/787.8f5b6e93.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8e57fbe6.css",
-    "static/js/main.c6af9ec4.js"
+    "static/css/main.7bdf6978.css",
+    "static/js/main.8aae243a.js"
   ]
 }
