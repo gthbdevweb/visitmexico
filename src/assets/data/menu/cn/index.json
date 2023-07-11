@@ -1,0 +1,64 @@
+{
+    "header": {
+        "title": "¿QUÉ MÉXICO QUIERES CONOCER?",
+        "description": ""
+    },
+    "menu": [
+        {
+            "name": "玛雅火车",
+            "dir": "/trenmaya",
+            "urlImg": "trenMaya.webp",
+            "description": "玛雅火车",
+            "hover": "我们看一下玛雅火车!"
+        },
+        {
+            "name": "32个州",
+            "dir": "/estados",
+            "urlImg": "MOR-Tepoztlan-ExConventoNatividad-PuebloMagico-GerardoJuarez-4858_2-_1__11zon.webp",
+            "description": "32个州",
+            "hover": "我们看一下32个州!"
+        },
+        {
+            "name": "神奇小镇",
+            "dir": "/pueblos",
+            "urlImg": "Pueblos-magicos.webp",
+            "description": "神奇小镇",
+            "hover": "我们看一下神奇小镇!"
+        },
+        {
+            "name": "国际活动",
+            "dir": "/eventos",
+            "urlImg": "f1evento.webp",
+            "description": "国际活动",
+            "hover": "我们看一下国际活动!"
+        },
+        {
+            "name": "探险旅游",
+            "dir": "/experiencias",
+            "urlImg": "Qroo_cancun_playa108.webp",
+            "description": "探险旅游",
+            "hover": "我们看一下探险旅游!"
+        },
+        {
+            "name": "活动日历",
+            "dir": "/calendario",
+            "urlImg": "blog.webp",
+            "description": "活动日历",
+            "hover": "我们看一下活动日历!"
+        },
+        {
+            "name": "博客",
+            "dir": "/blog",
+            "urlImg": "MOR_xochicalco_t_156-_1__11zon.webp",
+            "description": "博客",
+            "hover": "我们看一下博客!"
+        },
+        {
+            "name": "视频",
+            "dir": "/videos",
+            "urlImg": "videos.webp",
+            "description": "视频",
+            "hover": "我们看一下视频!"
+        }
+    ]
+}

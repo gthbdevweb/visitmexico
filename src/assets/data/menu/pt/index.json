@@ -1,0 +1,64 @@
+{
+    "header": {
+        "title": "QUAL MÉXICO VOCÊ QUER CONHECER?",
+        "description": ""
+    },
+    "menu": [
+        {
+            "name": "Trem Maia",
+            "dir": "/trenmaya",
+            "urlImg": "trenMaya.webp",
+            "description": "Trem Maia",
+            "hover": "Vamos ao Trem Maia!"
+        },
+        {
+            "name": "Estados",
+            "dir": "/estados",
+            "urlImg": "MOR-Tepoztlan-ExConventoNatividad-PuebloMagico-GerardoJuarez-4858_2-_1__11zon.webp",
+            "description": "Estados",
+            "hover": "Vamos aos Estados!"
+        },
+        {
+            "name": "Pueblos Mágicos",
+            "dir": "/pueblos",
+            "urlImg": "Pueblos-magicos.webp",
+            "description": "Pueblos Mágicos",
+            "hover": "Vamos aos Pueblos Mágicos!"
+        },
+        {
+            "name": "Eventos Internacionais",
+            "dir": "/eventos",
+            "urlImg": "f1evento.webp",
+            "description": "Eventos Internacionales",
+            "hover": "¡Vamos a Eventos Internacionales!"
+        },
+        {
+            "name": "Experiencias",
+            "dir": "/experiencias",
+            "urlImg": "Qroo_cancun_playa108.webp",
+            "description": "Experiencias",
+            "hover": "¡Vamos a Experiencias!"
+        },
+        {
+            "name": "Calendário",
+            "dir": "/calendario",
+            "urlImg": "blog.webp",
+            "description": "Calendário",
+            "hover": "Vamos ao calendário!"
+        },
+        {
+            "name": "Blogue",
+            "dir": "/blog",
+            "urlImg": "MOR_xochicalco_t_156-_1__11zon.webp",
+            "description": "Blogue",
+            "hover": "Vamos ao blogue!"
+        },
+        {
+            "name": "Videos",
+            "dir": "/videos",
+            "urlImg": "videos.webp",
+            "description": "Videos",
+            "hover": "Vamos aos vídeos!"
+        }
+    ]
+}

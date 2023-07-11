@@ -1,0 +1,49 @@
+{
+    "title": "Tour gastronomici",
+    "gallery": [
+        {
+            "imageUrl": "Gastronomia-CochinitaPibil-HaciendaOchil150.webp",
+            "title": "Cochinita Pibil"
+        },
+        {
+            "imageUrl": "Gastronomia-Vaporcitos-HaciendaOchil51.webp",
+            "title": "Vaporcitos (tamales) de Quintana Roo"
+        },
+        {
+            "imageUrl": "HGO_acatlan_4_11zon.webp",
+            "title": "Elotes Acatlán, Hidalgo"
+        },
+        {
+            "imageUrl": "HGO_t2_actopan_356-_1__11zon.webp",
+            "title": "Taco de chinicuiles (gusanos de Maguey), Actopan, Hidalgo"
+        },
+        {
+            "imageUrl": "MEX_avandaro_t__147_11zon.webp",
+            "title": "Torre de mariscos, Avándaro"
+        },
+        {
+            "imageUrl": "Papadzules5_11zon.webp",
+            "title": "Papadzules yucatecos"
+        },
+        {
+            "imageUrl": "Papadzules_11zon.webp",
+            "title": "Papadzules yucatecos"
+        },
+        {
+            "imageUrl": "PUE-Puebla-Gastronomia-JoyasColoniales-FabianGarcilita-BC3_3712_11zon.webp",
+            "title": "Chile en nogada, Puebla"
+        },
+        {
+            "imageUrl": "Qroo_Lorenzillos_girls63-2_11zon.webp",
+            "title": "Del mar a su plato"
+        },
+        {
+            "imageUrl": "TMPS_tampico_2_131_11zon.webp",
+            "title": "Platón de mariscos, Tampico Tamaulipas"
+        },
+        {
+            "imageUrl": "Yucatan_Foto_13.webp",
+            "title": "Gastronomía Yucateca"
+        }
+    ]
+}

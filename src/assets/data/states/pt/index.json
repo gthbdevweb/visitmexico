@@ -1,0 +1,1192 @@
+{
+    "titleState": "Descubre los 5 motivos  para visitar los Estados de México",
+    "states": [
+        {
+            "id": "Aguascalientes",
+            "urlVideoTop": "https://www.youtube.com/embed/g-nm1J-WXwU?&autoplay=1",
+            "titleTop": "Aguascalientes",
+            "descriptionTop": "Aguascalientes está localizada no coração do México. É conhecida como o estado da terra boa, água cristalina, céu claro e gente simpática. ",
+            "urlImg": "AGS_aguascalientes_464.webp",
+            "actions": {
+                "button": {
+                    "text" : "PARA SABER MAIS SOBRE AGUASCALIENTES, CLIQUE AQUI",
+                    "dir": "https://www.vivaaguascalientes.com/"
+                }
+            },
+            "titleBottom": "Veja 5 motivos para incluir Aguascalientes na sua lista de viagens.",
+            "descriptionBottom": [
+                {
+                    "text": "Seus quatro bairros que compõem o Aguascalientes Clásico: Guadalupe, San Marcos, El Encino e La Estación."
+                },
+                {
+                    "text": "Sua tradição ferroviária de mais de 100 anos."
+                },
+                {
+                    "text": "O belo pôr do sol - com vista para o Cerro del Muerto."
+                },
+                {
+                    "text": "Fontes de águas termais, que deram o nome ao estado."
+                },
+                {
+                    "text": "Seu artesanato de bordados desfiados."
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1893491.9893227837!2d-102.354733!3d22.040928!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8429ec143ae4d9fb%3A0x4016978679c5220!2sAguascalientes%2C%20Ags.!5e0!3m2!1ses-419!2smx!4v1683564992457!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/3mUTPSE6VyhKTsxiyHUJ66?utm_source=generator",
+            "urlVideoBottom": "https://www.mexico360.com.mx/aguascalientes/indexweb.html",
+            "descriptionShort": "Veja 5 motivos para incluir Aguascalientes na sua lista de viagens.",
+            "desciptionHover": "PARA SABER MAIS SOBRE AGUASCALIENTES, CLIQUE AQUI",
+            "dir": "/estado"
+        },
+        {
+            "id": "BajaCalifornia",
+            "urlVideoTop": "https://www.youtube.com/embed/GLKLZeEgC24?autoplay=1",
+            "titleTop": "Baja California",
+            "descriptionTop": "Banhada pelo golfo da Califórnia e pelo Oceano Pacífico, Baja California oferece uma experiência única: ilhas, praias, desertos, cânions, montanhas e vulcões adormecidos fazem parte do roteiro.",
+            "urlImg": "Vinedos4.webp",
+            "actions": {
+                "button": {
+                    "text" : "PARA SABER MAIS SOBRE BAJA CALIFORNIA, CLIQUE AQUI",
+                    "dir": "https://bajacalifornia.travel/es/"
+                }
+            },
+            "titleBottom": "Veja 5 motivos para incluir Baja California na sua lista de viagens.",
+            "descriptionBottom": [
+                {
+                    "text": "Suas belas praias e um pôr do sol incrível, inesquecível e mágico."
+                },
+                {
+                    "text": "Sua gastronomia que se destaca por seus frutos do mar sempre frescos."
+                },
+                {
+                    "text": "É onde se encontra Tijuana. Sua localização estratégica e serviços de qualidade internacional a tornam o local ideal para o turismo de negócios e saúde. "
+                },
+                {
+                    "text": "Por Ensenada, o maior município do México, banhado pelo Oceano Pacífico e pelo Mar de Cortez. Suas vastas paisagens, flora e fauna tanto terrestre como marinha fazem de Ensenada um destino turístico atraente para os amantes da natureza."
+                },
+                {
+                    "text": "Por Mexicali, conhecida como a 'cidade que capturou o sol'.  Está localizada às margens do rio Colorado e próxima da Laguna Salada. Tem a maior oferta de comida chinesa do país e alguns dos melhores cortes de carne."
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3526284.0084687793!2d-118.17094697813712!3d30.332849226145143!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80d7700ca877ddd3%3A0xfca4fd9f0318de8e!2sBaja%20California!5e0!3m2!1ses-419!2smx!4v1683570123340!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/5hBLmRp1Qd73LjRoHpvcpG?utm_source=generator",
+            "urlVideoBottom": "https://www.mexico360.com.mx/bajacalifornia/indexweb.html",
+            "descriptionShort": "Veja 5 motivos para incluir Baja California na sua lista de viagens.",
+            "desciptionHover": "PARA SABER MAIS SOBRE BAJA CALIFORNIA, CLIQUE AQUI",
+            "dir": "/estado"
+        },
+        {
+            "id": "BajaCaliforniaSur",
+            "urlVideoTop": "https://www.youtube.com/embed/vO_nZdwKXo0?autoplay=1",
+            "titleTop": "Baja California Sur",
+            "descriptionTop": "Baja California Sur se encuentra rodeado por el Océano Pacífico y el Mar de Cortés. Es una tierra de contrastes, y en eso radica su principal atractivo. cálidas playas, esteros, manglares, oasis, Pueblos Mágicos, flora desértica, arte rupestre y más.",
+            "urlImg": "BCS_cabo_san_lucas_113.webp",
+            "actions": {
+                "button": {
+                    "text" : "PARA SABER MAIS SOBRE BAJA CALIFORNIA SUR, CLIQUE AQUI",
+                    "dir": "https://visitbajasur.travel/es/"
+                }
+            },
+            "titleBottom": "Veja 5 motivos para incluir Baja California Sur na sua lista de viagens.",
+            "descriptionBottom": [
+                {
+                    "text": "Paisagens únicas para desfrutar em família, a dois ou com os amigos. Praias e céus que você nunca esquecerá."
+                },
+                {
+                    "text": " Sua gastronomia: lagosta, linguado, vieiras, mariscos e camarão compõem variados e deliciosos pratos que você poderá saborear aqui."
+                },
+                {
+                    "text": "Infraestrutura de hotéis e restaurantes de nível internacional, ideal para turismo de negócios."
+                },
+                {
+                    "text": "Opções para turismo em família, de aventura e negócios, com tudo o que você procura e precisa."
+                },
+                {
+                    "text": "Los Cabos, um paraíso de mar azul muito visitado por celebridades de Hollywood. Possui um corredor turístico de mais de 35 km, onde você poderá encontrar os melhores hotéis, restaurantes e todo tipo de entretenimento que agradará a todos."
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3690264.392816474!2d-114.9588129607235!3d25.41238054228561!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86afd339b5a21ec9%3A0x71dfb33aa9a75918!2sBaja%20California%20Sur!5e0!3m2!1ses-419!2smx!4v1683570336851!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/5hBLmRp1Qd73LjRoHpvcpG?utm_source=generator",
+            "urlVideoBottom": "https://www.mexico360.com.mx/bajacaliforniasur/indexweb.html",
+            "descriptionShort": "Veja 5 motivos para incluir Baja California Sur na sua lista de viagens.",
+            "desciptionHover": "PARA SABER MAIS SOBRE BAJA CALIFORNIA SUR, CLIQUE AQUI",
+            "dir": "/estado"
+        },
+        {
+            "id": "Campeche",
+            "urlVideoTop": "https://www.youtube.com/embed/HvBIXBIGt3k?autoplay=1",
+            "titleTop": "Campeche",
+            "descriptionTop": "Campeche se localiza no sudeste do México, um estado com um enorme tesouro. Seus edifícios e história constituem uma riqueza cultural da identidade mexicana.",
+            "urlImg": "CAM_calakmul53.webp",
+            "actions": {
+                "button": {
+                    "text" : "PARA SABER MAIS SOBRE CAMPECHE, CLIQUE AQUI",
+                    "dir": "https://www.google.com/"
+                }
+            },
+            "titleBottom": "Veja 5 motivos para incluir Campeche na sua lista de viagens.",
+            "descriptionBottom": [
+                {
+                    "text": "Sus playas son únicas, familia, pareja o amigos la pasarán muy bien y nunca olvidarán sus atardeceres."
+                },
+                {
+                    "text": "Possui um dos maiores acervos arqueológicos do México. A antiga cidade maia e as protegidas florestas tropicais de Calakmul foram declaradas Patrimônio Misto da Humanidade pela UNESCO."
+                },
+                {
+                    "text": "Sua capital, San Francisco de Campeche, é uma cidade fortificada, reconhecida pela UNESCO como Patrimônio Mundial da Humanidade."
+                },
+                {
+                    "text": "Conta com uma grande variedade de frutos do mar, que fazem parte de sua culinária. Panuchos, empanadas, tamales, tacos e o famoso pão de cação são alguns de seus deliciosos pratos."
+                },
+                {
+                    "text": "Está procurando um lugar para casar? Em Campeche você terá um casamento inesquecível, digno de cinema."
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512730.705677566!2d-124.59084255708773!3d37.151646373370205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20EE.%20UU.!5e0!3m2!1ses-419!2smx!4v1682217912140!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/41Id1RtpdXLICwdGCs848s?utm_source=generator",
+            "urlVideoBottom": "https://www.mexico360.com.mx/campeche/indexweb.html",
+            "descriptionShort": "Veja 5 motivos para incluir Campeche na sua lista de viagens.",
+            "desciptionHover": "PARA SABER MAIS SOBRE CAMPECHE, CLIQUE AQUI",
+            "dir": "/estado"
+        },
+        {
+            "id": "Chiapas",
+            "urlVideoTop": "https://www.youtube.com/embed/KeQ___kEs2Q?autoplay=1",
+            "titleTop": "Chiapas",
+            "descriptionTop": "Chiapas é uma terra de sensações: é sentir o profundo aroma do café, saborear a doçura de uma manga ataulfo, ver um bando de araras na floresta, ouvir o interminável correr das águas ou sentir a delicadeza de um tecido tradicional. ",
+            "urlImg": "Chiapas-agua_azul-01.webp",
+            "actions": {
+                "button": {
+                    "text" : "PARA SABER MAIS SOBRE CHIAPAS, CLIQUE AQUI",
+                    "dir": "https://www.google.com/"
+                }
+            },
+            "titleBottom": "Veja 5 motivos para incluir Chiapas na sua lista de viagens.",
+            "descriptionBottom": [
+                {
+                    "text": "Chiapas é um dos estados do México com maior diversidade cultural. É o berço de grupos étnicos indígenas como os tzotziles, zoques, chamulas, tzeltales e lacandones."
+                },
+                {
+                    "text": "É um dos três estados com maior biodiversidade do país, junto com Oaxaca e Veracruz."
+                },
+                {
+                    "text": "Sua capital, Tuxtla Gutiérrez, originou-se em um povoado zoque chamado Coyatoc (que significa 'lugar do coelho' ou 'os coelhos'), nome que os povos de língua nahua traduziram como Tochtlan. "
+                },
+                {
+                    "text": "San Cristóbal de las Casas é um belo Pueblo Mágico, uma cidade colorida com clima temperado e repleta de cultura."
+                },
+                {
+                    "text": "Comitán de Domínguez é um Pueblo Mágico que se originou em antigos assentamentos indígenas. Foi fundado pelos dominicanos logo após a chegada dos espanhóis à região."
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1961119.1179261617!2d-93.57467866521142!3d16.255834972286834!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x858d44b49757ce67%3A0xcf0033824619d615!2sChiapas!5e0!3m2!1ses-419!2smx!4v1687396192993!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/29d3FB7sl4FglZV1p3IXAs?utm_source=generator",
+            "urlVideoBottom": "https://www.mexico360.com.mx/chiapas/indexweb.html",
+            "descriptionShort": "Veja 5 motivos para incluir Chiapas na sua lista de viagens.",
+            "desciptionHover": "PARA SABER MAIS SOBRE CHIAPAS, CLIQUE AQUI",
+            "dir": "/estado"
+        },
+        {
+            "id": "Chihuahua",
+            "urlVideoTop": "https://www.youtube.com/embed/2XtTWy50hjc?autoplay=1",
+            "titleTop": "Chihuahua",
+            "descriptionTop": "Localizada no norte, Chihuahua é o maior estado do México. Para se ter uma ideia de sua magnitude, dentro dele caberia a Inglaterra.  Este imponente estado possui uma impressionante diversidade de ecossistemas, opções gastronômicas e elementos culturais.",
+            "urlImg": "Chihuahua-barrancaschepe_02.webp",
+            "actions": {
+                "button": {
+                    "text" : "PARA SABER MAIS SOBRE CHIHUAHUA, CLIQUE AQUI",
+                    "dir": "https://visitachihuahua.com/"
+                }
+            },
+            "titleBottom": "Veja 5 motivos para incluir Chihuahua na sua lista de viagens.",
+            "descriptionBottom": [
+                {
+                    "text": "Um passeio no trem El Chepe que atravessa túneis e passa por algumas das mais belas paisagens montanhosas do México."
+                },
+                {
+                    "text": "Entre seus pratos tradicionais estão o chile colorado com carne seca, a machaca com ovo, chile con asadero, chile passado com carne ou queijo, tortilhas de farinha, o tradicional churrasco assado no carvão ou cortes de carne à americana, bem como a deliciosa discada."
+                },
+                {
+                    "text": "Nos povoados de Bacajípare e Huetosachi, você terá a oportunidade de preparar e compartilhar uma refeição com a comunidade local, além de percorrer suas trilhas."
+                },
+                {
+                    "text": "O Pueblo Mágico de Creel é um destino cheio de história e tradição. Seus arredores abundantes em pinheiros e carvalhos vão despertar espírito aventureiro."
+                },
+                {
+                    "text": "Casas Grandes é um Pueblo Mágico do estado de Chihuahua que recebeu esse nome por sua proximidade com o sítio arqueológico de Paquimé. Em 1535, Alvar Núñez Cabeza de Vaca registra em suas memórias que ao norte havia “povoados com muita gente e casas muito grandes”."
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7169267.155057151!2d-111.33806860448709!3d28.671132722547366!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86ea449d5d484033%3A0xb7f1a7a706dd1d7b!2sChihuahua%2C%20Chih.!5e0!3m2!1ses-419!2smx!4v1684020195953!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/4L5pHmiC38UtKVz6Eh3EUe?utm_source=generator",
+            "urlVideoBottom": "https://www.mexico360.com.mx/chihuahua/indexweb.html",
+            "descriptionShort": "Veja 5 motivos para incluir Chihuahua na sua lista de viagens.",
+            "desciptionHover": "PARA SABER MAIS SOBRE CHIHUAHUA, CLIQUE AQUI",
+            "dir": "/estado"
+        },
+        {
+            "id": "CiudadDeMexico",
+            "urlVideoTop": "https://www.youtube.com/embed/YxvMmtDxEQQ?autoplay=1",
+            "titleTop": "Cidade do México",
+            "descriptionTop": "A Cidade do México é conhecida como a Capital Cultural da América. É um dos destinos mais ricos e fascinantes do mundo. Tem um legado histórico cheio de sabor graças à sua variada oferta gastronômica, reconhecida pelos apreciadores da comida local, tradicional e de grande fusão internacional.",
+            "urlImg": "CiudaddeMexico_Portada.webp",
+            "actions": {
+                "button": {
+                    "text" : "PARA SABER MAIS SOBRE CIDADE DO MÉXICO, CLIQUE AQUI",
+                    "dir": "https://mexicocity.cdmx.gob.mx/"
+                }
+            },
+            "titleBottom": "Veja 5 motivos para incluir Cidade do México na sua lista de viagens.",
+            "descriptionBottom": [
+                {
+                    "text": "A Cidade do México é conhecida como a Capital Cultural da América. É um dos destinos mais ricos e fascinantes do mundo. Tem um legado histórico cheio de sabor graças à sua variada oferta gastronômica, reconhecida pelos apreciadores da comida local, tradicional e de grande fusão internacional."
+                },
+				{
+					"text": "O Bosque de Chapultepec possui 9 museus, mais de 100 fontes e monumentos, barcos para remar nos lagos, parques infantis e muitos lugares para passear e observar a natureza."
+				},
+				{
+					"text": "É uma das 5 cidades com mais museus no mundo."
+				},
+				{
+					"text": "É palco de diversos festivais e eventos internacionais, como o Grande Prêmio da Fórmula 1, entre outros."
+				},
+                {
+                    "text": "Sua gastronomia é muito variada, de refeições populares a pratos restaurantes requintados."
+                },
+                {
+                    "text": "Com uma agitada vida noturna, esta cidade nunca dorme. Você encontrará uma enorme variedade de lugares fascinantes e de lazer para todos os gostos."
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d963456.3369006228!2d-99.143613!3d19.390734!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ce0026db097507%3A0x54061076265ee841!2sCiudad%20de%20M%C3%A9xico%2C%20CDMX!5e0!3m2!1ses-419!2smx!4v1687384235747!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/2CoCTWNwmcDsTMPxG4CmMP?utm_source=generator",
+            "urlVideoBottom": "https://www.mexico360.com.mx/cdmx/indexweb.html",
+            "descriptionShort": "Veja 5 motivos para incluir Cidade do México na sua lista de viagens.",
+            "desciptionHover": "PARA SABER MAIS SOBRE CIDADE DO MÉXICO, CLIQUE AQUI",
+            "dir": "/estado"
+        },
+        {
+            "id": "Coahuila",
+            "urlVideoTop": "https://www.youtube.com/embed/B2MN00vAz7A?autoplay=1",
+            "titleTop": "Coahuila",
+            "descriptionTop": "Coahuila é conhecida por seus municípios icônicos, suas mais de 23 vinícolas, grande riqueza paleontológica, gastronomia inigualável, e seus sete Pueblos Mágicos, entre outros.",
+            "urlImg": "COAH_2_dunas_bilbao_22.webp",
+            "actions": {
+                "button": {
+                    "text" : "PARA SABER MAIS SOBRE COAHUILA, CLIQUE AQUI",
+                    "dir": "https://hazturismoencoahuila.mx/"
+                }
+            },
+            "titleBottom": "Veja 5 motivos para incluir Coahuila na sua lista de viagens.",
+            "descriptionBottom": [
+                {
+                    "text": "Suas paisagens maravilhosas são um sonho em distritos, cidades e Pueblos Mágicos que você nunca esquecerá."
+                },
+                {
+                    "text": "A tradicional arte culinária de Coahuila é uma iguaria para os amantes da carne. Carnes vermelhas, suculentas e de cortes nobres fazem parte de seu cardápio, que se baseia principalmente na carne de cabrito, bovina e de vitela, sem deixar de lado as deliciosas carnitas de porco e o torresmo."
+                },
+                {
+                    "text": "Sua riqueza cultural, com destaque para os grupos étnicos como os mascogos e kikapús."
+                },
+                {
+                    "text": "A rota dos vinhos, que inclui dois Pueblos Mágicos e uma série de maravilhas naturais. Além disso, você poderá provar os melhores vinhos produzidos na região."
+                },
+                {
+                    "text": "Conheça o Pueblo Mágico de Arteaga, uma de suas principais atrações localizada dentro da enorme Sierra de Arteaga, que deu ao município a denominação de Suíça Mexicana."
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3634211.9932014607!2d-104.54166938217044!3d27.186632026650457!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x868872bda68e1e29%3A0x64009ad714cd7a39!2sCoahuila%20de%20Zaragoza!5e0!3m2!1ses-419!2smx!4v1683577952331!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/4s1i0CJ2n3C5LCtuvwmCEg?utm_source=generator",
+            "urlVideoBottom": "https://www.mexico360.com.mx/coahuila/indexweb.html",
+            "descriptionShort": "Veja 5 motivos para incluir Coahuila na sua lista de viagens.",
+            "desciptionHover": "PARA SABER MAIS SOBRE COAHUILA, CLIQUE AQUI",
+            "dir": "/estado"
+        },
+        {
+            "id": "Colima",
+            "urlVideoTop": "https://www.youtube.com/embed/XBor7DZahQA?autoplay=1",
+            "titleTop": "Colima",
+            "descriptionTop": "Colima, situada no oeste do país, oferece uma ampla variedade de experiências, do litoral às montanhas, da gastronomia tradicional aos pratos inovadores. Aqui você encontrará de tudo.",
+            "urlImg": "colimacomala.webp",
+            "actions": {
+                "button": {
+                    "text" : "PARA SABER MAIS SOBRE COLIMA, CLIQUE AQUI",
+                    "dir": "https://turismo.col.gob.mx/"
+                }
+            },
+            "titleBottom": "Veja 5 motivos para incluir Colima na sua lista de viagens.",
+            "descriptionBottom": [
+                {
+                    "text": "Pôr do sol mágico, tanto nas montanhas como na praia. "
+                },
+                {
+                    "text": "A capital é uma bela cidade, caracterizada por seus diversos edifícios, que preservam a identidade cultural."
+                },
+                {
+                    "text": "Sua gastronomia com sabores do mar, com destaque para o pescado à la talla, preparado principalmente com o peixe huachinango. O prato é servido com o peixe inteiro, aberto e coberto com legumes e servido numa folha de bananeira."
+                },
+                {
+                    "text": "O Corredor Turístico El Real-Pascuales Tecomán,  reconhecido, internacionalmente, por seus torneios de surf."
+                },
+                {
+                    "text": "A Gruta de San Gabriel, uma caverna profunda com mais de 50 metros de altura, onde se pode apreciar o magnífico trabalho realizado pela natureza ao longo de milênios."
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d60271.55528058169!2d-103.76980724936448!3d19.24004309147311!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x842545523455a217%3A0xb6b497fc5af555e6!2sColima%2C%20Col.!5e0!3m2!1ses-419!2smx!4v1683578149738!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/4zNvTHKW4UCpARzea4OaTb?utm_source=generator",
+            "urlVideoBottom": "https://www.mexico360.com.mx/colima/indexweb.html",
+            "descriptionShort": "Veja 5 motivos para incluir Colima na sua lista de viagens.",
+            "desciptionHover": "PARA SABER MAIS SOBRE COLIMA, CLIQUE AQUI",
+            "dir": "/estado"
+        },
+        {
+            "id": "Durango",
+            "urlVideoTop": "https://www.youtube.com/embed/N7MmjzREtig?autoplay=1",
+            "titleTop": "Durango",
+            "descriptionTop": "Durango é um estado para desfrutar, explorar e viver. É considerado a reserva florestal mais importante do México.  Sua arquitetura colonial única é fonte de grandes histórias, lendas e cultura, inclusive de uma longa tradição cinematográfica.",
+            "urlImg": "DGO_Cd_Durango_34.webp",
+            "actions": {
+                "button": {
+                    "text" : "PARA SABER MAIS SOBRE DURANGO, CLIQUE AQUI",
+                    "dir": "http://visitdurango.mx/#!/"
+                }
+            },
+            "titleBottom": "Veja 5 motivos para incluir Durango na sua lista de viagens.",
+            "descriptionBottom": [
+                {
+                    "text": "Entre as tradições e costumes mais típicos de Durango está o Carnaval, festejado entre fevereiro e março, nos dias que antecedem a Quarta-Feira de Cinzas, com fantasias, bailes e desfiles."
+                },
+                {
+                    "text": "Sua rica gastronomia, onde se destacam o caldillo, carnitas de cabrito, churrasco barbacoa de panela, tamales de pimenta vermelha, rabanadas com mel de agave, entre muitos outros."
+                },
+                {
+                    "text": "Mapimí foi o primeiro Pueblo Mágico de Durango. Pertence ao 'Camino Real de Tierra Adentro', que faz parte da lista da UNESCO desde 2010."
+                },
+                {
+                    "text": "Nombre de Dios, a cidade mais antiga do estado, foi fundada como vila espanhola em 1563 (no local de uma antiga missão franciscana)"
+                },
+                {
+                    "text": "A Zona do Silêncio é um lugar cheio de mistério e lendas, um deserto onde os sinais de rádio se perdem e sua bússola para de funcionar."
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d58307.79812547615!2d-104.68892432215172!3d24.022692792116143!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x869bb7a518bcdf73%3A0xbfdd8ea63a6c4ad4!2sDurango%2C%20Dgo.!5e0!3m2!1ses-419!2smx!4v1683578320871!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/41U1BZKUs84ZFqyQXl70F3?utm_source=generator",
+            "urlVideoBottom": "https://www.mexico360.com.mx/durango/indexweb.html",
+            "descriptionShort": "Veja 5 motivos para incluir Durango na sua lista de viagens.",
+            "desciptionHover": "PARA SABER MAIS SOBRE DURANGO, CLIQUE AQUI",
+            "dir": "/estado"
+        },
+        {
+            "id": "EstadoDeMexico",
+            "urlVideoTop": "https://www.youtube.com/embed/Pydx7Hk0rM0?autoplay=1",
+            "titleTop": "Estado de México",
+            "descriptionTop": "Localizado no coração do país, o estado oferece uma grande variedade de destinos e atrações, como seus 10 Pueblos Mágicos, 23 Pueblos con Encanto e quatro Patrimônios da Humanidade pela UNESCO.",
+            "urlImg": "EDOMEX-cosmovitral_02.webp",
+            "actions": {
+                "button": {
+                    "text" : "PARA SABER MAIS SOBRE ESTADO DO MÉXICO, CLIQUE AQUI",
+                    "dir": "https://www.google.com/"
+                }
+            },
+            "titleBottom": "Veja 5 motivos para incluir Estado do México na sua lista de viagens.",
+            "descriptionBottom": [
+                {
+                    "text": "Por sua rica cultura, é a terra dos povos mazahua, otomí, matlazinca, tlahuica e nahua, que herdaram sua cultura e tradições."
+                },
+                {
+                    "text": "Alguns pratos típicos do estado do México são os mixiotes, tlacoyos, quesadillas de cogumelos, tamales e peru com molho verde ou pipián."
+                },
+                {
+                    "text": "Você gostaria de conhecer um lugar repleto de belas paisagens, clima agradável e um grande legado pré-hispânico? Então você se encantará com Malinalco.."
+                },
+                {
+                    "text": "As amplas e belas áreas abertas do estado são o lugar perfeito para o glamping, uma combinação de glamour + camping."
+                },
+                {
+                    "text": "Metepec reúne modernidade e tradição. Este município abriga uma das peças artesanais mais representativas de todos os mexicanos: a Árvore da Vida."
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512730.705677566!2d-124.59084255708773!3d37.151646373370205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20EE.%20UU.!5e0!3m2!1ses-419!2smx!4v1682217912140!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/41Id1RtpdXLICwdGCs848s?utm_source=generator",
+            "urlVideoBottom": "https://www.mexico360.com.mx/edomex/indexweb.html",
+            "descriptionShort": "Veja 5 motivos para incluir Estado do México na sua lista de viagens.",
+            "desciptionHover": "PARA SABER MAIS SOBRE ESTADO DO MÉXICO, CLIQUE AQUI",
+            "dir": "/estado"
+        },
+        {
+            "id": "Guanajuato",
+            "urlVideoTop": "https://www.youtube.com/embed/Rhh9Uxb6c0g?autoplay=1",
+            "titleTop": "Guanajuato",
+            "descriptionTop": "Guanajuato é o destino turístico colonial mais importante do México pela diversidade de suas atrações, como seis Pueblos Mágicos, duas cidades reconhecidas como Patrimônio da Humanidade e cinco sítios arqueológicos.",
+            "urlImg": "GTO_guanajuato_338.webp",
+            "actions": {
+                "button": {
+                    "text" : "PARA SABER MAIS SOBRE GUANAJUATO, CLIQUE AQUI",
+                    "dir": "https://www.google.com/"
+                }
+            },
+            "titleBottom": "Veja 5 motivos para incluir Guanajuato na sua lista de viagens.",
+            "descriptionBottom": [
+                {
+                    "text": "Este estado é sinônimo de arte e cultura, sendo a sede do prestigioso Festival Internacional de Cinema de Guanajuato e do Festival Internacional Cervantino."
+                },
+                {
+                    "text": "Sua gastronomia é preparada à base de ingredientes locais, proporcionando sabores únicos a cada prato."
+                },
+                {
+                    "text": "Dolores Hidalgo, o primeiro Pueblo Mágico do estado, foi palco de grandes marcos históricos mexicanos. Foi onde se iniciou o movimento de independência do México e onde nasceu o maior compositor da música popular mexicana, José Alfredo Jiménez."
+                },
+                {
+                    "text": "É o estado onde se encontra a rota da prata, onde você poderá visitar minas antigas."
+                },
+                {
+                    "text": "O estado de Guanajuato é o destino ideal se você procura uma combinação de negócios e lazer, pois poderá complementar sua reunião ou congresso com opções para se divertir e relaxar."
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512730.705677566!2d-124.59084255708773!3d37.151646373370205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20EE.%20UU.!5e0!3m2!1ses-419!2smx!4v1682217912140!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/41Id1RtpdXLICwdGCs848s?utm_source=generator",
+            "urlVideoBottom": "https://www.mexico360.com.mx/guanajuato/indexweb.html",
+            "descriptionShort": "Veja 5 motivos para incluir Guanajuato na sua lista de viagens.",
+            "desciptionHover": "PARA SABER MAIS SOBRE GUANAJUATO, CLIQUE AQUI",
+            "dir": "/estado"
+        },
+        {
+            "id": "Guerrero",
+            "urlVideoTop": "https://www.youtube.com/embed/qcx9vIc0m98?autoplay=1",
+            "titleTop": "Guerrero",
+            "descriptionTop": "Guerrero é um estado situado no sul do México, com uma grande oferta turística que inclui praias paradisíacas, imponentes montanhas e paisagens de sonho. Uma terra valente, bela e surpreendente.",
+            "urlImg": "GRO_acapulco_1317.webp",
+            "actions": {
+                "button": {
+                    "text" : "PARA SABER MAIS SOBRE GUERRERO, CLIQUE AQUI",
+                    "dir": "https://www.google.com/"
+                }
+            },
+            "titleBottom": "Veja 5 motivos para incluir Guanajuato na sua lista de viagens.",
+            "descriptionBottom": [
+                {
+                    "text": "Acapulco é um clássico destino de praia, com oferta de 20 mil quartos de hotel, uma grande variedade gastronômica e atividades recreativas. O lugar ideal para uma viagem em família."
+                },
+                {
+                    "text": "Ixtapa e Zihuatanejo é a combinação de uma tradicional aldeia de pescadores com belas praias e um marcante sabor mexicano. É uma região em desenvolvimento com grandes hotéis resort e que oferece várias atividades relacionadas à natureza."
+                },
+                {
+                    "text": "Taxco de Alarcón é um brilhante e belo Pueblo Mágico, famoso pela prata produzida e comercializada há várias décadas."
+                },
+                {
+                    "text": "Sua gastronomia inclui receitas pré-hispânicas. Não deixe de provar o mole vermelho e verde, o clemole, o huaxmole, as tortilhas, as memelas, as chalupas e os maravilhosos pozoles branco e verde!"
+                },
+                {
+                    "text": "Guerrero alcançou fama internacional graças à sua grande variedade de trabalhos artesanais que são reconhecidos por suas características étnicas e sua incomparável beleza."
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512730.705677566!2d-124.59084255708773!3d37.151646373370205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20EE.%20UU.!5e0!3m2!1ses-419!2smx!4v1682217912140!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/41Id1RtpdXLICwdGCs848s?utm_source=generator",
+            "urlVideoBottom": "https://www.mexico360.com.mx/guerrero/indexweb.html",
+            "descriptionShort": "Veja 5 motivos para incluir Guanajuato na sua lista de viagens.",
+            "desciptionHover": "PARA SABER MAIS SOBRE GUERRERO, CLIQUE AQUI",
+            "dir": "/estado"
+        },
+        {
+            "id": "Hidalgo",
+            "urlVideoTop": "https://www.youtube.com/embed/We4c0RjDGX4?autoplay=1",
+            "titleTop": "Hidalgo",
+            "descriptionTop": "Conventos, fazendas, minas, aventura, cultura e tradição constituem o património turístico de Hidalgo. A atmosfera, que aí se respira, transmite o valor das culturas milenares assentadas em suas terras.",
+            "urlImg": "Hgo_tula_003.webp",
+            "actions": {
+                "button": {
+                    "text" : "PARA SABER MAIS SOBRE HIDALGO, CLIQUE AQUI",
+                    "dir": "https://www.google.com/"
+                }
+            },
+            "titleBottom": "Veja 5 motivos para incluir Guanajuato na sua lista de viagens.",
+            "descriptionBottom": [
+                {
+                    "text": "Você se surpreenderá com a sua gastronomia que é variada e riquíssima, desde uma das melhores barbacoas, carne cozida no vapor, do país até os escamoles e chinicuiles."
+                },
+                {
+                    "text": "Poderá degustar a bebida dos deuses: o pulque, uma bebida alcoólica de origem pré-hispânica, obtida a partir dos caules do maguey."
+                },
+                {
+                    "text": "Zempoala é conhecido pelas suas belas fazendas de pulque. Este município distingue-se, também, por ter sido nomeado Pueblo con Sabor graças à sua excelente gastronomia típica."
+                },
+                {
+                    "text": "Mineral del Chico, a primeira área natural protegida do México, é considerada, atualmente, a Meca do turismo de aventura."
+                },
+                {
+                    "text": "Entre as riquezas de Hidalgo, há uma diversidade de cenários históricos, culturais, arquitetônicos e naturais que têm sido utilizados como locação para produções cinematográficas."
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512730.705677566!2d-124.59084255708773!3d37.151646373370205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20EE.%20UU.!5e0!3m2!1ses-419!2smx!4v1682217912140!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/41Id1RtpdXLICwdGCs848s?utm_source=generator",
+            "urlVideoBottom": "https://www.mexico360.com.mx/hidalgo/indexweb.html",
+            "descriptionShort": "Veja 5 motivos para incluir Guanajuato na sua lista de viagens.",
+            "desciptionHover": "PARA SABER MAIS SOBRE HIDALGO, CLIQUE AQUI",
+            "dir": "/estado"
+        },
+        {
+            "id": "Jalisco",
+            "urlVideoTop": "https://www.youtube.com/embed/N7MmjzREtig?autoplay=1",
+            "titleTop": "Jalisco",
+            "descriptionTop": "Situado no oeste do México, encontra-se Jalisco, a terra dos mariachis e da tequila, dois dos embaixadores mais representativos do México no mundo, cada um dos seus 125 municípios é considerado uma peça inestimável do seu maravilhoso mosaico. ",
+            "urlImg": "Jalisco.webp",
+            "actions": {
+                "button": {
+                    "text" : "PARA SABER MAIS SOBRE JALISCO, CLIQUE AQUI",
+                    "dir": "https://visitjalisco.mx/"
+                }
+            },
+            "titleBottom": "Veja 5 motivos para incluir Jalisco na sua lista de viagens.",
+            "descriptionBottom": [
+                {
+                    "text": "Guadalajara, sua capital, é uma cidade que combina, à perfeição, tradição e modernidade."
+                },
+                {
+                    "text": "Sua gastronomia irá deliciá-lo. Entre os seus muitos pratos, destacam-se a carne ao ponto, a torta ahogada, a barbacoa e o pozole tapatío."
+                },
+                {
+                    "text": "O sol, a areia e uma infinidade de atividades de ecoturismo, que seus destinos oferecem, são motivos suficientes para dar um mergulho nas águas do litoral mais bonito do país."
+                },
+                {
+                    "text": "Puerto Vallarta tem o encanto natural das suas praias abraçadas pela Sierra Madre."
+                },
+                {
+                    "text": "É a terra de origem da tequila, destilada do agave, uma das bebidas alcoólicas mais consumidas no planeta e uma referência cultural de nosso país."
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1909231.479256641!2d-104.9222329384955!3d20.83300941682906!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x841f40ebd4624e6f%3A0xa0feb0a35a1b4a53!2sJalisco!5e0!3m2!1ses-419!2smx!4v1683578423258!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/5ApmWMTZktBXbvPeD5UdXl?utm_source=generator",
+            "urlVideoBottom": "https://www.mexico360.com.mx/jalisco/indexweb.html",
+            "descriptionShort": "Veja 5 motivos para incluir Jalisco na sua lista de viagens.",
+            "desciptionHover": "PARA SABER MAIS SOBRE JALISCO, CLIQUE AQUI",
+            "dir": "/estado"
+        },
+        {
+            "id": "Michoacan",
+            "urlVideoTop": "https://www.youtube.com/embed/nbfvea4Bt0k?autoplay=1",
+            "titleTop": "Michoacán",
+            "descriptionTop": "Michoacán está localizado na região centro-oeste da República Mexicana. As maiores cidades do estado são sua capital, Morelia, Pátzcuaro e Uruapan, conectadas ao mundo graças a uma ampla infraestrutura de comunicação, como aeroportos, transporte terrestre e operadoras de turismo receptivo, que facilitam o acesso ao estado de qualquer parte do planeta.",
+            "urlImg": "MICH_patzcuaro_63.webp",
+            "actions": {
+                "button": {
+                    "text" : "PARA SABER MAIS SOBRE MICHOACÁN, CLIQUE AQUI",
+                    "dir": "https://michoacan.travel/"
+                }
+            },
+            "titleBottom": "Veja 5 motivos para incluir Michoacán na sua lista de viagens.",
+            "descriptionBottom": [
+                {
+                    "text": "Em Michoacán, os ritos relacionados à morte são mais coloridos, especialmente nas regiões de Pátzcuaro, Tzintzuntzan, Janitizio, Jarácuaro, Ihuatzio e Tzurumútaro."
+                },
+                {
+                    "text": "É um dos estados mais ricos em termos de lagos, florestas e belezas naturais como, por exemplo, os santuários da borboleta monarca, o vulcão Paricutín, o Parque Nacional Eduardo Ruiz, o Parque Nacional do Lago Camécuaro, entre outras."
+                },
+                {
+                    "text": "Sua gastronomia é tão ampla quanto deliciosa, onde se destacam as korundas ou tamal de ceniza. É uma massa de milho feita com tequesquite, banha de porco e fermento, à qual também é adicionado um pouco de cinza."
+                },
+                {
+                    "text": "Seis santuários onde você pode observar as borboletas monarcas, a espécie que oferece um dos espetáculos mais extraordinários da natureza."
+                },
+                {
+                    "text": "Conhecer a Costa Sierra, onde diferentes espécies de tartarugas marinhas vêm se reproduzir, e seus diversos balneários com banhos de águas frias e termais."
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1929744.9946309759!2d-103.21985596445734!3d19.150024291328236!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x842a5f3e1eb35cb7%3A0x3bc7650cf34be0d4!2sMichoac%C3%A1n!5e0!3m2!1ses-419!2smx!4v1683578604854!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/2yaOANtCx9FabUjU7tx998?utm_source=generator",
+            "urlVideoBottom": "https://www.mexico360.com.mx/michoacan/indexweb.html",
+            "descriptionShort": "Veja 5 motivos para incluir Michoacán na sua lista de viagens.",
+            "desciptionHover": "PARA SABER MAIS SOBRE MICHOACÁN, CLIQUE AQUI",
+            "dir": "/estado"
+        },
+        {
+            "id": "Morelos",
+            "urlVideoTop": "https://www.youtube.com/embed/6rqT90hF-HM?autoplay=1",
+            "titleTop": "Morelos",
+            "descriptionTop": "Morelos es un estado con una riqueza cultural incomparable, ubicado al centro-sur del país. Su cultura abarca diversas ramas y cada una de ellas te atrapará con características auténticas que, sin duda, te dejarán con ganas de más.",
+            "urlImg": "MOR_axochiapan_t_164.webp",
+            "actions": {
+                "button": {
+                    "text" : "PARA CONOCER MÁS DE MORELOS PRESIONA AQUÍ",
+                    "dir": "https://visitmorelos.mx/"
+                }
+            },
+            "titleBottom": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
+            "descriptionBottom": [
+                {
+                    "text": "Morelos es tradición, es historia viva, conoce su pasado a través de haciendas y museos, conoce la tierra del General Emiliano Zapata."
+                },
+                {
+                    "text": "Morelos es un mundo lleno de gastronomía y tradiciones desconocidas, listas para ser descubiertas durante tu visita, desde la famosa cecina de Yecapixtla hasta el simbólico taco acorazado, que sólo encuentras en el Estado."
+                },
+                {
+                    "text": "Conocer su capital: Cuernavaca, la ciudad de la eterna primavera. Lugar rebosante de naturaleza y cultura."
+                },
+                {
+                    "text": "Tepoztlán, el Pueblo Mágico resguardado por el Cerro del Tepozteco, es tierra de misticismo, artesanías, clima inmejorable y relajación, pero sobre todo de buena vibra y energía que revitaliza."
+                },
+                {
+                    "text": "Tlayacapan, Pueblo Mágico que es uno de los pocos que conserva gran parte de su traza urbana prehispánica original."
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d483646.40127353213!2d-99.39332388044409!3d18.731748998143765!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85cddfae25f6fe47%3A0x975f8225a169dd0f!2sMorelos!5e0!3m2!1ses-419!2smx!4v1683578712156!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/2yaOANtCx9FabUjU7tx998?utm_source=generator",
+            "urlVideoBottom": "https://www.mexico360.com.mx/morelos/indexweb.html",
+            "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
+            "desciptionHover": "PARA CONOCER MÁS DE MORELOS PRESIONA AQUÍ",
+            "dir": "/estado"
+        },
+        {
+            "id": "Nayarit",
+            "urlVideoTop": "https://www.youtube.com/embed/vSV--a4sQa8?autoplay=1",
+            "titleTop": "Nayarit",
+            "descriptionTop": "Nayarit se ubica en el noreste del territorio mexicano. Este mágico lugar cuenta con una gran diversidad, desde lagunas, selvas, mar y hasta una de las cadenas montañosas más extensas del país.",
+            "urlImg": "NAY_RinconDeGuayabitos_Playas_0529.webp",
+            "actions": {
+                "button": {
+                    "text" : "PARA CONOCER MÁS DE NAYARIT PRESIONA AQUÍ",
+                    "dir": "https://descubrevallenayarit.com/"
+                }
+            },
+            "titleBottom": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
+            "descriptionBottom": [
+                {
+                    "text": "Todas sus rutas están pensadas para que vivas al máximo una experiencia multisensorial con lo mejor del Estado."
+                },
+                {
+                    "text": "Conocer su capital: Tepic, parada obligada. Su nombre es de origen náhuatl, que significa “lugar de piedras macizas”."
+                },
+                {
+                    "text": "Nayarit tiene platillos típicos donde los ingredientes principales provienen del mar, tal es el caso del tiburón, cazón, pargo, camarón y ostión, ¿te gustaría probarlos?"
+                },
+                {
+                    "text": "El municipio de Compostela se localiza en la costa sur del estado. Ciudad famosa por sus artesanías elaboradas a base de la hoja del tabaco, su parroquia de Santo Domingo de apóstol y visitar Punta Custodia."
+                },
+                {
+                    "text": "El Pueblo Mágico de Jala se encuentra a las faldas del volcán El Ceboruco, en el que se encuentra un valle donde se puede practicar ciclismo, senderismo, observación de flora y campismo."
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1896187.0215287085!2d-106.5235616027901!3d21.838616787901028!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8420a89ce63edb47%3A0xc2c8f5a28694d239!2sNayarit!5e0!3m2!1ses-419!2smx!4v1683578829322!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/4t6rePG9VrNLRrGhHO9ibz?utm_source=generator",
+            "urlVideoBottom": "https://www.mexico360.com.mx/nayarit/indexweb.html",
+            "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
+            "desciptionHover": "PARA CONOCER MÁS DE NAYARIT PRESIONA AQUÍ",
+            "dir": "/estado"
+        },
+        {
+            "id": "NuevoLeon",
+            "urlVideoTop": "https://www.youtube.com/embed/bfU0P-cc9dU?autoplay=1",
+            "titleTop": "Nuevo León",
+            "descriptionTop": "Un destino único al noreste de México. Por sus rincones coloniales, destacan sus Pueblos Mágicos: Santiago, Linares y Bustamante. Nuevo León, un destino único, multifacético, es el corazón de la aventura, los negocios y de la carnita asada. ¡Conócelo!",
+            "urlImg": "NuevoLeon.webp",
+            "actions": {
+                "button": {
+                    "text" : "PARA CONOCER MÁS DE NUEVO LEÓN PRESIONA AQUÍ",
+                    "dir": "https://nuevoleon.travel/"
+                }
+            },
+            "titleBottom": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
+            "descriptionBottom": [
+                {
+                    "text": "Monterrey, su capital, como área metropolitana es la tercera ciudad más grande de México, decorada con sus impresionantes edificios y novedosos centros comerciales, donde alta cocina tradicional te deleitará con sus sabores únicos."
+                },
+                {
+                    "text": "La carne aquí es protagonista de su gastronomía, cortes y productos de altísima calidad, siendo el cabrito su principal y más portentoso exponente."
+                },
+                {
+                    "text": "En las calles de Linares se respira tranquilidad, lo que contrasta con su imponente arquitectura."
+                },
+                {
+                    "text": "Bustamante, revestido en su totalidad por árboles, te recibe con una fábrica de mezcal para luego adentrarte a sus calles y observar las antiguas casas de arquitectura típica."
+                },
+                {
+                    "text": "Santiago, escondido entre la Sierra Madre Oriental y el Cerro de la Silla, es un Pueblo Mágico donde las casas y calles del pueblo son un gran atractivo."
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1844172.8377582757!2d-101.13338097076416!3d25.475011940013584!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86629584a2a5b05d%3A0x701df442c36cbbc6!2sNuevo%20Le%C3%B3n!5e0!3m2!1ses-419!2smx!4v1683578947759!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/75BAwr4oD63XJP93w3wq8m?utm_source=generator",
+            "urlVideoBottom": "https://www.mexico360.com.mx/nuevoleon/indexweb.html",
+            "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
+            "desciptionHover": "PARA CONOCER MÁS DE NUEVO LEÓN PRESIONA AQUÍ",
+            "dir": "/estado"
+        },
+        {
+            "id": "Oaxaca",
+            "urlVideoTop": "https://www.youtube.com/embed/hKeKplolfMs?autoplay=1",
+            "titleTop": "Oaxaca",
+            "descriptionTop": "Se ubica en el sur de México. Diverso, magnífico, colorido, lleno de cultura y naturaleza. Una auténtica joya. En Oaxaca recorrerás calles llenas de color y tradición, descubrirás en cada rincón su historia, sus maravillosas artesanías, su exquisita gastronomía y su buen mezcal.",
+            "urlImg": "OAX_Hierve_el_agua3023.webp",
+            "actions": {
+                "button": {
+                    "text" : "PARA CONOCER MÁS DE OAXACA PRESIONA AQUÍ",
+                    "dir": "http://www.oaxaca.travel/index.php/es/"
+                }
+            },
+            "titleBottom": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
+            "descriptionBottom": [
+                {
+                    "text": "Su capital, Oaxaca de Juárez, es Patrimonio de la Humanidad, un lugar único en el mundo por su belleza tradicional."
+                },
+                {
+                    "text": "La gastronomía oaxaqueña es de las más representativas de México, así como de las más variadas. Un platillo muy tradicional es el mole oaxaqueño en sus 7 variedades, ¿te atreves a probarlas todas?"
+                },
+                {
+                    "text": "Sé parte de una mágica travesía en La Ruta del Mezcal, que te llevará a descubrir el proceso artesanal que ha dado fama mundial a tan deliciosa bebida."
+                },
+                {
+                    "text": "Si visitas Huatulco, te relajarás en sus 36 playas, recorrerás sus maravillosos paisajes, o puedes sentir la adrenalina en sus rápidos, practicar pesca deportiva, además de sentir el contacto con la naturaleza."
+                },
+                {
+                    "text": "También puedes viajar a Puerto Escondido, el lugar perfecto del Pacífico para olvidar el estrés en sus playas con increíbles olas o algunas más tranquilas que parecen albercas naturales; así como disfrutar de noches interminables de fiesta."
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d603021.2045554055!2d-96.97536878788152!3d16.800457801053078!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85c72249df26d9b1%3A0xac88a77657dffc3b!2sOaxaca%20de%20Ju%C3%A1rez%2C%20Oax.!5e0!3m2!1ses-419!2smx!4v1684020627840!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/06kfpfp3bsE54c0r0GjoJv?utm_source=generator",
+            "urlVideoBottom": "https://www.mexico360.com.mx/oaxaca/indexweb.html",
+            "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
+            "desciptionHover": "PARA CONOCER MÁS DE OAXACA PRESIONA AQUÍ",
+            "dir": "/estado"
+        },
+        {
+            "id": "Puebla",
+            "urlVideoTop": "https://www.youtube.com/embed/inxcwKHquVQ?autoplay=1",
+            "titleTop": "Puebla",
+            "descriptionTop": "Ubicada al este central y custodiada por los volcanes Popocatépetl e Iztaccíhuatl se encuentra Puebla. Te maravillarás con sus 10 Pueblos Mágicos, cascadas, lagunas, parques nacionales, senderos y la gran reserva de Tehuacán- Cuicatlán.",
+            "urlImg": "PUE_catedral_42.webp",
+            "actions": {
+                "button": {
+                    "text" : "PARA CONOCER MÁS DE PUEBLA PRESIONA AQUÍ",
+                    "dir": "https://www.visitpuebla.mx/es/"
+                }
+            },
+            "titleBottom": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
+            "descriptionBottom": [
+                {
+                    "text": "El Centro Histórico de la capital poblana, construido con cúpulas, torres, campanas, talavera, ladrillo y argamasas blancas, ha sido declarado desde 1987 como Patrimonio Cultural de la Humanidad por la UNESCO."
+                },
+                {
+                    "text": "Las artesanías de los poblanos han puesto en alto a México con las manos mágicas de los indígenas."
+                },
+                {
+                    "text": "La tradición y costumbres son un legado místico. La talavera poblana es una de las artesanías que representan a Puebla en el mundo, razón por la que la UNESCO la declaró Patrimonio Cultural Intangible de la Humanidad."
+                },
+                {
+                    "text": "La gastronomía es reconocida en todo México por las manos creadoras de las religiosas de los conventos poblanos. Cuna del mole, uno de los platillos más emblemáticos de México."
+                },
+                {
+                    "text": "Conoce la magia de Atlixco y déjate encantar por su buen clima, exuberante naturaleza y gran actividad comercial y turística; características que lo catalogan como el lugar con el mejor clima del mundo."
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d967742.7146243165!2d-98.88511791946453!3d18.652999658222356!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85cfc0bd5ebc7a3b%3A0x48a6461de494ad95!2sPuebla%2C%20Pue.!5e0!3m2!1ses-419!2smx!4v1684020864980!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/0Ahe1HuCdpwmXe2qFlt7xc?utm_source=generator",
+            "urlVideoBottom": "https://www.mexico360.com.mx/puebla/indexweb.html",
+            "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
+            "desciptionHover": "PARA CONOCER MÁS DE PUEBLA PRESIONA AQUÍ",
+            "dir": "/estado"
+        },
+        {
+            "id": "Queretaro",
+            "urlVideoTop": "https://www.youtube.com/embed/EhbIkBe3K0I?autoplay=1",
+            "titleTop": "Querétaro",
+            "descriptionTop": "Querétaro es una joya geográfica de México que posee los más diversos atractivos turísticos para todos los gustos e intereses que buscan una alternativa en el centro del país. Este lugar lo tiene todo: modernidad, tradición, bosques y deliciosos vinos.",
+            "urlImg": "QRO_sierra_gorda_422.webp",
+            "actions": {
+                "button": {
+                    "text" : "PARA CONOCER MÁS DE QUERÉTARO PRESIONA AQUÍ",
+                    "dir": "https://queretaro.travel/"
+                }
+            },
+            "titleBottom": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
+            "descriptionBottom": [
+                {
+                    "text": "Querétaro es uno de los estados con más Pueblos Mágicos en el país."
+                },
+                {
+                    "text": "Su capital es alucinante, combina tradición y vanguardismo a la perfección, un lugar lleno de cultura y actividades para todos los públicos."
+                },
+                {
+                    "text": "Su gastronomía mestiza, que incluye barbacoa, el pollo en huerto, las acamayas, las carnitas, unas gorditas de migajas, el tapeado, el asado de cordero, los guajolotes fritos, etc."
+                },
+                {
+                    "text": "Para los amantes del deporte, Xtrail México les encantará. Corredores de todas partes se reúnen para recorrer diferentes ecosistemas, disfrutar la naturaleza, hacer comunidad y superarse sus propias metas."
+                },
+                {
+                    "text": "Con paisajes de ensueño, parecería mentira que a unos pocos kilómetros de la capital, se encuentre una zona boscosa al sur de Querétaro, lo que la hace el destino ideal para desprenderse de la cotidianidad citadina y descansar a la sombra de árboles centenarios."
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d954043.2427950689!2d-100.70136887210424!3d20.923122726456526!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d35b8fdc5b9255%3A0x97b094aa561b832f!2sSantiago%20de%20Quer%C3%A9taro%2C%20Qro.!5e0!3m2!1ses-419!2smx!4v1684021053247!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/5xQPBd7Gs4IIhUgqytSqvQ?utm_source=generator",
+            "urlVideoBottom": "https://www.mexico360.com.mx/queretaro/indexweb.html",
+            "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
+            "desciptionHover": "PARA CONOCER MÁS DE QUERÉTARO PRESIONA AQUÍ",
+            "dir": "/estado"
+        },
+        {
+            "id": "QuintanaRoo",
+            "urlVideoTop": "https://www.youtube.com/embed/jnbG-1MbFWg?autoplay=1",
+            "titleTop": "Quintana Roo",
+            "descriptionTop": "Ubicado al sureste de México, Quintana Roo, es una región única en el mundo, diversa en cuanto a destinos y atractivos turísticos: Mar azul, playas de arena blanca, selva tropical, zonas arqueológicas, cenotes, ríos subterráneos, islas, lagunas, cultura Maya viva e historia. 14 destinos turísticos: Holbox, Isla Mujeres, Costa Mujeres, Cancún, la Riviera Maya, que comprende a Puerto Morelos, Playa del Carmen y Tulum, Isla Cozumel, Maya Ka’an así como la Grand Costa Maya integrada por Mahahual, Bacalar y Chetumal.",
+            "urlImg": "QuintanaRoo.webp",
+            "actions": {
+                "button": {
+                    "text" : "PARA CONOCER MÁS DE QUINTANA ROO PRESIONA AQUÍ",
+                    "dir": "https://www.caribemexicano.travel/"
+                }
+            },
+            "titleBottom": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
+            "descriptionBottom": [
+                {
+                    "text": "El Caribe Mexicano es un paraíso natural repleto de aventuras donde podrás olvidarte de la rutina y conectar con la flora y fauna de la región."
+                },
+                {
+                    "text": "Al sur de Quintana Roo se encuentra la Grand Costa Maya, una bella región conformada por los destinos de Chetumal, Bacalar y Mahahual. Su naturaleza exuberante, sistemas lagunares, playas tranquilas de suave oleaje, historia, cultura, sitios arqueológicos, y singulares atractivos por descubrir lo hacen un auténtico paraíso cada uno de sus rincones."
+                },
+                {
+                    "text": "Experimenta un recorrido culinario de aromas, sabores y texturas únicas a lo largo de todos los destinos en el Caribe Mexicano. Los mejores productos del mar y la tierra te esperan."
+                },
+                {
+                    "text": "Cancún es una ciudad única, una urbe cosmopolita que conjuga diversión y cultura a la perfección. Sitios arqueológicos y hoteles de lujo, modernidad y tradición, ¿hay algo que Cancún no tenga?"
+                },
+                {
+                    "text": "20% del territorio de Quintana Roo está protegido. Esto incluye sitios que son Áreas Naturales Protegidas, Reservas de la Biósfera, Parques Nacionales, Áreas de Protección de Flora y Fauna y Santuarios de diversas especies de animales. ¡Aquí no hay excusas para no salir a la naturaleza!"
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3845592.174182109!2d-90.64439106890148!3d19.735554426711545!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f4ffcf0eac32695%3A0xc4f0c52a484c8d9c!2sQuintana%20Roo!5e0!3m2!1ses-419!2smx!4v1684021214206!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/3jLxQG2AbDNOa3eL5AV4N4?utm_source=generator",
+            "urlVideoBottom": "https://www.mexico360.com.mx/quintanaroo/indexweb.html",
+            "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
+            "desciptionHover": "PARA CONOCER MÁS DE QUINTANA ROO PRESIONA AQUÍ",
+            "dir": "/estado"
+        },
+        {
+            "id": "SanLuisPotosi",
+            "urlVideoTop": "https://www.youtube.com/embed/1gEAijlXnjc?autoplay=1",
+            "titleTop": "San Luis Potosí",
+            "descriptionTop": "Ubicado al centro de México, San Luis Potosí es un destino unido por los contrastes de sus cuatro regiones. Incontables atractivos turísticos desde el enigmático desierto hasta la increíble Huasteca Potosina te esperan para sorprenderte.",
+            "urlImg": "sanluispotosi.webp",
+            "actions": {
+                "button": {
+                    "text" : "PARA CONOCER MÁS DE SAN LUIS POTOSÍ PRESIONA AQUÍ",
+                    "dir": "https://visitasanluispotosi.com/"
+                }
+            },
+            "titleBottom": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
+            "descriptionBottom": [
+                {
+                    "text": "Vuela en bicicleta a una altura de 250 metros de altura en el bello pueblo mágico de Xilitla."
+                },
+                {
+                    "text": "El Túnel de Ogarrio de 2.5 km de recorrido, que es la entrada a experiencias inolvidables mediante caminos empedrados y esplendor minero en el Pueblo Mágico de Real de Catorce."
+                },
+                {
+                    "text": "La exuberante vegetación de Ciudad Valles, así como sus actividades turísticas como el salto en cascadas, visitar la Selva Tének, pasear por Jardín Hidalgo o en trajinera por el Río Valles, entre muchos otros."
+                },
+                {
+                    "text": "Realizar deportes de aventura y actividades al aire libre en el Pueblo Mágico de Aquismón, en la Huasteca Potosina."
+                },
+                {
+                    "text": "Las imponentes y múltiples cascadas de San Luis Potosí, como la de Tamasopo, El Salto, Minas Viejas, entre muchas otras."
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1892526.8016636858!2d-102.27444269316865!3d22.112954982526595!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x842aa20005acfb79%3A0xed2ee29afe18257!2sSan%20Luis%2C%20S.L.P.!5e0!3m2!1ses-419!2smx!4v1684021496107!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/0xymn7NdxdlCLnDFL7ffQ1?utm_source=generator",
+            "urlVideoBottom": "https://www.mexico360.com.mx/sanluispotosi/indexweb.html",
+            "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
+            "desciptionHover": "PARA CONOCER MÁS DE SAN LUIS POTOSÍ PRESIONA AQUÍ",
+            "dir": "/estado"
+        },
+        {
+            "id": "Sinaloa",
+            "urlVideoTop": "https://www.youtube.com/embed/MKX2Na-l-a4?autoplay=1",
+            "titleTop": "Sinaloa",
+            "descriptionTop": "Sinaloa, ubicado en el noroeste de México, es dueño de 650 kilómetros de litoral, lo que permite ofrecer bastas experiencias de sol y playa. Culiacán tiene mucho que ofrecer para todos los sentidos. Negocios, cultura, arte, ocio, educación y por supuesto, fiesta y diversión.",
+            "urlImg": "SIN_mazatlan_playa-750.webp",
+            "actions": {
+                "button": {
+                    "text" : "PARA CONOCER MÁS DE SINALOA PRESIONA AQUÍ",
+                    "dir": "https://sinaloa.travel/"
+                }
+            },
+            "titleBottom": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
+            "descriptionBottom": [
+                {
+                    "text": "Sus principales centros turísticos son Mazatlán, Culiacán y Los Mochis."
+                },
+                {
+                    "text": "Su deliciosa gastronomía, principalmente basada en productos del mar y los cortes de carne."
+                },
+                {
+                    "text": "Cuenta con 4 Pueblos Mágicos: El Rosario, Cosalá, Mocorito y El Fuerte, además cuenta con salidas del único tren turístico en México, la ruta Chepe Express rumbo a las majestuosas Barrancas del Cobre."
+                },
+                {
+                    "text": "Mazatlán es el puerto colonial con más historia en la costa del Pacífico mexicano, además de un destino turístico popular y hermoso."
+                },
+                {
+                    "text": "Las pequeñas callejuelas empedradas y paisajes paradisiacos de sus pueblos mágicos, enriquecidos por su historia minera, clima tropical, viejas iglesias y leyendas fantasmales."
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3710686.7360458025!2d-110.06058980487454!3d24.73657650691432!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x869f539428a74959%3A0x9c7bdf760dbe5fef!2sSinaloa!5e0!3m2!1ses-419!2smx!4v1684021652283!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/57qATI59zt97GfYpac1FoS?utm_source=generator",
+            "urlVideoBottom": "https://www.mexico360.com.mx/sinaloa/indexweb.html",
+            "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
+            "desciptionHover": "PARA CONOCER MÁS DE SINALOA PRESIONA AQUÍ",
+            "dir": "/estado"
+        },
+        {
+            "id": "Sonora",
+            "urlVideoTop": "https://www.youtube.com/embed/n5xkeVm3bws?autoplay=1",
+            "titleTop": "Sonora",
+            "descriptionTop": "Sonora es un gran estado al norte de México, con una importante extensión territorial, la segunda más grande del país, donde puedes encontrar montañas verdes, extensos valles agrícolas, un espectacular desierto, más de 1,200 km de litoral con el increíble Mar de Cortés, y una activa frontera con Estados Unidos.",
+            "urlImg": "SON_caborca_10.webp",
+            "actions": {
+                "button": {
+                    "text" : "PARA CONOCER MÁS DE SONORA PRESIONA AQUÍ",
+                    "dir": "https://visitsonora.mx/"
+                }
+            },
+            "titleBottom": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
+            "descriptionBottom": [
+                {
+                    "text": "Tiene la mejor vista oceánica del mundo desde el Mirador de San Carlos."
+                },
+                {
+                    "text": "Aquí te espera una de las playas más bellas de México, con arena blanca, cálidas y tranquilas aguas: Bahía de Kino."
+                },
+                {
+                    "text": "Los paisajes únicos de San Carlos, ubicado en el Mar de Cortés, este pueblo está rodeado de montañas y playas, donde el mar se funde con el desierto."
+                },
+                {
+                    "text": "La Reserva de la Biosfera El Pinacate, un lugar formado por pavimentos desérticos y corrientes de lavas negras y rojas; y el Gran Desierto de Altar, con dunas que llegan a alcanzar una altura de 200 metros."
+                },
+                {
+                    "text": "Los Petroglifos de Caborca, donde podrás ver la mayor concentración de grabados prehispánicos en América Latina."
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7125758.782105107!2d-117.02763597053065!3d29.300691176733878!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86982969e74dd20f%3A0xcd56ff1afcbbe374!2sSonora!5e0!3m2!1ses-419!2smx!4v1684021784841!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/4xRB7oBUzyZe7dIiNf6H58?utm_source=generator",
+            "urlVideoBottom": "https://www.mexico360.com.mx/sonora/indexweb.html",
+            "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
+            "desciptionHover": "PARA CONOCER MÁS DE SONORA PRESIONA AQUÍ",
+            "dir": "/estado"
+        },
+        {
+            "id": "Tabasco",
+            "urlVideoTop": "https://www.youtube.com/embed/noJ6i36csXQ?autoplay=1",
+            "titleTop": "Tabasco",
+            "descriptionTop": "Su ubicación lo convierte en la puerta de entrada al sureste mexicano y al Mundo Maya, epicentro de la industria petrolera y centro regional de entretenimiento, servicios y comunicaciones. Posee el 53% de agua de todo el país. Ocupa el primer lugar en producción de cacao y ganadería; y el segundo lugar en producción de plátano.",
+            "urlImg": "Tabasco-Comalcalco-04(1).webp",
+            "actions": {
+                "button": {
+                    "text" : "PARA CONOCER MÁS DE TABASCO PRESIONA AQUÍ",
+                    "dir": "https://visitetabasco.com/"
+                }
+            },
+            "titleBottom": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
+            "descriptionBottom": [
+                {
+                    "text": "Su paisaje irreverentemente verde y tropical, surcado por ríos, y ocupado por extensas lagunas, numerosas zonas de pantanos y hermosas playas."
+                },
+                {
+                    "text": "Su gastronomía tan rica en sabor, pero sobre todo en historia y tradiciones provenientes de sus raíces indígenas y españolas."
+                },
+                {
+                    "text": "Es un paraíso para la pesca deportiva, el avistamiento de aves, ecoturismo y turismo de aventura, entre otras actividades."
+                },
+                {
+                    "text": "La exuberante naturaleza de sus ríos, lagunas e imponente vegetación de la Gran Ruta Villahermosa."
+                },
+                {
+                    "text": "La alegría, el folklor, los colores y sabores que caracterizan a la Gran Ruta Biji Yokot’an."
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3886964.1408265596!2d-95.19981354332153!3d17.938523210589693!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85edfb5f8f78cb4f%3A0xd426cb11d9866b44!2sTabasco!5e0!3m2!1ses-419!2smx!4v1684022280766!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/1e0PFxUw2WqvP9Jp3VF2a1?utm_source=generator",
+            "urlVideoBottom": "https://www.mexico360.com.mx/tabasco/indexweb.html",
+            "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
+            "desciptionHover": "PARA CONOCER MÁS DE TABASCO PRESIONA AQUÍ",
+            "dir": "/estado"
+        },
+        {
+            "id": "Tamaulipas",
+            "urlVideoTop": "https://www.youtube.com/embed/DktNae84wVk?autoplay=1",
+            "titleTop": "Tamaulipas",
+            "descriptionTop": "Tamaulipas se encuentra al noreste del país. Con más de 400 kilómetros de playa y otros tantos más de fronteras. Aquí viven un sinfín de especies naturales como el jaguar, la guacamaya, el cocodrilo y el venado, así como miles de aves que se pueden observar a lo largo de todo este territorio.",
+            "urlImg": "TMPS_miramar_2_20.webp",
+            "actions": {
+                "button": {
+                    "text" : "PARA CONOCER MÁS DE TAMAULIPAS PRESIONA AQUÍ",
+                    "dir": "http://www.visittam.com/"
+                }
+            },
+            "titleBottom": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
+            "descriptionBottom": [
+                {
+                    "text": "Ciudad Victoria es una ciudad bellísima, rebosante de cultura y actividades por realizar."
+                },
+                {
+                    "text": "Los sabores de la comida tamaulipeca conquistarán tu paladar con langostinos, jaibas y ceviches; enchiladas tultecas y deliciosas nieves con frutos regionales."
+                },
+                {
+                    "text": "El estado goza de tener cinco hermosas playas que cuentan con gran infraestructura hotelera para ti y tu familia: playa Bagdad, Carbonera, Barra del Tordo, La Pesca o Miramar."
+                },
+                {
+                    "text": "El Pueblo Mágico de Mier, en las calles de este bello pueblo tamaulipeco podrás respirar el ambiente de los antiguos pueblos coloniales que surgieron en lo que fue llamado el Nuevo Santander durante el siglo XVIII."
+                },
+                {
+                    "text": "Ubicada en la Sierra Madre Oriental, al suroeste de Tamaulipas, la hermosa Tula es la cuna de la entidad, no es casualidad que la cuera tulteca, prenda típica de Tamaulipas, sea de este lugar."
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3705052.4384775567!2d-101.28520894348287!3d24.924735351966053!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x867953aedb1e2459%3A0x33859f5a35e81925!2sTamaulipas!5e0!3m2!1ses-419!2smx!4v1684022385332!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/42i0q3sQUpBO2ObG2nxySB?utm_source=generator",
+            "urlVideoBottom": "https://www.mexico360.com.mx/tamaulipas/indexweb.html",
+            "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
+            "desciptionHover": "PARA CONOCER MÁS DE TAMAULIPAS PRESIONA AQUÍ",
+            "dir": "/estado"
+        },
+        {
+            "id": "Tlaxcala",
+            "urlVideoTop": "https://www.youtube.com/embed/NQPGtGnuA9E?autoplay=1",
+            "titleTop": "Tlaxcala",
+            "descriptionTop": "Dentro del corazón de la República Mexicana se encuentra Tlaxcala, a solo 120 km al oriente de la Ciudad de México. Es el estado más pequeño de la República Mexicana, pero uno de los más grandes en historia y tradición. Tlaxcala, sí existe. ¡Compruébalo!",
+            "urlImg": "TLX_teatro_26.webp",
+            "actions": {
+                "button": {
+                    "text" : "PARA CONOCER MÁS DE TLAXCALA PRESIONA AQUÍ",
+                    "dir": "https://www.tlaxcalasiexiste.com.mx/"
+                }
+            },
+            "titleBottom": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
+            "descriptionBottom": [
+                {
+                    "text": "Te enamorarás de los murales que describen la historia del pueblo tlaxcalteca."
+                },
+                {
+                    "text": "La gastronomía de la región, que salvaguarda el patrimonio alimentario vinculado a la cocina tradicional tlaxcalteca."
+                },
+                {
+                    "text": "La Plaza de la Constitución que ha sido escenario de películas, documentales y cortometrajes desde la Época de Oro del cine nacional hasta nuestros días."
+                },
+                {
+                    "text": "La historia detrás de sus principales edificaciones como el Palacio de Gobierno, la Antigua Capilla Real de Indios los Portales de Hidalgo y Juárez y la Casa de Piedra."
+                },
+                {
+                    "text": "Por la Huamantlada, fiesta con más de 60 años de tradición. Las calles son adornadas con tapetes de aserrín multicolores y flores."
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1926627.340737737!2d-99.4862495595288!3d19.41482434541632!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85cfd93f1c006113%3A0x38bae25ad47cbde0!2sTlaxcala!5e0!3m2!1ses-419!2smx!4v1684022486835!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/2Au5dhEkQ16xsO05chmItl?utm_source=generator",
+            "urlVideoBottom": "https://www.mexico360.com.mx/tlaxcala/indexweb.html",
+            "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
+            "desciptionHover": "PARA CONOCER MÁS DE TLAXCALA PRESIONA AQUÍ",
+            "dir": "/estado"
+        },
+        {
+            "id": "Veracruz",
+            "urlVideoTop": "https://www.youtube.com/embed/YoNdlAk5N5Q?autoplay=1",
+            "titleTop": "Veracruz",
+            "descriptionTop": "Veracruz, un alargado estado mexicano que bordea el Golfo de México, tiene varias playas y la cima más alta del país, Pico de Orizaba, un volcán inactivo. Una tierra de diversidad cultural y natural está entre las 3 entidades con mayor biodiversidad del país.",
+            "urlImg": "VER_catemaco104.webp",
+            "actions": {
+                "button": {
+                    "text" : "PARA CONOCER MÁS DE VERACRUZ PRESIONA AQUÍ",
+                    "dir": "https://www.google.com/"
+                }
+            },
+            "titleBottom": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
+            "descriptionBottom": [
+                {
+                    "text": "Es el estado más bello y cálido del Golfo de México, de verdad te enamorarás."
+                },
+                {
+                    "text": "Alberga 2 de 35 lugares considerados Patrimonio de la Humanidad en México: la Ciudad Prehispánica de El Tajín y zona de monumentos históricos de Tlacotalpan."
+                },
+                {
+                    "text": "El arte y la cultura que se mantienen plasmados en el puerto y su capital a través del tiempo en sus calles con arquitectura colonial."
+                },
+                {
+                    "text": "Su extensa riqueza cultural, como la alfarería, cestería y textiles veracruzanos."
+                },
+                {
+                    "text": "La majestuosa belleza natural de sus playas, ríos, pozas de aguas termales."
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d120587.93128962361!2d-96.25871711943859!3d19.178910555291967!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85c3414245ca78c5%3A0x18a4d642e936019b!2sVeracruz%2C%20Ver.!5e0!3m2!1ses-419!2smx!4v1684022576385!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/1xVFcq3EP54qT1OKuZ6pHa?utm_source=generator",
+            "urlVideoBottom": "https://www.mexico360.com.mx/veracruz/indexweb.html",
+            "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
+            "desciptionHover": "PARA CONOCER MÁS DE VERACRUZ PRESIONA AQUÍ",
+            "dir": "/estado"
+        },
+        {
+            "id": "Yucatan",
+            "urlVideoTop": "https://www.youtube.com/embed/aDjSaYjccbE?autoplay=1",
+            "titleTop": "Yucatán",
+            "descriptionTop": "Yucatán es un estado mexicano famoso por sus playas en el golfo de México y las ruinas mayas. Ubicado al sureste del país, en este Estado puedes combinar historia, cultura, romance, gastronomía, playas y la oportunidad única de sumergirte en una comunidad del pueblo Maya.",
+            "urlImg": "YUC_Cusaman_Cenotes152.webp",
+            "actions": {
+                "button": {
+                    "text" : "PARA CONOCER MÁS DE YUCATÁN PRESIONA AQUÍ",
+                    "dir": "https://yucatan.travel/"
+                }
+            },
+            "titleBottom": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
+            "descriptionBottom": [
+                {
+                    "text": "La cultura, historia, diversión y deliciosa gastronomía de la ciudad capital de Mérida."
+                },
+                {
+                    "text": "El sazón único y especial de la emblemática gastronomía Yucateca, de la que destaca la mundialmente famosa cochinita pibil."
+                },
+                {
+                    "text": "Contemplar verde audaz de la exuberante selva que resguarda los imperdibles sitios arqueológicos mayas."
+                },
+                {
+                    "text": "Yucatán es un destino romántico por naturaleza, en donde encontrarás rincones muy especiales, como playas de arena blanca y suave, de aguas tranquilas color verde esmeralda."
+                },
+                {
+                    "text": "Los bosques tropicales, ojos de agua, manglares y playas de la Riviera Yucatán."
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3813412.5324629922!2d-91.72837164601708!3d21.03125846141055!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f540ff8aad604ed%3A0xcccc217531083d0a!2zWXVjYXTDoW4!5e0!3m2!1ses-419!2smx!4v1684022688075!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/3qxRbcVFYfo0IHTiOzof1V?utm_source=generator",
+            "urlVideoBottom": "https://www.mexico360.com.mx/yucatan/indexweb.html",
+            "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
+            "desciptionHover": "PARA CONOCER MÁS DE YUCATÁN PRESIONA AQUÍ",
+            "dir": "/estado"
+        },
+        {
+            "id": "Zacatecas",
+            "urlVideoTop": "https://www.youtube.com/embed/v5bCqfnHHOc?autoplay=1",
+            "titleTop": "Zacatecas",
+            "descriptionTop": "Zacatecas se ubica al centro de México. Conocido por ser un centro minero de plata del siglo XVI. Territorio diverso y de distintas altitudes, es un Estado que brilla. Orgulloso de su historia minera, desde las entrañas de la tierra hasta la influencia de su gastronomía popular.",
+            "urlImg": "zacatecas.webp",
+            "actions": {
+                "button": {
+                    "text" : "PARA CONOCER MÁS DE ZACATECAS PRESIONA AQUÍ",
+                    "dir": "https://www.zacatecastravel.com/"
+                }
+            },
+            "titleBottom": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
+            "descriptionBottom": [
+                {
+                    "text": "Es un estado deslumbrante, colorido y generoso, donde vivirás experiencias extravagantes y contemplativas."
+                },
+                {
+                    "text": "Su cielo, ya que es considerado el más azul de la república mexicana."
+                },
+                {
+                    "text": "Su gastronomía tan rica en sabores y aromas, como el mole y las enchiladas zacatecanas."
+                },
+                {
+                    "text": "Las antiguas minas turísticas y sus tiendas de platería."
+                },
+                {
+                    "text": "Zacatecas es la ciudad con más museos per cápita en el país por lo que tendrás una gran oferta de interesantes opciones."
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3758930.7320455452!2d-105.18865987848196!3d23.06666422056259!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8681d1a07ec9fe6f%3A0x1c1f2dfd5e256d98!2sZacatecas!5e0!3m2!1ses-419!2smx!4v1684022913675!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/6XOFXXp91YSgCvCNawIfOw?utm_source=generator",
+            "urlVideoBottom": "https://www.mexico360.com.mx/zacatecas/indexweb.html",
+            "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
+            "desciptionHover": "PARA CONOCER MÁS DE ZACATECAS PRESIONA AQUÍ",
+            "dir": "/estado"
+        }
+    ]
+}

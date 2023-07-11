@@ -1,0 +1,155 @@
+{
+    "title": "Conoce los principales destinos por estado, tesoros coloniales y ciudades patrimonio de México",
+    "urlVideoHeader": "https://www.youtube.com/embed/Uf40GtVbG60",
+    "videos": [
+        {
+            "name": "Tianguis turístico",
+            "decription": "",
+            "content": [
+                {
+                    "id": 1,
+                    "urlVideo": "https://www.youtube.com/embed/q_8XWtdqcLA"
+                },
+                {
+                    "id": 2,
+                    "urlVideo": "https://www.youtube.com/embed/Uf40GtVbG60"
+                }
+            ] 
+        },
+        {
+            "name": "Destino del mes",
+            "decription": "Conoce los principales destinos por estado, tesoros coloniales y ciudades patrimonio de México.",
+            "content": [
+                {
+                    "id": 1,
+                    "urlVideo": "https://www.youtube.com/embed/RBiXpPGRQlk"
+                },
+                {
+                    "id": 2,
+                    "urlVideo": "https://www.youtube.com/embed/RBiXpPGRQlk"
+                },
+                {
+                    "id": 3,
+                    "urlVideo": "https://www.youtube.com/embed/a5zpkQ-FxUI"
+                },
+                {
+                    "id": 4,
+                    "urlVideo": "https://www.youtube.com/embed/xkdr7GYG5pw"
+                }
+            ] 
+        },
+        {
+            "name": "Lo imperdible",
+            "decription": "Lugares de interés, comida, eventos, cultura y costumbres para conocer nuestras maravillas.",
+            "content": [
+                {
+                    "id": 1,
+                    "urlVideo": "https://www.youtube.com/embed/3vmSVbkVeiI"
+                },
+                {
+                    "id": 2,
+                    "urlVideo": "https://www.youtube.com/embed/LQ-dqJPHc3A"
+                },
+                {
+                    "id": 3,
+                    "urlVideo": "https://www.youtube.com/embed/3sxnZFRCUgQ"
+                },
+                {
+                    "id": 4,
+                    "urlVideo": "https://www.youtube.com/embed/L_GBrxICTe4"
+                }
+            ] 
+        },
+        {
+            "name": "Así viajan ellos",
+            "decription": "Personalidades te dan tips para viajar.",
+            "content": [
+                {
+                    "id": 1,
+                    "urlVideo": "https://www.youtube.com/embed/8I0bQgC1418"
+                },
+                {
+                    "id": 2,
+                    "urlVideo": "https://www.youtube.com/embed/NVjiuvJM4lo"
+                },
+                {
+                    "id": 3,
+                    "urlVideo": "https://www.youtube.com/embed/r1_UKN1WtSw"
+                },
+                {
+                    "id": 4,
+                    "urlVideo": "https://www.youtube.com/embed/5un7BNHlcEE"
+                }
+            ] 
+        },
+        {
+            "name": "Triviajero",
+            "decription": "¿Qué tanto sabes de México? Ponte a prueba.",
+            "content": [
+                {
+                    "id": 1,
+                    "urlVideo": "https://www.youtube.com/embed/7Yoqsvvw1AU"
+                },
+                {
+                    "id": 2,
+                    "urlVideo": "https://www.youtube.com/embed/rBDFpoWL8kE"
+                },
+                {
+                    "id": 3,
+                    "urlVideo": "https://www.youtube.com/embed/taFEOphMzYo"
+                },
+                {
+                    "id": 4,
+                    "urlVideo": "https://www.youtube.com/embed/JYRVuHXLhuY"
+                }
+            ] 
+        },
+        {
+            "name": "Conociendo México",
+            "decription": "Descubre México a través de sus Ferias nacionales y de su cultura.",
+            "content": [
+                {
+                    "id": 1,
+                    "urlVideo": "https://www.youtube.com/embed/HMBotewDNDs"
+                },
+                {
+                    "id": 2,
+                    "urlVideo": "https://www.youtube.com/embed/JtR7GhxDCD8"
+                },
+                {
+                    "id": 3,
+                    "urlVideo": "https://www.youtube.com/embed/HCljfO9zg2g"
+                },
+                {
+                    "id": 4,
+                    "urlVideo": "https://www.youtube.com/embed/ws-ef907aKg"
+                }
+            ] 
+        },
+        {
+            "name": "Gran acuario de Mazatlán",
+            "decription": "",
+            "content": [
+                {
+                    "id": 1,
+                    "urlVideo": "https://www.youtube.com/embed/dNIrs66OMOo"
+                }
+            ] 
+        }
+    ],
+    "videoInterested": [
+        {
+            "id": 1,
+            "urlVideo": "https://www.youtube.com/embed/dNIrs66OMOo"
+        },
+        {
+            "id": 2,
+            "urlVideo": "https://www.youtube.com/embed/ws-ef907aKg"
+        },
+        {
+            "id": 3,
+            "urlVideo": "https://www.youtube.com/embed/8I0bQgC1418"
+        }
+    ],
+    "linkTitle": "Quizás también te interese..."
+}

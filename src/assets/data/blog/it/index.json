@@ -1,0 +1,239 @@
+{
+    "title": "BLOG",
+    "blogs": [
+        {
+            "id": 0,
+            "title": "Sfere natalizie, arte in vetro che decora il Natale in Messico.",
+            "shortDescription": "Il Natale in Messico è una tradizione radicata e unica al mondo, che ogni anno si adorna di sfere realizzate dalle magiche mani di maestri artigiani che utilizzano la tecnica del vetro soffiato, bellissime creazioni che esaltano questa festività.",
+            "description": [
+                {
+                    "text": "Il Natale in Messico è una tradizione radicata e unica al mondo, che ogni anno si adorna di sfere realizzate dalle magiche mani di maestri artigiani che utilizzano la tecnica del vetro soffiato, bellissime creazioni che esaltano questa festività."
+                },
+                {
+                    "text": "I Pueblos mágicos de Tlalpujahua, Michoacán y Chignahuapan, Puebla sono le due destinazioni più rappresentative dove, ogni anno, migliaia di visitatori nazionali e stranieri acquistano questi prodotti iconici e allo stesso tempo godono delle attrazioni turistiche e gastronomiche del luogo."
+                },
+                {
+                    "text": "Le sfere che impreziosiscono il Natale in Messico sono il prodotto di una tradizione che si tramanda di generazione in generazione, fin dal XVII secolo quando arrivò nel nostro paese. Secondo registri vari in Cina già facevano le sfere da più di 2000 anni."
+                },
+                {
+                    "text": "La tecnica è passata in Europa e poi le comunità del Messico l'hanno adottata fin dai tempi del vicereame, dando vita a una straordinaria fusione che rimane fino ai giorni nostri."
+                }
+            ],
+            "urlImg": "esferas_.webp",
+            "shareFb": "",
+            "shareIg": "",
+            "shareVideo": "",
+            "shareTT": "",
+            "actions": {
+                "button": {
+                    "text" : "Ir al blog",
+                    "dir": "/blog"
+                }
+            }
+        },
+        {
+            "id": 1,
+            "title": "TLALPUJAHUA e la fiera della sfera",
+            "shortDescription": "La tradizione e la produzione di queste creazioni artigianali è così importante che una delle 5 festività più importanti di Tlalpujahua è la Fiera della Sfera, che si svolge da ottobre a dicembre, con l'obiettivo che i visitatori possano vedere con l'opportunità l'ampia varietà di colori, modelli e le dimensioni delle sfere che vengono prodotte.",
+            "description": [
+                {
+                    "text": "La tradizione e la produzione di queste creazioni artigianali è così importante che una delle 5 festività più importanti di Tlalpujahua è la Fiera della Sfera, che si svolge da ottobre a dicembre, con l'obiettivo che i visitatori possano vedere con l'opportunità l'ampia varietà di colori, modelli e le dimensioni delle sfere che vengono prodotte."
+                },
+                {
+                    "text": "Così le case avranno uno degli elementi più caratteristici del Natale in Messico."
+                },
+                {
+                    "text": "Tlalpujahua si trova aprossimatamente 3 ore lontano di Città del Messico in autostrada, e a 1,50 ore da Morelia o Toluca. Si trova a nord-ovest di Michoacán, al confine con Maravatío, Contepec, Senguio e lo Stato del Messico."
+                },
+                {
+                    "text": "È il luogo di nascita dell'insorto messicano Ignacio López Rayón, motivo per cui il nome ufficiale della destinazione è Tlalpujahua de Rayón, e si distingue per la sua architettura con edifici dell'era del vicereame e palazzi con balconi, ha anche un ricco bacino minerario storico."
+                },
+                {
+                    "text": "Quindi, quando visiti questo Pueblo mágico per acquisire sfere, concediti l'opportunità di visitare luoghi imperdibili come la Casa-Museo Hermanos Rayón, il Santuario di Nuestra Señora del Carmen o la Miniera di Dos Estrellas."
+                },
+                {
+                    "text": "Ma Tlalpujahua ha anche affascinanti siti naturali intorno a sé, che gli conferiscono un fascino speciale. Ne è prova il Santuario delle farfallle Monarca, che tra i mesi di novembre e febbraio accoglie migliaia di esemplari di questa specie migratrice, che viaggiano dal Canada verso le foreste del Michoacán, come quelle che si trovano in questa destinazione."
+                },
+                {
+                    "text": "Il fascino di Tlalpujahua l'ha resa degna di essere nominato Pueblo mágico dal 27 dio giugno di 2005."
+                }
+            ],
+            "urlImg": "esferas2.webp",
+            "shareFb": "",
+            "shareIg": "",
+            "shareVideo": "",
+            "shareTT": "",
+            "actions": {
+                "button": {
+                    "text" : "Ir al blog",
+                    "dir": "/blog"
+                }
+            }
+        },
+        {
+            "id": 2,
+            "title": "Chignahuapan e i suoi laboratori di produzione di sfere",
+            "shortDescription": "È registrato che in questo Pueblo mágico di Puebla ci sono più di 200 laboratori e fabbriche di sfere dove vengono prodotte ogni anno decine di milioni di opere d'arte che decorano il Natale in Messico.",
+            "description": [
+                {
+                    "text": "È registrato che in questo Pueblo mágico di Puebla ci sono più di 200 laboratori e fabbriche di sfere dove vengono prodotte ogni anno decine di milioni di opere d'arte che decorano il Natale in Messico."
+                },
+                {
+                    "text": "Situata a 2 ore e mezza da Città del Messico, 1 ora e 30 minuti da Pachuca e 2 ore e 10 minuti dalla città di Puebla, Chignahuapan è una bellissimo popolo incastonato tra colline che le conferiscono un clima particolarmente freddo."
+                },
+                {
+                    "text": "Il chiosco mudéjar è uno dei luoghi che ogni visitatore dovrebbe conoscere, per lo stile caratteristico di questa corrente artistica emersa in Spagna alla fine del XIX secolo, perché è anche la foto d'obbligo per tutti i turisti."
+                },
+                {
+                    "text": "Ci sono anche la Basilica dell'Immacolata Concezione e la Plaza de Armas, ma le attrazioni naturali sono le più rappresentative di questo pueblo mágico. Cascate come El Cajón, Quetzalapan, le sue lagune e sorgenti termali, sono solo alcuni dei punti più ricercati dai visitatori."
+                },
+                {
+                    "text": "Quindi ora sai, Tlalpujahua e Chignahuapan sono le due opzioni più consigliate, non solo per acquisire le sfere per il prossimo Natale, ma anche l'opportunità di scoprire due incredibili Pueblos mágicos del Messico."
+                }
+            ],
+            "urlImg": "blogesfera.webp",
+            "shareFb": "",
+            "shareIg": "",
+            "shareVideo": "",
+            "shareTT": "",
+            "actions": {
+                "button": {
+                    "text" : "Ir al blog",
+                    "dir": "/blog"
+                }
+            }
+        },
+        {
+            "id": 3,
+            "title": "10 attività che puoi fare a Cozumel",
+            "shortDescription": Nei Caraibi messicani si trova uno dei paradisi insulari più preziosi del Messico, Cozumel, la cui ricchezza naturale si combina perfettamente con l'eredità della cultura Maya e le sue moderne infrastrutture per ricevere il turismo, come il suo aeroporto internazionale, la sua zona di hotels di primo livello e il molo adatto a ricevere grandi navi da crociera.",
+            "description": [
+                {
+                    "text": "Nei Caraibi messicani si trova uno dei paradisi insulari più preziosi del Messico, Cozumel, la cui ricchezza naturale si combina perfettamente con l'eredità della cultura Maya e le sue moderne infrastrutture per ricevere il turismo, come il suo aeroporto internazionale, la sua zona di hotels di primo livello e il molo adatto a ricevere grandi navi da crociera."
+                },
+                {
+                    "text": "Conosciuta anche come Isla de las Golondrinas (isla delle rondini), Cozumel, Quintana Roo è il luogo perfetto per contemplare la vasta flora e fauna marina, poiché si trova nella seconda barriera corallina più grande del mondo."
+                },
+                {
+                    "text": "Circondato dalle acque turchesi del Mar dei Caraibi, più della metà del territorio di questa destinazione è un'Area Naturale Protetta, che aiuta la conservazione e la pratica del turismo responsabile per la gioia dei visitatori che arrivano, sia in barca che in aereo."
+                },
+                {
+                    "text": "Aunque una opción muy recurrente es tomar un ferry desde Playa del Carmen para hacer una visita a Cozumel, esta isla cuenta con una variada gama de actividades, por lo que bien vale la pena tener una estancia de algunos días, para disfrutarla al máximo."
+                }
+            ],
+            "urlImg": "cozumel-0.wep.jpg",
+            "shareFb": "",
+            "shareIg": "",
+            "shareVideo": "",
+            "shareTT": "",
+            "actions": {
+                "button": {
+                    "text" : "Ir al blog",
+                    "dir": "/blog"
+                }
+            }
+        },
+        {
+            "id": 4,
+            "title": "1.	Attività obbligate a fare a Cozumel",
+            "shortDescription": "Essendo uno dei principali punti di ingresso a questa destinazione insulare, è meglio visitare il suo molo e il centro di San Miguel de Cozumel, dove si trova la sede municipale, e ha parte dei siti storici e culturali, oltre a ristoranti, negozi di artigianato e souvenir, tra gli altri stabilimenti. Inoltre, potrai ammirare i murales moderni che danno alla visita un tocco molto pittoresco e piacevole, ideale per scattare delle belle foto.",
+            "description": [
+                {
+                    "list": [
+                        {
+                            "title": "VISITAR EL MUELLE Y EL CENTRO DE SAN MIGUEL DE COZUMEL",
+                            "description": [
+                                {
+                                    "text": "Essendo uno dei principali punti di ingresso a questa destinazione insulare, è meglio visitare il suo molo e il centro di San Miguel de Cozumel, dove si trova la sede municipale, e ha parte dei siti storici e culturali, oltre a ristoranti, negozi di artigianato e souvenir, tra gli altri stabilimenti. Inoltre, potrai ammirare i murales moderni che danno alla visita un tocco molto pittoresco e piacevole, ideale per scattare delle belle foto."
+                                }
+                            ]
+                        },
+                        {
+                            "title": "2.	Pratticare immersioni e snorkeling",
+                            "description": [
+                                {
+                                    "text": "Grazie alla sua posizione geografica privilegiata, il modo migliore per godere delle meraviglie naturali di Cozumel è praticare le immersioni subacquee. Sia per esperti che per principianti, nelle diverse zone dell'isola sono presenti fornitori di servizi che aiuteranno il visitatore ad apprendere questa attività. Ma se preferite, è anche possibile fare semplicemente snorkeling e vedere i tesori naturali nascosti nei fondali di questa zona del Mar dei Caraibi."
+                                }
+                            ]
+                        },
+                        {
+                            "title": "3.	Viaggiare a Punta Sur",
+                            "description": [
+                                {
+                                    "text": "Come indica il nome, all'estremità "bassa" di Cozumel si trova Punta Sur, una vasta area naturale che presenta vaste distese di vegetazione, mangrovie e scogliere, oltre a un imponente faro e al Museo della Navigazione, dove il passaggio della storia dei Maya e dei navigatori di questa zona dei Caraibi messicani, e persino vestigia di questa imponente cultura."
+                                }
+                            ]
+                        },
+                        {
+                            "title": "4.	Percorrere le rovine archeologiche di San Gervasio",
+                            "description": [
+                                {
+                                    "text": "Per i Mayas, Ixchel è la dea della fertilità, del parto, della medicina e delle arti, e questa zona archeologica di Cozumel è dedicata a questa divinità. Anche se questa zona ospita le principali vestigia di venerazione, in tutta Cozumel ci sono diverse manifestazioni che attestano il culto che le veniva reso; è anche noto che in precedenza tutte le donne dovevano visitare l'isola prima o poi."
+                                }
+                            ]
+                        },
+                        {
+                            "title": "5.	Apprezzare l’arrivo del sacro viaggio dei Maya",
+                            "description": [
+                                {
+                                    "text": "Visto che si parla di Ixchel, è importante parlare anche di uno degli eventi più significativi di Cozumel, il Sacro Viaggio Maya, che attualmente è una ricostruzione del percorso dei canoisti che partono dalla terraferma a Playa del Carmen, per rendere omaggio a questa dea, con lo scopo di chiedere la fertilità della terra e ringraziare per quanto ricevuto."
+                                }
+                            ]
+                        },
+                        {
+                            "title": "6.	Godere il Parco Nazionale Chankanaab",
+                            "description": [
+                                {
+                                    "text": "Storia, natura e divertimento si concentrano in un unico luogo, il parco Chankanaab, dichiarato nazionale, al cui interno, oltre a poter fare attività come snorkeling, immersioni e persino nuotare con i delfini, o semplicemente rilassarsi presso il suo beach club; inoltre, ha un museo, che lo rende uno dei posti migliori per tutti i tipi di viaggiatori."
+                                }
+                            ]
+                        },
+                        {
+                            "title": "7.	Roposare nel Cedral",
+                            "description": [
+                                {
+                                    "text": "Se Cozumel è la destinazione perfetta per chi cerca tranquillità e relax, El Cedral è il posto perfetto sull'isola. Questa piccola città ha un fascino particolare, ed è testimone del passaggio della storia dall'ascesa della Cultura Maya fino ai giorni nostri. È anche la sede della seconda festa più importante della destinazione: La Fiesta del Cedral, il giorno della Santa Croce."
+                                }
+                            ]
+                        },
+                        {
+                            "title": "8.	Fare attività acquatiche",
+                            "description": [
+                                {
+                                    "text": "Se le immersioni e lo snorkeling sono alcune delle attività più comuni a Cozumel, c'è una gamma più ampia per godersi le sue spiagge. Lungo la costa troverai opzioni per praticare paddleboarding, jet ski e kayak, sempre con il supporto di esperti del settore che ti daranno tutta la fiducia."
+                                }
+                            ]
+                        },
+                        {
+                            "title": "VISITA A LA ISLA DE LA PASIÓN",
+                            "description": [
+                                {
+                                    "text": "Verso il nord di Cozumel c'è un piccolo posto chiamato Isla Pasión, con un'estensione di solo un chilometro, qui troviamo mangrovie, barriera corallina e giungla, e dove puoi fare escursioni per goderti la sua spiaggia calma e rilassante, anche attività un po' più di adrenalina. Inoltre, per le sue caratteristiche, è diventata anche una bellissima meta per matrimoni."
+                                }
+                            ]
+                        },
+                        {
+                            "title": "10.	Il Cielo",
+                            "description": [
+                                {
+                                    "text": "A sud di Cozumel, in fondo al mare dalla sabbia bianca che caratterizza il Mar dei Caraibi, troviamo l'autentico paradiso marino. Il suo nome è dovuto alle centinaia di stelle marine che riposano in una vasta area, quindi non poteva ricevere altro nome che Paradiso, se non all'interno del mare. Godersi questa attrazione è l'ideale attraverso le immersioni o lo snorkeling, ed è una delle visite che nessun turista può perdere quando si reca a Cozumel."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "urlImg": "sea-cozumel.webp",
+            "shareFb": "",
+            "shareIg": "",
+            "shareVideo": "",
+            "shareTT": "",
+            "actions": {
+                "button": {
+                    "text" : "Ir al blog",
+                    "dir": "/blog"
+                }
+            }
+        }
+    ]
+}

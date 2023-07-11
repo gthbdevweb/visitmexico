@@ -4,8 +4,8 @@
             "url": "Mingles.webp",
             "id": "Nayarit",
             "content": {
-                "title": "",
-                "subtitle": ""
+                "title": "Enchanting Nayarit",
+                "subtitle": "Discover the Jewel of the Mexican Pacific."
             },
             "actions": {
                 "button": {
@@ -18,12 +18,12 @@
             "url": "mexicois.webp",
             "id": "San Luis Potosí",
             "content": {
-                "title": "",
-                "subtitle": ""
+                "title": "Discover San Luis Potosí",
+                "subtitle": "Natural and Cultural Treasures in the Heart of Mexico."
             },
             "actions": {
                 "button": {
-                    "text" : "¡Vamos allá!",
+                    "text" : "Let’s go!",
                     "dir": "/videos"
                 }
             }
@@ -33,11 +33,11 @@
             "id": "Nuevo León",
             "content": {
                 "title": "Nuevo León:",
-                "subtitle": "Explora la Esencia del Norte de México."
+                "subtitle": "Explore the essence of Northern Mexico."
             },
             "actions": {
                 "button": {
-                    "text" : "¡Vamos allá!",
+                    "text" : "Let’s go!",
                     "dir": "/estado/NuevoLeon"
                 }
             }

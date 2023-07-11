@@ -1,0 +1,64 @@
+{
+    "header": {
+        "title": "Quale Messico vuoi conoscere?",
+        "description": ""
+    },
+    "menu": [
+        {
+            "name": "Treno Maya",
+            "dir": "/trenmaya",
+            "urlImg": "trenMaya.webp",
+            "description": "Treno Maya",
+            "hover": "Andiamo al Treno Maya!"
+        },
+        {
+            "name": "Stati",
+            "dir": "/estados",
+            "urlImg": "MOR-Tepoztlan-ExConventoNatividad-PuebloMagico-GerardoJuarez-4858_2-_1__11zon.webp",
+            "description": "Stati",
+            "hover": "Andiamo agli Stati!"
+        },
+        {
+            "name": "Paesi magici",
+            "dir": "/pueblos",
+            "urlImg": "Pueblos-magicos.webp",
+            "description": "Paesi magici",
+            "hover": "Andiamo ai Paesi Magici!"
+        },
+        {
+            "name": "Eventi internazionali",
+            "dir": "/eventos",
+            "urlImg": "f1evento.webp",
+            "description": "Eventi internazionali",
+            "hover": "Andiamo agli Eventi Internazionali!"
+        },
+        {
+            "name": "Esperienze turistiche",
+            "dir": "/experiencias",
+            "urlImg": "Qroo_cancun_playa108.webp",
+            "description": "Esperienze turistiche",
+            "hover": "Esperienze turistiche!"
+        },
+        {
+            "name": "Calendario",
+            "dir": "/calendario",
+            "urlImg": "blog.webp",
+            "description": "Calendario",
+            "hover": "Andiamo al Calendario!"
+        },
+        {
+            "name": "Blog",
+            "dir": "/blog",
+            "urlImg": "MOR_xochicalco_t_156-_1__11zon.webp",
+            "description": "Blog",
+            "hover": "Andiamo al Blog!"
+        },
+        {
+            "name": "Videos",
+            "dir": "/videos",
+            "urlImg": "videos.webp",
+            "description": "Videos",
+            "hover": "¡Vamos a Videos!"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "trends": [
+        {
+            "id": 0,
+            "title": "San Cristobal de las Casas",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo ducimus totam corporis.",
+            "urlVideo": "https://www.youtube.com/embed/a5zpkQ-FxUI",
+            "dir": "/trends"
+        },
+        {
+            "id": 1,
+            "title": "Barrancas del Cobre",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo ducimus totam corporis.",
+            "urlVideo": "https://www.youtube.com/embed/L_GBrxICTe4",
+            "dir": "/trends"
+        },
+        {
+            "id": 2,
+            "title": "Asi Viaja Aleks Syntek",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo ducimus totam corporis.",
+            "urlVideo": "https://www.youtube.com/embed/r1_UKN1WtSw",
+            "dir": "/trends"
+        },
+        {
+            "id": 3,
+            "title": "TRIVIAJERO MEXICO - ABRIL",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo ducimus totam corporis.",
+            "urlVideo": "https://www.youtube.com/embed/JYRVuHXLhuY",
+            "dir": "/trends"
+        },
+        {
+            "id": 4,
+            "title": "Conociendo México - El Ambar",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo ducimus totam corporis.",
+            "urlVideo": "https://www.youtube.com/embed/HCljfO9zg2g",
+            "dir": "/trends"
+        }
+    ]
+}

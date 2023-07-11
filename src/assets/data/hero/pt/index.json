@@ -1,0 +1,49 @@
+{
+    "carousel": [
+        {
+            "url": "nuevosnombramientos.webp",
+            "id": "Nayarit",
+            "content": {
+                "title": "Nayarit Fascinante:",
+                "subtitle": "Descubra a joia do Pacífico Mexicano."
+            },
+            "actions": {
+                "button": {
+                    "text" : "Vamos até lá!",
+                    "dir": "/pueblos"
+                }
+            }
+        },
+        {
+            "url": "mexicoatraves.webp",
+            "id": "San Luis Potosí",
+            "content": {
+                "title": "Descubra San Luis Potosí:",
+                "subtitle": "Seus tesouros naturais e culturais no coração do México."
+            },
+            "actions": {
+                "button": {
+                    "text" : "Vamos até lá!",
+                    "dir": "/videos"
+                }
+            }
+        }, 
+        {
+            "url": "NuevoLeon_Portada.webp",
+            "id": "Nuevo León",
+            "content": {
+                "title": "Nuevo León:",
+                "subtitle": "Explore a Essência do Norte do México."
+            },
+            "actions": {
+                "button": {
+                    "text" : "Vamos até lá!",
+                    "dir": "/estado/NuevoLeon"
+                }
+            }
+        }
+    ],
+    "brand": {
+        "text": "México no ranking mundial dos 10 países mais visitados. "
+    }
+}

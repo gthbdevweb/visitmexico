@@ -1,0 +1,64 @@
+{
+    "header": {
+        "title": "Welches Mexiko willst du besuchen?",
+        "description": ""
+    },
+    "menu": [
+        {
+            "name": "Der Maya-Zug",
+            "dir": "/trenmaya",
+            "urlImg": "trenMaya.webp",
+            "description": "Der Maya-Zug",
+            "hover": "Auf geht's zum Maya-Zug!"
+        },
+        {
+            "name": "Bundesstaaten",
+            "dir": "/estados",
+            "urlImg": "MOR-Tepoztlan-ExConventoNatividad-PuebloMagico-GerardoJuarez-4858_2-_1__11zon.webp",
+            "description": "Bundesstaaten",
+            "hover": "Auf geht's in die Bundesstaaten!"
+        },
+        {
+            "name": "Magische Stätte",
+            "dir": "/pueblos",
+            "urlImg": "Pueblos-magicos.webp",
+            "description": "Magische Stätte",
+            "hover": "Auf geht's in die Magische Stätten!"
+        },
+        {
+            "name": "Internationale Veranstaltungen",
+            "dir": "/eventos",
+            "urlImg": "f1evento.webp",
+            "description": "Internationale Veranstaltungen",
+            "hover": "Auf geht's zu den internationalen Veranstaltungen!"
+        },
+        {
+            "name": "Geübtheit",
+            "dir": "/experiencias",
+            "urlImg": "Qroo_cancun_playa108.webp",
+            "description": "Geübtheit",
+            "hover": "¡Vamos a Experiencias!"
+        },
+        {
+            "name": "Kalender",
+            "dir": "/calendario",
+            "urlImg": "blog.webp",
+            "description": "Kalender",
+            "hover": "Auf geht's zum Kalender!"
+        },
+        {
+            "name": "Blog",
+            "dir": "/blog",
+            "urlImg": "MOR_xochicalco_t_156-_1__11zon.webp",
+            "description": "Blog",
+            "hover": "Auf geht's zum Blog!"
+        },
+        {
+            "name": "Videos",
+            "dir": "/videos",
+            "urlImg": "videos.webp",
+            "description": "Videos",
+            "hover": "Auf geht's zum Videos!"
+        }
+    ]
+}
