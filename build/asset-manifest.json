@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.51771ec9.css",
-    "main.js": "/static/js/main.a4dc7ad7.js",
+    "main.js": "/static/js/main.c2652c09.js",
     "static/js/787.8f5b6e93.chunk.js": "/static/js/787.8f5b6e93.chunk.js",
     "static/media/Travel-Guide-Riviera-Maya.pdf": "/static/media/Travel-Guide-Riviera-Maya.d93db2fe171f4437cb76.pdf",
     "static/media/Reisefuhrer-Riviera-Maya.pdf": "/static/media/Reisefuhrer-Riviera-Maya.0df2f777481a4d03ed67.pdf",
@@ -141,6 +141,7 @@
     "static/media/Yucatan_Foto_13.webp": "/static/media/Yucatan_Foto_13.4330661b810c7c6ee283.webp",
     "static/media/esferas2.webp": "/static/media/esferas2.b900c4382a617bd4c325.webp",
     "static/media/f1evento.webp": "/static/media/f1evento.118f3490112eaf790ddd.webp",
+    "static/media/mexicois.webp": "/static/media/mexicois.1654129d0e722523ad17.webp",
     "static/media/blog.webp": "/static/media/blog.bbcd838f443103179710.webp",
     "static/media/TMPS_tampico_2_131_11zon.webp": "/static/media/TMPS_tampico_2_131_11zon.fe485b7f9c62dee3aadb.webp",
     "static/media/mexicoatraves.webp": "/static/media/mexicoatraves.e5c43f3f8631ca41141b.webp",
@@ -182,6 +183,8 @@
     "static/media/GRO_acapulco_1317_11zon.webp": "/static/media/GRO_acapulco_1317_11zon.2d2145b5301ca11cb6ab.webp",
     "static/media/TMPS_miramar_2_236_11zon.webp": "/static/media/TMPS_miramar_2_236_11zon.8c358789ae2c92b61c90.webp",
     "static/media/slide1.webp": "/static/media/slide1.3868426f781add5e3f8a.webp",
+    "static/media/Mingles.webp": "/static/media/Mingles.03220bd060203cebf625.webp",
+    "static/media/Mfrances.webp": "/static/media/Mfrances.27ec5ad0a57123292764.webp",
     "static/media/dia-de-muertos.webp": "/static/media/dia-de-muertos.468e44fcf0d98d75e020.webp",
     "static/media/SIN_las_glorias_25_11zon.webp": "/static/media/SIN_las_glorias_25_11zon.a3a7996288b4de3d7f3d.webp",
     "static/media/RIVIERA-MAYA-8.png": "/static/media/RIVIERA-MAYA-8.b03388c6fffdb6b7c4fa.png",
@@ -215,11 +218,11 @@
     "static/media/OAX_costa_25_11zon.webp": "/static/media/OAX_costa_25_11zon.9b7f7971111af89e5ed7.webp",
     "index.html": "/index.html",
     "main.51771ec9.css.map": "/static/css/main.51771ec9.css.map",
-    "main.a4dc7ad7.js.map": "/static/js/main.a4dc7ad7.js.map",
+    "main.c2652c09.js.map": "/static/js/main.c2652c09.js.map",
     "787.8f5b6e93.chunk.js.map": "/static/js/787.8f5b6e93.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.51771ec9.css",
-    "static/js/main.a4dc7ad7.js"
+    "static/js/main.c2652c09.js"
   ]
 }

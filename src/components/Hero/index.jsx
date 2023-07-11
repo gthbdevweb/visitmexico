@@ -4,6 +4,7 @@ import { Link } from 'react-router-dom';
 import { LazyLoadImage } from 'react-lazy-load-image-component';
 import dataEs from '../../assets/data/hero/es/index.json';
 import dataEn from '../../assets/data/hero/en/index.json';
+import dataFr from '../../assets/data/hero/fr/index.json';
 import './style.css';
 
 
@@ -14,6 +15,7 @@ const Hero = () => {
   useEffect(() => (
     isLanguage === 'MX' ? setLanguage(dataEs)
     : isLanguage === 'USA' ? setLanguage(dataEn)
+    : isLanguage === 'FR' ? setLanguage(dataFr)
     : setLanguage(dataEs)
   ), [isLanguage]);
 
