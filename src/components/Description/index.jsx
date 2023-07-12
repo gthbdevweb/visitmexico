@@ -1,4 +1,5 @@
 import React, { useEffect, useState, useContext } from 'react';
+import { Link } from 'react-router-dom';
 import { LazyLoadImage } from 'react-lazy-load-image-component';
 import { Context } from '../../Context';
 import dataEs from '../../assets/data/description/es/index.json';
@@ -63,11 +64,13 @@ const Description = () => {
         </div>*/}
       </div>
       <div className="description-ctn-img">
-        <LazyLoadImage
-          className="description-img"
-          src={require(`../../assets/img/solYPlaya/Qroo_cancun_playa108.webp`)} 
-          alt={language?.title}
-        />
+        <Link to='/sol-y-playa'>
+          <LazyLoadImage
+            className="description-img"
+            src={require(`../../assets/img/solYPlaya/Qroo_cancun_playa108.webp`)} 
+            alt={language?.title}
+          />
+        </Link>
       </div>
       <Share 
         urlFaceboock = "https://visitmexico.com/"

@@ -66,18 +66,6 @@ const RomanceGallery = () => {
       <div className="romance-gallery-content-ctn-text">
         <h1 className="romance-gallery-content-text-title">{language?.title}</h1>
       </div>
-      <Share 
-        urlFaceboock = "https://visitmexico.com/rutas-gastronomicas/"
-        urlPinterest = "https://visitmexico.com/rutas-gastronomicas/"
-        urlTwitter = "https://visitmexico.com/rutas-gastronomicas/"
-        urlWhatsapp = "https://visitmexico.com/rutas-gastronomicas/"
-      />
-      <div className="romance-gallery-content-text-ctn">
-        {languageText?.description?.map((info, index) => <p className="romance-gallery-content-text-desc" key={index}>{info?.text}</p>)}
-      </div>
-      <div className="romance-gallery-content-ctn-img">
-        {getImages()}
-      </div>
       <iframe
         className='romance-gallery-video'
         src="https://www.youtube.com/embed/zXbpLh_guyY"
@@ -86,6 +74,18 @@ const RomanceGallery = () => {
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
         allowFullScreen
       />
+      <Share 
+        urlFaceboock = "https://visitmexico.com/rutas-gastronomicas/"
+        urlPinterest = "https://visitmexico.com/rutas-gastronomicas/"
+        urlTwitter = "https://visitmexico.com/rutas-gastronomicas/"
+        urlWhatsapp = "https://visitmexico.com/rutas-gastronomicas/"
+      />
+      <div className="romance-gallery-content-ctn-img">
+        {getImages()}
+      </div>
+      <div className="romance-gallery-content-text-ctn">
+        {languageText?.description?.map((info, index) => <p className="romance-gallery-content-text-desc" key={index}>{info?.text}</p>)}
+      </div>
     </section>
   )
 };

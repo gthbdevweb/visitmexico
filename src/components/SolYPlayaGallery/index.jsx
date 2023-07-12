@@ -66,18 +66,6 @@ const SolYPlayaGallery = () => {
       <div className="sol-y-playa-gallery-content-ctn-text">
         <h1 className="sol-y-playa-gallery-content-text-title">{language?.title}</h1>
       </div>
-      <Share 
-        urlFaceboock = "https://visitmexico.com/sol-y-playa/"
-        urlPinterest = "https://visitmexico.com/sol-y-playa/"
-        urlTwitter = "https://visitmexico.com/sol-y-playa/"
-        urlWhatsapp = "https://visitmexico.com/sol-y-playa/"
-      />
-      <div className="sol-y-playa-gallery-content-text-ctn">
-        {languageText?.description?.map((info, index) => <p className="sol-y-playa-gallery-content-text-desc" key={index}>{info?.text}</p>)}
-      </div>
-      <div className="sol-y-playa-gallery-content-ctn-img">
-        {getImages()}
-      </div>
       <iframe
         className='sol-y-playa-gallery-video'
         src="https://www.youtube.com/embed/VSoy_DHqr8s"
@@ -86,6 +74,19 @@ const SolYPlayaGallery = () => {
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
         allowFullScreen
       />
+      <Share 
+        urlFaceboock = "https://visitmexico.com/sol-y-playa/"
+        urlPinterest = "https://visitmexico.com/sol-y-playa/"
+        urlTwitter = "https://visitmexico.com/sol-y-playa/"
+        urlWhatsapp = "https://visitmexico.com/sol-y-playa/"
+      />
+      <div className="sol-y-playa-gallery-content-ctn-img">
+        {getImages()}
+      </div>
+      <div className="sol-y-playa-gallery-content-text-ctn">
+        {languageText?.description?.map((info, index) => <p className="sol-y-playa-gallery-content-text-desc" key={index}>{info?.text}</p>)}
+      </div>
+      
     </section>
   )
 };

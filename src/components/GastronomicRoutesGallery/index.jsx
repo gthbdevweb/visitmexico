@@ -81,11 +81,11 @@ const GastronomicRoutesGallery = () => {
         urlTwitter = "https://visitmexico.com/rutas-gastronomicas/"
         urlWhatsapp = "https://visitmexico.com/rutas-gastronomicas/"
       />
-      <div className="gastronomic-routes-gallery-content-text-ctn">
-        {languageText?.description?.map((info, index) => <p className="gastronomic-routes-gallery-content-text-desc" key={index}>{info?.text}</p>)}
-      </div>
       <div className="gastronomic-routes-gallery-content-ctn-img">
         {getImages()}
+      </div>
+      <div className="gastronomic-routes-gallery-content-text-ctn">
+        {languageText?.description?.map((info, index) => <p className="gastronomic-routes-gallery-content-text-desc" key={index}>{info?.text}</p>)}
       </div>
     </section>
   )
