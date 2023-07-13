@@ -76,7 +76,7 @@
 
 @media (min-width: 744px) {
   .tren-maya-content-ctn {
-    padding: 156px 0;
+    padding: 30px 0 156px 0;
   }
   .tren-maya-content-description-ctn {
     display: grid;
@@ -104,7 +104,7 @@
 
 @media (min-width: 992px) {
   .tren-maya-content-ctn {
-    padding: 172px 0;
+    padding: 20px 0 172px 0;
   }
   .tren-maya-content-description-ctn {  
     display: grid;

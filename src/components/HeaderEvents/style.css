@@ -31,6 +31,9 @@
 }
 
 @media (min-width: 744px)  {
+  .eventos-header-ctn {
+    padding-top: 30px;
+  }
   .eventos-header-text-desc {
     font-size: var(--txt-p-md);
   }

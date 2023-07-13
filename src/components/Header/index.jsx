@@ -10,7 +10,7 @@ import './style.css';
 const Header = () => {
   const { isLanguage, selectedLanguage } = useContext(Context);
   const [language, setLanguage] = useState({});
-
+  const [isMobile, setIsMobile] = useState(window.innerWidth);
   const [isChecked, setIscheked] = useState(false);
   const [changeUrl, setChangeUrl] = useState(false);
   const classNavWraper = isChecked ? "nav-wrapper nav-show" : "nav-wrapper";
@@ -20,13 +20,17 @@ const Header = () => {
   };
 
   const changeState = () => {
-    setChangeUrl(!changeUrl);
-    document.getElementById('nav-active').checked = false;
+    if (isMobile < 744) {
+      setChangeUrl(!changeUrl);
+      document.getElementById('nav-active').checked = false;
+    }
   };
 
   const changeStateHome = () => {
-    setChangeUrl(false);
-    document.getElementById('nav-active').checked = false;
+    if (isMobile < 744) {
+      setChangeUrl(false);
+      document.getElementById('nav-active').checked = false;
+    }
   };
 
   const changeLanguage = (e) => {
@@ -43,6 +47,15 @@ const Header = () => {
     changeUrl && changeChecked();
     changeUrl && setChangeUrl(!changeUrl);
   }, [changeUrl]);
+
+  useEffect(() => {
+    const reportWindowSize = () => {
+      setIsMobile(window.innerWidth);
+    }
+    window.onresize = reportWindowSize;
+  }, []);
+
+  console.log('isMobile: ', isMobile);
 
   const menuOptions = () => (
     language?.menu?.map((item, index) => (

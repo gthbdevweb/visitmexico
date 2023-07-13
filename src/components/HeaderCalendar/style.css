@@ -105,6 +105,9 @@
   padding-right: 25px;
 }
 @media (min-width: 744px) {
+  .calendar-header-ctn {
+    padding: 5px 0 30px 0;
+  }
   .calendar-select-description {
     font-size: var(--txt-p-md);
   }
@@ -121,7 +124,7 @@
 
 @media (min-width: 992px) {
   .calendar-header-ctn {
-    padding: 80px 0;
+    padding: 1px 0 80px 0;
   }
   .calendar-header-text-title {
     font-size: var(--txt-h1-xl);

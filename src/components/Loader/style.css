@@ -1,10 +1,11 @@
 .loader-ctn {
     height: 100vh;
-    width: 100vw;
+    width: 100%;
     background: var(--white);
     display: flex;
     justify-content: center;
     align-items: center;
+    overflow: hidden;
 }
 
 .loader-img {
@@ -15,6 +16,12 @@
     animation-fill-mode: both;
     -webkit-animation-name: flash;
     animation-name: flash;
+}
+
+@media (min-width: 744px) {
+    .loader-img {
+        margin-top: -250px;
+    }
 }
 
 @-webkit-keyframes flash {

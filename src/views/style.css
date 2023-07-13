@@ -8,3 +8,9 @@
 .nav-show + .main-content {
   display: none;
 }
+
+@media (min-width: 744px) { 
+  .main-content {
+    margin-top: 100px;
+  }
+}

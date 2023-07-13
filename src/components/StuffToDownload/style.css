@@ -62,7 +62,7 @@
 
 @media (min-width: 744px) {
   .stuff-to-download-gallery-content-ctn {
-    padding: 120px 0 0 0;
+    padding: 30px 0 0 0;
   }
   .stuff-to-download-gallery-content-text-title {
     font-size: var(--txt-h1-md);
@@ -78,7 +78,7 @@
 
 @media (min-width: 992px) {
   .stuff-to-download-gallery-content-ctn {
-    padding: 120px 0 0 0;
+    padding: 40px 0 0 0;
   }
   .stuff-to-download-gallery-content-ctn-text {
     display: block;

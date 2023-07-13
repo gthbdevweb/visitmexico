@@ -185,6 +185,10 @@
   .btn-list-turistic-guides-close {
     font-size: var(--txt-btn-md);
   }
+
+  .list-turistic-guides-list-ctn {
+    padding-top: 10px;
+  }
 }
 
 @media (min-width: 992px) {

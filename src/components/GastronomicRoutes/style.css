@@ -81,7 +81,7 @@
 
 @media (min-width: 744px) {
   .gastronomic-routes-content-ctn {
-    padding: 120px 0 0 0;
+    padding: 40px 0 0 0;
     display: grid;
     grid-template-columns: 1fr 1fr;
   }
@@ -107,7 +107,7 @@
 
 @media (min-width: 992px) {
   .gastronomic-routes-content-ctn {
-    padding: 120px 0 0 0;
+    padding: 50px 0 0 0;
     display: grid;
     grid-template-columns: 1fr 1fr;
   }
