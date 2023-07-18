@@ -1,9 +1,143 @@
 {
     "title": "Material para Descargar",
+    "subtitle": "Disfruta los mejores destinos turísticos",
+    "description": "Nuestro banco de imágenes tiene más de mil imágenes para nuestra comunidad",
+    "imgUrl": "CiudaddeMexico_Portada.webp",
     "gallery": [
         {
-            "imageUrl": "material-descarga.png",
-            "title": "material"
+            "value": "Gastronomia-CochinitaPibil-HaciendaOchil150.webp",
+            "name": "Cochinita",
+            "category": "rutas-gastronomicas"
+        },
+        {
+            "value": "Gastronomia-Vaporcitos-HaciendaOchil51.webp",
+            "name": "Vaporcitos",
+            "category": "rutas-gastronomicas"
+        },
+        {
+            "value": "HGO_acatlan_4_11zon.webp",
+            "name": "Acatlan",
+            "category": "rutas-gastronomicas"
+        },
+        {
+            "value": "HGO_t2_actopan_356-_1__11zon.webp",
+            "name": "Actopan",
+            "category": "rutas-gastronomicas"
+        },
+        {
+            "value": "MEX_avandaro_t__147_11zon.webp",
+            "name": "Avandaro",
+            "category": "rutas-gastronomicas"
+        },
+        {
+            "value": "Papadzules5_11zon.webp",
+            "name": "Papadzule",
+            "category": "rutas-gastronomicas"
+        },
+        {
+            "value": "Papadzules_11zon.webp",
+            "name": "Papadzule",
+            "category": "rutas-gastronomicas"
+        },
+        {
+            "value": "PUE-Puebla-Gastronomia-JoyasColoniales-FabianGarcilita-BC3_3712_11zon.webp",
+            "name": "Puebla",
+            "category": "rutas-gastronomicas"
+        },
+        {
+            "value": "Qroo_Lorenzillos_girls63-2_11zon.webp",
+            "name": "Lorenzillos",
+            "category": "rutas-gastronomicas"
+        },
+        {
+            "value": "TMPS_tampico_2_131_11zon.webp",
+            "name": "Tampico",
+            "category": "rutas-gastronomicas"
+        },
+        {
+            "value": "Yucatan_Foto_13.webp",
+            "name": "Yucatan",
+            "category": "rutas-gastronomicas"
+        },
+        {
+            "value": "BCN_ensenada_7_11zon.webp",
+            "name": "Ensenada",
+            "category": "sol-y-playa"
+        },
+        {
+            "value": "BCS_cabo_pulmo_26_11zon.webp",
+            "name": "Cabo Pulmo",
+            "category": "sol-y-playa"
+        },
+        {
+            "value": "GRO_acapulco_1317_11zon.webp",
+            "name": "Acapulco",
+            "category": "sol-y-playa"
+        },
+        {
+            "value": "JAL_careyes_11_11zon.webp",
+            "name": "Careyes",
+            "category": "sol-y-playa"
+        },
+        {
+            "value": "OAX_costa_25_11zon.webp",
+            "name": "Oaxaca",
+            "category": "sol-y-playa"
+        },
+        {
+            "value": "Qroo_Hotel_catalonia63_2_11zon.webp",
+            "name": "Catalonia",
+            "category": "sol-y-playa"
+        },
+        {
+            "value": "SIN_las_glorias_25_11zon.webp",
+            "name": "Las glorias",
+            "category": "sol-y-playa"
+        },
+        {
+            "value": "SON_SanCarlos_Mirador-138_11zon.webp",
+            "name": "San Carlos",
+            "category": "sol-y-playa"
+        },
+        {
+            "value": "TMPS_miramar_2_236_11zon.webp",
+            "name": "Miramar",
+            "category": "sol-y-playa"
+        },
+        {
+            "value": "VER_catemaco104_11zon.webp",
+            "name": "Catemaco",
+            "category": "sol-y-playa"
+        },
+        {
+            "value": "Boda-tradicional-Olmeca-Veracruz.webp",
+            "name": "Olmeca",
+            "category": "bodas"
+        },
+        {
+            "value": "Ceremonia-Wixarika-Nayarit.webp",
+            "name": "Wixarika Nayarit",
+            "category": "bodas"
+        },
+        {
+            "value": "Ceremonia-Wixarika-Zacatecas.webp",
+            "name": "Wixarika Zacatecas",
+            "category": "bodas"
+        },
+        {
+            "value": "La-novia-de-Puebla.webp",
+            "name": "Puebla",
+            "category": "bodas"
+        },
+        {
+            "value": "Novios-Queretaro-4.webp",
+            "name": "Queretaro",
+            "category": "bodas"
+        },
+        {
+            "value": "Pareja-Queretaro-3.webp",
+            "name": "Queretaro",
+            "category": "bodas"
         }
     ]
 }

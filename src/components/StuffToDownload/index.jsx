@@ -1,5 +1,7 @@
 import React, { useEffect, useState, useContext } from 'react';
-import { LazyLoadImage } from 'react-lazy-load-image-component';
+import { LazyLoadImage, LazyLoadComponent } from 'react-lazy-load-image-component';
+import SelectSearch from 'react-select-search';
+import 'react-select-search/style.css'
 import { Context } from '../../Context';
 // import { Link } from 'react-router-dom';
 import dataEs from '../../assets/data/stuffToDownload/es/index.json';
@@ -15,6 +17,8 @@ import './style.css';
 const StuffToDownload = () => {
   const { isLanguage } = useContext(Context);
   const [language, setLanguage] = useState({});
+  const [galleryList, setGalleryList] = useState([]);
+  const [category, setCategory] = useState();
 
   useEffect(() => (
     isLanguage === 'MX' ? setLanguage(dataEs)
@@ -27,16 +31,62 @@ const StuffToDownload = () => {
     : setLanguage(dataEs)
   ), [isLanguage]);
 
+  function downloadFile(url) {
+    const nameImg = url;
+    fetch(require(`../../assets/img/material/${url}`), { method: 'get', mode: 'no-cors', referrerPolicy: 'no-referrer' })
+      .then(res => res.blob())
+      .then(res => {
+        const aElement = document.createElement('a');
+        aElement.setAttribute('download', nameImg);
+        const href = URL.createObjectURL(res);
+        aElement.href = href;
+        aElement.setAttribute('target', '_blank');
+        aElement.click();
+        URL.revokeObjectURL(href);
+      });
+  };
+
   const getImages = () => (
-    language?.gallery?.map((image, index) => (
-      <LazyLoadImage
-        key={index}
-        className="stuff-to-download-gallery-content-img"
-        src={require(`../../assets/img/material/${image.imageUrl}`)} 
-        alt={image?.title}
-      />
+    galleryList?.map((image, index) => (
+      <div className="stuff-to-download-gallery-content-img-ctn">
+        <LazyLoadImage
+          key={index}
+          className="stuff-to-download-gallery-content-img"
+          src={require(`../../assets/img/material/${image?.value}`)} 
+          alt={image?.name}
+        />
+        <p className="stuff-to-download-gallery-content-img-p">{image?.name}</p>
+        <button 
+          className="stuff-to-download-gallery-btn"
+          onClick={() => downloadFile(image?.value)}
+        >
+          Descargar
+        </button>
+      </div>
     ))
   );
+
+  const options = [
+    {name: 'Rutas Gastronómicas', value: 'rutas-gastronomicas'},
+    {name: 'Sol y Playa', value: 'sol-y-playa'},
+    {name: 'Bodas', value: 'bodas'},
+  ];
+
+  const handleSearch = (data) => {
+    console.log('data: ', data);
+    setCategory(data);
+  };
+
+  useEffect(() => {
+    const getListCategories = language?.gallery?.map((item) => item.category === category ? item : null);
+    const getFilterCategories = getListCategories?.filter(item => item !== null);
+    console.log('getListCategories: ', getFilterCategories);
+    setGalleryList(getFilterCategories);
+  }, [category]);
+
+  useEffect(() => {
+    setGalleryList(language?.gallery)
+  }, [language?.gallery]);
 
   return (
     <section className="stuff-to-download-gallery-content-ctn">
@@ -49,8 +99,27 @@ const StuffToDownload = () => {
         urlTwitter = "https://visitmexico.com/materia-para-descargar/"
         urlWhatsapp = "https://visitmexico.com/materia-para-descargar/"
       />
+      <div className="stuff-to-download-gallery-search-ctn">
+        
+        <div className="stuff-to-download-gallery-search-text">
+          <h2 className="stuff-to-download-gallery-search-h2">{language?.subtitle}</h2>
+          <p className="stuff-to-download-gallery-search-p">{language?.description}</p>
+        </div>
+        <div className="stuff-to-download-gallery-search-input">
+          <SelectSearch 
+            search={true}
+            options={options}
+            value=""
+            name="search"
+            placeholder="🔎 Buscar"
+            onChange={handleSearch}
+          />
+        </div>
+      </div>
       <div className="stuff-to-download-gallery-content-ctn-img">
-        {getImages()}
+        <LazyLoadComponent>
+          {getImages()}
+        </LazyLoadComponent>
       </div>
     </section>
   )
